@@ -14,6 +14,10 @@ This repository stores CMS-ready articles from PDF issues published by The Berea
 
 Treat that statement as the project eligibility rule, not as a claim that the material is public domain. Preserve all credits and provenance. Apply the article-level exclusion gate below before transcribing or exporting anything.
 
+Exact source-text fidelity is a non-negotiable condition of that authorization. The project owner states that changing authorized article text would violate the copyright/reuse terms. Treat any textual alteration as a rights failure and a publication blocker, not as an editorial-quality issue. Every source word and every meaningful character—including spelling, capitalization, punctuation, quotations, scripture references, and apparent errors—must remain exactly as printed. Only the technical HTML representation and the explicitly permitted nonsemantic print-layout handling below may differ, and neither may change the article's wording or meaning.
+
+The supplied issues are publicly distributed magazines, and invoking this workflow with a PDF is explicit authorization to publish every eligible article and its associated images to this public repository. Do not ask for a second privacy, sensitivity, or publication confirmation because the source includes identifiable people, children, family photographs, health information, testimonies, locations, or comparable material already printed in the public issue. Subject matter is not a rights restriction. The only rights-based reason to exclude content is an actual article-specific notice that says or implies separate permission is required for reuse, as defined below.
+
 Use publication, publisher, issue, title, and byline names exactly as printed in the source. Do not silently normalize a source name if it differs from earlier issues or repository wording.
 
 ## Expected outcome
@@ -29,6 +33,8 @@ For each supplied issue, complete all of the following:
 7. Validate text, formatting, metadata, files, links, and exclusions.
 8. Create a branch from the latest default branch, commit the finished work, push it, and open a draft pull request.
 9. Report exactly what was included, skipped, verified, and left uncertain.
+
+The short invocation authorizes this complete delivery sequence. Work continuously through inspection, extraction, verification, commit, push, and a verified draft pull-request link. Do not pause for samples, plan approval, intermediate confirmations, a second publication authorization, or permission to perform the normal branch and draft-PR operations. Give concise progress updates while continuing work; do not turn a nonblocking update into a question. Exhaust safe available methods before reporting a genuine blocker, and never stop merely because a preferred local tool, credential path, or command-line client is unavailable.
 
 ## AI-first method; no automatic converter
 
@@ -93,6 +99,8 @@ Skip the entire article if any wording anywhere in it says or implies that separ
 
 This is an automatic whole-article exclusion. It also applies when the restrictive notice appears to concern an image within the article: do not export part of an article while leaving a rights-dependent asset behind. When uncertain whether wording requires separate permission, exclude the article and record the uncertainty rather than guessing that it is eligible.
 
+Do not infer a restriction from an article's topic, the identity or age of a person shown or named, medical or family information, a creator credit, or the fact that the repository is public. If the article contains no actual article-specific permission wording, it passes this rights gate under the project owner's authorization.
+
 An ordinary creator, photographer, stock source, or repository credit does not by itself trigger exclusion. Preserve it in image metadata. Do not invent or infer a licence from a credit such as “Wiki Commons” or “Adobe Stock.”
 
 For an excluded article:
@@ -110,7 +118,9 @@ Do not confuse a general magazine policy or masthead copyright notice with an ar
 
 ## Exact transcription rules
 
-Preserve the published article text exactly. Do not paraphrase, summarize, translate, modernize, fact-check, sanitize, improve, or silently correct it.
+Preserve the published article text exactly. This is an absolute copyright condition. Do not paraphrase, summarize, translate, modernize, fact-check, sanitize, improve, abridge, expand, or silently correct it. Never substitute a preferred spelling, punctuation mark, quotation style, scripture wording, name, date, or grammatical construction for what is printed.
+
+If an HTML transcription differs textually from the source PDF, correct the transcription to match the PDF before publication. If exact wording or a meaningful character cannot be verified, do not publish that article as complete and do not guess. No review, automation, style convention, or readability concern may override this rule.
 
 Preserve:
 
@@ -132,6 +142,8 @@ Normalize only nonsemantic print-layout artifacts:
 - remove running headers, footers, page numbers, crop marks, and unrelated magazine furniture;
 - remove a discretionary line-end hyphen when visual context confirms that the printed word is a single unhyphenated word; and
 - retain intentional compound-word hyphens and every meaningful punctuation mark.
+
+These layout normalizations are permitted only because they represent the same underlying article text in linear semantic HTML. They must never be used to change, omit, add, reorder, or correct source wording. When uncertain whether a mark or line break is meaningful text or merely layout, preserve it and resolve the uncertainty against the rendered page before publication.
 
 Do not duplicate a decorative pull quote when the same words already appear in the article body. Preserve it only when it contains unique substantive text, and record the decision in verification metadata when useful.
 
@@ -319,6 +331,7 @@ Complete every applicable check before committing:
 3. Recheck every article through its final line for reuse restrictions.
 4. Confirm that skipped articles have no UUID, HTML, or exported images and occur only in the minimal audit list.
 5. Visually compare every included article's text with the PDF page by page.
+   Treat any changed, added, omitted, reordered, or silently corrected source text as a blocking copyright failure. Publication may proceed only after the HTML is corrected to match the PDF exactly.
 6. Visually compare meaningful formatting, paragraph order, headings, captions, poetry/lyrics lines, notes, and emphasis.
 7. Parse `index.json` successfully.
 8. Validate every UUID and confirm global uniqueness.
@@ -347,6 +360,8 @@ An extraction request that invokes this file authorizes the normal repository de
 6. Run the verification gate on the exact committed tree.
 7. Push the branch and open a draft pull request into the default branch.
 8. Do not push directly to the default branch, reuse a deleted merged branch, create an empty pull request, or include unrelated changes.
+
+Use the authenticated delivery mechanism that is actually available. If ordinary `git push` or the GitHub CLI lacks credentials but the linked GitHub app/connector has repository write access, immediately use that linked service to create the exact blobs/tree/commit, update the extraction branch, and open the draft pull request. Do not ask the user to install a client, repeat authorization, provide credentials, or manually push when an already-authorized repository connection can complete the work. Confirm the remote branch contains the intended committed tree and verify the draft pull request exists before reporting completion.
 
 The pull-request description must state:
 
