@@ -1,0 +1,742 @@
+{
+  "format_version": "1.0",
+  "collection": {
+    "name": "Berean Voice article archive",
+    "content_root": "src",
+    "image_root": "src/images",
+    "public_image_root": "/images",
+    "index_is_source_of_truth": true
+  },
+  "issues": [
+    {
+      "id": "heartbeat-remnant-2024-winter",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Winter 2024",
+        "year": 2024,
+        "season": "Winter",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Winter-2024-Remnant_web_250324_133620.pdf",
+        "sha256": "7ba3c81d1f1e4ebf464cbef0cace5865e76cbc0221e228e105063baf5ab42c06",
+        "pdf_page_count": 19,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": "042fce50-3724-4100-b397-093c6d081e89",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Edward Martin",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Revival",
+            "slug": "revival"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/042fce50-3724-4100-b397-093c6d081e89.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/042fce50-3724-4100-b397-093c6d081e89-1.jpg",
+          "public_path": "/images/042fce50-3724-4100-b397-093c6d081e89-1.jpg",
+          "source_page": 3,
+          "role": "illustration",
+          "alt": "Gutenberg Bible on display at the U.S. Library of Congress",
+          "caption": "Gutenberg Bible on display at the U.S. Library of Congress.",
+          "credit": "Wiki Commons",
+          "rights_note": "The issue credits Wiki Commons on page 3; confirm any source-specific attribution or license requirements before production publication."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "58963510-f56e-43e0-88dd-0eb9941ddea9",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 2,
+      "title": "A Glorious Church",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nShelbyville, Indiana",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Shelbyville, Indiana"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/58963510-f56e-43e0-88dd-0eb9941ddea9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/58963510-f56e-43e0-88dd-0eb9941ddea9-1.jpg",
+          "public_path": "/images/58963510-f56e-43e0-88dd-0eb9941ddea9-1.jpg",
+          "source_page": 4,
+          "role": "lead illustration",
+          "alt": "A three-panel collage of a wooden church door, a church in snow, and snow-covered evergreen branches",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 4; rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "publication_note": "The editor states that this article was first printed in 2019 and reprinted by request."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "8f996405-d870-4074-947b-35190faad643",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 3,
+      "title": "City of God",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "— Samuel Johnson (1822-1882)",
+        "authors": [
+          {
+            "name": "Samuel Johnson",
+            "location": null,
+            "birth_year": 1822,
+            "death_year": 1882
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": []
+      },
+      "html": {
+        "repository_path": "src/8f996405-d870-4074-947b-35190faad643.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8f996405-d870-4074-947b-35190faad643-1.jpg",
+          "public_path": "/images/8f996405-d870-4074-947b-35190faad643-1.jpg",
+          "source_page": 7,
+          "role": "poem background",
+          "alt": "A snowy path beside bare winter trees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 7; rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_transform": "Horizontally flipped to match the published placement."
+      }
+    },
+    {
+      "id": "b5ea052a-167f-45c4-bf40-cd463c4546b6",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 4,
+      "title": "It Was Winter",
+      "subtitle": null,
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, Wisconsin",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, Wisconsin"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b5ea052a-167f-45c4-bf40-cd463c4546b6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b5ea052a-167f-45c4-bf40-cd463c4546b6-1.jpg",
+          "public_path": "/images/b5ea052a-167f-45c4-bf40-cd463c4546b6-1.jpg",
+          "source_page": 8,
+          "role": "lead image",
+          "alt": "Snow-covered evergreen trees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 8; rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "f31b1f66-9cee-419c-b2b0-87d9b9b2e3a9",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 5,
+      "title": "Winter Song",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "— Samuel Longfellow",
+        "authors": [
+          {
+            "name": "Samuel Longfellow",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": []
+      },
+      "html": {
+        "repository_path": "src/f31b1f66-9cee-419c-b2b0-87d9b9b2e3a9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f31b1f66-9cee-419c-b2b0-87d9b9b2e3a9-1.jpg",
+          "public_path": "/images/f31b1f66-9cee-419c-b2b0-87d9b9b2e3a9-1.jpg",
+          "source_page": 11,
+          "role": "poem background",
+          "alt": "A lone bare tree in a snowy field",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 11; rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "21180900-6bdd-4c06-a4ed-fd0f6b8a3571",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 6,
+      "title": "A Chronicle Like to Ours",
+      "subtitle": null,
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "Joshua Yoder\nDundee, Ohio",
+        "authors": [
+          {
+            "name": "Joshua Yoder",
+            "location": "Dundee, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 13
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/21180900-6bdd-4c06-a4ed-fd0f6b8a3571.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/21180900-6bdd-4c06-a4ed-fd0f6b8a3571-1.jpg",
+          "public_path": "/images/21180900-6bdd-4c06-a4ed-fd0f6b8a3571-1.jpg",
+          "source_page": 13,
+          "role": "historical illustration",
+          "alt": "A historical photograph of windmills, people, and livestock",
+          "caption": null,
+          "credit": "Wiki Commons",
+          "rights_note": "The issue credits Wiki Commons on page 13; confirm any source-specific attribution or license requirements before production publication."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "a42c5719-aea1-47ed-abad-ed0cd2571382",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 7,
+      "title": "The Mint Man",
+      "subtitle": "A Story About Gratitude",
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Elizabeth Rust\nRome, Pennsylvania",
+        "authors": [
+          {
+            "name": "Elizabeth Rust",
+            "location": "Rome, Pennsylvania"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a42c5719-aea1-47ed-abad-ed0cd2571382.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a42c5719-aea1-47ed-abad-ed0cd2571382-1.jpg",
+          "public_path": "/images/a42c5719-aea1-47ed-abad-ed0cd2571382-1.jpg",
+          "source_page": 15,
+          "role": "story illustration",
+          "alt": "A glass jar spilling wrapped mints beside a potted plant",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 15; rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_transform": "Horizontally flipped to match the published placement."
+      }
+    },
+    {
+      "id": "5a87c21f-cce9-4033-8a43-5458311bc7f0",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 9,
+      "title": "A Christ-Centered Courtship Series",
+      "subtitle": "The Preparation Sleep",
+      "section": "INSPIRATIONS FOR YOUTH",
+      "series": {
+        "name": "A Christ-Centered Courtship Series",
+        "part": 4,
+        "total_parts": 5
+      },
+      "byline": {
+        "raw": "Paul Hershberger\nMillersburg, Ohio",
+        "authors": [
+          {
+            "name": "Paul Hershberger",
+            "location": "Millersburg, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 24
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/5a87c21f-cce9-4033-8a43-5458311bc7f0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/5a87c21f-cce9-4033-8a43-5458311bc7f0-1.jpg",
+          "public_path": "/images/5a87c21f-cce9-4033-8a43-5458311bc7f0-1.jpg",
+          "source_page": 23,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 23; rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/5a87c21f-cce9-4033-8a43-5458311bc7f0-2.jpg",
+          "public_path": "/images/5a87c21f-cce9-4033-8a43-5458311bc7f0-2.jpg",
+          "source_page": 24,
+          "role": "decorative collage",
+          "alt": "A three-panel collage of winter trees and a snowy rural scene",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 24; rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "editorial_note": "The printed introduction states that the sermons were transcribed and abridged for reading clarity."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "fbb7faf4-04de-4858-b608-09cb6aedaacf",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 10,
+      "title": "The Googlification of Medicine",
+      "subtitle": null,
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "By Vincent “John” Waldron, MD\nGladys, Virginia",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron, MD",
+            "location": "Gladys, Virginia"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 29
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": []
+      },
+      "topics": [
+        "Medicine",
+        "Health",
+        "Discernment"
+      ],
+      "html": {
+        "repository_path": "src/fbb7faf4-04de-4858-b608-09cb6aedaacf.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-1.jpg",
+          "public_path": "/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-1.jpg",
+          "source_page": 26,
+          "role": "illustration",
+          "alt": "A stack of old Bibles and books",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 26; rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-2.jpg",
+          "public_path": "/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-2.jpg",
+          "source_page": 27,
+          "role": "medical illustration",
+          "alt": "A gloved hand holding blood sample tubes",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is stated for this image on printed page 27; rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-3.jpg",
+          "public_path": "/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-3.jpg",
+          "source_page": 28,
+          "role": "wide medical illustration",
+          "alt": "A wide collage showing healthcare professionals and a pharmacy",
+          "caption": null,
+          "credit": null,
+          "credit_candidates": [
+            "Photography By Laurel",
+            "Adobe Stock"
+          ],
+          "rights_note": "The issue credits both Photography By Laurel and Adobe Stock on page 28 without identifying which credit belongs to this asset; confirm the applicable credit before production publication."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_transform": "The second image was horizontally flipped to match the published placement."
+      }
+    },
+    {
+      "id": "b37f8111-4563-4b5b-ab9f-1f87bcd2b46a",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 11,
+      "title": "Joy in the Crevices",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Sheryl Zeiset\nTanzania, East Africa",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Tanzania, East Africa"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 32
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b37f8111-4563-4b5b-ab9f-1f87bcd2b46a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b37f8111-4563-4b5b-ab9f-1f87bcd2b46a-1.jpg",
+          "public_path": "/images/b37f8111-4563-4b5b-ab9f-1f87bcd2b46a-1.jpg",
+          "source_page": 31,
+          "role": "thematic illustration",
+          "alt": "Winter greenery and a pinecone arranged by a window",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The issue credits Belle Vie Images on page 32, while the visual asset appears on the facing printed page 31; preserve this provenance and confirm the page-credit association before production publication."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "publication_note": "Reprinted by request; first printed in The Heartbeat of the Remnant, Autumn 2019; previously printed in Earthen Vessels."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "deabdd90-c842-4ed6-ad15-c2fa9870b099",
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 12,
+      "title": "Crown Him with Many Crowns",
+      "subtitle": null,
+      "section": "HYMN HISTORY",
+      "byline": {
+        "raw": "Joel A. Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A. Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Hymn history",
+        "Music"
+      ],
+      "html": {
+        "repository_path": "src/deabdd90-c842-4ed6-ad15-c2fa9870b099.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/deabdd90-c842-4ed6-ad15-c2fa9870b099-1.png",
+          "public_path": "/images/deabdd90-c842-4ed6-ad15-c2fa9870b099-1.png",
+          "source_page": 35,
+          "role": "sheet music",
+          "alt": "Sheet music for Crown Him with Many Crowns",
+          "caption": null,
+          "credit": "Adobe Stock (page background); music notation as printed in the issue",
+          "rights_note": "The issue credits Adobe Stock on page 35. The sheet music is rendered from the complete printed page because the notation is vector and music-font content rather than an embedded image. Confirm all applicable image and music-source rights before production publication."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "sheet_music_render_dpi": 300
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "issue_id": "heartbeat-remnant-2024-winter",
+      "sequence": 8,
+      "title": "Timothy: A Valued Helper",
+      "byline": "By Harold S. Martin",
+      "source_pages": {
+        "start": 16,
+        "end": 19
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "Please do not reprint without permission of Bible Helps (see end of article)"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    }
+  ]
+}
