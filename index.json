@@ -30,6 +30,29 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2023-winter",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Winter 2023",
+        "year": 2023,
+        "season": "Winter",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Winter-2023-Remnant_for-web(2).pdf",
+        "sha256": "16a8ac3d7bf3eac040c928a2de1483a61aa383b874618a23171e922f80897c3d",
+        "pdf_page_count": 19,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -717,6 +740,763 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
         "sheet_music_render_dpi": 300
+      }
+    },
+    {
+      "id": "c22883c1-1d69-4c5e-aa81-d4015bf4e473",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Edward Martin",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c22883c1-1d69-4c5e-aa81-d4015bf4e473.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c22883c1-1d69-4c5e-aa81-d4015bf4e473-1.jpg",
+          "public_path": "/images/c22883c1-1d69-4c5e-aa81-d4015bf4e473-1.jpg",
+          "source_page": 3,
+          "role": "editorial background photograph",
+          "alt": "A misty evergreen forest in a mountainous landscape",
+          "caption": null,
+          "credit": "Misty Photography",
+          "rights_note": "The masthead credits Misty Photography on page 3; no separate license is stated. Rely on the publisher permission reported by the project owner and preserve the credit before production publication. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "a1334217-82ac-49ef-8293-563122652b89",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 2,
+      "title": "A Quiet and Peaceable Life?",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "by Barry Grant\nHicksville, Ohio",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Hicksville, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 5
+      },
+      "categories": {
+        "primary": {
+          "name": "Missions",
+          "slug": "missions"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a1334217-82ac-49ef-8293-563122652b89.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a1334217-82ac-49ef-8293-563122652b89-1.jpg",
+          "public_path": "/images/a1334217-82ac-49ef-8293-563122652b89-1.jpg",
+          "source_page": 4,
+          "role": "lead photograph",
+          "alt": "An aerial view of a town beneath an orange sunset",
+          "caption": null,
+          "credit": "Jonathan Martin",
+          "rights_note": "The masthead credits Jonathan Martin on page 4; no separate license is stated. Rely on the publisher permission reported by the project owner and preserve the credit before production publication. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "8072bb08-e7aa-4602-a3c6-f82161b740ae",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 3,
+      "title": "When God Says No",
+      "subtitle": null,
+      "section": "BIBLE DOCTRINES",
+      "byline": {
+        "raw": "by Robert Burkholder\nNew Bloomfield, PA",
+        "authors": [
+          {
+            "name": "Robert Burkholder",
+            "location": "New Bloomfield, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/8072bb08-e7aa-4602-a3c6-f82161b740ae.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8072bb08-e7aa-4602-a3c6-f82161b740ae-1.jpg",
+          "public_path": "/images/8072bb08-e7aa-4602-a3c6-f82161b740ae-1.jpg",
+          "source_page": 7,
+          "role": "thematic photograph",
+          "alt": "An old house and bare trees in a snowy field",
+          "caption": null,
+          "credit": "Misty Photography",
+          "rights_note": "The photograph is visibly placed on printed page 7, while the masthead credits Misty Photography for page 6 and does not list page 7. The article context strongly suggests this credit association, but it should be confirmed before production publication. No separate license is stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "a5c73ca1-d6f7-4c61-a33d-cbf8de22b7f3",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 4,
+      "title": "THE BICYCLE RACE",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "by David S. Leid\nBig Prairie, Ohio",
+        "authors": [
+          {
+            "name": "David S. Leid",
+            "location": "Big Prairie, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a5c73ca1-d6f7-4c61-a33d-cbf8de22b7f3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a5c73ca1-d6f7-4c61-a33d-cbf8de22b7f3-1.jpg",
+          "public_path": "/images/a5c73ca1-d6f7-4c61-a33d-cbf8de22b7f3-1.jpg",
+          "source_page": 9,
+          "role": "story illustration",
+          "alt": "Two boys racing bicycles downhill while a small dog runs into the road",
+          "caption": "\"PRIDE GOETH BEFORE\nDESTRUCTION, AND AN\nHAUGHTY SPIRIT BEFORE\nA FALL\"\n-PROVERBS 16:18",
+          "credit": "Lydia Bauman",
+          "rights_note": "The masthead credits Lydia Bauman for artwork on page 9; no separate license is stated. Rely on the publisher permission reported by the project owner and preserve the credit before production publication. The embedded illustration was copied byte-for-byte without transformation; the unique printed verse overlay is preserved as exact semantic figcaption text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "ee9ff8a9-5b59-4b3e-9585-ab891c945bb5",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 5,
+      "title": "The Pathway of Life",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—Emma Kuepfer Holdeman",
+        "authors": [
+          {
+            "name": "Emma Kuepfer Holdeman",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": []
+      },
+      "html": {
+        "repository_path": "src/ee9ff8a9-5b59-4b3e-9585-ab891c945bb5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ee9ff8a9-5b59-4b3e-9585-ab891c945bb5-1.jpg",
+          "public_path": "/images/ee9ff8a9-5b59-4b3e-9585-ab891c945bb5-1.jpg",
+          "source_page": 10,
+          "role": "poem background photograph",
+          "alt": "A snow-covered road winding through an evergreen forest",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The masthead credits Brimming Focus Photography on page 10; no separate license is stated. Rely on the publisher permission reported by the project owner and preserve the credit before production publication. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "20914547-a133-4159-bd5b-dff81f36453b",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 6,
+      "title": "Pathway to a Fulfilled Heart",
+      "subtitle": "for the Unmarried",
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "by Matt Miller\nSugarcreek, Ohio",
+        "authors": [
+          {
+            "name": "Matt Miller",
+            "location": "Sugarcreek, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 14
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/20914547-a133-4159-bd5b-dff81f36453b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/20914547-a133-4159-bd5b-dff81f36453b-1.jpg",
+          "public_path": "/images/20914547-a133-4159-bd5b-dff81f36453b-1.jpg",
+          "source_page": 13,
+          "role": "thematic photograph",
+          "alt": "A woman in a red dress walking away along a snowy wooded path",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The masthead credits Brimming Focus Photography on page 13; no separate license is stated. Rely on the publisher permission reported by the project owner and preserve the credit before production publication. The coherent main embedded crop was copied byte-for-byte without transformation; a separate narrow repeated decorative crop of the same photograph was not exported."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/20914547-a133-4159-bd5b-dff81f36453b-2.jpg",
+          "public_path": "/images/20914547-a133-4159-bd5b-dff81f36453b-2.jpg",
+          "source_page": 14,
+          "role": "thematic photograph",
+          "alt": "A tree with snow-covered reddish-brown leaves",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The masthead credits Brimming Focus Photography on page 14; no separate license is stated. Rely on the publisher permission reported by the project owner and preserve the credit before production publication. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "48db8b57-eca2-4d35-a48f-13c21d68bab0",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 7,
+      "title": "Nothing Shall Offend Them",
+      "subtitle": null,
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, Wisconsin",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, Wisconsin"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 18
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Offense",
+        "Humility",
+        "Christian Conduct"
+      ],
+      "html": {
+        "repository_path": "src/48db8b57-eca2-4d35-a48f-13c21d68bab0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/48db8b57-eca2-4d35-a48f-13c21d68bab0-1.jpg",
+          "public_path": "/images/48db8b57-eca2-4d35-a48f-13c21d68bab0-1.jpg",
+          "source_page": 16,
+          "role": "full-page illustration",
+          "alt": "A wooden gate in a stone archway beside a wooden railing",
+          "caption": null,
+          "credit": "Misty Photography",
+          "rights_note": "The issue credits Misty Photography on printed page 16; this is an ordinary photography credit, no separate licence is stated, and no article-specific permission notice was detected."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "d0395fde-712d-488d-a161-c26c87ed128b",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 8,
+      "title": "Burnout",
+      "subtitle": null,
+      "section": "A WORD FROM A DOCTOR",
+      "byline": {
+        "raw": "By Vincent “John” Waldron, MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron, MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 19,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": []
+      },
+      "topics": [
+        "Burnout",
+        "Rest",
+        "Health",
+        "Time Management"
+      ],
+      "html": {
+        "repository_path": "src/d0395fde-712d-488d-a161-c26c87ed128b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/d0395fde-712d-488d-a161-c26c87ed128b-1.jpg",
+          "public_path": "/images/d0395fde-712d-488d-a161-c26c87ed128b-1.jpg",
+          "source_page": 20,
+          "role": "illustration",
+          "alt": "An open Bible, a potted plant, and a cup of coffee on a dark table",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The issue credits Photography By Laurel on printed page 20; this is an ordinary photography credit, no separate licence is stated, and no article-specific permission notice was detected."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/d0395fde-712d-488d-a161-c26c87ed128b-2.jpg",
+          "public_path": "/images/d0395fde-712d-488d-a161-c26c87ed128b-2.jpg",
+          "source_page": 23,
+          "role": "full-page closing illustration",
+          "alt": "A hiker with a bright green backpack standing on a mountain summit above clouds",
+          "caption": null,
+          "credit": "Nathan Leinbach",
+          "rights_note": "The issue credits Nathan Leinbach on printed page 23; this is an ordinary photography credit, no separate licence is stated, and no article-specific permission notice was detected."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_transform": "The first image was rotated 90 degrees counterclockwise and re-encoded as a JPEG at quality 95 to match the published placement."
+      }
+    },
+    {
+      "id": "3c581136-51cf-47b2-a38b-3d1ee1d0b864",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 9,
+      "title": "Does God Answer Prayer?",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "by Nancy Martin\nLancaster, MO",
+        "authors": [
+          {
+            "name": "Nancy Martin",
+            "location": "Lancaster, MO"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/3c581136-51cf-47b2-a38b-3d1ee1d0b864.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/3c581136-51cf-47b2-a38b-3d1ee1d0b864-1.jpg",
+          "public_path": "/images/3c581136-51cf-47b2-a38b-3d1ee1d0b864-1.jpg",
+          "source_page": 24,
+          "role": "associated opener image",
+          "alt": "A sleeping newborn baby wearing a thin headband",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 24; no separate permission notice or license terms are stated for this image."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/3c581136-51cf-47b2-a38b-3d1ee1d0b864-2.jpg",
+          "public_path": "/images/3c581136-51cf-47b2-a38b-3d1ee1d0b864-2.jpg",
+          "source_page": 27,
+          "role": "concluding thematic image",
+          "alt": "A baby’s hand holding an adult finger",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 27; no separate permission notice or license terms are stated for this image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "21853000-58b7-413f-b119-c9b1a6012369",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 10,
+      "title": "God’s Faithfulness Manifest Even in the Curse",
+      "subtitle": null,
+      "section": "ATTRIBUTES OF GOD",
+      "byline": {
+        "raw": "by Rick Hess\nDornsife, PA",
+        "authors": [
+          {
+            "name": "Rick Hess",
+            "location": "Dornsife, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/21853000-58b7-413f-b119-c9b1a6012369.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/21853000-58b7-413f-b119-c9b1a6012369-1.jpg",
+          "public_path": "/images/21853000-58b7-413f-b119-c9b1a6012369-1.jpg",
+          "source_page": 29,
+          "role": "historical illustration",
+          "alt": "Ruins of Hiroshima after the atomic bombing",
+          "caption": "The destructiveness of man, through the atomic bomb in Hiroshima, Japan",
+          "credit": "Wiki Commons",
+          "rights_note": "The page-2 masthead credits Wiki Commons for printed page 29; confirm source-specific attribution or license requirements before production publication."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/21853000-58b7-413f-b119-c9b1a6012369-2.jpg",
+          "public_path": "/images/21853000-58b7-413f-b119-c9b1a6012369-2.jpg",
+          "source_page": 30,
+          "role": "botanical illustration",
+          "alt": "A pile of green artichokes",
+          "caption": "This is an artichoke plant, a member of the thistle family. Many people use this “thistle,” along with its cousin, the Cardoon, for food.",
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 30; no asset identifier or license terms are stated, so confirm source-specific requirements before production publication."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/21853000-58b7-413f-b119-c9b1a6012369-3.png",
+          "public_path": "/images/21853000-58b7-413f-b119-c9b1a6012369-3.png",
+          "source_page": 31,
+          "role": "concluding thematic image",
+          "alt": "A row of weathered gravestones",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 31; no separate permission notice or license terms are stated for this image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "97efa86c-46a8-499e-850a-d626dce2fd7c",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 11,
+      "title": "When All Thy Mercies, O My God",
+      "subtitle": null,
+      "section": "HYMN HISTORY",
+      "byline": {
+        "raw": "by Joel A Hostetler\nCoshocton, Ohio",
+        "authors": [
+          {
+            "name": "Joel A Hostetler",
+            "location": "Coshocton, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Hymn history",
+        "Music"
+      ],
+      "html": {
+        "repository_path": "src/97efa86c-46a8-499e-850a-d626dce2fd7c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/97efa86c-46a8-499e-850a-d626dce2fd7c-1.jpg",
+          "public_path": "/images/97efa86c-46a8-499e-850a-d626dce2fd7c-1.jpg",
+          "source_page": 32,
+          "role": "lead image",
+          "alt": "A misty evergreen forest reflected in a lake",
+          "caption": null,
+          "credit": "Misty Photography",
+          "rights_note": "The page-2 masthead credits Misty Photography for printed page 32; no separate permission notice or license terms are stated for this image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "d2d95264-7df9-4ca8-9a99-01a68204d73a",
+      "issue_id": "heartbeat-remnant-2023-winter",
+      "sequence": 12,
+      "title": "Saved by Hope",
+      "subtitle": null,
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "by Alvin Mast\nMillersburg, Ohio",
+        "authors": [
+          {
+            "name": "Alvin Mast",
+            "location": "Millersburg, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": []
+      },
+      "topics": [
+        "Hope",
+        "Salvation"
+      ],
+      "html": {
+        "repository_path": "src/d2d95264-7df9-4ca8-9a99-01a68204d73a.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
       }
     }
   ],
