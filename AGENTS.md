@@ -1,6 +1,6 @@
 # Berean Voice PDF ingestion instructions
 
-These instructions govern all PDF-to-archive work in this repository. They are intended to make each future extraction repeatable from a very short request.
+These instructions govern all PDF-to-archive work in this repository. This `AGENTS.md` file is the canonical reusable AI work prompt. It is intended to make each future extraction repeatable from a very short request.
 
 A sufficient future request is:
 
@@ -57,7 +57,8 @@ Before extracting a new issue:
 4. Start from the latest remote default branch and preserve all unrelated work.
 5. Compute the supplied PDF's SHA-256 hash and compare its filename, hash, issue data, article titles, and pages with existing index records.
 6. Do not duplicate content that is already present. If the PDF is a corrected copy of an indexed issue, preserve existing article UUIDs and update the matching records and files.
-7. If the intended result is already present byte-for-byte on the default branch, do not create a redundant branch, commit, or pull request. Report that it is already complete.
+7. If a matching extraction branch or open pull request already contains partial work for this PDF, inspect and safely resume that work instead of creating a competing branch. Preserve valid work, correct it where needed, and verify the complete result against these instructions.
+8. If the intended result is already present byte-for-byte on the default branch, do not create a redundant branch, commit, or pull request. Report that it is already complete.
 
 ## Define the issue inventory
 
@@ -134,7 +135,7 @@ Normalize only nonsemantic print-layout artifacts:
 
 Do not duplicate a decorative pull quote when the same words already appear in the article body. Preserve it only when it contains unique substantive text, and record the decision in verification metadata when useful.
 
-Resolve doubtful characters by returning to a high-resolution rendering and surrounding context. Do not invent unreadable text. If wording genuinely cannot be resolved, identify the exact printed page and passage, leave its verification state incomplete, and report the uncertainty.
+Resolve doubtful characters by returning to a high-resolution rendering and surrounding context. Do not invent unreadable text. If wording genuinely cannot be resolved, do not publish that article as a completed eligible article and do not insert placeholders or silent omissions. Identify the exact printed page and passage and ask the user for a clearer source or a confirmed reading. Other completed articles may be prepared locally, but do not publish a partial issue unless the user explicitly authorizes that partial delivery.
 
 ## Repository contract
 
@@ -198,7 +199,7 @@ Small descriptive classes such as `poem`, `lyrics`, `lead`, and `drop-cap` are a
 
 The article title, subtitle, section label, byline, issue date, and categories live in `index.json` and normally are not duplicated as a header above the HTML body. A heading, dedication, byline, or sign-off that genuinely occurs within the body remains where printed.
 
-Escape HTML syntax correctly. Do not add editorial explanations, generated citations, new links, advertising, style sheets, or text not present in the source. Alt text is accessibility metadata, not article text, and should be concise and factual.
+Escape HTML syntax correctly. Do not add editorial explanations, generated citations, new links, advertising, style sheets, or text not present in the source. AI may author concise factual alt text from what is visibly supported by an image when no printed alt text exists. This is accessibility metadata, not source transcription: do not present it as printed wording and do not invent unsupported details. Captions must remain exact transcriptions.
 
 ## Image handling
 
@@ -212,6 +213,7 @@ Export only images that genuinely belong to eligible articles. Associate an imag
 - When meaningful vector or font-based content such as sheet music cannot be recovered as a normal embedded image, render only the relevant published region at high resolution, normally 300 dpi or better, and record the render method and resolution.
 - Preserve a suitable original extension and avoid unnecessary conversion or recompression.
 - Open every final image and visually check corruption, truncation, orientation, crop, ownership, and correspondence with the PDF.
+- Insert every exported image into its owning article's HTML at the correct logical reading position.
 - Preserve captions exactly in `<figcaption>` and index metadata.
 - Write concise factual alt text; use an empty alt value for purely decorative images.
 - Never export images belonging to skipped articles.
@@ -236,7 +238,18 @@ Read and preserve the current schema and `format_version`. Append or update issu
 
 ### Issue metadata
 
-Create one issue record when the PDF is new. Record all information actually available:
+Create one issue record when the PDF is new. Derive its stable lowercase issue ID from the existing publication slug followed by the normalized date from most to least significant. Follow the established patterns:
+
+```text
+heartbeat-remnant-2024-winter
+heartbeat-remnant-2025-03
+heartbeat-remnant-2025-03-14
+heartbeat-remnant-2025-issue-2
+```
+
+Use the seasonal form when the source gives only a year and season, the numeric year/month or year/month/day form when those values are printed, and the issue-number form only when no usable date label exists. A corrected PDF of the same issue retains the same issue ID. If two genuinely distinct issues would collide, add the printed volume/issue discriminator rather than an arbitrary counter, and document the choice.
+
+Record all information actually available:
 
 - stable issue ID;
 - exact publication and publisher names;
@@ -259,6 +272,7 @@ Each eligible article record should retain all metadata actually present, follow
 - exact raw byline with printed line breaks represented faithfully;
 - structured author name, location, role, life dates, or other stated details;
 - printed `source_pages.start` and `source_pages.end`;
+- an ordered `source_pages.pages` array when continuations are nonconsecutive or interleaved, retaining start/end for compatibility;
 - primary and additional categories;
 - series/part information, topics, publication notes, and other genuine metadata when present;
 - HTML repository path;
@@ -285,6 +299,8 @@ For each exported image, record all available fields using the current schema:
 
 Do not claim a licence or permission that the PDF does not state. Record uncertainty plainly for later production review.
 
+Use the same ordered `source_pages.pages` addition in a skipped audit record when its restricted article continues across nonconsecutive pages.
+
 ## Categories
 
 Before categorizing new articles, inspect both:
@@ -310,10 +326,12 @@ Complete every applicable check before committing:
 10. Confirm every indexed HTML path exists, every HTML file is indexed exactly once, and no HTML file is orphaned.
 11. Parse every HTML fragment and confirm it has exactly one outer matching `<article>` element.
 12. Confirm every HTML `/images/...` URL maps to exactly one file under `src/images/` and appears in that article's ordered image metadata.
-13. Confirm every image file is indexed, belongs to exactly one eligible article, opens correctly, and visually matches the PDF.
-14. Check for missing, duplicated, and orphaned HTML/image files.
-15. Confirm no source PDF, page render, OCR dump, prompt copy, temporary file, or unrelated change is staged.
-16. Review the final diff and repository status.
+13. Confirm every indexed/exported image is referenced exactly once in its owning HTML at the correct logical position and that HTML image order matches index order.
+14. Confirm every image file is indexed, belongs to exactly one eligible article, opens correctly, and visually matches the PDF.
+15. Check for missing, duplicated, and orphaned HTML/image files.
+16. Confirm every nonconsecutive continuation has an ordered `source_pages.pages` array.
+17. Confirm no source PDF, page render, OCR dump, duplicate/transient prompt copy, temporary file, or unrelated change is staged. This canonical `AGENTS.md` is expected repository content and may be staged only when its workflow or the repository contract genuinely changes.
+18. Review the final diff and repository status.
 
 Do not set a verification value to `verified_by_ai` until that specific visual comparison has actually been completed. Keep incomplete or uncertain verification explicit and report it.
 
@@ -322,7 +340,7 @@ Do not set a verification value to `verified_by_ai` until that specific visual c
 An extraction request that invokes this file authorizes the normal repository delivery steps below unless the user explicitly asks for a read-only trial.
 
 1. Refresh the latest remote default branch and check whether the intended issue is already present.
-2. Create a new branch from that latest default branch using `agent/extract-<issue-date-or-name>`, unless the user explicitly identifies an existing branch or pull request to update.
+2. Resume an existing matching open extraction branch or pull request when one is found. Otherwise create a new branch from the latest default branch using `agent/extract-<issue-date-or-name>`, unless the user explicitly identifies a different existing branch or pull request to update.
 3. Stage only the finished HTML files, image files, `index.json`, and a repository-contract clarification genuinely needed in `README.md` or `AGENTS.md`.
 4. Do not edit `README.md` or this file merely to describe one newly ingested issue.
 5. Use a terse commit message describing the issue extraction.
