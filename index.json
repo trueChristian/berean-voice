@@ -53,6 +53,30 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2022-winter",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Winter 2022",
+        "year": 2022,
+        "season": "Winter",
+        "precision": "season"
+      },
+      "volume_number": 29,
+      "issue_number": 4,
+      "source": {
+        "filename": "Winter-2022-Remnant-web.pdf",
+        "sha256": "97f43cb9a16c3cae0f24c45225a1a910a72f46cce9da0039c2e75defff49fa30",
+        "pdf_page_count": 19,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -1498,6 +1522,604 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "fb65688b-5aaf-4194-a345-31f6f1355389",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Curvin L. Wenger",
+        "authors": [
+          {
+            "name": "Curvin L. Wenger"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/fb65688b-5aaf-4194-a345-31f6f1355389.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "b40d86c2-0814-40ea-a893-20dd7fcbdadb",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 2,
+      "title": "Heroes",
+      "subtitle": null,
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "by Joshua Yoder\nBig Prairie, OH",
+        "authors": [
+          {
+            "name": "Joshua Yoder",
+            "location": "Big Prairie, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Home histories",
+            "slug": "home-histories"
+          }
+        ]
+      },
+      "topics": [
+        "Conscientious objection",
+        "World War II"
+      ],
+      "html": {
+        "repository_path": "src/b40d86c2-0814-40ea-a893-20dd7fcbdadb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b40d86c2-0814-40ea-a893-20dd7fcbdadb-1.jpg",
+          "public_path": "/images/b40d86c2-0814-40ea-a893-20dd7fcbdadb-1.jpg",
+          "source_page": 7,
+          "role": "full-page closing illustration",
+          "alt": "Mountain silhouettes and birds at dusk beneath Ephesians 6:11-12",
+          "caption": "PUT ON THE WHOLE ARMOUR OF GOD, that ye may be able to\nstand against the wiles of the devil.\n\nFor we wrestle not against flesh and blood, but against principalities,\nagainst powers, against the rulers of the darkness of this world,\nAGAINST SPIRITUAL WICKEDNESS IN HIGH PLACES.\nEPHESIANS 6:11-12",
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 7; no separate permission notice or license terms are stated. The complete printed-page image region was rendered at 300 dpi to preserve the Ephesians 6:11-12 text overlay."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1caf6642-2283-4363-b3b6-33e40c39f945",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 4,
+      "title": "O Love That Wilt Not Let Me Go",
+      "subtitle": null,
+      "section": "A HYMN HISTORY",
+      "byline": {
+        "raw": "by Joel A Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 13
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Hymn history",
+        "Music"
+      ],
+      "html": {
+        "repository_path": "src/1caf6642-2283-4363-b3b6-33e40c39f945.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1caf6642-2283-4363-b3b6-33e40c39f945-1.png",
+          "public_path": "/images/1caf6642-2283-4363-b3b6-33e40c39f945-1.png",
+          "source_page": 13,
+          "role": "sheet music",
+          "alt": "Sheet music for O Love That Wilt Not Let Me Go",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or license is stated for the sheet music on printed page 13. The music region was rendered from the printed page at 300 dpi because its notation is vector and music-font content rather than a recoverable embedded image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "3dba2cb8-660e-4855-8e00-57bcc3bee74f",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 5,
+      "title": "The Foolishness of Preaching",
+      "subtitle": null,
+      "section": "ISSUES AFFECTING THE CHURCH",
+      "byline": {
+        "raw": "by Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 16
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Preaching",
+        "Altar calls"
+      ],
+      "html": {
+        "repository_path": "src/3dba2cb8-660e-4855-8e00-57bcc3bee74f.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "3f679973-e351-4fe3-8930-e08d9fba23a5",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 6,
+      "title": "God Would Not Let Me Go",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "by Sheldon Bower\nSugarcreek, OH",
+        "authors": [
+          {
+            "name": "Sheldon Bower",
+            "location": "Sugarcreek, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Revival",
+            "slug": "revival"
+          }
+        ]
+      },
+      "topics": [
+        "Testimony",
+        "Perseverance"
+      ],
+      "html": {
+        "repository_path": "src/3f679973-e351-4fe3-8930-e08d9fba23a5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/3f679973-e351-4fe3-8930-e08d9fba23a5-1.png",
+          "public_path": "/images/3f679973-e351-4fe3-8930-e08d9fba23a5-1.png",
+          "source_page": 19,
+          "role": "closing thematic photograph",
+          "alt": "One hiker helping another climb at sunset",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 19; no separate permission notice or license terms are stated. The embedded image and its PDF soft mask were combined without changing the published crop or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "4ab4f655-4a17-4f5c-9623-e9085bd401f9",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 7,
+      "title": "Mother Was Right",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "by Eileen Wenger\nDalton, OH",
+        "authors": [
+          {
+            "name": "Eileen Wenger",
+            "location": "Dalton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Obedience",
+        "Honesty"
+      ],
+      "html": {
+        "repository_path": "src/4ab4f655-4a17-4f5c-9623-e9085bd401f9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4ab4f655-4a17-4f5c-9623-e9085bd401f9-1.png",
+          "public_path": "/images/4ab4f655-4a17-4f5c-9623-e9085bd401f9-1.png",
+          "source_page": 20,
+          "role": "story opener illustration",
+          "alt": "A child whittling a stick with a small red-handled knife",
+          "caption": null,
+          "credit": "Pixabay.com",
+          "rights_note": "The page-2 masthead credits Pixabay.com for printed page 20; no separate license terms are stated. The embedded image and its PDF soft mask were combined without changing the published crop or orientation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/4ab4f655-4a17-4f5c-9623-e9085bd401f9-2.jpg",
+          "public_path": "/images/4ab4f655-4a17-4f5c-9623-e9085bd401f9-2.jpg",
+          "source_page": 21,
+          "role": "closing story illustration",
+          "alt": "A rope swing hanging from a large tree",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 21; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "e8bdb12c-2e8e-4f55-9052-07bec6e103a1",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 8,
+      "title": "Spiritual Gifts",
+      "subtitle": null,
+      "section": "THE NEW TESTAMENT CHURCH",
+      "byline": {
+        "raw": "by Leonard Martin\nBethel, PA",
+        "authors": [
+          {
+            "name": "Leonard Martin",
+            "location": "Bethel, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Spiritual gifts",
+        "Church unity"
+      ],
+      "html": {
+        "repository_path": "src/e8bdb12c-2e8e-4f55-9052-07bec6e103a1.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e8bdb12c-2e8e-4f55-9052-07bec6e103a1-1.png",
+          "public_path": "/images/e8bdb12c-2e8e-4f55-9052-07bec6e103a1-1.png",
+          "source_page": 25,
+          "role": "closing thematic photograph",
+          "alt": "A misty winter forest reflected in a lake",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 25; no separate permission notice or license terms are stated. The embedded image and its PDF soft mask were combined without changing the published crop or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "2e021f55-6588-4d9d-bd0a-068af80732ff",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 9,
+      "title": "Lessons From Second Chronicles Twenty",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "by Sheryl Zeiset\nLebanon, PA",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Lebanon, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Trust",
+        "Prayer"
+      ],
+      "html": {
+        "repository_path": "src/2e021f55-6588-4d9d-bd0a-068af80732ff.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/2e021f55-6588-4d9d-bd0a-068af80732ff-1.jpg",
+          "public_path": "/images/2e021f55-6588-4d9d-bd0a-068af80732ff-1.jpg",
+          "source_page": 27,
+          "role": "closing thematic photograph",
+          "alt": "A glowing lantern on a snowy path at night",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 27; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1bdf0b87-af5f-4c9b-99a2-004277f7718d",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 10,
+      "title": "The Christian’s View of Science",
+      "subtitle": null,
+      "section": "A WORD FROM A DOCTOR",
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": []
+      },
+      "topics": [
+        "Science",
+        "Medicine"
+      ],
+      "html": {
+        "repository_path": "src/1bdf0b87-af5f-4c9b-99a2-004277f7718d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1bdf0b87-af5f-4c9b-99a2-004277f7718d-1.jpg",
+          "public_path": "/images/1bdf0b87-af5f-4c9b-99a2-004277f7718d-1.jpg",
+          "source_page": 31,
+          "role": "science and medicine illustration",
+          "alt": "Laboratory glassware, green leaves, capsules, and a cream jar",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 31; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "269bd2b1-418e-4d93-bd15-e7937c1adb85",
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 11,
+      "title": "Discipleship—The Path of Healing",
+      "subtitle": "The Discipleship Series",
+      "section": "VICTORIOUS CHRISTIAN LIVING",
+      "byline": {
+        "raw": "by Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Healing",
+        "Discipleship"
+      ],
+      "html": {
+        "repository_path": "src/269bd2b1-418e-4d93-bd15-e7937c1adb85.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/269bd2b1-418e-4d93-bd15-e7937c1adb85-1.jpg",
+          "public_path": "/images/269bd2b1-418e-4d93-bd15-e7937c1adb85-1.jpg",
+          "source_page": 35,
+          "role": "full-page closing photograph",
+          "alt": "An old wooden door opening into bright light",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 35; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
     }
   ],
   "skipped": [
@@ -1514,6 +2136,23 @@
       "detected_notices": [
         "Used by permission of Bible Helps",
         "Please do not reprint without permission of Bible Helps (see end of article)"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-winter",
+      "sequence": 3,
+      "title": "Chosen By Grace and Called To Faith",
+      "byline": "by Paul Shirk",
+      "source_pages": {
+        "start": 8,
+        "end": 11
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps"
       ],
       "html_exported": false,
       "images_exported": false
