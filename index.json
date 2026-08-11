@@ -3702,7 +3702,7 @@
           "alt": "Sunrise over waves breaking along a rocky shore",
           "caption": null,
           "credit": "Andrew Schwartz",
-          "rights_note": "The page-2 masthead credits Andrew Schwartz for printed page 34. Embedded image fragments from printed pages 34-35 were reassembled at their PDF coordinates into one sRGB spread without changing their published content or orientation; the printed title raster is preserved in the image."
+          "rights_note": "The page-2 masthead credits Andrew Schwartz for printed page 34. Embedded image fragments from printed pages 34-35 were reassembled at their PDF coordinates into one sRGB spread without changing their published content or orientation. The top of the spread was cropped to exclude the separately overlaid poem-title raster; all remaining pixels come directly from the PDF."
         }
       ],
       "rights": {
