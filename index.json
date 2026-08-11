@@ -149,6 +149,32 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2018-winter",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "issue_date": {
+        "display": "Winter 2018",
+        "year": 2018,
+        "season": "Winter",
+        "precision": "season"
+      },
+      "volume": "22",
+      "issue_number": "4",
+      "source_pdf": {
+        "filename": "Winter-2018-Remnant.pdf",
+        "sha256": "d6dd177ee1efff650f57a9e9cca241b1a4455788839115ea8a3193d3516a5835",
+        "pdf_page_count": 36,
+        "printed_page_range": {
+          "start": 1,
+          "end": 36
+        }
+      },
+      "permission": {
+        "basis": "Publisher permission reported by the project owner.",
+        "article_exclusion_rule": "Exclude any article marked used by permission or otherwise requiring separate permission."
+      }
     }
   ],
   "articles": [
@@ -4414,6 +4440,611 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "7d685550-5127-40bb-a42a-10f3a3494cb5",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": "Curvin Wenger\nDalton, OH",
+        "authors": [
+          {
+            "name": "Curvin Wenger",
+            "location": "Dalton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": []
+      },
+      "html": {
+        "repository_path": "src/7d685550-5127-40bb-a42a-10f3a3494cb5.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "12d86a61-53ee-4013-90f1-0c5810c611ba",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 2,
+      "title": "Freemen in Bondage",
+      "subtitle": null,
+      "section": "ISSUES FACING THE CHURCH",
+      "byline": {
+        "raw": "Rick Hess",
+        "authors": [
+          {
+            "name": "Rick Hess",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/12d86a61-53ee-4013-90f1-0c5810c611ba.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/12d86a61-53ee-4013-90f1-0c5810c611ba-1.jpg",
+          "public_path": "/images/12d86a61-53ee-4013-90f1-0c5810c611ba-1.jpg",
+          "source_page": 4,
+          "role": "article image",
+          "alt": "Ruins on a rocky plateau at Masada",
+          "caption": "Masada—Herod's Palace",
+          "credit": null,
+          "rights_note": "No separate image credit or license is stated for this image on printed page 4; the original embedded asset was exported without changing its crop or orientation. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/12d86a61-53ee-4013-90f1-0c5810c611ba-2.jpg",
+          "public_path": "/images/12d86a61-53ee-4013-90f1-0c5810c611ba-2.jpg",
+          "source_page": 5,
+          "role": "article image",
+          "alt": "The rocky plateau and cliffs of Masada",
+          "caption": "Masada—Mtn. Island Fortress",
+          "credit": null,
+          "rights_note": "No separate image credit or license is stated for this image on printed page 5; the original embedded asset was exported without changing its crop or orientation. Rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "bf5fdc53-7b51-42f6-a7a7-a033b624a847",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 3,
+      "title": "A Brand New Year",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "—Susan M. Stalter",
+        "authors": [
+          {
+            "name": "Susan M. Stalter",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/bf5fdc53-7b51-42f6-a7a7-a033b624a847.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/bf5fdc53-7b51-42f6-a7a7-a033b624a847-1.jpg",
+          "public_path": "/images/bf5fdc53-7b51-42f6-a7a7-a033b624a847-1.jpg",
+          "source_page": 7,
+          "role": "article image",
+          "alt": "A snow-covered rural landscape",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or license is stated for this image on printed page 7; the original embedded asset was exported without changing its crop or orientation. Rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "35a1988b-c4df-4d68-9833-f7340f6604d2",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 4,
+      "title": "Priorities",
+      "subtitle": null,
+      "section": "THE MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nArcahaie, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Arcahaie, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Missions",
+          "slug": "missions"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/35a1988b-c4df-4d68-9833-f7340f6604d2.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "0bfa54b8-9d3c-458f-9e9d-3d37c9e85894",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 6,
+      "title": "Servanthood—God’s High Calling",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Josh Wamble\nAge: 20 years old\nLebanon, PA",
+        "authors": [
+          {
+            "name": "Josh Wamble",
+            "location": "Lebanon, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0bfa54b8-9d3c-458f-9e9d-3d37c9e85894.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "0d931d28-0d57-43c1-b492-26b79348713a",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 7,
+      "title": "Of Such is the Kingdom of God",
+      "subtitle": null,
+      "section": "CHILDREN’S CORNER",
+      "byline": {
+        "raw": "Annetta Martin — Age: 20 years — Glenmont, OH",
+        "authors": [
+          {
+            "name": "Annetta Martin",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0d931d28-0d57-43c1-b492-26b79348713a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/0d931d28-0d57-43c1-b492-26b79348713a-1.jpg",
+          "public_path": "/images/0d931d28-0d57-43c1-b492-26b79348713a-1.jpg",
+          "source_page": 18,
+          "role": "article image",
+          "alt": "Children gathered outdoors in Niger, Africa",
+          "caption": "Children in Niger, Africa",
+          "credit": null,
+          "rights_note": "No separate image credit or license is stated for this image on printed page 18; the original embedded asset was exported without changing its crop or orientation. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/0d931d28-0d57-43c1-b492-26b79348713a-2.jpg",
+          "public_path": "/images/0d931d28-0d57-43c1-b492-26b79348713a-2.jpg",
+          "source_page": 19,
+          "role": "article image",
+          "alt": "A shaded courtyard in Niger, Africa",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or license is stated for this image on printed page 19; the original embedded asset was exported without changing its crop or orientation. Rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "e4a449b3-06b6-4826-9f6f-013aa192a096",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 8,
+      "title": "Psalm 46: When Mothers Pray",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Anna L. Martin\nPerkins, OK",
+        "authors": [
+          {
+            "name": "Anna L. Martin",
+            "location": "Perkins, OK"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/e4a449b3-06b6-4826-9f6f-013aa192a096.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "f0c4a770-c263-4945-a638-bcf688841502",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 9,
+      "title": "Benefits of Churches Helping Their Own",
+      "subtitle": null,
+      "section": "GODLY DISCIPLESHIP",
+      "byline": {
+        "raw": "Curvin L. Wenger\nDalton, OH",
+        "authors": [
+          {
+            "name": "Curvin L. Wenger",
+            "location": "Dalton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 24
+      },
+      "categories": {
+        "primary": {
+          "name": "Church",
+          "slug": "church"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/f0c4a770-c263-4945-a638-bcf688841502.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "61f90e67-bf31-4cdf-852c-5168b3e34471",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 10,
+      "title": "Despise Not Prophesyings",
+      "subtitle": null,
+      "section": "THE NEW TESTAMENT CHURCH",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Church",
+          "slug": "church"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/61f90e67-bf31-4cdf-852c-5168b3e34471.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "4bc19d23-f52d-49ce-83ae-225a547dc0b5",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 11,
+      "title": "Vaccinations—Wrapping It Up",
+      "subtitle": "Part 5 of 5",
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Wolf Miggiani MD\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Wolf Miggiani MD",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 32
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4bc19d23-f52d-49ce-83ae-225a547dc0b5.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "48d7b751-1d6b-4711-ae34-bf48fb3f1fc6",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 12,
+      "title": "A Tame Wolf",
+      "subtitle": null,
+      "section": "VICTORIOUS CHRISTIAN LIVING",
+      "byline": {
+        "raw": "(Author unknown)",
+        "authors": [
+          {
+            "name": "(Author unknown)",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/48d7b751-1d6b-4711-ae34-bf48fb3f1fc6.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "cd529932-1151-4b6f-bbc1-c5412179e36e",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 13,
+      "title": "This Mind Which Was In Christ",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "By Rebecca Weber\nInspired by a message at Youth Bible School in 2016",
+        "authors": [
+          {
+            "name": "Rebecca Weber",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/cd529932-1151-4b6f-bbc1-c5412179e36e.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
     }
   ],
   "skipped": [
@@ -4529,6 +5160,22 @@
       },
       "reason": "Excluded at the project owner's request.",
       "detected_notices": [],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 5,
+      "title": "How to Have a Strong Family Unit",
+      "byline": "By Harold S. Martin",
+      "source_pages": {
+        "start": 11,
+        "end": 14
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission"
+      ],
       "html_exported": false,
       "images_exported": false
     }
