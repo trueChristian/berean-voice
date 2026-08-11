@@ -77,6 +77,30 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2021-winter",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Winter 2021",
+        "year": 2021,
+        "season": "Winter",
+        "precision": "season"
+      },
+      "volume_number": 25,
+      "issue_number": 4,
+      "source": {
+        "filename": "Winter-2021-Remnant(3).pdf",
+        "sha256": "742242adf69238a5457f4a6b8322c8caa2699ce5f234e21b91f06a874d48685a",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -2120,6 +2144,812 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "a666b8a8-f3c7-4478-b53d-bb0abe446f42",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 33,
+        "pages": [
+          3,
+          32,
+          33
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Discernment",
+        "Discipleship"
+      ],
+      "html": {
+        "repository_path": "src/a666b8a8-f3c7-4478-b53d-bb0abe446f42.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a666b8a8-f3c7-4478-b53d-bb0abe446f42-1.jpg",
+          "public_path": "/images/a666b8a8-f3c7-4478-b53d-bb0abe446f42-1.jpg",
+          "source_page": 32,
+          "role": "continuation-page thematic photograph",
+          "alt": "Two climbers helping each other up a steep ridge at dusk",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. Embedded fragments from printed pages 32-33 were stitched horizontally without changing their published crop or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "3b3b3e75-afd9-49a6-ac06-d99a29802261",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 2,
+      "title": "The Power of God",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "by Barry Grant\nTitanyen, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Titanyen, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "topics": [
+        "Church discipline",
+        "Holy Spirit"
+      ],
+      "html": {
+        "repository_path": "src/3b3b3e75-afd9-49a6-ac06-d99a29802261.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/3b3b3e75-afd9-49a6-ac06-d99a29802261-1.jpg",
+          "public_path": "/images/3b3b3e75-afd9-49a6-ac06-d99a29802261-1.jpg",
+          "source_page": 6,
+          "role": "mountain landscape photograph",
+          "alt": "Mountain ridges and a valley beneath a cloudy sky",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for the printed page; no separate permission notice or license terms are stated. The unobstructed photograph region was rendered from the printed page at 300 dpi and cropped to omit overlaid article text."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/3b3b3e75-afd9-49a6-ac06-d99a29802261-2.jpg",
+          "public_path": "/images/3b3b3e75-afd9-49a6-ac06-d99a29802261-2.jpg",
+          "source_page": 7,
+          "role": "cross and mountain photograph",
+          "alt": "A cross on a rocky mountain overlooking a valley",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for the printed page; no separate permission notice or license terms are stated. The unobstructed photograph region was rendered from the printed page at 300 dpi and cropped to omit overlaid article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "78e2618e-368f-42b8-af2b-79f85a36ef83",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 4,
+      "title": "Enjoying Life",
+      "subtitle": null,
+      "section": "ENCOURAGEMENT FOR YOUNGER SISTERS",
+      "byline": {
+        "raw": "by Irene Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Irene Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 13
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Joy",
+        "Contentment"
+      ],
+      "html": {
+        "repository_path": "src/78e2618e-368f-42b8-af2b-79f85a36ef83.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/78e2618e-368f-42b8-af2b-79f85a36ef83-1.jpg",
+          "public_path": "/images/78e2618e-368f-42b8-af2b-79f85a36ef83-1.jpg",
+          "source_page": 13,
+          "role": "full-spread thematic photograph",
+          "alt": "A young girl standing among red poppies in a sunny field",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. Embedded fragments from printed pages 12-13 were stitched horizontally without changing their published crop or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "f3dc712f-f89d-476b-9cc6-f94dc67a339d",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 5,
+      "title": "This Thing Called Love",
+      "subtitle": "The greatest thing in the world",
+      "section": "THE GODLY HOME",
+      "byline": {
+        "raw": "by Daryl Kropf\nWickenburg, AZ",
+        "authors": [
+          {
+            "name": "Daryl Kropf",
+            "location": "Wickenburg, AZ"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Marriage",
+        "Love"
+      ],
+      "html": {
+        "repository_path": "src/f3dc712f-f89d-476b-9cc6-f94dc67a339d.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "8f36dee3-685c-47b8-b1d4-9981806d4cd5",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 6,
+      "title": "Be Obedient",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "by Steven Lapp\nPine Grove, PA",
+        "authors": [
+          {
+            "name": "Steven Lapp",
+            "location": "Pine Grove, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Obedience",
+        "Confession"
+      ],
+      "html": {
+        "repository_path": "src/8f36dee3-685c-47b8-b1d4-9981806d4cd5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8f36dee3-685c-47b8-b1d4-9981806d4cd5-1.jpg",
+          "public_path": "/images/8f36dee3-685c-47b8-b1d4-9981806d4cd5-1.jpg",
+          "source_page": 18,
+          "role": "story illustration",
+          "alt": "A crate of peaches on weathered wood",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. Embedded fragments from printed pages 18-19 were stitched horizontally without changing their published crop or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "640035fc-d3c8-4bc6-ad2c-5cbcf19f2dc8",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 7,
+      "title": "Small Things",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "by Sheryl Zeiset\nLebanon, PA",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Lebanon, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Service",
+        "Faithfulness"
+      ],
+      "html": {
+        "repository_path": "src/640035fc-d3c8-4bc6-ad2c-5cbcf19f2dc8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/640035fc-d3c8-4bc6-ad2c-5cbcf19f2dc8-1.jpg",
+          "public_path": "/images/640035fc-d3c8-4bc6-ad2c-5cbcf19f2dc8-1.jpg",
+          "source_page": 21,
+          "role": "closing thematic photograph",
+          "alt": "A sliced loaf of bread on a wooden board",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "177fb1e6-bf90-48ef-ad9f-aa8508917fbd",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 8,
+      "title": "Things We Can’t Afford",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "-Author Unknown",
+        "authors": [
+          {
+            "name": "Author Unknown"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Wisdom",
+        "Temptation"
+      ],
+      "html": {
+        "repository_path": "src/177fb1e6-bf90-48ef-ad9f-aa8508917fbd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/177fb1e6-bf90-48ef-ad9f-aa8508917fbd-1.jpg",
+          "public_path": "/images/177fb1e6-bf90-48ef-ad9f-aa8508917fbd-1.jpg",
+          "source_page": 22,
+          "role": "full-page poem background",
+          "alt": "Sunlight streaming through a misty forest",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "15567d7e-1146-48d9-9b34-a0f770ca06fc",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 9,
+      "title": "The Dew of Youth",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "by Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 26
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Youth",
+        "Hope"
+      ],
+      "html": {
+        "repository_path": "src/15567d7e-1146-48d9-9b34-a0f770ca06fc.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/15567d7e-1146-48d9-9b34-a0f770ca06fc-1.jpg",
+          "public_path": "/images/15567d7e-1146-48d9-9b34-a0f770ca06fc-1.jpg",
+          "source_page": 24,
+          "role": "dew photograph",
+          "alt": "Dewdrops on green grass",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for the printed page; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/15567d7e-1146-48d9-9b34-a0f770ca06fc-2.jpg",
+          "public_path": "/images/15567d7e-1146-48d9-9b34-a0f770ca06fc-2.jpg",
+          "source_page": 25,
+          "role": "dew photograph",
+          "alt": "Dew-covered grass glowing in sunrise light",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for the printed page; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "54c17772-223b-4fc7-b2e6-0bda387f9b23",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 10,
+      "title": "Sometimes",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "~by Adrianna Fanton",
+        "authors": [
+          {
+            "name": "Adrianna Fanton"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Trust",
+        "Perseverance"
+      ],
+      "html": {
+        "repository_path": "src/54c17772-223b-4fc7-b2e6-0bda387f9b23.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/54c17772-223b-4fc7-b2e6-0bda387f9b23-1.jpg",
+          "public_path": "/images/54c17772-223b-4fc7-b2e6-0bda387f9b23-1.jpg",
+          "source_page": 27,
+          "role": "full-page poem background",
+          "alt": "Dark storm clouds over calm water",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "61996151-3b49-4498-9285-995520ca542d",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 11,
+      "title": "Rest",
+      "subtitle": null,
+      "section": "A WORD FROM A DOCTOR",
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Rest",
+        "Health"
+      ],
+      "html": {
+        "repository_path": "src/61996151-3b49-4498-9285-995520ca542d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/61996151-3b49-4498-9285-995520ca542d-1.jpg",
+          "public_path": "/images/61996151-3b49-4498-9285-995520ca542d-1.jpg",
+          "source_page": 30,
+          "role": "sunset seascape photograph",
+          "alt": "Sunset over calm water and a dark shoreline",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. The unobstructed photograph region was rendered from the printed page at 300 dpi and cropped to omit overlaid article text."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/61996151-3b49-4498-9285-995520ca542d-2.jpg",
+          "public_path": "/images/61996151-3b49-4498-9285-995520ca542d-2.jpg",
+          "source_page": 31,
+          "role": "sunset seascape photograph",
+          "alt": "A calm blue sea beneath a pink and orange sky",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. The unobstructed photograph region was rendered from the printed page at 300 dpi and cropped to omit overlaid article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "6233e058-cfbc-4a1f-8f3f-58e59a9e3c95",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 12,
+      "title": null,
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "-by Annie Johnson Flint",
+        "authors": [
+          {
+            "name": "Annie Johnson Flint"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Blessing corner",
+            "slug": "blessing-corner"
+          }
+        ]
+      },
+      "topics": [
+        "Promises",
+        "Endurance"
+      ],
+      "html": {
+        "repository_path": "src/6233e058-cfbc-4a1f-8f3f-58e59a9e3c95.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "ba4cef53-9a4b-4277-8afb-b53a7ab63735",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 13,
+      "title": "Today",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Today",
+        "Devotion"
+      ],
+      "html": {
+        "repository_path": "src/ba4cef53-9a4b-4277-8afb-b53a7ab63735.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ba4cef53-9a4b-4277-8afb-b53a7ab63735-1.jpg",
+          "public_path": "/images/ba4cef53-9a4b-4277-8afb-b53a7ab63735-1.jpg",
+          "source_page": 34,
+          "role": "full-page poem background",
+          "alt": "Golden sunlight over a dark grassy horizon",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "bf4da4e6-198a-4ae4-88b9-6ef7c0a1d760",
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 14,
+      "title": null,
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "by Marvin L. Fieldhouse",
+        "authors": [
+          {
+            "name": "Marvin L. Fieldhouse"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Judgment",
+            "slug": "judgment"
+          }
+        ]
+      },
+      "topics": [
+        "Mortality",
+        "Readiness"
+      ],
+      "html": {
+        "repository_path": "src/bf4da4e6-198a-4ae4-88b9-6ef7c0a1d760.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/bf4da4e6-198a-4ae4-88b9-6ef7c0a1d760-1.jpg",
+          "public_path": "/images/bf4da4e6-198a-4ae4-88b9-6ef7c0a1d760-1.jpg",
+          "source_page": 35,
+          "role": "full-page poem background",
+          "alt": "A person standing against a golden sky",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. The embedded asset was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
     }
   ],
   "skipped": [
@@ -2153,6 +2983,23 @@
       "detected_notices": [
         "Used by permission of Bible Helps",
         "No reprinting of this article is allowed without permission from Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2021-winter",
+      "sequence": 3,
+      "title": "Fear and Faith",
+      "byline": "by Adam Lehigh",
+      "source_pages": {
+        "start": 8,
+        "end": 11
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps (see end of article)"
       ],
       "html_exported": false,
       "images_exported": false
