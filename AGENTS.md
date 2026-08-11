@@ -229,6 +229,8 @@ Export only images that genuinely belong to eligible articles. Associate an imag
 - Every final JPEG must be encoded as RGB/sRGB, never CMYK. CMYK JPEGs extracted from PDFs can use inverted Adobe sample values and may appear as colour negatives in browsers or other consumers that ignore the PDF's decode semantics.
 - When an extracted JPEG is CMYK, compare it with the rendered source page before conversion, determine whether its samples require inversion, and convert it to a real sRGB JPEG. For the common inverted Adobe CMYK assets in these magazines, use the equivalent of `convert input.jpg -negate -colorspace sRGB output.jpg`; a plain `-colorspace sRGB` conversion is not sufficient for those files. Preserve the image's dimensions, crop, orientation, and useful quality.
 - Reopen every converted file, confirm that metadata reports RGB/sRGB rather than CMYK, and visually compare its colours with a reliable PDF page render. Record the CMYK-to-sRGB conversion (and sample inversion when applied) in the image verification or rights note.
+- Treat JPEG container integrity as separate from colour correctness. Re-encode a final JPEG as a standards-normalized baseline sRGB JPEG when it has a malformed or ambiguous container, zero JFIF density, truncated or concatenated streams, unexpected trailing data, or any strict-decoder or browser-rendering failure. Use a nonzero standard density, preserve the published pixel dimensions, crop, orientation, and visually useful quality, and do not add or materially retouch image content.
+- Fully decode every final JPEG through at least two independent decoders. A metadata-only inspection or a header-only check such as Pillow's `verify()` is insufficient because a truncated scan can pass those checks. Require a complete raster load with no premature-end, unsupported-marker, corrupt-stream, or trailing-data warnings.
 - Insert every exported image into its owning article's HTML at the correct logical reading position.
 - Preserve captions exactly in `<figcaption>` and index metadata.
 - Write concise factual alt text; use an empty alt value for purely decorative images.
@@ -344,7 +346,7 @@ Complete every applicable check before committing:
 11. Parse every HTML fragment and confirm it has exactly one outer matching `<article>` element.
 12. Confirm every HTML `/images/...` URL maps to exactly one file under `src/images/` and appears in that article's ordered image metadata.
 13. Confirm every indexed/exported image is referenced exactly once in its owning HTML at the correct logical position and that HTML image order matches index order.
-14. Confirm every image file is indexed, belongs to exactly one eligible article, opens correctly, and visually matches the PDF.
+14. Confirm every image file is indexed, belongs to exactly one eligible article, fully decodes through at least two independent decoders without warnings, opens correctly in a browser-compatible renderer, and visually matches the PDF.
 15. Check for missing, duplicated, and orphaned HTML/image files.
 16. Confirm every nonconsecutive continuation has an ordered `source_pages.pages` array.
 17. Confirm no source PDF, page render, OCR dump, duplicate/transient prompt copy, temporary file, or unrelated change is staged. This canonical `AGENTS.md` is expected repository content and may be staged only when its workflow or the repository contract genuinely changes.
@@ -366,6 +368,8 @@ An extraction request that invokes this file authorizes the normal repository de
 8. Do not push directly to the default branch, reuse a deleted merged branch, create an empty pull request, or include unrelated changes.
 
 Use the authenticated delivery mechanism that is actually available. If ordinary `git push` or the GitHub CLI lacks credentials but the linked GitHub app/connector has repository write access, immediately use that linked service to create the exact blobs/tree/commit, update the extraction branch, and open the draft pull request. Do not ask the user to install a client, repeat authorization, provide credentials, or manually push when an already-authorized repository connection can complete the work. Confirm the remote branch contains the intended committed tree and verify the draft pull request exists before reporting completion.
+
+Binary publication is not complete merely because an upload call or commit creation reports success. After every connector/API upload of an image, fetch the image blob back from the updated remote branch and compare its Git blob SHA, byte length, and complete decoded raster with the exact committed local file. Treat any mismatch, truncation, or decode warning as a publication blocker and replace the remote blob before reporting completion. When the available upload transport has a payload ceiling, use a visually faithful web-quality encoding that remains safely below that ceiling without changing dimensions, crop, orientation, or content; if that cannot be done, use another supported binary transport rather than risk a partial upload.
 
 The pull-request description must state:
 
