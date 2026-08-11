@@ -225,6 +225,10 @@ Export only images that genuinely belong to eligible articles. Associate an imag
 - When meaningful vector or font-based content such as sheet music cannot be recovered as a normal embedded image, render only the relevant published region at high resolution, normally 300 dpi or better, and record the render method and resolution.
 - Preserve a suitable original extension and avoid unnecessary conversion or recompression.
 - Open every final image and visually check corruption, truncation, orientation, crop, ownership, and correspondence with the PDF.
+- Treat web colour compatibility as a required part of that final check. Inspect the encoded colour space of every exported JPEG (for example with `identify` or an equivalent metadata tool); do not assume that a visually plausible desktop preview will match a browser.
+- Every final JPEG must be encoded as RGB/sRGB, never CMYK. CMYK JPEGs extracted from PDFs can use inverted Adobe sample values and may appear as colour negatives in browsers or other consumers that ignore the PDF's decode semantics.
+- When an extracted JPEG is CMYK, compare it with the rendered source page before conversion, determine whether its samples require inversion, and convert it to a real sRGB JPEG. For the common inverted Adobe CMYK assets in these magazines, use the equivalent of `convert input.jpg -negate -colorspace sRGB output.jpg`; a plain `-colorspace sRGB` conversion is not sufficient for those files. Preserve the image's dimensions, crop, orientation, and useful quality.
+- Reopen every converted file, confirm that metadata reports RGB/sRGB rather than CMYK, and visually compare its colours with a reliable PDF page render. Record the CMYK-to-sRGB conversion (and sample inversion when applied) in the image verification or rights note.
 - Insert every exported image into its owning article's HTML at the correct logical reading position.
 - Preserve captions exactly in `<figcaption>` and index metadata.
 - Write concise factual alt text; use an empty alt value for purely decorative images.
