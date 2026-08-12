@@ -9,6 +9,29 @@
   },
   "issues": [
     {
+      "id": "heartbeat-remnant-2024-summer",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Summer 2024",
+        "year": 2024,
+        "season": "Summer",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Summer-2024-Remnant_web.pdf",
+        "sha256": "172b6289de34be408f25b2e061e98cf1890ba5a7a0717e30f382042800636fa9",
+        "pdf_page_count": 19,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2024-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -200,6 +223,667 @@
     }
   ],
   "articles": [
+    {
+      "id": "52074824-2feb-4fe4-96d0-a08ec72c3565",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Edward Martin",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/52074824-2feb-4fe4-96d0-a08ec72c3565.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/52074824-2feb-4fe4-96d0-a08ec72c3565-1.jpg",
+          "public_path": "/images/52074824-2feb-4fe4-96d0-a08ec72c3565-1.jpg",
+          "source_page": 3,
+          "role": "closing illustration",
+          "alt": "Pink and white crown vetch flowers in a green meadow",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 3; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "db7b1129-282d-4f48-aefa-f839cb585426",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 2,
+      "title": "The Christian Humanist",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "By Barry Grant\nShelbyville, Indiana",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Shelbyville, Indiana"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/db7b1129-282d-4f48-aefa-f839cb585426.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/db7b1129-282d-4f48-aefa-f839cb585426-1.png",
+          "public_path": "/images/db7b1129-282d-4f48-aefa-f839cb585426-1.png",
+          "source_page": 4,
+          "role": "article illustration",
+          "alt": "A sequence of seedlings emerging from soil as a hand waters them",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed pages 4 and 5; no separate permission notice or license terms are stated. The embedded image and PDF soft mask were combined as one transparent sRGB PNG without changing the published orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1c75dce8-1781-427f-8099-01596d53c2a4",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 3,
+      "title": "ALL NATURE SINGS",
+      "subtitle": "and ‘round me rings the music of the spheres.",
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, Wisconsin",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, Wisconsin"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1c75dce8-1781-427f-8099-01596d53c2a4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1c75dce8-1781-427f-8099-01596d53c2a4-1.jpg",
+          "public_path": "/images/1c75dce8-1781-427f-8099-01596d53c2a4-1.jpg",
+          "source_page": 7,
+          "role": "lead illustration",
+          "alt": "A small brown bird standing in a green meadow",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 7; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/1c75dce8-1781-427f-8099-01596d53c2a4-2.jpg",
+          "public_path": "/images/1c75dce8-1781-427f-8099-01596d53c2a4-2.jpg",
+          "source_page": 9,
+          "role": "closing illustration",
+          "alt": "A blue-and-white bird perched on a cut branch against a green background",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 9; no separate permission notice or license terms are stated. The clean bird region was rendered from the printed page at 300 dpi and cropped to omit the duplicated scripture pull quote."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "eed66189-2caa-4bfb-9eaa-545562c7e9a6",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 4,
+      "title": "Arise be glad",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "—Annetta Martin",
+        "authors": [
+          {
+            "name": "Annetta Martin",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/eed66189-2caa-4bfb-9eaa-545562c7e9a6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/eed66189-2caa-4bfb-9eaa-545562c7e9a6-1.jpg",
+          "public_path": "/images/eed66189-2caa-4bfb-9eaa-545562c7e9a6-1.jpg",
+          "source_page": 10,
+          "role": "poem background",
+          "alt": "A small boat at the edge of calm water during a vivid sunset",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 10; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "aa552c1c-4324-40a5-a7c3-8f36b6a99ee2",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 6,
+      "title": "Jamin Smartens Up",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Jonathan Yoder\nMillersburg, Ohio",
+        "authors": [
+          {
+            "name": "Jonathan Yoder",
+            "location": "Millersburg, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/aa552c1c-4324-40a5-a7c3-8f36b6a99ee2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/aa552c1c-4324-40a5-a7c3-8f36b6a99ee2-1.jpg",
+          "public_path": "/images/aa552c1c-4324-40a5-a7c3-8f36b6a99ee2-1.jpg",
+          "source_page": 15,
+          "role": "full-page article illustration",
+          "alt": "A narrow path winding through a leafy woodland",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 15; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "80e78d22-936e-48de-885a-f9a8898d5e42",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 8,
+      "title": "A Christ-Centered Courtship",
+      "subtitle": "God’s Plan for Male and Female",
+      "section": "INSPIRATIONS FOR YOUTH",
+      "series": {
+        "name": "A Christ-Centered Courtship",
+        "part": 1,
+        "total_parts": 6
+      },
+      "byline": {
+        "raw": "by Paul Hershberger\nMillersburg, Ohio",
+        "authors": [
+          {
+            "name": "Paul Hershberger",
+            "location": "Millersburg, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 24
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/80e78d22-936e-48de-885a-f9a8898d5e42.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/80e78d22-936e-48de-885a-f9a8898d5e42-1.jpg",
+          "public_path": "/images/80e78d22-936e-48de-885a-f9a8898d5e42-1.jpg",
+          "source_page": 21,
+          "role": "article illustration",
+          "alt": "A man and woman walking together through a green meadow",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 21; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/80e78d22-936e-48de-885a-f9a8898d5e42-2.jpg",
+          "public_path": "/images/80e78d22-936e-48de-885a-f9a8898d5e42-2.jpg",
+          "source_page": 22,
+          "role": "article illustration",
+          "alt": "A father and mother looking at their newborn baby",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 22; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/80e78d22-936e-48de-885a-f9a8898d5e42-3.jpg",
+          "public_path": "/images/80e78d22-936e-48de-885a-f9a8898d5e42-3.jpg",
+          "source_page": 24,
+          "role": "closing illustration",
+          "alt": "A family standing together before a waterfall",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 24; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "editorial_note": "The printed introductory note states that the messages were transcribed and abridged for reading clarity."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "28cd0392-f481-4e7c-9674-fbeb3c49fdf1",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 9,
+      "title": "Dealing with Cynicism",
+      "subtitle": null,
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "By Vincent “John” Waldron, MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron, MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/28cd0392-f481-4e7c-9674-fbeb3c49fdf1.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/28cd0392-f481-4e7c-9674-fbeb3c49fdf1-1.jpg",
+          "public_path": "/images/28cd0392-f481-4e7c-9674-fbeb3c49fdf1-1.jpg",
+          "source_page": 26,
+          "role": "article illustration",
+          "alt": "A glowing bulb inside a dark lantern.",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 26; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/28cd0392-f481-4e7c-9674-fbeb3c49fdf1-2.jpg",
+          "public_path": "/images/28cd0392-f481-4e7c-9674-fbeb3c49fdf1-2.jpg",
+          "source_page": 27,
+          "role": "article illustration",
+          "alt": "A butterfly among bright wildflowers and grasses.",
+          "caption": null,
+          "credit": "Nathan Leinbach",
+          "rights_note": "The page-2 masthead credits Nathan Leinbach for printed page 27; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "a76ef013-7cf5-4e99-8312-3a9818d244ff",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 10,
+      "title": "Procrastination Overload",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "by Sue Hooley\nHolmesville, Ohio",
+        "authors": [
+          {
+            "name": "Sue Hooley",
+            "location": "Holmesville, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 29
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a76ef013-7cf5-4e99-8312-3a9818d244ff.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a76ef013-7cf5-4e99-8312-3a9818d244ff-1.jpg",
+          "public_path": "/images/a76ef013-7cf5-4e99-8312-3a9818d244ff-1.jpg",
+          "source_page": 29,
+          "role": "header image",
+          "alt": "A cup of coffee beside a spiral notebook and pencil.",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 29; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "93978dae-706d-43d4-abee-6b6e011683fa",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 11,
+      "title": "Circumstantial Overload",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "by Sue Hooley\nHolmesville, Ohio",
+        "authors": [
+          {
+            "name": "Sue Hooley",
+            "location": "Holmesville, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/93978dae-706d-43d4-abee-6b6e011683fa.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/93978dae-706d-43d4-abee-6b6e011683fa-1.png",
+          "public_path": "/images/93978dae-706d-43d4-abee-6b6e011683fa-1.png",
+          "source_page": 31,
+          "role": "article illustration",
+          "alt": "Ocean waves breaking along a sandy shoreline seen from above.",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 31; no separate permission notice or license terms are stated. The embedded image and PDF soft mask were combined as one transparent sRGB PNG without changing the published crop or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "95aac01a-bc7b-4c4b-a8c0-0c193488e249",
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 12,
+      "title": "Amazing Grace",
+      "subtitle": null,
+      "section": "HYMN HISTORY",
+      "byline": {
+        "raw": "Joel A Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/95aac01a-bc7b-4c4b-a8c0-0c193488e249.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/95aac01a-bc7b-4c4b-a8c0-0c193488e249-1.jpg",
+          "public_path": "/images/95aac01a-bc7b-4c4b-a8c0-0c193488e249-1.jpg",
+          "source_page": 32,
+          "role": "opening illustration",
+          "alt": "A portrait of John Newton above a sailing ship in a storm, with Amazing Grace sheet music in the background.",
+          "caption": null,
+          "credit": "Wiki Commons",
+          "rights_note": "The page-2 masthead credits Wiki Commons for printed page 32. The complete layered opening composition was rendered from the printed page at 300 dpi, then web-quality re-encoded as a standards-normalized sRGB JPEG at unchanged 2550x3300 dimensions to fit the repository connector's binary transport ceiling; confirm any source-specific attribution or license requirements before production publication."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/95aac01a-bc7b-4c4b-a8c0-0c193488e249-2.jpg",
+          "public_path": "/images/95aac01a-bc7b-4c4b-a8c0-0c193488e249-2.jpg",
+          "source_page": 34,
+          "role": "article illustration",
+          "alt": "Dark waves around a steep rocky island beneath storm clouds.",
+          "caption": null,
+          "credit": "Wiki Commons",
+          "rights_note": "The page-2 masthead credits Wiki Commons for printed page 34. The clean embedded sRGB JPEG was copied byte-for-byte without transformation; confirm any source-specific attribution or license requirements before production publication."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/95aac01a-bc7b-4c4b-a8c0-0c193488e249-3.png",
+          "public_path": "/images/95aac01a-bc7b-4c4b-a8c0-0c193488e249-3.png",
+          "source_page": 35,
+          "role": "sheet music",
+          "alt": "Sheet music for Amazing Grace, credited to John Newton, 1779, and arranged by Edwin O. Excell, 1831.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or license terms are stated for the sheet music on printed page 35. The complete embedded sRGB music graphic was copied byte-for-byte without transformation; confirm any applicable music-source requirements before production publication."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
     {
       "id": "042fce50-3724-4100-b397-093c6d081e89",
       "issue_id": "heartbeat-remnant-2024-winter",
@@ -5566,6 +6250,39 @@
     }
   ],
   "skipped": [
+    {
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 5,
+      "title": "Ulli Ammann, to Churches in Crisis",
+      "byline": null,
+      "source_pages": {
+        "start": 11,
+        "end": 13
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "The letter was used by permission of John D. Roth and the Mennonite Historical Society, Goshen, Indiana."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2024-summer",
+      "sequence": 7,
+      "title": "The Christian Home",
+      "byline": "by Harold S. Martin",
+      "source_pages": {
+        "start": 16,
+        "end": 19
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "Please do not reprint without permission of Bible Helps (see end of article)"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
     {
       "issue_id": "heartbeat-remnant-2024-winter",
       "sequence": 8,
