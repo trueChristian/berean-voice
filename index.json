@@ -79,6 +79,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2022-spring",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Spring 2022",
+        "year": 2022,
+        "season": "Spring",
+        "precision": "season"
+      },
+      "volume_number": 26,
+      "issue_number": 1,
+      "source": {
+        "filename": "WEB-Spring-2022-Remnant.pdf",
+        "sha256": "48b1eb18afed0c20444ccd4a3a9415e1ec23b3209029cd913f061a7d7503666e",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2021-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -2215,6 +2239,502 @@
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "b8ff6643-9234-465f-ab06-4adfc189a851",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 33,
+        "pages": [
+          3,
+          32,
+          33
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/b8ff6643-9234-465f-ab06-4adfc189a851.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b8ff6643-9234-465f-ab06-4adfc189a851-1.jpg",
+          "public_path": "/images/b8ff6643-9234-465f-ab06-4adfc189a851-1.jpg",
+          "source_page": 33,
+          "role": "closing illustrative photograph",
+          "alt": "Small purple flowers against soft-focus green hills",
+          "caption": null,
+          "credit": "Pexels.com",
+          "rights_note": "The page-2 masthead credits Pexels.com for printed page 33; no separate permission notice or license terms are stated. The clean embedded photograph was copied byte-for-byte without the duplicated pull-quote overlay."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "continuation_note": "Printed page 3 directs readers to page 33, but the actual continuation begins on printed page 32 and ends on page 33."
+      }
+    },
+    {
+      "id": "ca5d0d5f-aedd-4e20-ab52-6a31c34a8873",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 2,
+      "title": "Pride or Humility?",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "by Barry Grant\nTitanyen, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Titanyen, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Missions",
+          "slug": "missions"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/ca5d0d5f-aedd-4e20-ab52-6a31c34a8873.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "99d9d2e9-2f6a-46ce-a06a-4635a4d484f9",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 3,
+      "title": "If Heaven Is Real",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~by Barry Grant",
+        "authors": [
+          {
+            "name": "Barry Grant"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": []
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/99d9d2e9-2f6a-46ce-a06a-4635a4d484f9.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "94ef8ae0-ec29-4ca5-870a-4c3e33abcfe6",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 5,
+      "title": "Is There Not a Cause?",
+      "subtitle": null,
+      "section": "BIBLE DOCTRINES",
+      "byline": {
+        "raw": "by Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 13
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/94ef8ae0-ec29-4ca5-870a-4c3e33abcfe6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/94ef8ae0-ec29-4ca5-870a-4c3e33abcfe6-1.jpg",
+          "public_path": "/images/94ef8ae0-ec29-4ca5-870a-4c3e33abcfe6-1.jpg",
+          "source_page": 13,
+          "role": "closing thematic photograph",
+          "alt": "A shepherd leads a flock through a rocky mountain valley",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 13; no separate permission notice or license terms are stated. The clean embedded photograph was copied byte-for-byte."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "f236d8e2-96e3-4d12-89e7-41dc995fa490",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 6,
+      "title": "They Are No More Twain",
+      "subtitle": null,
+      "section": "THE GODLY HOME",
+      "byline": {
+        "raw": "by Kenneth Hopkins\nGreenville, OH",
+        "authors": [
+          {
+            "name": "Kenneth Hopkins",
+            "location": "Greenville, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/f236d8e2-96e3-4d12-89e7-41dc995fa490.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "5613aef3-79c5-42d4-9695-214e71989c22",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 7,
+      "title": "The Forgotten Stamp",
+      "subtitle": null,
+      "section": "CHILDREN’S CORNER",
+      "byline": {
+        "raw": "by Lois Sutherland\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Lois Sutherland",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/5613aef3-79c5-42d4-9695-214e71989c22.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/5613aef3-79c5-42d4-9695-214e71989c22-1.jpg",
+          "public_path": "/images/5613aef3-79c5-42d4-9695-214e71989c22-1.jpg",
+          "source_page": 19,
+          "role": "closing story photograph",
+          "alt": "A rural mailbox beside a lane leading through green fields to farm buildings",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 19; no separate permission notice or license terms are stated. The clean embedded photograph was copied byte-for-byte."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "ba1df680-e125-4b7a-a6dd-6ad35433e1b5",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 8,
+      "title": "To Walk With Her Through Grief",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "by Naomi Lapp\nLakeville, OH",
+        "authors": [
+          {
+            "name": "Naomi Lapp",
+            "location": "Lakeville, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/ba1df680-e125-4b7a-a6dd-6ad35433e1b5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ba1df680-e125-4b7a-a6dd-6ad35433e1b5-1.jpg",
+          "public_path": "/images/ba1df680-e125-4b7a-a6dd-6ad35433e1b5-1.jpg",
+          "source_page": 22,
+          "role": "closing panoramic landscape photograph",
+          "alt": "Sunbeams break through clouds over a forested mountain lake",
+          "caption": null,
+          "credit": "Pexels.com",
+          "rights_note": "The page-2 masthead explicitly credits Pexels.com for printed page 22. The adjacent page-23 asset is the seamless right half of the same panorama, so its association with that credit is contextual. The two embedded halves were joined horizontally without scaling or changing their published crops."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_transform": "The embedded page-22 and page-23 halves were appended horizontally without scaling to reconstruct one seamless panorama."
+      }
+    },
+    {
+      "id": "719ef93a-7242-445f-8e5b-201567145e20",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 11,
+      "title": "End of Life",
+      "subtitle": null,
+      "section": "A WORD FROM A DOCTOR",
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/719ef93a-7242-445f-8e5b-201567145e20.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/719ef93a-7242-445f-8e5b-201567145e20-1.jpg",
+          "public_path": "/images/719ef93a-7242-445f-8e5b-201567145e20-1.jpg",
+          "source_page": 31,
+          "role": "closing clinical photograph",
+          "alt": "A clinician checks an older man’s blood pressure",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 31. The embedded page-30 strip and page-31 segment were joined horizontally without scaling or changing their published crops."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_transform": "The embedded page-30 and page-31 segments were appended horizontally without scaling to reconstruct the complete photograph."
+      }
+    },
+    {
+      "id": "d5891c2f-007d-4926-90e0-81c25cf67fbd",
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 12,
+      "title": "Look At The Rainbow",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "~by Adrianna Fanton",
+        "authors": [
+          {
+            "name": "Adrianna Fanton"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": null,
+      "html": {
+        "repository_path": "src/d5891c2f-007d-4926-90e0-81c25cf67fbd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/d5891c2f-007d-4926-90e0-81c25cf67fbd-1.jpg",
+          "public_path": "/images/d5891c2f-007d-4926-90e0-81c25cf67fbd-1.jpg",
+          "source_page": 35,
+          "role": "panoramic poem background",
+          "alt": "A double rainbow arcs over dark trees beneath a stormy sky",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 35. The clean text-free embedded assets from printed pages 34 and 35 were joined horizontally without scaling to reconstruct the panorama; grayscale overlay and mask assets were omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_transform": "The clean page-34 and page-35 embedded halves were appended horizontally without scaling to reconstruct the complete panorama."
       }
     },
     {
@@ -5076,6 +5596,55 @@
       "detected_notices": [
         "Used by permission of Bible Helps",
         "No reprinting of this article is allowed without permission from Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 4,
+      "title": "What Manner of Man is This!",
+      "byline": "by Paul Shirk",
+      "source_pages": {
+        "start": 8,
+        "end": 10
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 9,
+      "title": "Youth with Purpose of Heart",
+      "byline": "by Jerald Witmer\nSmithdale, MS",
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "reason": "An article-specific adaptation permission notice was detected.",
+      "detected_notices": [
+        "Adapted from the original article listed at https://www.pilgrimministry.org/ with permission by the author"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-spring",
+      "sequence": 10,
+      "title": "If There is a God; Why Does He Allow War?",
+      "byline": "by Dave Sweigart\nPeach Bottom, PA",
+      "source_pages": {
+        "start": 26,
+        "end": 27
+      },
+      "reason": "An article-specific adaptation permission notice was detected.",
+      "detected_notices": [
+        "Adapted from https://www.pilgrimministry.org/ with permission by the author"
       ],
       "html_exported": false,
       "images_exported": false
