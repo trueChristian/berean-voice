@@ -174,6 +174,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2021-summer",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Summer 2021",
+        "year": 2021,
+        "season": "Summer",
+        "precision": "season"
+      },
+      "volume_number": 25,
+      "issue_number": 2,
+      "source": {
+        "filename": "Summer-2021-Remnant.pdf",
+        "sha256": "97e0c68a6e0d537d0ff06a98b93e2ef062547b19f3bad15364e4fc03bd1c9795",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2021-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -7601,6 +7625,772 @@
         "Discipleship",
         "The New Testament Church"
       ]
+    },
+    {
+      "id": "201a1b3e-85b3-4e62-bc45-118a8c1f5367",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 31,
+        "pages": [
+          3,
+          31
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/201a1b3e-85b3-4e62-bc45-118a8c1f5367.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/201a1b3e-85b3-4e62-bc45-118a8c1f5367-1.png",
+          "public_path": "/images/201a1b3e-85b3-4e62-bc45-118a8c1f5367-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell icon",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate credit is printed for this decorative artwork. The embedded indexed image and its PDF soft mask were combined without changing the published crop or orientation, relying on the publisher's repository authorization for this issue."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/201a1b3e-85b3-4e62-bc45-118a8c1f5367-2.jpg",
+          "public_path": "/images/201a1b3e-85b3-4e62-bc45-118a8c1f5367-2.jpg",
+          "source_page": 3,
+          "role": "editorial landscape photograph",
+          "alt": "Clouds over snow-capped mountains and a forested lake",
+          "caption": null,
+          "credit": "publicdomainpictures.net",
+          "rights_note": "The page-2 masthead credits publicdomainpictures.net for printed page 3; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/201a1b3e-85b3-4e62-bc45-118a8c1f5367-3.jpg",
+          "public_path": "/images/201a1b3e-85b3-4e62-bc45-118a8c1f5367-3.jpg",
+          "source_page": 31,
+          "role": "continuation-page landscape photograph",
+          "alt": "Forested mountains reflected in a lake beneath summer clouds",
+          "caption": null,
+          "credit": "publicdomainpictures.net",
+          "rights_note": "The page-2 masthead credits publicdomainpictures.net for printed page 31; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "continuation_note": "Printed page 3 directs readers to printed page 31, where the article continues and concludes."
+      },
+      "topics": [
+        "End Times",
+        "Deception",
+        "Endurance",
+        "Gospel"
+      ]
+    },
+    {
+      "id": "37272f7d-a8c0-4c15-b884-ebbf333303cb",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 2,
+      "title": "Separation",
+      "subtitle": null,
+      "section": "Musings of a Missionary",
+      "byline": {
+        "raw": "Barry Grant\nTitanyen, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Titanyen, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/37272f7d-a8c0-4c15-b884-ebbf333303cb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/37272f7d-a8c0-4c15-b884-ebbf333303cb-1.jpg",
+          "public_path": "/images/37272f7d-a8c0-4c15-b884-ebbf333303cb-1.jpg",
+          "source_page": 4,
+          "role": "lead biblical illustration",
+          "alt": "Jesus standing before Pilate and an assembled crowd",
+          "caption": null,
+          "credit": "S.M. Davis photo collection",
+          "rights_note": "The page-2 masthead credits the S.M. Davis photo collection for printed page 4; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/37272f7d-a8c0-4c15-b884-ebbf333303cb-2.jpg",
+          "public_path": "/images/37272f7d-a8c0-4c15-b884-ebbf333303cb-2.jpg",
+          "source_page": 6,
+          "role": "open-Bible spread, left half",
+          "alt": "Open Bible in low light, left half of a two-page photograph",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 6; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/37272f7d-a8c0-4c15-b884-ebbf333303cb-3.jpg",
+          "public_path": "/images/37272f7d-a8c0-4c15-b884-ebbf333303cb-3.jpg",
+          "source_page": 7,
+          "role": "open-Bible spread, right half",
+          "alt": "Open Bible in low light, right half of a two-page photograph",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate page-7 credit is printed; this is the complementary right half of the open-Bible photograph credited to Unsplash.com on printed page 6. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Separation",
+        "Anabaptism",
+        "Nonconformity",
+        "Discipleship"
+      ]
+    },
+    {
+      "id": "6c4d3026-69b5-42c2-92aa-02d8ea8d73cf",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 3,
+      "title": "The Call",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–by Barry Grant",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 8
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/6c4d3026-69b5-42c2-92aa-02d8ea8d73cf.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/6c4d3026-69b5-42c2-92aa-02d8ea8d73cf-1.jpg",
+          "public_path": "/images/6c4d3026-69b5-42c2-92aa-02d8ea8d73cf-1.jpg",
+          "source_page": 8,
+          "role": "poem background",
+          "alt": "Three sailboats on calm water",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 8; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Conversion",
+        "Faith",
+        "Discipleship"
+      ]
+    },
+    {
+      "id": "0b798d8c-e0b8-43a2-8a76-1c9d527f25b9",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 4,
+      "title": "Religious Drama vs True Worship",
+      "subtitle": null,
+      "section": "The New Testament Church",
+      "byline": {
+        "raw": "Ivan Weaver\nBethel, PA",
+        "authors": [
+          {
+            "name": "Ivan Weaver",
+            "location": "Bethel, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 12
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0b798d8c-e0b8-43a2-8a76-1c9d527f25b9.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Worship",
+        "Religious Drama",
+        "Sincerity",
+        "New Testament Church"
+      ]
+    },
+    {
+      "id": "93f83966-049f-4767-8fe5-497ec16dad40",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 5,
+      "title": "He That Hath Ears To Hear…",
+      "subtitle": null,
+      "section": "Bible Doctrines",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 16
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/93f83966-049f-4767-8fe5-497ec16dad40.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/93f83966-049f-4767-8fe5-497ec16dad40-1.jpg",
+          "public_path": "/images/93f83966-049f-4767-8fe5-497ec16dad40-1.jpg",
+          "source_page": 15,
+          "role": "full-page biblical illustration",
+          "alt": "Jesus walking with two men on the road to Emmaus",
+          "caption": null,
+          "credit": "S.M. Davis photo collection",
+          "rights_note": "The page-2 masthead credits the S.M. Davis photo collection for printed page 15; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Hearing",
+        "Attention",
+        "Discernment",
+        "Spiritual Growth"
+      ]
+    },
+    {
+      "id": "fb02a7e7-4fdc-4363-bea0-aa8a68b36f8b",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 6,
+      "title": "THE HEAVENLY CALLING",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–by Lee Rufener",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/fb02a7e7-4fdc-4363-bea0-aa8a68b36f8b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/fb02a7e7-4fdc-4363-bea0-aa8a68b36f8b-1.jpg",
+          "public_path": "/images/fb02a7e7-4fdc-4363-bea0-aa8a68b36f8b-1.jpg",
+          "source_page": 17,
+          "role": "poem background",
+          "alt": "Misty evergreen forest",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 17; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Heavenly Calling",
+        "Perseverance",
+        "Faith"
+      ]
+    },
+    {
+      "id": "73def952-dd77-4a51-b030-27713e0cedd2",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 7,
+      "title": "“Do I need to tell?”",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Laurel Wenger\nDalton, OH",
+        "authors": [
+          {
+            "name": "Laurel Wenger",
+            "location": "Dalton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/73def952-dd77-4a51-b030-27713e0cedd2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/73def952-dd77-4a51-b030-27713e0cedd2-1.jpg",
+          "public_path": "/images/73def952-dd77-4a51-b030-27713e0cedd2-1.jpg",
+          "source_page": 18,
+          "role": "article header photograph",
+          "alt": "Rowboat reflected in calm water",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 18; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/73def952-dd77-4a51-b030-27713e0cedd2-2.jpg",
+          "public_path": "/images/73def952-dd77-4a51-b030-27713e0cedd2-2.jpg",
+          "source_page": 19,
+          "role": "story object photograph",
+          "alt": "Weathered and broken wooden oars on boards",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 19; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without overlaid article text or other transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Honesty",
+        "Conscience",
+        "Children"
+      ]
+    },
+    {
+      "id": "0678981b-d0f9-4c28-970e-2617f9543c9b",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 8,
+      "title": "Dishonor and Loss",
+      "subtitle": null,
+      "section": "Sister to Sister",
+      "byline": {
+        "raw": "Regina Martin\nHuaral, Peru",
+        "authors": [
+          {
+            "name": "Regina Martin",
+            "location": "Huaral, Peru"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0678981b-d0f9-4c28-970e-2617f9543c9b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/0678981b-d0f9-4c28-970e-2617f9543c9b-1.jpg",
+          "public_path": "/images/0678981b-d0f9-4c28-970e-2617f9543c9b-1.jpg",
+          "source_page": 21,
+          "role": "historical biblical illustration",
+          "alt": "David dancing before the Ark while Michal watches from a window",
+          "caption": null,
+          "credit": "S.M. Davis photo collection",
+          "rights_note": "The page-2 masthead credits the S.M. Davis photo collection for printed page 21; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Marriage",
+        "Honor",
+        "Respect",
+        "Michal"
+      ]
+    },
+    {
+      "id": "b8181ffd-5861-420e-b92a-573b7e66fc3e",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 11,
+      "title": "Weight Loss",
+      "subtitle": null,
+      "section": "A Word From A Doctor",
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 30
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b8181ffd-5861-420e-b92a-573b7e66fc3e.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Weight Loss",
+        "Nutrition",
+        "Exercise",
+        "Health"
+      ]
+    },
+    {
+      "id": "affa9e6e-7d44-4174-ae66-fd44cfaeeaa0",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 12,
+      "title": "‘Til the Storm Passes By",
+      "subtitle": null,
+      "section": "Encouragement for Christian Women",
+      "byline": {
+        "raw": "Rachel Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Rachel Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/affa9e6e-7d44-4174-ae66-fd44cfaeeaa0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/affa9e6e-7d44-4174-ae66-fd44cfaeeaa0-1.jpg",
+          "public_path": "/images/affa9e6e-7d44-4174-ae66-fd44cfaeeaa0-1.jpg",
+          "source_page": 32,
+          "role": "storm landscape spread, left half",
+          "alt": "Storm clouds over a prairie road, left half of a two-page photograph",
+          "caption": null,
+          "credit": "publicdomainpictures.net",
+          "rights_note": "The page-2 masthead credits publicdomainpictures.net for printed page 32; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/affa9e6e-7d44-4174-ae66-fd44cfaeeaa0-2.jpg",
+          "public_path": "/images/affa9e6e-7d44-4174-ae66-fd44cfaeeaa0-2.jpg",
+          "source_page": 33,
+          "role": "storm landscape spread, right half",
+          "alt": "Storm clouds over a prairie, right half of a two-page photograph",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate page-33 credit is printed; this is the complementary right half of the storm landscape credited to publicdomainpictures.net on printed page 32. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Suffering",
+        "Trust",
+        "Faith",
+        "Perseverance"
+      ]
+    },
+    {
+      "id": "71acc7cf-0c85-4e46-9a50-7afaeca6c9ac",
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 13,
+      "title": "Not My Will",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–By Adrianna H. Fanton",
+        "authors": [
+          {
+            "name": "Adrianna H. Fanton",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/71acc7cf-0c85-4e46-9a50-7afaeca6c9ac.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/71acc7cf-0c85-4e46-9a50-7afaeca6c9ac-1.jpg",
+          "public_path": "/images/71acc7cf-0c85-4e46-9a50-7afaeca6c9ac-1.jpg",
+          "source_page": 34,
+          "role": "poem background spread, left half",
+          "alt": "Misty grass and water with deer, left half of a two-page photograph",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 34; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/71acc7cf-0c85-4e46-9a50-7afaeca6c9ac-2.jpg",
+          "public_path": "/images/71acc7cf-0c85-4e46-9a50-7afaeca6c9ac-2.jpg",
+          "source_page": 35,
+          "role": "poem background spread, right half",
+          "alt": "Deer beside a large tree and still water in mist, right half of a two-page photograph",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate page-35 credit is printed; this is the complementary right half of the misty scene credited to Unsplash.com on printed page 34. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Surrender",
+        "Suffering",
+        "Humility",
+        "Trust"
+      ]
     }
   ],
   "skipped": [
@@ -7898,6 +8688,40 @@
       "detected_notices": [
         "Used by permission of Bible Helps",
         "No reprinting of this article is allowed without permission from Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 9,
+      "title": "THE DAYS OF NOAH Repeated",
+      "byline": "By Harold S. Martin",
+      "source_pages": {
+        "start": 23,
+        "end": 25
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps (see end of article)"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2021-summer",
+      "sequence": 10,
+      "title": "Christian Courtship Concepts",
+      "byline": "Luke B. Bennetch\nFredericksburg, PA",
+      "source_pages": {
+        "start": 26,
+        "end": 27
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of the author.",
+        "No reprinting of this article is allowed without permission from the author or Pilgrim Ministry"
       ],
       "html_exported": false,
       "images_exported": false
