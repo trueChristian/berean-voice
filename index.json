@@ -222,6 +222,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2020-summer",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Summer 2020",
+        "year": 2020,
+        "season": "Summer",
+        "precision": "season"
+      },
+      "volume_number": 24,
+      "issue_number": 2,
+      "source": {
+        "filename": "Summer-2020-Remnant.pdf",
+        "sha256": "2176c5b7b797fbd464ba44f046a19a675a8c3858d878ba591bf7ab2b16e9816f",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2020-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -8391,9 +8415,788 @@
         "Humility",
         "Trust"
       ]
+    },
+    {
+      "id": "7a4d646a-0c04-4b44-a54f-ef63df487f81",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Curvin Wenger",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 17,
+        "pages": [
+          3,
+          17
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/7a4d646a-0c04-4b44-a54f-ef63df487f81.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7a4d646a-0c04-4b44-a54f-ef63df487f81-1.jpg",
+          "public_path": "/images/7a4d646a-0c04-4b44-a54f-ef63df487f81-1.jpg",
+          "source_page": 17,
+          "role": "continuation-page photograph",
+          "alt": "Earth at night seen from orbit with illuminated cities",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded without changing its published dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "continuation_note": "Printed page 3 directs readers to printed page 17, where the article continues and concludes.",
+        "author_identity_note": "No article byline is printed; Curvin Wenger is identified as Editor in the page-2 masthead."
+      },
+      "topics": [
+        "COVID-19",
+        "Discouragement",
+        "Christian Hope",
+        "Bearing Burdens",
+        "Temptation and Trials",
+        "Mutual Encouragement"
+      ]
+    },
+    {
+      "id": "3a454052-a824-4d0c-888d-a6b04c8cf917",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 2,
+      "title": "By Their Fruits",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nArcahaie, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Arcahaie, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/3a454052-a824-4d0c-888d-a6b04c8cf917.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/3a454052-a824-4d0c-888d-a6b04c8cf917-1.jpg",
+          "public_path": "/images/3a454052-a824-4d0c-888d-a6b04c8cf917-1.jpg",
+          "source_page": 4,
+          "role": "lead photograph",
+          "alt": "Red apples hanging from a leafy apple tree",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded without changing its published dimensions, crop, or orientation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/3a454052-a824-4d0c-888d-a6b04c8cf917-2.jpg",
+          "public_path": "/images/3a454052-a824-4d0c-888d-a6b04c8cf917-2.jpg",
+          "source_page": 6,
+          "role": "closing photograph",
+          "alt": "A single red apple on a light gray surface",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The complete published photograph region was rendered at 432 dpi and cropped above the unrelated footer rule because the source composition is split across four PDF tiles; the final sRGB JPEG preserves the apple, shadow, pale background, crop, and orientation without article text or decoration."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Fruit of the Spirit",
+        "Conversion",
+        "Obedience",
+        "Christian Conduct",
+        "Judgment",
+        "Perseverance",
+        "Discernment"
+      ]
+    },
+    {
+      "id": "a9c1e70c-906d-4eda-ad05-2789badb2369",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 3,
+      "title": "Faith and Reason",
+      "subtitle": null,
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "Darren Drayer\nOssian, IN",
+        "authors": [
+          {
+            "name": "Darren Drayer",
+            "location": "Ossian, IN"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 8
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a9c1e70c-906d-4eda-ad05-2789badb2369.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a9c1e70c-906d-4eda-ad05-2789badb2369-1.jpg",
+          "public_path": "/images/a9c1e70c-906d-4eda-ad05-2789badb2369-1.jpg",
+          "source_page": 8,
+          "role": "lead and background photograph",
+          "alt": "A vivid pink, purple, and blue sunset over the ocean",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The clean page-8 embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded at web quality without changing its published dimensions, crop, or orientation; it represents the same photograph used in the page-7 title artwork."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Faith and Reason",
+        "Biblical Reliability",
+        "Evidence",
+        "Creation",
+        "Global Flood",
+        "Resurrection",
+        "Atheism"
+      ]
+    },
+    {
+      "id": "3b932103-b3fb-450d-885a-eaca95ee48fe",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 4,
+      "title": "From Childhood to Adulthood",
+      "subtitle": "Parenting Teens",
+      "section": "THE GODLY HOME",
+      "byline": {
+        "raw": "Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 12
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Youth",
+            "slug": "youth"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/3b932103-b3fb-450d-885a-eaca95ee48fe.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/3b932103-b3fb-450d-885a-eaca95ee48fe-1.jpg",
+          "public_path": "/images/3b932103-b3fb-450d-885a-eaca95ee48fe-1.jpg",
+          "source_page": 11,
+          "role": "lead photograph",
+          "alt": "Silhouette of a young person standing beneath a red sunset sky",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The clean page-11 embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded without changing its dimensions, crop, or orientation; it is the same photograph used in the page-9 hero composition."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Parenting Teens",
+        "Maturity",
+        "Identity",
+        "Affirmation",
+        "Parent-child Relationship",
+        "Conversion",
+        "Church Community"
+      ]
+    },
+    {
+      "id": "97d8ed1e-7d4a-471d-8508-727664288d74",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 6,
+      "title": "Little Ramona’s Pride",
+      "subtitle": "A True Story",
+      "section": "CHILDREN'S CORNER",
+      "byline": {
+        "raw": "Lydia M. Bauman\nShreve, OH",
+        "authors": [
+          {
+            "name": "Lydia M. Bauman",
+            "location": "Shreve, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/97d8ed1e-7d4a-471d-8508-727664288d74.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/97d8ed1e-7d4a-471d-8508-727664288d74-1.png",
+          "public_path": "/images/97d8ed1e-7d4a-471d-8508-727664288d74-1.png",
+          "source_page": 18,
+          "role": "article header photograph",
+          "alt": "A young girl beside a large dog near a metal pasture gate",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead explicitly excepts printed pages 18 and 19 from its Unsplash.com credit, and no alternate source, permission notice, or license terms are printed. The embedded inverted-Adobe CMYK photograph was sample-inverted, converted to sRGB, horizontally flipped to match the PDF placement, clipped to the published elliptical crop, and palette-normalized as a transparent PNG at unchanged dimensions for repository transport; rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/97d8ed1e-7d4a-471d-8508-727664288d74-2.png",
+          "public_path": "/images/97d8ed1e-7d4a-471d-8508-727664288d74-2.png",
+          "source_page": 19,
+          "role": "sheet music",
+          "alt": "Sheet music for “Pride goeth before destruction, and an haughty spirit before a fall.”",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate source, permission notice, or license terms are printed for the sheet music on printed page 19. The clean embedded sRGB PNG was copied without changing its dimensions, crop, orientation, or musical notation; rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/97d8ed1e-7d4a-471d-8508-727664288d74-3.jpg",
+          "public_path": "/images/97d8ed1e-7d4a-471d-8508-727664288d74-3.jpg",
+          "source_page": 19,
+          "role": "closing photograph",
+          "alt": "Two young girls with horses in a grassy pasture",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead explicitly excepts printed pages 18 and 19 from its Unsplash.com credit, and no alternate source, permission notice, or license terms are printed. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded at web quality without changing its published dimensions, crop, or orientation; rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Children",
+        "Obedience",
+        "Humility"
+      ]
+    },
+    {
+      "id": "cf3bcef6-affc-4c39-9c73-ce940fab787f",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 7,
+      "title": "In the World, but not of it",
+      "subtitle": null,
+      "section": "MODERN-DAY PERILS",
+      "byline": {
+        "raw": "Leonard Martin\nBethel, PA",
+        "authors": [
+          {
+            "name": "Leonard Martin",
+            "location": "Bethel, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church",
+            "slug": "church"
+          },
+          {
+            "name": "Deception",
+            "slug": "deception"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/cf3bcef6-affc-4c39-9c73-ce940fab787f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/cf3bcef6-affc-4c39-9c73-ce940fab787f-1.jpg",
+          "public_path": "/images/cf3bcef6-affc-4c39-9c73-ce940fab787f-1.jpg",
+          "source_page": 20,
+          "role": "article header photograph",
+          "alt": "Aerial view of a city skyline beside a lake at sunset",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded at web quality without changing its published dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "COVID-19",
+        "Church and State",
+        "Church Unity",
+        "Christian Conduct",
+        "Discernment",
+        "Respect"
+      ]
+    },
+    {
+      "id": "ba15e3da-aab4-401c-9ec7-64b88ac22833",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 8,
+      "title": "When God’s Way Works",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Anna L. Martin\nPoteau, OK",
+        "authors": [
+          {
+            "name": "Anna L. Martin",
+            "location": "Poteau, OK"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/ba15e3da-aab4-401c-9ec7-64b88ac22833.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ba15e3da-aab4-401c-9ec7-64b88ac22833-1.jpg",
+          "public_path": "/images/ba15e3da-aab4-401c-9ec7-64b88ac22833-1.jpg",
+          "source_page": 22,
+          "role": "article header photograph",
+          "alt": "A newborn baby’s hand holding an adult’s finger",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. Eleven embedded inverted-Adobe CMYK fragments were reassembled at their PDF coordinates to recover the published photograph without text overlays, then sample-inverted, converted to sRGB, and re-encoded without changing the published crop or orientation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/ba15e3da-aab4-401c-9ec7-64b88ac22833-2.jpg",
+          "public_path": "/images/ba15e3da-aab4-401c-9ec7-64b88ac22833-2.jpg",
+          "source_page": 24,
+          "role": "hospital-room photograph",
+          "alt": "An empty hospital room with a bed and seating",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded at web quality without changing its published dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "section_divider_note": "The printed row of asterisks on page 27 is represented semantically as an HTML horizontal rule."
+      },
+      "topics": [
+        "Parenting",
+        "Children",
+        "Prayer",
+        "God’s Care",
+        "Obedience"
+      ]
+    },
+    {
+      "id": "86459f54-72b0-4be2-a101-02b3c9462f6c",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 9,
+      "title": "What Is Right About My Music?",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Josh Wamble\nLebanon, PA",
+        "authors": [
+          {
+            "name": "Josh Wamble",
+            "location": "Lebanon, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 29
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/86459f54-72b0-4be2-a101-02b3c9462f6c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/86459f54-72b0-4be2-a101-02b3c9462f6c-1.jpg",
+          "public_path": "/images/86459f54-72b0-4be2-a101-02b3c9462f6c-1.jpg",
+          "source_page": 28,
+          "role": "article opener photograph",
+          "alt": "Piano keys beside open sheet music",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. Embedded photograph xrefs 262–268, including the indexed seam strips, were rendered at their original page matrices and clips, then the clean opener region was cropped at 300 dpi without article text or magazine furniture and encoded as an sRGB JPEG preserving the published crop and orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Music",
+        "Worship",
+        "A cappella",
+        "Contemporary Christian Music",
+        "Discernment"
+      ]
+    },
+    {
+      "id": "a7f59621-7083-44ce-8074-6ece8fdfbdcf",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 10,
+      "title": "The Strait Gate to Life",
+      "subtitle": null,
+      "section": "BIBLE DOCTRINES",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a7f59621-7083-44ce-8074-6ece8fdfbdcf.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a7f59621-7083-44ce-8074-6ece8fdfbdcf-1.jpg",
+          "public_path": "/images/a7f59621-7083-44ce-8074-6ece8fdfbdcf-1.jpg",
+          "source_page": 30,
+          "role": "full-page opening photograph",
+          "alt": "A narrow wooden gate between white walls",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The clean embedded photograph was horizontally flipped to match its printed placement, preserved in monochrome, and re-encoded as a web-quality sRGB JPEG at unchanged dimensions and crop to fit the repository connector's binary transport ceiling."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "title_layout_note": "The printed title is split across pages 30 and 31 as “The Strait Gate” and “to Life”; index metadata records the combined title."
+      },
+      "topics": [
+        "Strait Gate",
+        "Authority",
+        "Submission",
+        "Christian Discipleship",
+        "Government",
+        "Family",
+        "Church Leadership"
+      ]
+    },
+    {
+      "id": "572ec209-1870-46a2-ba99-bc6121777d7c",
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 11,
+      "title": "A Suffering Savior",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "–Barry Grant",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/572ec209-1870-46a2-ba99-bc6121777d7c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/572ec209-1870-46a2-ba99-bc6121777d7c-1.jpg",
+          "public_path": "/images/572ec209-1870-46a2-ba99-bc6121777d7c-1.jpg",
+          "source_page": 35,
+          "role": "full-page poem background",
+          "alt": "A large leafy tree beside a green field under a blue sky",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead states that all issue photos other than those on printed pages 18 and 19 were acquired from Unsplash.com; no separate permission notice or license terms are stated. The clean embedded full-page base at xref 123 was horizontally flipped to match its printed placement, its inverted Adobe CMYK samples were corrected and converted to sRGB, and the JPEG was re-encoded at web quality without the separate faded-panel, poem, title, or byline overlays and without changing dimensions or crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Jesus Christ",
+        "Atonement",
+        "Suffering",
+        "Sacrifice",
+        "Salvation"
+      ]
     }
   ],
   "skipped": [
+    {
+      "issue_id": "heartbeat-remnant-2020-summer",
+      "sequence": 5,
+      "title": "Seven Pictures of Divine Tenderness",
+      "byline": "By Harold S. Martin",
+      "source_pages": {
+        "start": 13,
+        "end": 16
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
     {
       "issue_id": "heartbeat-remnant-2024-summer",
       "sequence": 5,
