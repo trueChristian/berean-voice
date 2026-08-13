@@ -55,6 +55,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2023-summer",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Summer 2023",
+        "year": 2023,
+        "season": "Summer",
+        "precision": "season"
+      },
+      "volume_number": 31,
+      "issue_number": 2,
+      "source": {
+        "filename": "Summer-2023-Remnant-web.pdf",
+        "sha256": "1efd92045267734f7081200ad0852f1f632d9a7a66d1ec8af4dec1e8341151ba",
+        "pdf_page_count": 19,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2023-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -6247,6 +6271,738 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "cc225bc9-2dda-46f3-a628-13af4fd95e7a",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/cc225bc9-2dda-46f3-a628-13af4fd95e7a.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "b9a7b1b8-0a23-4e53-b835-31bf5a42dc33",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 2,
+      "title": "Prophecy and The End Times",
+      "subtitle": null,
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "by Joshua Yoder\nBig Prairie, OH",
+        "authors": [
+          {
+            "name": "Joshua Yoder",
+            "location": "Big Prairie, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Church",
+          "slug": "church"
+        },
+        "additional": [
+          {
+            "name": "Deception",
+            "slug": "deception"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b9a7b1b8-0a23-4e53-b835-31bf5a42dc33.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Bible Prophecy",
+        "End Times",
+        "Church History"
+      ]
+    },
+    {
+      "id": "c16663c4-9436-466b-bffd-dd954a5f3442",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 3,
+      "title": "Drift",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "by Barry Grant\nHicksville, OH",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Hicksville, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c16663c4-9436-466b-bffd-dd954a5f3442.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c16663c4-9436-466b-bffd-dd954a5f3442-1.jpg",
+          "public_path": "/images/c16663c4-9436-466b-bffd-dd954a5f3442-1.jpg",
+          "source_page": 9,
+          "role": "closing landscape photograph",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or license terms are stated for printed page 9. The landscape spans the page below the final Drift text and the adjacent uncredited poem; it is associated with Drift as the principal article on the spread. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded without changing dimensions or crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "a6ab0f33-e20a-4b19-ae47-f094395a54f8",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 4,
+      "title": "Freedom, or Bondage?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a6ab0f33-e20a-4b19-ae47-f094395a54f8.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "02db24ae-5132-49c6-a6fd-da73417871e3",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 5,
+      "title": "The Hope of Your Calling",
+      "subtitle": "LIVING AS YOUTH WITH AN ETERNAL PERSPECTIVE",
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "by Joel Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Joel Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/02db24ae-5132-49c6-a6fd-da73417871e3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/02db24ae-5132-49c6-a6fd-da73417871e3-1.jpg",
+          "public_path": "/images/02db24ae-5132-49c6-a6fd-da73417871e3-1.jpg",
+          "source_page": 11,
+          "role": "closing aerial forest photograph",
+          "alt": "",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for this printed page; no separate permission notice or license terms are stated. The embedded inverted-Adobe CMYK JPEG was sample-inverted, rotated 90 degrees clockwise to match the printed orientation, converted to sRGB, and re-encoded without changing its published crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Youth",
+        "Calling",
+        "Christian Service"
+      ]
+    },
+    {
+      "id": "c7009feb-1e58-4c54-a5e9-ae0bf90ed9cf",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 6,
+      "title": "Group Morality vs Godly Judgment",
+      "subtitle": null,
+      "section": "Featured Article",
+      "byline": {
+        "raw": "by Glenn Wenger\nRichfield, PA",
+        "authors": [
+          {
+            "name": "Glenn Wenger",
+            "location": "Richfield, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 13
+      },
+      "categories": {
+        "primary": {
+          "name": "Judgment",
+          "slug": "judgment"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c7009feb-1e58-4c54-a5e9-ae0bf90ed9cf.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c7009feb-1e58-4c54-a5e9-ae0bf90ed9cf-1.jpg",
+          "public_path": "/images/c7009feb-1e58-4c54-a5e9-ae0bf90ed9cf-1.jpg",
+          "source_page": 13,
+          "role": "closing landscape photograph",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or license terms are stated for printed page 13. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded without changing dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Group Morality",
+        "Godly Judgment",
+        "Church"
+      ]
+    },
+    {
+      "id": "f21c4f39-9508-4f75-9e0c-0c68468c41f8",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 7,
+      "title": "Thunder, Twisters, and Trust",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "by Eileen Wenger\nDalton, OH",
+        "authors": [
+          {
+            "name": "Eileen Wenger",
+            "location": "Dalton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/f21c4f39-9508-4f75-9e0c-0c68468c41f8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f21c4f39-9508-4f75-9e0c-0c68468c41f8-1.jpg",
+          "public_path": "/images/f21c4f39-9508-4f75-9e0c-0c68468c41f8-1.jpg",
+          "source_page": 15,
+          "role": "closing storm photograph",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or license terms are stated for printed page 15. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded without changing dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Trust",
+        "Fear",
+        "Storms"
+      ]
+    },
+    {
+      "id": "b3c8e9e3-2b81-4f91-846f-23e68fbd5b70",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 8,
+      "title": "Women of Faith",
+      "subtitle": "THE DISCIPLESHIP SERIES",
+      "section": "Christian Discipleship",
+      "byline": {
+        "raw": "by Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 18
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b3c8e9e3-2b81-4f91-846f-23e68fbd5b70.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Faith",
+        "Women",
+        "Christian Discipleship"
+      ]
+    },
+    {
+      "id": "b6a6823e-0f2a-4354-aebb-5c37ad85937a",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 9,
+      "title": "Nearer, My God, to Thee",
+      "subtitle": null,
+      "section": "Hymn History",
+      "byline": {
+        "raw": "by Joel A Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 19,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b6a6823e-0f2a-4354-aebb-5c37ad85937a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b6a6823e-0f2a-4354-aebb-5c37ad85937a-1.png",
+          "public_path": "/images/b6a6823e-0f2a-4354-aebb-5c37ad85937a-1.png",
+          "source_page": 21,
+          "role": "sheet music",
+          "alt": "Sheet music for Nearer, My God, to Thee",
+          "caption": null,
+          "credit": "Sarah F. Adams, 1840; Lowell Mason, 1856",
+          "rights_note": "The printed score credits Sarah F. Adams, 1840, and Lowell Mason, 1856; no separate permission notice or license terms are stated. The vector/font-based score region was rendered from the printed page at 300 dpi and cropped to omit only magazine footer furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Hymn History",
+        "Nearer, My God, to Thee"
+      ]
+    },
+    {
+      "id": "3be24d0c-4c97-452e-b3c3-177e16d990ff",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 10,
+      "title": "A Sanctified Home",
+      "subtitle": null,
+      "section": "The Godly Home",
+      "byline": {
+        "raw": "by Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/3be24d0c-4c97-452e-b3c3-177e16d990ff.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "The Godly Home",
+        "Sanctification"
+      ]
+    },
+    {
+      "id": "47fbbdc9-6663-49d8-96d7-b5a6ecb8d689",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 11,
+      "title": "I Will Hide God’s Word in My (Child’s) Heart",
+      "subtitle": null,
+      "section": "Sister to Sister",
+      "byline": {
+        "raw": "by Melissa Brubaker\nLebanon, PA",
+        "authors": [
+          {
+            "name": "Melissa Brubaker",
+            "location": "Lebanon, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/47fbbdc9-6663-49d8-96d7-b5a6ecb8d689.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Scripture Memorization",
+        "Children",
+        "Parenting"
+      ]
+    },
+    {
+      "id": "50068373-cc3d-4587-a605-3f37fc05b3ad",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 12,
+      "title": "Cancer",
+      "subtitle": "PART 2",
+      "section": "A Word From A Doctor",
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 29
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/50068373-cc3d-4587-a605-3f37fc05b3ad.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/50068373-cc3d-4587-a605-3f37fc05b3ad-1.jpg",
+          "public_path": "/images/50068373-cc3d-4587-a605-3f37fc05b3ad-1.jpg",
+          "source_page": 29,
+          "role": "closing still-life photograph",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or license terms are stated for printed page 29. The embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and re-encoded without changing dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Cancer",
+        "Medical Care",
+        "Christian Support"
+      ]
+    },
+    {
+      "id": "2b07502a-cbf0-4b92-8bb8-7910a5557f84",
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 14,
+      "title": "Mennonites, Misunderstandings, and Herbal Medicines",
+      "subtitle": "MENNONITE LIFE IN THE CONESTOGA VALLEY OF COLONIAL PENNSYLVANIA",
+      "section": "Victorious Christian Living",
+      "byline": {
+        "raw": "by Rick Hess\nDornsife, PA",
+        "authors": [
+          {
+            "name": "Rick Hess",
+            "location": "Dornsife, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/2b07502a-cbf0-4b92-8bb8-7910a5557f84.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Mennonite History",
+        "Conestoga Valley",
+        "Herbal Medicine"
+      ]
     }
   ],
   "skipped": [
@@ -6459,6 +7215,23 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "Used by permission"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2023-summer",
+      "sequence": 13,
+      "title": "Enduring Faith",
+      "byline": "by Luther Patches",
+      "source_pages": {
+        "start": 30,
+        "end": 33
+      },
+      "reason": "Article-specific permission and no-reprint notices require separate permission from Bible Helps.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps (see end of article)"
       ],
       "html_exported": false,
       "images_exported": false
