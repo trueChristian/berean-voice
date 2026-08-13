@@ -126,6 +126,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2022-summer",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Summer 2022",
+        "year": 2022,
+        "season": "Summer",
+        "precision": "season"
+      },
+      "volume_number": 27,
+      "issue_number": 2,
+      "source": {
+        "filename": "Summer-2022-Remnant.pdf",
+        "sha256": "c25487cd1a6d4745fa8e693e6a10e2a82c350d2a93f5252a8d99612ba7dc4963",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2022-spring",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -7003,6 +7027,580 @@
         "Conestoga Valley",
         "Herbal Medicine"
       ]
+    },
+    {
+      "id": "60de3363-d9fc-4137-ad60-dee9097b154b",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "Curvin L Wenger",
+        "authors": [
+          {
+            "name": "Curvin L Wenger",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/60de3363-d9fc-4137-ad60-dee9097b154b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/60de3363-d9fc-4137-ad60-dee9097b154b-1.png",
+          "public_path": "/images/60de3363-d9fc-4137-ad60-dee9097b154b-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell icon",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit is printed for this decorative artwork. The embedded image and its PDF soft mask were combined without cropping or rotation, relying on the publisher's repository authorization for this issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Editorial",
+        "Discipleship",
+        "Ministry"
+      ]
+    },
+    {
+      "id": "51e3c3a2-bccc-462c-9ae7-8f232752fbc0",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 2,
+      "title": "If you love your life…",
+      "subtitle": null,
+      "section": "Musings of a Missionary",
+      "byline": {
+        "raw": "by Barry Grant\nTitanyen, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Titanyen, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/51e3c3a2-bccc-462c-9ae7-8f232752fbc0.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Discipleship",
+        "Sacrifice",
+        "Persecution"
+      ]
+    },
+    {
+      "id": "64012528-bcec-4189-96b5-32a226869815",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 3,
+      "title": "The Battle That Rages",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–by Barry Grant",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/64012528-bcec-4189-96b5-32a226869815.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/64012528-bcec-4189-96b5-32a226869815-1.jpg",
+          "public_path": "/images/64012528-bcec-4189-96b5-32a226869815-1.jpg",
+          "source_page": 7,
+          "role": "poem background",
+          "alt": "Silhouette of a person raising both hands against a warm sky",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 7; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Spiritual Warfare",
+        "Overcoming Sin"
+      ]
+    },
+    {
+      "id": "30d02d2c-805c-437c-ad10-4542362ab6de",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 6,
+      "title": "The Road to Emmaus",
+      "subtitle": null,
+      "section": "Victorious Christian Living",
+      "byline": {
+        "raw": "by Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/30d02d2c-805c-437c-ad10-4542362ab6de.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/30d02d2c-805c-437c-ad10-4542362ab6de-1.jpg",
+          "public_path": "/images/30d02d2c-805c-437c-ad10-4542362ab6de-1.jpg",
+          "source_page": 17,
+          "role": "closing illustration",
+          "alt": "Raised hands reaching toward a beam of light from a high window",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 17; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Emmaus",
+        "Discouragement",
+        "Faith"
+      ]
+    },
+    {
+      "id": "8ef84e9e-0a7f-4a0b-8b7d-4e3a10f611e8",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 7,
+      "title": "The Promise of A Song",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Eileen H Wenger\nDalton, OH",
+        "authors": [
+          {
+            "name": "Eileen H Wenger",
+            "location": "Dalton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/8ef84e9e-0a7f-4a0b-8b7d-4e3a10f611e8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8ef84e9e-0a7f-4a0b-8b7d-4e3a10f611e8-1.jpg",
+          "public_path": "/images/8ef84e9e-0a7f-4a0b-8b7d-4e3a10f611e8-1.jpg",
+          "source_page": 18,
+          "role": "article header photograph",
+          "alt": "Pink cosmos flowers against a softly blurred background",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 18; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "God’s Care",
+        "Children",
+        "Hymns"
+      ]
+    },
+    {
+      "id": "903e4b58-b246-4ee3-85e7-eecf158a7a75",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 8,
+      "title": "A Joyful Calling",
+      "subtitle": null,
+      "section": "Sister to Sister",
+      "byline": {
+        "raw": "by Sheryl Zeiset\nLebanon, PA",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Lebanon, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 22
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/903e4b58-b246-4ee3-85e7-eecf158a7a75.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/903e4b58-b246-4ee3-85e7-eecf158a7a75-1.jpg",
+          "public_path": "/images/903e4b58-b246-4ee3-85e7-eecf158a7a75-1.jpg",
+          "source_page": 21,
+          "role": "article photograph",
+          "alt": "Adult holding the hand of a small child walking outdoors",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 21; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Motherhood",
+        "Women",
+        "Discipleship"
+      ]
+    },
+    {
+      "id": "8c9384e7-1e5f-46bd-bef6-5bb0cb8f26df",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 9,
+      "title": "What Do You See?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–by Daniel Kaufman",
+        "authors": [
+          {
+            "name": "Daniel Kaufman",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/8c9384e7-1e5f-46bd-bef6-5bb0cb8f26df.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8c9384e7-1e5f-46bd-bef6-5bb0cb8f26df-1.jpg",
+          "public_path": "/images/8c9384e7-1e5f-46bd-bef6-5bb0cb8f26df-1.jpg",
+          "source_page": 23,
+          "role": "poem background",
+          "alt": "Milky Way and stars above dark mountains and water",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 23; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Creation",
+        "Worship"
+      ]
+    },
+    {
+      "id": "aa8352a7-2d4a-49db-9454-7a0350ad3118",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 11,
+      "title": "Isolation",
+      "subtitle": null,
+      "section": "A Word From A Doctor",
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 30
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/aa8352a7-2d4a-49db-9454-7a0350ad3118.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/aa8352a7-2d4a-49db-9454-7a0350ad3118-1.jpg",
+          "public_path": "/images/aa8352a7-2d4a-49db-9454-7a0350ad3118-1.jpg",
+          "source_page": 30,
+          "role": "closing photograph",
+          "alt": "Solitary hooded person with a backpack seated above a misty landscape",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 30; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Isolation",
+        "Fellowship",
+        "Mental Health"
+      ]
+    },
+    {
+      "id": "964d8688-6491-4ede-9271-c923db4c4079",
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 12,
+      "title": "The Call to Discipleship",
+      "subtitle": null,
+      "section": "The New Testament Church",
+      "byline": {
+        "raw": "by Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/964d8688-6491-4ede-9271-c923db4c4079.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/964d8688-6491-4ede-9271-c923db4c4079-1.jpg",
+          "public_path": "/images/964d8688-6491-4ede-9271-c923db4c4079-1.jpg",
+          "source_page": 33,
+          "role": "closing photograph",
+          "alt": "Weathered wooden fishing boat floating on calm water",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 33; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "series": {
+        "name": "Discipleship",
+        "part": 1,
+        "total_parts": null
+      },
+      "topics": [
+        "Discipleship",
+        "The New Testament Church"
+      ]
     }
   ],
   "skipped": [
@@ -7232,6 +7830,74 @@
       "detected_notices": [
         "Used by permission of Bible Helps",
         "No reprinting of this article is allowed without permission from Bible Helps (see end of article)"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 4,
+      "title": "Daniel in the Den of Lions",
+      "byline": "By Harold S. Martin",
+      "source_pages": {
+        "start": 8,
+        "end": 11
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 5,
+      "title": "Emotional Connection vs Emotionalism",
+      "byline": "by Conrad Hollinger\nStettler, Alberta –Canada",
+      "source_pages": {
+        "start": 12,
+        "end": 13
+      },
+      "reason": "Article-specific adaptation permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Adapted with permission of the author",
+        "No reprinting of this article is allowed without permission of the author or Pilgrim Witness"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 10,
+      "title": "Morally Pure In A Corrupt Society",
+      "byline": "by Sim Yoder\nEast Dublin, GA",
+      "source_pages": {
+        "start": 24,
+        "end": 27
+      },
+      "reason": "Article-specific adaptation permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Adapted with permission of the author from:",
+        "No reprinting of this article is allowed without permission of the author or Pilgrim Witness"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-summer",
+      "sequence": 13,
+      "title": "The Lost Sailboat",
+      "byline": "by David W. Lehigh",
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps"
       ],
       "html_exported": false,
       "images_exported": false
