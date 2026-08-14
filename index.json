@@ -270,6 +270,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2019-summer",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Summer 2019",
+        "year": 2019,
+        "season": "Summer",
+        "precision": "season"
+      },
+      "volume_number": 23,
+      "issue_number": 2,
+      "source": {
+        "filename": "Summer-2019-Remnant.pdf",
+        "sha256": "40f30ae0b14061a90f12f32ae582737a17af1bb2843dc253f906b073cd89a3d1",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2019-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -9178,6 +9202,787 @@
         "Sacrifice",
         "Salvation"
       ]
+    },
+    {
+      "id": "971b8ffa-3721-4c08-b693-5aba9989618c",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 11,
+        "pages": [
+          3,
+          11
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/971b8ffa-3721-4c08-b693-5aba9989618c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/971b8ffa-3721-4c08-b693-5aba9989618c-1.png",
+          "public_path": "/images/971b8ffa-3721-4c08-b693-5aba9989618c-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell icon",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate permission notice is printed for this decorative artwork. The repeated continuation-page icon was rendered as a clean icon-only crop at 300 dpi from printed page 11, preserving its published appearance; it is exported once and relies on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Editorial",
+        "End Times",
+        "Doubt and Fear",
+        "Faith",
+        "Ministry Support"
+      ]
+    },
+    {
+      "id": "706a8a3f-0194-434e-a3c9-27c1635ec6f9",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 2,
+      "title": "The Strength of Covenant",
+      "subtitle": null,
+      "section": "THE GODLY HOME",
+      "byline": {
+        "raw": "Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/706a8a3f-0194-434e-a3c9-27c1635ec6f9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/706a8a3f-0194-434e-a3c9-27c1635ec6f9-1.jpg",
+          "public_path": "/images/706a8a3f-0194-434e-a3c9-27c1635ec6f9-1.jpg",
+          "source_page": 5,
+          "role": "lead thematic photograph",
+          "alt": "Two white roses with sprigs of small white flowers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. Its three embedded inverted-Adobe CMYK JPEG tiles were sample-inverted, stitched to the published crop, converted to sRGB, and re-encoded as a baseline 300-dpi JPEG without text overlays."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/706a8a3f-0194-434e-a3c9-27c1635ec6f9-2.jpg",
+          "public_path": "/images/706a8a3f-0194-434e-a3c9-27c1635ec6f9-2.jpg",
+          "source_page": 6,
+          "role": "closing thematic photograph",
+          "alt": "White rose with sprigs of small white flowers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. Its three embedded inverted-Adobe CMYK JPEG tiles were sample-inverted, stitched to the published crop, converted to sRGB, and re-encoded as a baseline 300-dpi JPEG without text overlays."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "The Godly Home",
+        "Marriage",
+        "Covenant",
+        "Fidelity"
+      ]
+    },
+    {
+      "id": "a028f656-cd41-4330-9633-2a4b4ce028e3",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 3,
+      "title": "Our Testimony that God’s Ways Work",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mark & Ann Brubaker | East Earl, PA",
+        "authors": [
+          {
+            "name": "Mark Brubaker",
+            "location": "East Earl, PA"
+          },
+          {
+            "name": "Ann Brubaker",
+            "location": "East Earl, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Home histories",
+            "slug": "home-histories"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a028f656-cd41-4330-9633-2a4b4ce028e3.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Marriage",
+        "Covenant",
+        "Repentance",
+        "Forgiveness"
+      ]
+    },
+    {
+      "id": "723392eb-4b02-4eca-a91b-d6fce9ace578",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 4,
+      "title": "Trust in the Lord",
+      "subtitle": "-with all thine heart",
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nArcahaie, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Arcahaie, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/723392eb-4b02-4eca-a91b-d6fce9ace578.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Trust",
+        "Faith",
+        "Missions",
+        "Haiti"
+      ]
+    },
+    {
+      "id": "e9621e7b-df8d-4497-998c-b98af23486b7",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 6,
+      "title": "Morning Meditations from Psalm 40",
+      "subtitle": null,
+      "section": "ENCOURAGEMENT FOR YOUNGER SISTERS",
+      "byline": {
+        "raw": "Annetta Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Annetta Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/e9621e7b-df8d-4497-998c-b98af23486b7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e9621e7b-df8d-4497-998c-b98af23486b7-1.jpg",
+          "public_path": "/images/e9621e7b-df8d-4497-998c-b98af23486b7-1.jpg",
+          "source_page": 15,
+          "role": "closing scenic background photograph",
+          "alt": "Sunrise over misty green hills, farms, and a windmill",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this landscape. Fifteen clean embedded inverted-Adobe CMYK JPEG tiles were sample-inverted, converted to sRGB, assembled according to their PDF placements, and baseline re-encoded at 300 dpi without article text or magazine furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Psalm 40",
+        "Meditation",
+        "Deliverance",
+        "Praise"
+      ]
+    },
+    {
+      "id": "069fc797-01e4-44d3-8b71-1c07f0821965",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 7,
+      "title": "THE INQUISITION of Jacques Dosie",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Edward Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 20,
+        "pages": [
+          16,
+          17,
+          20
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/069fc797-01e4-44d3-8b71-1c07f0821965.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/069fc797-01e4-44d3-8b71-1c07f0821965-1.jpg",
+          "public_path": "/images/069fc797-01e4-44d3-8b71-1c07f0821965-1.jpg",
+          "source_page": 20,
+          "role": "closing historical illustration",
+          "alt": "Jacques Dosie kneeling before Lady Friesland and other officials",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this illustration. Two embedded inverted-Adobe CMYK JPEG components were sample-inverted, converted to sRGB, assembled horizontally, and baseline re-encoded at 300 dpi; the artwork repeated at the article opening is exported once."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Anabaptist history",
+        "Persecution",
+        "Martyrdom",
+        "Baptism",
+        "Youth convictions"
+      ]
+    },
+    {
+      "id": "33d9d1e5-4428-473d-9549-730d3d980dca",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 8,
+      "title": "Joey’s Downfall",
+      "subtitle": null,
+      "section": "CHILDREN’S CORNER",
+      "byline": {
+        "raw": "Rosa Tindall\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Rosa Tindall",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/33d9d1e5-4428-473d-9549-730d3d980dca.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/33d9d1e5-4428-473d-9549-730d3d980dca-1.jpg",
+          "public_path": "/images/33d9d1e5-4428-473d-9549-730d3d980dca-1.jpg",
+          "source_page": 19,
+          "role": "full-height story photograph",
+          "alt": "A smiling young boy wearing a helmet and standing with a red bicycle",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this photograph. Seven embedded inverted-Adobe CMYK JPEG tiles were sample-inverted, converted to sRGB, assembled according to their staggered PDF placements, trimmed only of a uniform blank layout field, and baseline re-encoded at 300 dpi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Obedience",
+        "Parenting",
+        "Consequences"
+      ]
+    },
+    {
+      "id": "0f775a7f-1f39-428b-8d96-3d48095e1f49",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 10,
+      "title": "“Regeneration”",
+      "subtitle": "—Stem Cell Issues",
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Wolf Miggiani M.D.\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Wolf Miggiani M.D.",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0f775a7f-1f39-428b-8d96-3d48095e1f49.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/0f775a7f-1f39-428b-8d96-3d48095e1f49-1.jpg",
+          "public_path": "/images/0f775a7f-1f39-428b-8d96-3d48095e1f49-1.jpg",
+          "source_page": 25,
+          "role": "article opener illustration",
+          "alt": "An illustration of a doctor writing on a clipboard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this illustration. Twenty embedded inverted-Adobe CMYK JPEG tiles were sample-inverted, converted to sRGB, reassembled in their published 5-by-4 grid, and baseline re-encoded at 300 dpi without text overlays."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/0f775a7f-1f39-428b-8d96-3d48095e1f49-2.jpg",
+          "public_path": "/images/0f775a7f-1f39-428b-8d96-3d48095e1f49-2.jpg",
+          "source_page": 28,
+          "role": "DNA artwork",
+          "alt": "A glowing DNA double helix against a blue star-like background",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this artwork. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, recovered without article overlays, and baseline re-encoded at 300 dpi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Stem Cells",
+        "Regenerative Medicine",
+        "Medical Ethics",
+        "Embryonic Stem Cells",
+        "Adult Stem Cells",
+        "Clinical Trials",
+        "Discernment"
+      ]
+    },
+    {
+      "id": "3dd1acd1-f006-4519-b75c-577439a8b95c",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 11,
+      "title": "God in the Cloud",
+      "subtitle": null,
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/3dd1acd1-f006-4519-b75c-577439a8b95c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/3dd1acd1-f006-4519-b75c-577439a8b95c-1.jpg",
+          "public_path": "/images/3dd1acd1-f006-4519-b75c-577439a8b95c-1.jpg",
+          "source_page": 29,
+          "role": "article header photograph",
+          "alt": "Sunbeams shining through dark clouds",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this photograph. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, recovered without the overlaid title strip, and baseline re-encoded at 300 dpi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Clouds",
+        "Faith",
+        "Hope",
+        "Love",
+        "Suffering",
+        "Uncertainty",
+        "God’s Presence"
+      ]
+    },
+    {
+      "id": "41840dd1-50a8-4995-aeab-dc46da8a1509",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 12,
+      "title": "When Mothers Concede",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Anna L. Martin\nPerkins, OK",
+        "authors": [
+          {
+            "name": "Anna L. Martin",
+            "location": "Perkins, OK"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/41840dd1-50a8-4995-aeab-dc46da8a1509.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/41840dd1-50a8-4995-aeab-dc46da8a1509-1.jpg",
+          "public_path": "/images/41840dd1-50a8-4995-aeab-dc46da8a1509-1.jpg",
+          "source_page": 32,
+          "role": "article opener photograph",
+          "alt": "Makeup brushes arranged around a compact of pressed powder",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this photograph. Three embedded inverted-Adobe CMYK JPEG fragments were sample-inverted, converted to sRGB, assembled at their published seam positions, recovered without the section strip, and baseline re-encoded at 300 dpi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/41840dd1-50a8-4995-aeab-dc46da8a1509-2.jpg",
+          "public_path": "/images/41840dd1-50a8-4995-aeab-dc46da8a1509-2.jpg",
+          "source_page": 33,
+          "role": "decorative cosmetics photograph",
+          "alt": "A pale pink lipstick in a silver tube",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this photograph. Four embedded inverted-Adobe CMYK JPEG fragments were sample-inverted, converted to sRGB, assembled vertically without article overlays, and baseline re-encoded at 300 dpi."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/41840dd1-50a8-4995-aeab-dc46da8a1509-3.jpg",
+          "public_path": "/images/41840dd1-50a8-4995-aeab-dc46da8a1509-3.jpg",
+          "source_page": 34,
+          "role": "article photograph",
+          "alt": "Perfume bottles arranged with white and purple flowers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this photograph. Three embedded inverted-Adobe CMYK JPEG fragments were sample-inverted, converted to sRGB, assembled at their published overlap seams, and baseline re-encoded at 300 dpi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Mothers",
+        "Daughters",
+        "Modesty",
+        "Cosmetics",
+        "Adornments",
+        "Parenting",
+        "Christian Standards"
+      ]
+    },
+    {
+      "id": "f66f986e-2ea4-4794-81e8-a6f1c082f792",
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 13,
+      "title": "A Princess of God",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "by Rebecca Weber",
+        "authors": [
+          {
+            "name": "Rebecca Weber",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Woman",
+            "slug": "woman"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/f66f986e-2ea4-4794-81e8-a6f1c082f792.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f66f986e-2ea4-4794-81e8-a6f1c082f792-1.jpg",
+          "public_path": "/images/f66f986e-2ea4-4794-81e8-a6f1c082f792-1.jpg",
+          "source_page": 35,
+          "role": "poem background photograph",
+          "alt": "A vivid pink flower against a blue and green background",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate permission notice is printed for this photograph. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, recovered without the separate pale overlays, poem text, title, or byline, and baseline re-encoded at 300 dpi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Christian Womanhood",
+        "Calling",
+        "Salvation",
+        "Meekness",
+        "Godly Living"
+      ]
     }
   ],
   "skipped": [
@@ -9525,6 +10330,38 @@
       "detected_notices": [
         "Used by permission of the author.",
         "No reprinting of this article is allowed without permission from the author or Pilgrim Ministry"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 5,
+      "title": "Building Intimacy with God",
+      "byline": "Stanley R. Martin\nNorth East, PA",
+      "source_pages": {
+        "start": 12,
+        "end": 13
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Adapted/Used with permission of the author"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2019-summer",
+      "sequence": 9,
+      "title": "Preparing for Death Gracefully",
+      "byline": "-by Harold S. Martin",
+      "source_pages": {
+        "start": 21,
+        "end": 24
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps, PO Box 391, Hanover PA 17331"
       ],
       "html_exported": false,
       "images_exported": false
