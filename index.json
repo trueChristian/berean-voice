@@ -32,6 +32,29 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2024-spring",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Spring 2024",
+        "year": 2024,
+        "season": "Spring",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Spring-2024-Remnant_for-the-web.pdf",
+        "sha256": "fed1e502ad7e3f12d5addff5e90929a04fd8cc8d21a068f58b1e8850511e6262",
+        "pdf_page_count": 19,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2024-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -1016,6 +1039,711 @@
           "caption": null,
           "credit": null,
           "rights_note": "No separate image credit or license terms are stated for the sheet music on printed page 35. The complete embedded sRGB music graphic was copied byte-for-byte without transformation; confirm any applicable music-source requirements before production publication."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "62646d6d-87be-47a6-880f-0ade408a3402",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Edward Martin",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/62646d6d-87be-47a6-880f-0ade408a3402.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/62646d6d-87be-47a6-880f-0ade408a3402-1.jpg",
+          "public_path": "/images/62646d6d-87be-47a6-880f-0ade408a3402-1.jpg",
+          "source_page": 3,
+          "role": "closing illustration",
+          "alt": "White blossoms beside a small bird nesting in a bowl",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 3; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "31ea7041-cab6-4ccd-9ead-04cc949321a6",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 2,
+      "title": "A Reflection on the Early American Mennonite Church",
+      "subtitle": null,
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "Joshua Yoder\nMillersburg, Ohio",
+        "authors": [
+          {
+            "name": "Joshua Yoder",
+            "location": "Millersburg, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/31ea7041-cab6-4ccd-9ead-04cc949321a6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/31ea7041-cab6-4ccd-9ead-04cc949321a6-1.jpg",
+          "public_path": "/images/31ea7041-cab6-4ccd-9ead-04cc949321a6-1.jpg",
+          "source_page": 4,
+          "role": "opening illustration",
+          "alt": "An open Bible with pages turning",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 4; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/31ea7041-cab6-4ccd-9ead-04cc949321a6-2.jpg",
+          "public_path": "/images/31ea7041-cab6-4ccd-9ead-04cc949321a6-2.jpg",
+          "source_page": 6,
+          "role": "article illustration",
+          "alt": "A fresh green leaf budding from a twig",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 6; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "cdb88be0-93b0-4362-bc3b-1488aff1a76f",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 3,
+      "title": "The Glory of the Spring",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—Thomas H. Gill 1867",
+        "authors": [
+          {
+            "name": "Thomas H. Gill",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/cdb88be0-93b0-4362-bc3b-1488aff1a76f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/cdb88be0-93b0-4362-bc3b-1488aff1a76f-1.jpg",
+          "public_path": "/images/cdb88be0-93b0-4362-bc3b-1488aff1a76f-1.jpg",
+          "source_page": 7,
+          "role": "article illustration",
+          "alt": "White orchids with purple centers",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 7; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1ec0f654-0dd1-48f3-9a68-3b15189e6704",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 4,
+      "title": "Fun for Everyone",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Marian Martin\nGlenmont, Ohio",
+        "authors": [
+          {
+            "name": "Marian Martin",
+            "location": "Glenmont, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1ec0f654-0dd1-48f3-9a68-3b15189e6704.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1ec0f654-0dd1-48f3-9a68-3b15189e6704-1.jpg",
+          "public_path": "/images/1ec0f654-0dd1-48f3-9a68-3b15189e6704-1.jpg",
+          "source_page": 9,
+          "role": "article illustration",
+          "alt": "A child paddling a blue kayak on a pond",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 9; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "b43320f3-e4e8-450b-865c-099ef704149c",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 5,
+      "title": "Morally Pure In a Corrupt Society",
+      "subtitle": null,
+      "section": "CHRISTIAN DISCIPLESHIP",
+      "byline": {
+        "raw": "Sim Yoder\nDublin, Georgia",
+        "authors": [
+          {
+            "name": "Sim Yoder",
+            "location": "Dublin, Georgia"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 12
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b43320f3-e4e8-450b-865c-099ef704149c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b43320f3-e4e8-450b-865c-099ef704149c-1.jpg",
+          "public_path": "/images/b43320f3-e4e8-450b-865c-099ef704149c-1.jpg",
+          "source_page": 12,
+          "role": "article illustration",
+          "alt": "An orange-and-black butterfly perched beside red berries",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 12; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "ab1fe2c9-0a16-4e79-a53e-4c2d703b0e46",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 6,
+      "title": "Ken And I",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Jesse Martin\nBethel, Pennsylvania",
+        "authors": [
+          {
+            "name": "Jesse Martin",
+            "location": "Bethel, Pennsylvania"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/ab1fe2c9-0a16-4e79-a53e-4c2d703b0e46.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ab1fe2c9-0a16-4e79-a53e-4c2d703b0e46-1.jpg",
+          "public_path": "/images/ab1fe2c9-0a16-4e79-a53e-4c2d703b0e46-1.jpg",
+          "source_page": 13,
+          "role": "opening illustration",
+          "alt": "An urban storefront with a red door and a streetlamp",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 13; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation; its uniform near-opaque PDF soft mask (254/255) was omitted as non-substantive layout metadata."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/ab1fe2c9-0a16-4e79-a53e-4c2d703b0e46-2.jpg",
+          "public_path": "/images/ab1fe2c9-0a16-4e79-a53e-4c2d703b0e46-2.jpg",
+          "source_page": 15,
+          "role": "article illustration",
+          "alt": "A hand holding an open book",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 15; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "e848a36d-36eb-4f7d-aea7-e17ab34a8870",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 8,
+      "title": "DEMENTIA",
+      "subtitle": null,
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Vincent “John” Waldron, MD\nGladys, Virginia",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron, MD",
+            "location": "Gladys, Virginia"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/e848a36d-36eb-4f7d-aea7-e17ab34a8870.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e848a36d-36eb-4f7d-aea7-e17ab34a8870-1.jpg",
+          "public_path": "/images/e848a36d-36eb-4f7d-aea7-e17ab34a8870-1.jpg",
+          "source_page": 20,
+          "role": "opening illustration",
+          "alt": "A doctor beside a medical illustration of a human brain",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 20; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation; its uniform near-opaque PDF soft mask (254/255) was omitted as non-substantive layout metadata."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/e848a36d-36eb-4f7d-aea7-e17ab34a8870-2.jpg",
+          "public_path": "/images/e848a36d-36eb-4f7d-aea7-e17ab34a8870-2.jpg",
+          "source_page": 22,
+          "role": "article illustration",
+          "alt": "Eyeglasses resting on a stack of books",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No photographer/source credit or separate permission notice is printed for this image. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "10933457-b503-48e1-9346-49ff54d1b6fe",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 9,
+      "title": "Power, Love, and a Sound Mind",
+      "subtitle": null,
+      "section": "VICTORIOUS CHRISTIAN LIVING",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 26
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/10933457-b503-48e1-9346-49ff54d1b6fe.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/10933457-b503-48e1-9346-49ff54d1b6fe-1.jpg",
+          "public_path": "/images/10933457-b503-48e1-9346-49ff54d1b6fe-1.jpg",
+          "source_page": 25,
+          "role": "article illustration",
+          "alt": "An orange-and-black butterfly among green leaves",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 25; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/10933457-b503-48e1-9346-49ff54d1b6fe-2.png",
+          "public_path": "/images/10933457-b503-48e1-9346-49ff54d1b6fe-2.png",
+          "source_page": 26,
+          "role": "article illustration",
+          "alt": "A stem of small orange orchids",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 26; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG and its PDF soft mask were combined into a transparent sRGB PNG without changing the published image content or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "fbfb182b-bb05-434f-a664-b74c68153e61",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 10,
+      "title": "The Overload Syndrome",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Sue Hooley\nHolmesville, Ohio",
+        "authors": [
+          {
+            "name": "Sue Hooley",
+            "location": "Holmesville, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/fbfb182b-bb05-434f-a664-b74c68153e61.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/fbfb182b-bb05-434f-a664-b74c68153e61-1.jpg",
+          "public_path": "/images/fbfb182b-bb05-434f-a664-b74c68153e61-1.jpg",
+          "source_page": 27,
+          "role": "opening illustration",
+          "alt": "A washing machine and laundry baskets in a room",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 27; no separate permission notice or license terms are stated. The embedded sRGB JPEG was horizontally flipped to reproduce the printed orientation and re-encoded as a baseline sRGB JPEG at 100 ppi; dimensions and content were preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/fbfb182b-bb05-434f-a664-b74c68153e61-2.jpg",
+          "public_path": "/images/fbfb182b-bb05-434f-a664-b74c68153e61-2.jpg",
+          "source_page": 28,
+          "role": "article illustration",
+          "alt": "A notebook, pens, coffee, and a plant on a desk",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 28; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "45c612ff-1966-4079-9ba5-09ab022917ea",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 11,
+      "title": "God, The Perfection of Beauty",
+      "subtitle": "Out of Zion, the perfection of beauty, God hath shined. Psalms 50:2",
+      "section": "ATTRIBUTES OF GOD",
+      "byline": {
+        "raw": "Owen J. Mullet\nWarsaw, Ohio",
+        "authors": [
+          {
+            "name": "Owen J. Mullet",
+            "location": "Warsaw, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/45c612ff-1966-4079-9ba5-09ab022917ea.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/45c612ff-1966-4079-9ba5-09ab022917ea-1.jpg",
+          "public_path": "/images/45c612ff-1966-4079-9ba5-09ab022917ea-1.jpg",
+          "source_page": 30,
+          "role": "article illustration",
+          "alt": "A yellow flower against green leaves",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 30; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/45c612ff-1966-4079-9ba5-09ab022917ea-2.jpg",
+          "public_path": "/images/45c612ff-1966-4079-9ba5-09ab022917ea-2.jpg",
+          "source_page": 31,
+          "role": "article illustration",
+          "alt": "A puffball fungus growing on a mossy forest floor",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 31; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "52b9a1f9-4f4d-419d-9b36-797dfc3cb10e",
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 12,
+      "title": "The Sands of Time Are SINKING",
+      "subtitle": null,
+      "section": "HYMN HISTORY",
+      "byline": {
+        "raw": "Joel A. Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A. Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/52b9a1f9-4f4d-419d-9b36-797dfc3cb10e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/52b9a1f9-4f4d-419d-9b36-797dfc3cb10e-1.jpg",
+          "public_path": "/images/52b9a1f9-4f4d-419d-9b36-797dfc3cb10e-1.jpg",
+          "source_page": 32,
+          "role": "opening illustration",
+          "alt": "A star-filled night sky above a mountain lake",
+          "caption": null,
+          "credit": "Nathan Leinbach",
+          "rights_note": "The page-2 masthead credits Nathan Leinbach for printed pages 32 and 33; the published layout uses one logical landscape image, and no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
         }
       ],
       "rights": {
@@ -10682,6 +11410,23 @@
       "detected_notices": [
         "Used by permission of Bible Helps",
         "Please do not reprint without permission of Bible Helps (see end of article)"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2024-spring",
+      "sequence": 7,
+      "title": "How To Increase Your Faith",
+      "byline": "Harold S. Martin",
+      "source_pages": {
+        "start": 16,
+        "end": 19
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission from Bible Helps",
+        "Please do not reprint this article without permission from Bible Helps"
       ],
       "html_exported": false,
       "images_exported": false
