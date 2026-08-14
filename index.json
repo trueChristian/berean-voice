@@ -102,6 +102,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2023-spring",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Spring 2023",
+        "year": 2023,
+        "season": "Spring",
+        "precision": "season"
+      },
+      "volume_number": 30,
+      "issue_number": 1,
+      "source": {
+        "filename": "Spring-2023-Remnant-web.pdf",
+        "sha256": "87911e60ee0c43da15c308ac2097faeb9695cba6b82efc90b85b0786e7476490",
+        "pdf_page_count": 19,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2023-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -11362,6 +11386,605 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "71a8a627-ef21-4efb-9dd1-36d5124ac192",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 35,
+        "pages": [
+          3,
+          35
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/71a8a627-ef21-4efb-9dd1-36d5124ac192.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/71a8a627-ef21-4efb-9dd1-36d5124ac192-1.png",
+          "public_path": "/images/71a8a627-ef21-4efb-9dd1-36d5124ac192-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit, permission notice, or license terms are stated. The embedded indexed image and its soft mask were combined as one transparent 152x152 PNG without crop or rotation. The identical decorative mark repeats on printed page 35 and is intentionally stored and referenced once."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "Printed page 3 directs readers to printed page 35, where the article concludes."
+      }
+    },
+    {
+      "id": "3feab4dd-c830-4ead-ad57-24d853847088",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 2,
+      "title": "Hans Landis",
+      "subtitle": "From Zurich farmer to Anabaptist martyr",
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "by Joshua Yoder\nBig Prairie, OH",
+        "authors": [
+          {
+            "name": "Joshua Yoder",
+            "location": "Big Prairie, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/3feab4dd-c830-4ead-ad57-24d853847088.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/3feab4dd-c830-4ead-ad57-24d853847088-1.jpg",
+          "public_path": "/images/3feab4dd-c830-4ead-ad57-24d853847088-1.jpg",
+          "source_page": 6,
+          "role": "closing two-page-spread photograph",
+          "alt": "A close-up of sharp thorns on weathered branches",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed pages 6-7; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "391d4642-07e2-4003-83db-fa33dc08a8ca",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 3,
+      "title": "Ye Must Be Born Again",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "by Barry Grant\nHicksville, OH",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Hicksville, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/391d4642-07e2-4003-83db-fa33dc08a8ca.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/391d4642-07e2-4003-83db-fa33dc08a8ca-1.jpg",
+          "public_path": "/images/391d4642-07e2-4003-83db-fa33dc08a8ca-1.jpg",
+          "source_page": 11,
+          "role": "closing photograph",
+          "alt": "A pale crocus blooming through melting snow",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 11; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "58d3859b-42f6-4cf1-80e6-fa847d9dc4a4",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 5,
+      "title": "A Life Changing Influence",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "by Iva Mast\nWarsaw, OH",
+        "authors": [
+          {
+            "name": "Iva Mast",
+            "location": "Warsaw, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4-1.jpg",
+          "public_path": "/images/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4-1.jpg",
+          "source_page": 16,
+          "role": "header illustration",
+          "alt": "Colorful school supplies and a stethoscope around a pale background",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed pages 16-17; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was re-encoded at unchanged 1103x852 dimensions as a standards-normalized baseline sRGB JFIF JPEG with 100 dpi density; crop and orientation are unchanged."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4-2.jpg",
+          "public_path": "/images/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4-2.jpg",
+          "source_page": 17,
+          "role": "article photograph",
+          "alt": "An empty classroom with rows of desks",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed pages 16-17; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was re-encoded at unchanged 484x349 dimensions as a standards-normalized baseline sRGB JFIF JPEG with 100 dpi density; crop and orientation are unchanged."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4-3.jpg",
+          "public_path": "/images/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4-3.jpg",
+          "source_page": 17,
+          "role": "article photograph",
+          "alt": "Children stacking their hands together",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed pages 16-17; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was re-encoded at unchanged 484x466 dimensions as a standards-normalized baseline sRGB JFIF JPEG with 100 dpi density; crop and orientation are unchanged."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4-4.jpg",
+          "public_path": "/images/58d3859b-42f6-4cf1-80e6-fa847d9dc4a4-4.jpg",
+          "source_page": 17,
+          "role": "article photograph",
+          "alt": "An ambulance driving with its emergency lights on",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed pages 16-17; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was re-encoded at unchanged 358x832 dimensions as a standards-normalized baseline sRGB JFIF JPEG with 100 dpi density; crop and orientation are unchanged."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "cb06f158-b3bf-41e8-9b8c-3f8490443a07",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 6,
+      "title": "When You Feel Like Giving Up",
+      "subtitle": null,
+      "section": "Inspirations for Youth",
+      "byline": {
+        "raw": "by Joseph Wengerd\nHersey, MI",
+        "authors": [
+          {
+            "name": "Joseph Wengerd",
+            "location": "Hersey, MI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/cb06f158-b3bf-41e8-9b8c-3f8490443a07.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "55b18915-e213-448c-8fe1-d430e195e768",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 7,
+      "title": "Men of Faith",
+      "subtitle": "The Fourth Article in the Discipleship Series",
+      "section": "Christian Discipleship",
+      "series": {
+        "name": "Discipleship Series",
+        "part": 4,
+        "total_parts": null
+      },
+      "byline": {
+        "raw": "by Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 22
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/55b18915-e213-448c-8fe1-d430e195e768.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/55b18915-e213-448c-8fe1-d430e195e768-1.jpg",
+          "public_path": "/images/55b18915-e213-448c-8fe1-d430e195e768-1.jpg",
+          "source_page": 22,
+          "role": "closing article photograph",
+          "alt": "Lightning beneath dark storm clouds over a field",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 22; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was re-encoded at unchanged 852x600 dimensions as a standards-normalized baseline sRGB JFIF JPEG with 100 dpi density; crop and orientation are unchanged."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "fe94355d-8741-49a7-8f66-16003daa3f89",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 8,
+      "title": "Abide With Me, Fast Falls The Eventide",
+      "subtitle": null,
+      "section": "A Hymn History",
+      "byline": {
+        "raw": "by Joel A Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/fe94355d-8741-49a7-8f66-16003daa3f89.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/fe94355d-8741-49a7-8f66-16003daa3f89-1.png",
+          "public_path": "/images/fe94355d-8741-49a7-8f66-16003daa3f89-1.png",
+          "source_page": 24,
+          "role": "sheet music",
+          "alt": "Sheet music for Abide With Me, Fast Falls the Eventide, credited to Henry F. Lyte, 1847, and William H. Monk, 1861",
+          "caption": null,
+          "credit": "Henry F. Lyte, 1847; William H. Monk, 1861",
+          "rights_note": "No separate source, permission notice, or license terms are printed for the score. The clean embedded 1-bit stencil was sample-polarity inverted to reproduce the printed black notation on white, preserved at 1723x1524, and saved as a 300 dpi 1-bit grayscale PNG; crop and orientation are unchanged."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1c698fb4-f4e6-419b-bdcc-1b25cbe2b035",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 9,
+      "title": "Understanding Submission",
+      "subtitle": null,
+      "section": "Sister to Sister",
+      "byline": {
+        "raw": "by Leora Schmucker\nHarlan, IN",
+        "authors": [
+          {
+            "name": "Leora Schmucker",
+            "location": "Harlan, IN"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1c698fb4-f4e6-419b-bdcc-1b25cbe2b035.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "d38bf79f-957f-413c-ad4d-a6b4fa8c8112",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 10,
+      "title": "Cancer… What Is It?",
+      "subtitle": null,
+      "section": "A Word From A Doctor",
+      "series": {
+        "name": "Cancer",
+        "part": 1,
+        "total_parts": 2
+      },
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/d38bf79f-957f-413c-ad4d-a6b4fa8c8112.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "951f56e4-2ce8-4f01-9500-bfeee209cdb4",
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 11,
+      "title": "The Haven of Rest",
+      "subtitle": null,
+      "section": "Victorious Christian Living",
+      "byline": {
+        "raw": "by Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/951f56e4-2ce8-4f01-9500-bfeee209cdb4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/951f56e4-2ce8-4f01-9500-bfeee209cdb4-1.jpg",
+          "public_path": "/images/951f56e4-2ce8-4f01-9500-bfeee209cdb4-1.jpg",
+          "source_page": 34,
+          "role": "article photograph",
+          "alt": "A sunlit road curving through a wooded landscape",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 34; no separate permission notice or license terms are stated. The clean embedded sRGB JPEG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
     }
   ],
   "skipped": [
@@ -11791,6 +12414,23 @@
       "detected_notices": [
         "Originally printed in the July 2018 issue of Nature Friend magazine.",
         "Used by permission."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2023-spring",
+      "sequence": 4,
+      "title": "The Just Shall Live By His Faith",
+      "byline": "by Paul Shirk",
+      "source_pages": {
+        "start": 12,
+        "end": 15
+      },
+      "reason": "Article-specific permission and no-reprint notices require separate permission from Bible Helps.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps (see end of article)"
       ],
       "html_exported": false,
       "images_exported": false
