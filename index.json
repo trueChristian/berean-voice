@@ -340,6 +340,30 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2018-summer",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Summer 2018",
+        "year": 2018,
+        "season": "Summer",
+        "precision": "season"
+      },
+      "volume_number": 22,
+      "issue_number": 2,
+      "source": {
+        "filename": "Summer-2018-Remnant.pdf",
+        "sha256": "3336d1ca9d1ceb6a8966cfc7ea5e7204064fbd7435cd6f1da32184d86c0fdbe6",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -9983,6 +10007,570 @@
         "Meekness",
         "Godly Living"
       ]
+    },
+    {
+      "id": "22f69226-719f-43f9-bfb3-66dcb689af50",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 1,
+      "title": "From The Editor",
+      "subtitle": null,
+      "section": "From The Editor",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 11,
+        "pages": [
+          3,
+          11
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/22f69226-719f-43f9-bfb3-66dcb689af50.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "36b8345a-c594-4e37-aed0-f513b21f4e88",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 2,
+      "title": "A Good Name",
+      "subtitle": null,
+      "section": "VICTORIOUS CHRISTIAN LIVING",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/36b8345a-c594-4e37-aed0-f513b21f4e88.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/36b8345a-c594-4e37-aed0-f513b21f4e88-1.jpg",
+          "public_path": "/images/36b8345a-c594-4e37-aed0-f513b21f4e88-1.jpg",
+          "source_page": 4,
+          "role": "article opener photograph",
+          "alt": "A white sailboat on dark blue water",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate permission notice or licence is printed for this image. The clean published sailboat region was rendered from the source page at 300 dpi, cropped without article text, and baseline-encoded as sRGB JPEG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "4ea430d5-7681-4c13-95a3-273e821b348a",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 3,
+      "title": "Missions in Today’s World",
+      "subtitle": null,
+      "section": "“GO YE INTO ALL THE WORLD”",
+      "byline": {
+        "raw": "Barry Grant\nArcahaie, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Arcahaie, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Mission",
+          "slug": "mission"
+        },
+        "additional": [
+          {
+            "name": "Testimony",
+            "slug": "testimony"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4ea430d5-7681-4c13-95a3-273e821b348a.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "d3d9a779-d35d-477a-ada8-6afd7e9619f0",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 4,
+      "title": "A Prudent Christian",
+      "subtitle": null,
+      "section": "MODERN-DAY PERILS",
+      "byline": {
+        "raw": "E. S. Gutwein\nWallenstein, ON",
+        "authors": [
+          {
+            "name": "E. S. Gutwein",
+            "location": "Wallenstein, ON"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/d3d9a779-d35d-477a-ada8-6afd7e9619f0.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "7d7fa00a-6ec0-414e-b328-d866a7719019",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 5,
+      "title": "Inspirations in Cooking",
+      "subtitle": "Gleanings from an inspirational sister’s meeting",
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Naomi Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Naomi Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 14
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Family",
+            "slug": "family"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/7d7fa00a-6ec0-414e-b328-d866a7719019.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7d7fa00a-6ec0-414e-b328-d866a7719019-1.jpg",
+          "public_path": "/images/7d7fa00a-6ec0-414e-b328-d866a7719019-1.jpg",
+          "source_page": 14,
+          "role": "cooking illustration",
+          "alt": "Wooden kitchen utensils, a rolling pin, and mixer attachments",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate permission notice or licence is printed for this image. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and baseline re-encoded at 300 dpi without text overlays."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "5f89758a-572b-48a1-833e-729fd10a5378",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 6,
+      "title": "Swift to Hear; Slow to Speak",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Joel A Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 16
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/5f89758a-572b-48a1-833e-729fd10a5378.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "71412f2b-40ff-4667-9457-348a9731f3f3",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 7,
+      "title": "Dear Older Sister",
+      "subtitle": null,
+      "section": "ENCOURAGEMENT FOR SISTERS",
+      "byline": {
+        "raw": "C. L. Wenger\nDalton, OH",
+        "authors": [
+          {
+            "name": "C. L. Wenger",
+            "location": "Dalton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/71412f2b-40ff-4667-9457-348a9731f3f3.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "c93eb933-a776-4294-b21d-340cfbb192a8",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 8,
+      "title": "The Call of Heathen Lands",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "Susan M. Stalter",
+        "authors": [
+          {
+            "name": "Susan M. Stalter",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 19,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Mission",
+            "slug": "mission"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c93eb933-a776-4294-b21d-340cfbb192a8.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "c7591c5d-fba7-438c-a348-740e433f778a",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 9,
+      "title": "Children of the World",
+      "subtitle": null,
+      "section": "CHILDREN’S CORNER",
+      "byline": {
+        "raw": "Edward Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Mission",
+            "slug": "mission"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c7591c5d-fba7-438c-a348-740e433f778a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c7591c5d-fba7-438c-a348-740e433f778a-1.jpg",
+          "public_path": "/images/c7591c5d-fba7-438c-a348-740e433f778a-1.jpg",
+          "source_page": 21,
+          "role": "article photograph",
+          "alt": "A smiling group of children outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate permission notice or licence is printed for this image. The clean published photograph was rendered from the source page at 300 dpi and cropped without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "45af3d42-e93e-4fa7-ba27-4839bceb092a",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 11,
+      "title": "In Return",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "By Rebecca Weber",
+        "authors": [
+          {
+            "name": "Rebecca Weber",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/45af3d42-e93e-4fa7-ba27-4839bceb092a.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "44a8fdc0-8f22-43d0-b406-fb9b47df1dc6",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 12,
+      "title": "VACCINES—",
+      "subtitle": "Ethical Concerns for the Christian",
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Wolf Miggiani MD\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Wolf Miggiani MD",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 30
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6-1.jpg",
+          "public_path": "/images/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6-1.jpg",
+          "source_page": 26,
+          "role": "doctor illustration",
+          "alt": "A doctor writing on a clipboard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate permission notice or licence is printed for this image. The clean published line illustration was rendered from the source page at 300 dpi and cropped without article text."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6-2.png",
+          "public_path": "/images/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6-2.png",
+          "source_page": 30,
+          "role": "vaccine reference table",
+          "alt": "Table of vaccines, fetal cell lines, and ethical alternatives",
+          "caption": "Vaccine Table showing Tainted Vaccines & Ethical Alternatives",
+          "credit": null,
+          "rights_note": "No separate permission notice or licence is printed for this image. The meaningful printed table was rendered as a single 300 dpi sRGB PNG because its fine coloured tabular layout is not recoverable faithfully as a normal embedded image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
     }
   ],
   "skipped": [
@@ -10362,6 +10950,38 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "Used by permission of Bible Helps, PO Box 391, Hanover PA 17331"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 10,
+      "title": "Qualities of a Faithful Christian Worker",
+      "byline": "Harold S. Martin\nBible Helps—Hanover, PA",
+      "source_pages": {
+        "start": 22,
+        "end": 25
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of: Bible Helps, P.O. Box 391, Hanover PA 17331."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 13,
+      "title": "The Flat Earth",
+      "byline": "David Yoder",
+      "source_pages": {
+        "start": 31,
+        "end": 33
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission."
       ],
       "html_exported": false,
       "images_exported": false
