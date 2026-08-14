@@ -354,7 +354,7 @@
       "volume_number": 22,
       "issue_number": 2,
       "source": {
-        "filename": "Summer-2018-Remnant.pdf",
+        "filename": "Summer-2018-Remnant(1).pdf",
         "sha256": "3336d1ca9d1ceb6a8966cfc7ea5e7204064fbd7435cd6f1da32184d86c0fdbe6",
         "pdf_page_count": 36,
         "printed_page_range": "2-35"
@@ -10361,7 +10361,7 @@
       "subtitle": null,
       "section": "Poem",
       "byline": {
-        "raw": "Susan M. Stalter",
+        "raw": "- Susan M. Stalter",
         "authors": [
           {
             "name": "Susan M. Stalter",
@@ -10437,14 +10437,25 @@
       "images": [
         {
           "sequence": 1,
-          "repository_path": "src/images/c7591c5d-fba7-438c-a348-740e433f778a-1.jpg",
-          "public_path": "/images/c7591c5d-fba7-438c-a348-740e433f778a-1.jpg",
-          "source_page": 21,
-          "role": "article photograph",
-          "alt": "A smiling group of children outdoors",
+          "repository_path": "src/images/c7591c5d-fba7-438c-a348-740e433f778a-1.png",
+          "public_path": "/images/c7591c5d-fba7-438c-a348-740e433f778a-1.png",
+          "source_page": 20,
+          "role": "article opening illustration",
+          "alt": "Children from different parts of the world arranged on a globe",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate permission notice or licence is printed for this image. The clean published photograph was rendered from the source page at 300 dpi and cropped without article text."
+          "rights_note": "No separate permission notice or licence is printed for this illustration. Because the published montage is assembled from raster tiles and vector artwork, page 20 was rendered at 300 dpi with text suppressed and the central globe illustration was isolated with a close crop and transparent boundary; no article text or page furniture is included."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/c7591c5d-fba7-438c-a348-740e433f778a-2.jpg",
+          "public_path": "/images/c7591c5d-fba7-438c-a348-740e433f778a-2.jpg",
+          "source_page": 21,
+          "role": "article photograph",
+          "alt": "A group of smiling children outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate permission notice or licence is printed for this image. The complete published photograph, which is assembled from multiple PDF image tiles, was rendered from source page 21 at 300 dpi and cropped without article text."
         }
       ],
       "rights": {
@@ -10554,14 +10565,66 @@
           "sequence": 2,
           "repository_path": "src/images/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6-2.png",
           "public_path": "/images/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6-2.png",
+          "source_page": 27,
+          "role": "article photograph",
+          "alt": "Vaccine vials, a syringe, capsules, and tablets",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate permission notice or licence is printed for this image. The complete published photograph, which is assembled from multiple PDF image tiles, was rendered from source page 27 at 300 dpi and cropped without article text."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6-3.png",
+          "public_path": "/images/44a8fdc0-8f22-43d0-b406-fb9b47df1dc6-3.png",
           "source_page": 30,
           "role": "vaccine reference table",
           "alt": "Table of vaccines, fetal cell lines, and ethical alternatives",
           "caption": "Vaccine Table showing Tainted Vaccines & Ethical Alternatives",
-          "credit": null,
-          "rights_note": "No separate permission notice or licence is printed for this image. The meaningful printed table was rendered as a single 300 dpi sRGB PNG because its fine coloured tabular layout is not recoverable faithfully as a normal embedded image."
+          "credit": "Children of God for Life ©",
+          "rights_note": "The printed table states: \"Copy Permissible with Credit Children of God for Life ©\". The required credit is preserved in the complete rendered asset and this metadata. The full table was rendered from source page 30 as a single 300 dpi sRGB PNG because its fine coloured tabular layout is not recoverable faithfully as a normal embedded image."
         }
       ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "efffe061-e17b-45b0-81aa-74edf4736b76",
+      "issue_id": "heartbeat-remnant-2018-summer",
+      "sequence": 14,
+      "title": "MINISTRY UPDATES/FINANCIAL REPORT",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Editorial",
+            "slug": "editorial"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/efffe061-e17b-45b0-81aa-74edf4736b76.html"
+      },
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -10965,7 +11028,7 @@
       },
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
-        "Used by permission of: Bible Helps, P.O. Box 391, Hanover PA 17331."
+        "-Used by permission of: Bible Helps, P.O. Box 391, Hanover PA 17331."
       ],
       "html_exported": false,
       "images_exported": false
@@ -10973,14 +11036,15 @@
     {
       "issue_id": "heartbeat-remnant-2018-summer",
       "sequence": 13,
-      "title": "The Flat Earth",
-      "byline": "David Yoder",
+      "title": "“THE FLAT EARTH”",
+      "byline": "by Morris Yoder\nMontezuma, GA",
       "source_pages": {
         "start": 31,
         "end": 33
       },
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
+        "Originally printed in the July 2018 issue of Nature Friend magazine.",
         "Used by permission."
       ],
       "html_exported": false,
