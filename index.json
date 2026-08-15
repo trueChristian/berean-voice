@@ -173,6 +173,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2022-fall",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Fall 2022",
+        "year": 2022,
+        "season": "Fall",
+        "precision": "season"
+      },
+      "volume_number": 28,
+      "issue_number": 3,
+      "source": {
+        "filename": "Fall-2022-Remnant.pdf",
+        "sha256": "18ac7a3905b08618432ceabf15551d3cc066acd0f7b0aeab0491e538e195d29d",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2022-summer",
       "publication": "The Heartbeat of The Remnant",
       "publisher": "The Berean Voice",
@@ -14249,6 +14273,749 @@
         "Christian Worldview",
         "Eternity"
       ]
+    },
+    {
+      "id": "dce3d3b3-8b56-4be5-9674-e682b97d3b43",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Curvin Wenger",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 35,
+        "pages": [
+          3,
+          35
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Church History",
+        "Civil Government",
+        "Prayer",
+        "Editorial"
+      ],
+      "html": {
+        "repository_path": "src/dce3d3b3-8b56-4be5-9674-e682b97d3b43.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/dce3d3b3-8b56-4be5-9674-e682b97d3b43-1.png",
+          "public_path": "/images/dce3d3b3-8b56-4be5-9674-e682b97d3b43-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. The clean grayscale artwork was retained as a transparent PNG without article text and visually checked against the printed page."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/dce3d3b3-8b56-4be5-9674-e682b97d3b43-2.jpg",
+          "public_path": "/images/dce3d3b3-8b56-4be5-9674-e682b97d3b43-2.jpg",
+          "source_page": 35,
+          "role": "full-page closing photograph",
+          "alt": "A straight road through a misty autumn forest",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 35; no separate permission notice or licence terms are stated. The clean embedded photograph was exported without page furniture or article text and baseline-encoded in sRGB."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "author_identity_note": "No article byline is printed; Curvin Wenger is identified as Editor in the page-2 masthead.",
+        "continuation_note": "The article begins on printed page 3 and continues nonconsecutively on printed page 35."
+      }
+    },
+    {
+      "id": "22957e4c-ccce-4a76-b982-60e61ec6b998",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 2,
+      "title": "Nero: Life of an Emperor",
+      "subtitle": null,
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "by Jonathan Yoder\nBig Prairie, OH",
+        "authors": [
+          {
+            "name": "Jonathan Yoder",
+            "location": "Big Prairie, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 5
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Nero",
+        "Early Church",
+        "Civil Government",
+        "Christian Persecution"
+      ],
+      "html": {
+        "repository_path": "src/22957e4c-ccce-4a76-b982-60e61ec6b998.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "5fc18c0d-013c-40d0-aabb-e8f7c7c404eb",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 3,
+      "title": "The Integrity of the Church",
+      "subtitle": "NAZI GERMANY AND THE MENNONITES",
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "by Joshua Yoder\nBig Prairie, OH",
+        "authors": [
+          {
+            "name": "Joshua Yoder",
+            "location": "Big Prairie, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          }
+        ]
+      },
+      "topics": [
+        "Mennonites",
+        "Nazi Germany",
+        "Church and State",
+        "Political Involvement"
+      ],
+      "html": {
+        "repository_path": "src/5fc18c0d-013c-40d0-aabb-e8f7c7c404eb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/5fc18c0d-013c-40d0-aabb-e8f7c7c404eb-1.jpg",
+          "public_path": "/images/5fc18c0d-013c-40d0-aabb-e8f7c7c404eb-1.jpg",
+          "source_page": 7,
+          "role": "closing illustrative photograph",
+          "alt": "A small white church in a mountain valley",
+          "caption": null,
+          "credit": "Pixabay.com",
+          "rights_note": "The page-2 masthead states `Page 6: Pixabay.com`, while the photograph is visually placed on printed page 7; the credit-to-asset mapping therefore has a one-page discrepancy. No separate permission notice or licence terms are stated. The clean embedded photograph was baseline-encoded in sRGB without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_credit_note": "The masthead credits printed page 6, but the asset appears on printed page 7."
+      }
+    },
+    {
+      "id": "53e8b534-1f5e-4d9d-b191-99707a404256",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 4,
+      "title": "Moses in Midian",
+      "subtitle": null,
+      "section": "CHARACTER STUDIES",
+      "byline": {
+        "raw": "by Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Moses",
+        "Midian",
+        "Humility",
+        "Preparation"
+      ],
+      "html": {
+        "repository_path": "src/53e8b534-1f5e-4d9d-b191-99707a404256.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/53e8b534-1f5e-4d9d-b191-99707a404256-1.jpg",
+          "public_path": "/images/53e8b534-1f5e-4d9d-b191-99707a404256-1.jpg",
+          "source_page": 10,
+          "role": "two-page desert landscape photograph",
+          "alt": "A broad desert valley beneath layered mountains and clouds",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed pages 10 and 11; no separate permission notice or licence terms are stated. The two clean 854-by-627 page assets were joined at their exact spread boundary, flattened against white, and baseline-encoded in sRGB without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_reconstruction_note": "The published pages 10-11 panorama was reconstructed from the two embedded page assets at the spread join."
+      }
+    },
+    {
+      "id": "f09d8cd5-b48f-470f-936f-263e6940b6bd",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 5,
+      "title": "All Hail the Power of Jesus Name",
+      "subtitle": null,
+      "section": "A Hymn History",
+      "byline": {
+        "raw": "by Joel A Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 14
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Hymn History",
+        "Edward Perronet",
+        "John Rippon",
+        "Worship"
+      ],
+      "html": {
+        "repository_path": "src/f09d8cd5-b48f-470f-936f-263e6940b6bd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f09d8cd5-b48f-470f-936f-263e6940b6bd-1.png",
+          "public_path": "/images/f09d8cd5-b48f-470f-936f-263e6940b6bd-1.png",
+          "source_page": 14,
+          "role": "full-page hymn sheet music",
+          "alt": "Sheet music for All Hail the Power of Jesus’ Name, tune DIADEM C. M. with Refrain",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The music itself prints the attributions `Edward Perronet, 1780`, `Sts. 3 and 4 by John Rippon, 1787`, and `James Ellor, 1838`; no separate image credit, licence, or permission notice is printed. The complete music region was rendered from printed page 14 at 300 dpi and cropped to exclude the magazine footer, rule, page number, and unrelated page furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "sheet_music_note": "Printed page 14 is substantive sheet music belonging to the article and is preserved as an image."
+      }
+    },
+    {
+      "id": "9b13e502-993c-4536-a32d-ae1a62c36db5",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 7,
+      "title": "Saved From the “Lion’s” Mouth",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Louella H. Burkholder\nMyerstown, PA",
+        "authors": [
+          {
+            "name": "Louella H. Burkholder",
+            "location": "Myerstown, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Children",
+        "Prayer",
+        "God’s Protection",
+        "Trust"
+      ],
+      "html": {
+        "repository_path": "src/9b13e502-993c-4536-a32d-ae1a62c36db5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/9b13e502-993c-4536-a32d-ae1a62c36db5-1.png",
+          "public_path": "/images/9b13e502-993c-4536-a32d-ae1a62c36db5-1.png",
+          "source_page": 18,
+          "role": "opening story illustration",
+          "alt": "A brindle dog wearing a chain collar",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed pages 18 and 19; no separate permission notice or licence terms are stated. The complete transparent dog illustration was reconstructed from its page-18 main object and narrow page-19 continuation at the exact spread join."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/9b13e502-993c-4536-a32d-ae1a62c36db5-2.jpg",
+          "public_path": "/images/9b13e502-993c-4536-a32d-ae1a62c36db5-2.jpg",
+          "source_page": 18,
+          "role": "two-page story-setting landscape photograph",
+          "alt": "Farm fields and buildings across a rolling rural valley in autumn",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed pages 18 and 19; no separate permission notice or licence terms are stated. The two clean 854-by-672 masked landscape panels were joined at their exact spread boundary, flattened against white, and baseline-encoded in sRGB without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_reconstruction_note": "Both published spread assets were reconstructed from their page-18 and page-19 components at the exact spread join."
+      }
+    },
+    {
+      "id": "6485a6ed-e76f-4142-9e27-e649823cb1a3",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 8,
+      "title": "With What Should We Be Adorned?",
+      "subtitle": null,
+      "section": "Sister to Sister",
+      "byline": {
+        "raw": "by Leora Schmucker\nHarlan, IN",
+        "authors": [
+          {
+            "name": "Leora Schmucker",
+            "location": "Harlan, IN"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 22
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Modesty",
+        "Adornment",
+        "Meekness",
+        "Christian Womanhood"
+      ],
+      "html": {
+        "repository_path": "src/6485a6ed-e76f-4142-9e27-e649823cb1a3.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "f82c479a-345a-4ffa-98d9-f10ddef90777",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 9,
+      "title": "Admonitions From a Mother in Prison",
+      "subtitle": null,
+      "section": "Inspirations for Youth",
+      "byline": {
+        "raw": "by Edward Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          }
+        ]
+      },
+      "topics": [
+        "Martyrdom",
+        "Youth",
+        "Christian Character",
+        "Discipleship"
+      ],
+      "html": {
+        "repository_path": "src/f82c479a-345a-4ffa-98d9-f10ddef90777.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f82c479a-345a-4ffa-98d9-f10ddef90777-1.jpg",
+          "public_path": "/images/f82c479a-345a-4ffa-98d9-f10ddef90777-1.jpg",
+          "source_page": 24,
+          "role": "thematic prison-cell photograph",
+          "alt": "Daylight entering a dark prison cell through a barred window",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No credit is printed with the photograph. The page-2 masthead credits Adobestock.com for printed page 25, but this asset is visually placed on printed page 24, so that possible mapping is not asserted as a credit. No separate permission notice or licence terms are stated. The clean embedded RGB photograph was exported without the overlaid decorative pull quote and baseline-encoded in sRGB."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "image_credit_note": "The masthead credits printed page 25, but the clean embedded photograph is visually placed on printed page 24."
+      }
+    },
+    {
+      "id": "6080d813-75a2-4123-9552-3c4f75c81219",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 10,
+      "title": "Why I Have Not Gotten the Covid Shot",
+      "subtitle": null,
+      "section": "Issues Facing the Church",
+      "byline": {
+        "raw": "by Simon “Sim” Yoder\nDublin, GA",
+        "authors": [
+          {
+            "name": "Simon “Sim” Yoder",
+            "location": "Dublin, GA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Medical",
+            "slug": "medical"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "topics": [
+        "COVID-19",
+        "Vaccination",
+        "Conscience",
+        "Medical Ethics"
+      ],
+      "html": {
+        "repository_path": "src/6080d813-75a2-4123-9552-3c4f75c81219.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "9240e6d5-f395-4db7-ab6f-3b4b603d6ea0",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 11,
+      "title": "Depression",
+      "subtitle": null,
+      "section": "A Word From A Doctor",
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Depression",
+        "Mental Health",
+        "Christian Community",
+        "Medication"
+      ],
+      "html": {
+        "repository_path": "src/9240e6d5-f395-4db7-ab6f-3b4b603d6ea0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/9240e6d5-f395-4db7-ab6f-3b4b603d6ea0-1.jpg",
+          "public_path": "/images/9240e6d5-f395-4db7-ab6f-3b4b603d6ea0-1.jpg",
+          "source_page": 31,
+          "role": "closing landscape photograph",
+          "alt": "A misty autumn forest reflected in a calm lake",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 31; no separate permission notice or licence terms are stated. The embedded photograph and its soft mask were combined to preserve the published fade, flattened against white, and baseline-encoded in sRGB without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_reconstruction_note": "The embedded page-31 photograph and its soft mask were combined to reproduce the published fade."
+      }
+    },
+    {
+      "id": "34125090-b480-4d63-b13a-33d47470f335",
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 12,
+      "title": "A Call to Holiness",
+      "subtitle": "The second article in the series “The Call of Discipleship”",
+      "section": "The New Testament Church",
+      "byline": {
+        "raw": "by Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "series": {
+        "name": "Discipleship",
+        "part": 2,
+        "total_parts": null
+      },
+      "topics": [
+        "Holiness",
+        "Discipleship",
+        "Regeneration",
+        "Worship"
+      ],
+      "html": {
+        "repository_path": "src/34125090-b480-4d63-b13a-33d47470f335.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/34125090-b480-4d63-b13a-33d47470f335-1.jpg",
+          "public_path": "/images/34125090-b480-4d63-b13a-33d47470f335-1.jpg",
+          "source_page": 32,
+          "role": "opening mountain-sunrise photograph",
+          "alt": "Sunrise over rugged mountain peaks",
+          "caption": null,
+          "credit": "Adobestock.com",
+          "rights_note": "The page-2 masthead credits Adobestock.com for printed page 33; no separate permission notice or licence terms are stated. The clean 853-by-514 page-32 asset and its 5-by-514 page-33 continuation were joined at the exact spread boundary and baseline-encoded in sRGB without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_reconstruction_note": "The published pages 32-33 mountain image was reconstructed from its main page-32 asset and narrow page-33 continuation."
+      }
     }
   ],
   "skipped": [
@@ -14792,6 +15559,23 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "Adapted/Used with permission of the author"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2022-fall",
+      "sequence": 6,
+      "title": "The God Who Will Not Let Go",
+      "byline": "by Luke B. Bucher",
+      "source_pages": {
+        "start": 15,
+        "end": 17
+      },
+      "reason": "Article-specific permission and no-reprint notices were detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "No reprinting of this article is allowed without permission from Bible Helps"
       ],
       "html_exported": false,
       "images_exported": false
