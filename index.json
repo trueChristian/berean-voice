@@ -317,6 +317,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2020-spring",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Spring 2020",
+        "year": 2020,
+        "season": "Spring",
+        "precision": "season"
+      },
+      "volume_number": 24,
+      "issue_number": 1,
+      "source": {
+        "filename": "Spring-2020-Remnant.pdf",
+        "sha256": "08bb6b50051cf0920b0e8684d048590d9a28eac87e27132be2912760d98a2b1d",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2020-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -12727,6 +12751,773 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "486eb0b4-74ad-40db-b53a-51a7b89036e2",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Curvin Wenger",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 4
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/486eb0b4-74ad-40db-b53a-51a7b89036e2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/486eb0b4-74ad-40db-b53a-51a7b89036e2-1.png",
+          "public_path": "/images/486eb0b4-74ad-40db-b53a-51a7b89036e2-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, license statement, or separate-permission notice is printed; rely on the reported publisher authorization. The PDF represents the quill through fragmented CMYK/indexed image pieces and supplies no native transparency mask. The clean quill-only region was rendered at 300 dpi, excluding article text, trimmed, and had only the near-white printed page background removed to transparency; its silhouette, orientation, and proportions are unchanged."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "author_identity_note": "No article byline is printed; Curvin Wenger is identified as Editor in the page-2 masthead."
+      },
+      "topics": [
+        "COVID-19",
+        "Family Life",
+        "Children",
+        "Christian Living"
+      ]
+    },
+    {
+      "id": "f23b48e8-ae04-4469-9ee3-be0e5461cb94",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 2,
+      "title": "For Conscience’ Sake",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nArcahaie, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Arcahaie, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 5,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/f23b48e8-ae04-4469-9ee3-be0e5461cb94.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f23b48e8-ae04-4469-9ee3-be0e5461cb94-1.jpg",
+          "public_path": "/images/f23b48e8-ae04-4469-9ee3-be0e5461cb94-1.jpg",
+          "source_page": 5,
+          "role": "lead photograph",
+          "alt": "A decorative globe lit by warm sunlight",
+          "caption": null,
+          "credit": "pixabay.com",
+          "rights_note": "The page-2 photo credits attribute printed page 5 to pixabay.com; no license terms or separate permission requirement are stated. The clean photograph was reconstructed from 12 embedded tiled inverted-Adobe CMYK JPEG objects, resolving their one-pixel overlap grid without changing the published crop or orientation; its samples were inverted, converted to sRGB, stripped, and baseline re-encoded without article text or decoration."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Conscience",
+        "Holy Spirit",
+        "Conviction",
+        "Honesty",
+        "Christian Conduct",
+        "Missions"
+      ]
+    },
+    {
+      "id": "cf07f132-92d4-49ba-b318-52520f77ca67",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 3,
+      "title": "Redeemed",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "– Barry Grant",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 8
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/cf07f132-92d4-49ba-b318-52520f77ca67.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/cf07f132-92d4-49ba-b318-52520f77ca67-1.jpg",
+          "public_path": "/images/cf07f132-92d4-49ba-b318-52520f77ca67-1.jpg",
+          "source_page": 8,
+          "role": "full-page background photograph",
+          "alt": "Sunlight streaming through a leafy forest",
+          "caption": null,
+          "credit": "Andrew Schwartz ©",
+          "rights_note": "The page-2 photo credits attribute printed page 8 to Andrew Schwartz ©; no license terms or separate permission requirement are stated. The clean full-page embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, stripped, and baseline re-encoded without changing its dimensions, crop, or orientation; the separate poem-panel assets and all overlaid text were excluded."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Redemption",
+        "Conversion",
+        "Repentance",
+        "Family Restoration"
+      ]
+    },
+    {
+      "id": "41c0e71a-9a5a-4c3e-a3fa-f235c4b00c3d",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 4,
+      "title": "Weep for Yourselves",
+      "subtitle": null,
+      "section": "CHRISTIAN LIVING",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/41c0e71a-9a5a-4c3e-a3fa-f235c4b00c3d.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Repentance",
+        "Judgment",
+        "National Sin",
+        "Intercession",
+        "Evangelism"
+      ]
+    },
+    {
+      "id": "b8c0cd82-3d1a-4287-b2f5-391e08dd8efd",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 6,
+      "title": "The Call to Labor",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "– Darren Brubaker",
+        "authors": [
+          {
+            "name": "Darren Brubaker",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Mission",
+            "slug": "mission"
+          },
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd-1.jpg",
+          "public_path": "/images/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd-1.jpg",
+          "source_page": 15,
+          "role": "full-page decorative background photograph",
+          "alt": "",
+          "caption": null,
+          "credit": "Andrew Schwartz ©",
+          "rights_note": "The page-2 photo credits attribute printed page 15 to Andrew Schwartz ©; no license terms or separate permission requirement are stated. The text-free full-page background was reconstructed at 300 dpi from the PDF's embedded CMYK image pieces, preserving the published page-image composition, crop, orientation, and translucent panels while excluding the title, poem, and byline; it was normalized as a baseline sRGB JPEG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Evangelism",
+        "Missions",
+        "Martyrdom",
+        "Christian Witness",
+        "Persecution"
+      ]
+    },
+    {
+      "id": "990a208c-f150-486c-9de0-93da42e22dfa",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 7,
+      "title": "Overcoming Fear with Faith",
+      "subtitle": null,
+      "section": "Sister to Sister",
+      "byline": {
+        "raw": "Sheryl Zeiset\nTanzania, East Africa",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Tanzania, East Africa"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/990a208c-f150-486c-9de0-93da42e22dfa.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Fear",
+        "Faith",
+        "Suffering",
+        "Eternal Perspective",
+        "Spiritual Warfare"
+      ]
+    },
+    {
+      "id": "85306410-6a2d-46f1-b6db-6d3450f7f908",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 8,
+      "title": "That Ugly, White Pocket Knife",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Louella Burkholder\nMyerstown, PA",
+        "authors": [
+          {
+            "name": "Louella Burkholder",
+            "location": "Myerstown, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/85306410-6a2d-46f1-b6db-6d3450f7f908.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/85306410-6a2d-46f1-b6db-6d3450f7f908-1.jpg",
+          "public_path": "/images/85306410-6a2d-46f1-b6db-6d3450f7f908-1.jpg",
+          "source_page": 18,
+          "role": "title illustration",
+          "alt": "Open white-handled pocket knife with a metal blade",
+          "caption": null,
+          "credit": "pixabay.com",
+          "rights_note": "The page-2 photo credits attribute printed page 18 to pixabay.com; no license terms or separate permission requirement are stated. The embedded knife image-object layers and their published shadow were recomposited without title or article text at the native 300-dpi size, then normalized as a baseline sRGB JPEG without changing the illustration's crop or orientation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/85306410-6a2d-46f1-b6db-6d3450f7f908-2.jpg",
+          "public_path": "/images/85306410-6a2d-46f1-b6db-6d3450f7f908-2.jpg",
+          "source_page": 19,
+          "role": "continuation-page setting photograph",
+          "alt": "Exterior of Weaver’s Country Store and its parking lot",
+          "caption": null,
+          "credit": "Google Maps",
+          "rights_note": "The page-2 photo credits attribute printed page 19 to Google Maps; no license terms or separate permission requirement are stated. The clean published image region was rendered at 300 dpi from its embedded CMYK pieces, excluding article text and page furniture, then normalized as a baseline sRGB JPEG while preserving the printed crop, fade, and orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Stealing",
+        "Honesty",
+        "Confession",
+        "Restitution",
+        "Children"
+      ]
+    },
+    {
+      "id": "d4b99555-fb37-4893-b173-d417f9bc0258",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 9,
+      "title": "Prepare to Win!",
+      "subtitle": null,
+      "section": "Inspirations for Youth",
+      "byline": {
+        "raw": "Dwayne Stoltzfus\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Dwayne Stoltzfus",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/d4b99555-fb37-4893-b173-d417f9bc0258.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Spiritual Discipline",
+        "Preparation",
+        "Perseverance",
+        "Youth",
+        "Prayer"
+      ]
+    },
+    {
+      "id": "2973c0bf-0445-4cd0-8f39-00871d179bae",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 10,
+      "title": "Coronavirus—God, the World, and the Church",
+      "subtitle": null,
+      "section": "MODERN-DAY PERILS",
+      "byline": {
+        "raw": "Leonard Martin\nBethel, PA",
+        "authors": [
+          {
+            "name": "Leonard Martin",
+            "location": "Bethel, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 26
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/2973c0bf-0445-4cd0-8f39-00871d179bae.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/2973c0bf-0445-4cd0-8f39-00871d179bae-1.jpg",
+          "public_path": "/images/2973c0bf-0445-4cd0-8f39-00871d179bae-1.jpg",
+          "source_page": 26,
+          "role": "thematic illustration",
+          "alt": "A blue-toned illustration of microscopic virus particles",
+          "caption": null,
+          "credit": "pixabay.com",
+          "rights_note": "The page-2 photo credits attribute printed page 26 to pixabay.com; no license terms or separate permission notice are stated. The PDF flattens the discrete illustration into six tiled image pieces; the exact text-free illustration rectangle was rendered and cropped at 300 dpi from the PDF page without page text, then normalized as a baseline sRGB JPEG. No generated, invented, or materially retouched pixels were used."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "page_decoration_note": "The repeated pale full-page virus motif on printed pages 24–26 is page-layout decoration and was not exported; the distinct blue virus illustration after the final text on page 26 was exported."
+      },
+      "topics": [
+        "COVID-19",
+        "Church and State",
+        "Suffering",
+        "Trust in God",
+        "Christian Witness"
+      ]
+    },
+    {
+      "id": "095ed998-d5e3-49fb-a63f-a2e4c434c1aa",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 11,
+      "title": "Only in the Darkness",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–by Katie Good",
+        "authors": [
+          {
+            "name": "Katie Good",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/095ed998-d5e3-49fb-a63f-a2e4c434c1aa.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/095ed998-d5e3-49fb-a63f-a2e4c434c1aa-1.jpg",
+          "public_path": "/images/095ed998-d5e3-49fb-a63f-a2e4c434c1aa-1.jpg",
+          "source_page": 27,
+          "role": "poem background photograph",
+          "alt": "Pink bleeding heart flowers against a softly blurred green background",
+          "caption": null,
+          "credit": "unsplash.com",
+          "rights_note": "The page-2 photo credits attribute printed page 27 to unsplash.com; no license terms or separate permission notice are stated. The clean text-free upper published portion was reconstructed at the flattened CMYK fragments' exact PDF placements and rendered at 300 dpi; vector title and poem text, guide lines, and poem-panel rectangles were excluded. Poppler applied the PDF's CMYK decode semantics and the result was normalized as a baseline sRGB JPEG without generated or inpainted pixels."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Prayer",
+        "Dependence on God",
+        "Faith",
+        "Spiritual Discipline"
+      ]
+    },
+    {
+      "id": "8d1b7c4e-266c-4820-ac8b-ab0b2be527f4",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 13,
+      "title": "Holding the Hearts of our Children",
+      "subtitle": null,
+      "section": "THE GODLY HOME",
+      "byline": {
+        "raw": "Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Children",
+            "slug": "children"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/8d1b7c4e-266c-4820-ac8b-ab0b2be527f4.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Parent-child Relationship",
+        "Child Development",
+        "Discipline",
+        "Family Worship",
+        "Parenting"
+      ]
+    },
+    {
+      "id": "a7adeb39-f34f-4cfd-a72d-e5842a0a71c4",
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 14,
+      "title": "JOY",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "– Barry Grant",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a7adeb39-f34f-4cfd-a72d-e5842a0a71c4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a7adeb39-f34f-4cfd-a72d-e5842a0a71c4-1.jpg",
+          "public_path": "/images/a7adeb39-f34f-4cfd-a72d-e5842a0a71c4-1.jpg",
+          "source_page": 35,
+          "role": "poem background photograph",
+          "alt": "Layered blue mountains beneath a warm peach-colored sky",
+          "caption": null,
+          "credit": "pixabay.com",
+          "rights_note": "The page-2 photo credits attribute printed page 35 to pixabay.com; no license terms or separate permission notice are stated. The clean text-free central published panel was reconstructed from five flattened photograph pieces at their exact PDF positions; all vector title, poem, and byline text were excluded. Poppler applied the PDF's CMYK decode semantics and the result was normalized as a baseline sRGB JPEG, preserving the printed pale-lavender panel tint without generated or inpainted pixels."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "title_authority_note": "The content page prints JOY; the table of contents prints Joy. The content-page form is retained."
+      },
+      "topics": [
+        "Joy",
+        "Fruit of the Spirit",
+        "Suffering",
+        "Peace",
+        "Redemption"
+      ]
     }
   ],
   "skipped": [
@@ -13190,6 +13981,38 @@
       "detected_notices": [
         "Used by permission of Bible Helps",
         "No reprinting of this article is allowed without permission from Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 5,
+      "title": "Four Characteristics of Motherhood",
+      "byline": "Harold S. Martin",
+      "source_pages": {
+        "start": 12,
+        "end": 14
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2020-spring",
+      "sequence": 12,
+      "title": "Living in the End Times",
+      "byline": "Harold S. Martin",
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps"
       ],
       "html_exported": false,
       "images_exported": false
