@@ -389,6 +389,30 @@
       }
     },
     {
+      "id": "heartbeat-remnant-2019-spring",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Spring 2019",
+        "year": 2019,
+        "season": "Spring",
+        "precision": "season"
+      },
+      "volume_number": 23,
+      "issue_number": 1,
+      "source": {
+        "filename": "Spring-2019-Remnant.pdf",
+        "sha256": "d50aa404cfbaf82495c420f572f0d09610fc9f27a0fd953b2e5bb66a22ade223",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
+    },
+    {
       "id": "heartbeat-remnant-2019-winter",
       "publication": "The Heartbeat of the Remnant",
       "publisher": "The Berean Voice",
@@ -10571,7 +10595,12 @@
         "Adult Stem Cells",
         "Clinical Trials",
         "Discernment"
-      ]
+      ],
+      "series": {
+        "name": "“Regeneration”—Stem Cell Issues",
+        "part": 2,
+        "total_parts": 2
+      }
     },
     {
       "id": "3dd1acd1-f006-4519-b75c-577439a8b95c",
@@ -13518,6 +13547,708 @@
         "Peace",
         "Redemption"
       ]
+    },
+    {
+      "id": "175280ea-7e5f-4be2-bbce-b500c0fd93cb",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 1,
+      "title": "FROM THE EDITOR",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Curvin Wenger",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/175280ea-7e5f-4be2-bbce-b500c0fd93cb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/175280ea-7e5f-4be2-bbce-b500c0fd93cb-1.png",
+          "public_path": "/images/175280ea-7e5f-4be2-bbce-b500c0fd93cb-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. The clean quill-only region was rendered at 300 dpi, cropped without article text, and had only its near-white page background removed to transparency; its silhouette and orientation are unchanged."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "author_identity_note": "No article byline is printed; Curvin Wenger is identified as Editor in the page-2 masthead."
+      },
+      "topics": [
+        "Faithfulness",
+        "Christian Service",
+        "Marriage",
+        "Church Meetings"
+      ]
+    },
+    {
+      "id": "0b10b42a-d2c7-4e0f-bf4d-62eec6c8ee11",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 2,
+      "title": "The Mystery of Marriage",
+      "subtitle": null,
+      "section": "THE GODLY HOME",
+      "byline": {
+        "raw": "Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Family",
+          "slug": "family"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0b10b42a-d2c7-4e0f-bf4d-62eec6c8ee11.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/0b10b42a-d2c7-4e0f-bf4d-62eec6c8ee11-1.jpg",
+          "public_path": "/images/0b10b42a-d2c7-4e0f-bf4d-62eec6c8ee11-1.jpg",
+          "source_page": 6,
+          "role": "marriage-themed photograph",
+          "alt": "A man and woman holding hands in silhouette against a vivid sunset",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, stripped, and baseline re-encoded without changing its dimensions, crop, or orientation. The same photograph also appears as a page-background treatment on printed pages 4-5."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "background_image_repeated_in_pdf": true,
+        "background_image_duplicated_in_html": false
+      },
+      "topics": [
+        "Marriage",
+        "Biblical Order",
+        "Family",
+        "Husband and Wife"
+      ]
+    },
+    {
+      "id": "7cdda5c4-11c0-4b7f-bcd4-b37677267f87",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 3,
+      "title": "A Quiet and Peaceable Life?",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nArcahaie, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Arcahaie, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 8
+      },
+      "categories": {
+        "primary": {
+          "name": "Missions",
+          "slug": "missions"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/7cdda5c4-11c0-4b7f-bcd4-b37677267f87.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Evangelism",
+        "Anabaptists",
+        "Christian Witness",
+        "Persecution"
+      ]
+    },
+    {
+      "id": "90d8e22a-d7b1-453e-98bf-cab1571a7f56",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 4,
+      "title": null,
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–Barry Grant",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/90d8e22a-d7b1-453e-98bf-cab1571a7f56.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/90d8e22a-d7b1-453e-98bf-cab1571a7f56-1.jpg",
+          "public_path": "/images/90d8e22a-d7b1-453e-98bf-cab1571a7f56-1.jpg",
+          "source_page": 9,
+          "role": "poem setting photograph",
+          "alt": "A waterfall flowing over layered rock ledges in a forest",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. The PDF flattens the full-height photograph into CMYK tiles; the exact text-free waterfall region was rendered and cropped at 300 dpi, then normalized as a baseline sRGB JPEG without altering its published orientation or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "title_authority_note": "No title is printed on the content page; null is retained rather than inventing a title from the first line."
+      },
+      "topics": [
+        "Martyrdom",
+        "Christian Commitment",
+        "Faithfulness",
+        "Sacrifice"
+      ]
+    },
+    {
+      "id": "96e445d4-5f1d-469c-a807-d0f1e297bb1f",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 5,
+      "title": "Mothers and Prayer",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Regina Martin\nHuaral, Lima, Peru",
+        "authors": [
+          {
+            "name": "Regina Martin",
+            "location": "Huaral, Lima, Peru"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 12
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/96e445d4-5f1d-469c-a807-d0f1e297bb1f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/96e445d4-5f1d-469c-a807-d0f1e297bb1f-1.jpg",
+          "public_path": "/images/96e445d4-5f1d-469c-a807-d0f1e297bb1f-1.jpg",
+          "source_page": 11,
+          "role": "praying-hands illustration",
+          "alt": "A watercolor illustration of hands clasped in prayer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. Three embedded inverted-Adobe CMYK JPEG pieces were sample-inverted, converted to sRGB, reassembled at their exact placements, stripped, and baseline re-encoded without article text. The smaller repeat on page 12 was not exported separately."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "permission_context_note": "The sentence 'Another sister granted me permission to share their experience in relating with neighborhood children:' records narrative consent; it does not require separate permission to reprint this article."
+      },
+      "topics": [
+        "Prayer",
+        "Motherhood",
+        "Parenting",
+        "Children"
+      ]
+    },
+    {
+      "id": "08c717e6-5c69-433c-b04d-ab1957c20eb9",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 6,
+      "title": "A Man in the Gap",
+      "subtitle": null,
+      "section": "FAITHFUL ENDURANCE",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/08c717e6-5c69-433c-b04d-ab1957c20eb9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/08c717e6-5c69-433c-b04d-ab1957c20eb9-1.jpg",
+          "public_path": "/images/08c717e6-5c69-433c-b04d-ab1957c20eb9-1.jpg",
+          "source_page": 13,
+          "role": "biblical illustration",
+          "alt": "Daniel kneeling at an open window in prayer while several men observe",
+          "caption": "Daniel seen praying",
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate-permission notice is printed. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, stripped, and baseline re-encoded without changing its dimensions, crop, or orientation; the printed caption is preserved separately."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      },
+      "topics": [
+        "Faithfulness",
+        "Leadership",
+        "Spiritual Responsibility",
+        "Priorities"
+      ]
+    },
+    {
+      "id": "4c0794e8-20a4-43fb-a2ea-5f8f45d93f7d",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 7,
+      "title": "Trust—Be Not Afraid",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Louella H. Burkholder\nMyerstown, PA",
+        "authors": [
+          {
+            "name": "Louella H. Burkholder",
+            "location": "Myerstown, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4c0794e8-20a4-43fb-a2ea-5f8f45d93f7d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4c0794e8-20a4-43fb-a2ea-5f8f45d93f7d-1.png",
+          "public_path": "/images/4c0794e8-20a4-43fb-a2ea-5f8f45d93f7d-1.png",
+          "source_page": 16,
+          "role": "title illustration",
+          "alt": "A fuel gauge with its needle near empty",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, stripped, and normalized as a PNG without article text."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/4c0794e8-20a4-43fb-a2ea-5f8f45d93f7d-2.jpg",
+          "public_path": "/images/4c0794e8-20a4-43fb-a2ea-5f8f45d93f7d-2.jpg",
+          "source_page": 17,
+          "role": "story illustration",
+          "alt": "An old car stopped on a dark road with another vehicle's headlights behind it",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, stripped, and baseline re-encoded without changing its dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Fear",
+        "Trust in God",
+        "Prayer",
+        "Providence"
+      ]
+    },
+    {
+      "id": "a5dc3764-e799-4138-82f0-87b245a77db8",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 10,
+      "title": "“Regeneration”",
+      "subtitle": "—Stem Cell Issues",
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Wolf Miggiani M.D.\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Wolf Miggiani M.D.",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "series": {
+        "name": "“Regeneration”—Stem Cell Issues",
+        "part": 1,
+        "total_parts": 2
+      },
+      "html": {
+        "repository_path": "src/a5dc3764-e799-4138-82f0-87b245a77db8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a5dc3764-e799-4138-82f0-87b245a77db8-1.png",
+          "public_path": "/images/a5dc3764-e799-4138-82f0-87b245a77db8-1.png",
+          "source_page": 25,
+          "role": "article opener illustration",
+          "alt": "A line drawing of a doctor reading papers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. The doctor line drawing is flattened over tiled page artwork; its exact text-free published region was rendered and cropped at 300 dpi, excluding the article title and byline, and saved as an sRGB PNG without generated or inpainted pixels."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/a5dc3764-e799-4138-82f0-87b245a77db8-2.png",
+          "public_path": "/images/a5dc3764-e799-4138-82f0-87b245a77db8-2.png",
+          "source_page": 26,
+          "role": "medical illustration",
+          "alt": "An illustrated doctor standing before a DNA helix and microscope",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. The clean embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, stripped, and normalized as a PNG without changing its dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Regenerative Medicine",
+        "Medical Ethics",
+        "Fetal Tissue",
+        "Stem Cells",
+        "Christian Discernment"
+      ]
+    },
+    {
+      "id": "ba09e248-cc12-4573-9db1-cceb885953ac",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 11,
+      "title": "The Finished Work of Christ",
+      "subtitle": null,
+      "section": "Featured Article",
+      "byline": {
+        "raw": "Larry Zook – Kalona, IA\nCurvin L Wenger – Dalton, OH",
+        "authors": [
+          {
+            "name": "Larry Zook",
+            "location": "Kalona, IA"
+          },
+          {
+            "name": "Curvin L Wenger",
+            "location": "Dalton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 32
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/ba09e248-cc12-4573-9db1-cceb885953ac.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ba09e248-cc12-4573-9db1-cceb885953ac-1.jpg",
+          "public_path": "/images/ba09e248-cc12-4573-9db1-cceb885953ac-1.jpg",
+          "source_page": 29,
+          "role": "crucifixion illustration",
+          "alt": "A crucifixion scene showing Jesus on the cross with soldiers and onlookers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. Two embedded vertical inverted-Adobe CMYK JPEG tiles were sample-inverted, converted to sRGB, reassembled at their exact shared edge, stripped, and baseline re-encoded without changing the published content or orientation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/ba09e248-cc12-4573-9db1-cceb885953ac-2.jpg",
+          "public_path": "/images/ba09e248-cc12-4573-9db1-cceb885953ac-2.jpg",
+          "source_page": 30,
+          "role": "resurrection illustration",
+          "alt": "The risen Jesus appearing before guards near the tomb",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, image credit, licence, or separate-permission notice is printed. Two embedded vertical inverted-Adobe CMYK JPEG tiles were sample-inverted, converted to sRGB, reassembled at their exact shared edge, stripped, and baseline re-encoded without changing the published content or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "topics": [
+        "Atonement",
+        "Blood of Christ",
+        "Death and Burial",
+        "Resurrection",
+        "Ascension"
+      ]
+    },
+    {
+      "id": "fdeac3b1-1f65-4a08-be46-c3bdca309210",
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 12,
+      "title": "One Christian’s Response",
+      "subtitle": null,
+      "section": "“COME NOW, LET US REASON TOGETHER”",
+      "byline": {
+        "raw": "Ted Bierdeman\nThree Rivers, MI",
+        "authors": [
+          {
+            "name": "Ted Bierdeman",
+            "location": "Three Rivers, MI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Family",
+            "slug": "family"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/fdeac3b1-1f65-4a08-be46-c3bdca309210.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "shared_page_note": "Printed page 34 also begins the separately restricted article 'Truth or Mercy'; its notice and text do not belong to this continuation."
+      },
+      "topics": [
+        "Biblical Identity",
+        "Marriage",
+        "Gender",
+        "Christian Worldview",
+        "Eternity"
+      ]
     }
   ],
   "skipped": [
@@ -14013,6 +14744,54 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "Used by permission of Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 8,
+      "title": "Youth at the Crossroads",
+      "byline": "Lamar Stoltzfus\nLititz, PA",
+      "source_pages": {
+        "start": 18,
+        "end": 20
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Adapted/Used with permission of the author"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 9,
+      "title": "Walking in the Light",
+      "byline": "Paul D. Shirk\nDover, PA",
+      "source_pages": {
+        "start": 21,
+        "end": 24
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps, PO Box 391, Hanover PA 17331"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2019-spring",
+      "sequence": 13,
+      "title": "Truth or Mercy",
+      "byline": "A Clair Auker\nAmelia, VA",
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Adapted/Used with permission of the author"
       ],
       "html_exported": false,
       "images_exported": false
