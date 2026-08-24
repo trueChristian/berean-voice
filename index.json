@@ -555,6 +555,30 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2019-fall",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Fall 2019",
+        "year": 2019,
+        "season": "Fall",
+        "precision": "season"
+      },
+      "volume_number": 23,
+      "issue_number": 3,
+      "source": {
+        "filename": "Fall-2019-Remnant.pdf",
+        "sha256": "a88970bd88ac86171e550ef9166e31bdf2008da4ddcf692498e86691df4c2455",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -16678,6 +16702,965 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "61de0180-55e6-4050-a125-d1362f908231",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": "Guest editorial written by Edward Martin, chairman of the board",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": null,
+            "role": "chairman of the board"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 5,
+        "pages": [
+          3,
+          5
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Editorial",
+        "Rohingya Refugees",
+        "Biblical Answers",
+        "Ministry Support"
+      ],
+      "html": {
+        "repository_path": "src/61de0180-55e6-4050-a125-d1362f908231.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/61de0180-55e6-4050-a125-d1362f908231-1.png",
+          "public_path": "/images/61de0180-55e6-4050-a125-d1362f908231-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell icon",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this decorative artwork. The repeated continuation-page quill was exported once as a clean icon-only 300-dpi crop from printed page 3, preserving its published orientation and converted to sRGB PNG without article text or magazine furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "99e60906-2552-408c-a36c-14e4098d4a55",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 2,
+      "title": "Abba Father",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nArcahaie, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Arcahaie, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "topics": [
+        "Prayer",
+        "Fatherhood",
+        "Ministry",
+        "Haiti",
+        "Submission"
+      ],
+      "html": {
+        "repository_path": "src/99e60906-2552-408c-a36c-14e4098d4a55.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "81500054-38d9-4132-b51e-5030167769c9",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 3,
+      "title": "The Three Cs of Interpretation",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Darren Drayer\nOssian, IN",
+        "authors": [
+          {
+            "name": "Darren Drayer",
+            "location": "Ossian, IN"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Biblical Interpretation",
+        "Context",
+        "Covenants",
+        "Scripture"
+      ],
+      "html": {
+        "repository_path": "src/81500054-38d9-4132-b51e-5030167769c9.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "feb1e173-673e-4364-b2f8-f00a099102e5",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 4,
+      "title": "The Balm of Gilead",
+      "subtitle": null,
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Sin",
+        "Repentance",
+        "Healing",
+        "Self-centeredness",
+        "Balm of Gilead"
+      ],
+      "html": {
+        "repository_path": "src/feb1e173-673e-4364-b2f8-f00a099102e5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/feb1e173-673e-4364-b2f8-f00a099102e5-1.jpg",
+          "public_path": "/images/feb1e173-673e-4364-b2f8-f00a099102e5-1.jpg",
+          "source_page": 8,
+          "role": "decorative leafy-branch background",
+          "alt": "Pale green leafy branches",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this decorative artwork. The clean high-resolution embedded CMYK tile was sample-inverted, converted to sRGB, stripped of PDF container data, and baseline-encoded at 1004 by 962 pixels and 300 dpi while preserving its published crop and orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "70a6ffc9-7d3b-472d-b886-39c63de6fa50",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 5,
+      "title": "A Prayer For Words Fitly Spoken",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Rebecca Weber",
+        "authors": [
+          {
+            "name": "Rebecca Weber",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Prayer",
+        "Speech",
+        "Witness"
+      ],
+      "html": {
+        "repository_path": "src/70a6ffc9-7d3b-472d-b886-39c63de6fa50.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/70a6ffc9-7d3b-472d-b886-39c63de6fa50-1.jpg",
+          "public_path": "/images/70a6ffc9-7d3b-472d-b886-39c63de6fa50-1.jpg",
+          "source_page": 11,
+          "role": "full-page poem background",
+          "alt": "Warm sunset sky behind silhouetted palm fronds",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this background. Fourteen embedded inverted-CMYK transparency tiles were sample-inverted, converted to sRGB, and composited in PDF paint order on a 350-dpi canvas; edge bleed was cropped and the published pale center panel retained, while all separate title, poem, byline, and page text was omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "c3bca6a9-4fd6-41ff-aad6-1623ac512124",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 7,
+      "title": "Building Up Relationships",
+      "subtitle": null,
+      "section": "ENCOURAGEMENT FOR YOUNGER SISTERS",
+      "byline": {
+        "raw": "Irene Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Irene Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 22,
+        "pages": [
+          16,
+          17,
+          22
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Friendship",
+        "Relationships",
+        "Encouragement",
+        "Sensitivity"
+      ],
+      "html": {
+        "repository_path": "src/c3bca6a9-4fd6-41ff-aad6-1623ac512124.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c3bca6a9-4fd6-41ff-aad6-1623ac512124-1.jpg",
+          "public_path": "/images/c3bca6a9-4fd6-41ff-aad6-1623ac512124-1.jpg",
+          "source_page": 22,
+          "role": "closing decorative photograph",
+          "alt": "Autumn maple leaves on weathered wooden boards",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. Five embedded inverted-CMYK JPEG tiles were sample-inverted, converted to sRGB, and reassembled into the published 2552-by-1597-pixel lower-page crop, including its soft blurred upper band; the overlaid Proverbs 27:6 pull quote and article text were omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "e084713e-2b35-47ce-9f04-58eb4afb96d6",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 8,
+      "title": "Sharing Snowflake",
+      "subtitle": null,
+      "section": "CHILDREN’S CORNER",
+      "byline": {
+        "raw": "Anna L. Martin\nPerkins, OK",
+        "authors": [
+          {
+            "name": "Anna L. Martin",
+            "location": "Perkins, OK"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Peacemaking",
+        "Forgiveness",
+        "Kindness"
+      ],
+      "html": {
+        "repository_path": "src/e084713e-2b35-47ce-9f04-58eb4afb96d6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e084713e-2b35-47ce-9f04-58eb4afb96d6-1.jpg",
+          "public_path": "/images/e084713e-2b35-47ce-9f04-58eb4afb96d6-1.jpg",
+          "source_page": 19,
+          "role": "story photograph",
+          "alt": "A pale kitten with blue eyes sitting on a brown blanket",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. Eight embedded pieces—two sRGB field tiles and six inverted-CMYK JPEG tiles—were colour-corrected as required, converted to sRGB, and reassembled into the full published 2196-by-2837-pixel image; the large dark-brown upper field is part of the source design, and the separate overlaid article text was omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "aa854f6f-953e-4420-9f41-ca6bbea067ca",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 9,
+      "title": "The Poor in Spirit",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Josh Wamble\nLebanon, PA",
+        "authors": [
+          {
+            "name": "Josh Wamble",
+            "location": "Lebanon, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Humility",
+        "Poverty of Spirit",
+        "Prayer",
+        "Compassion"
+      ],
+      "html": {
+        "repository_path": "src/aa854f6f-953e-4420-9f41-ca6bbea067ca.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/aa854f6f-953e-4420-9f41-ca6bbea067ca-1.jpg",
+          "public_path": "/images/aa854f6f-953e-4420-9f41-ca6bbea067ca-1.jpg",
+          "source_page": 20,
+          "role": "two-page article background",
+          "alt": "A pale purple star field spanning the article’s two-page background",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this background. Nine embedded inverted-CMYK JPEG tiles from each of printed pages 20 and 21 were sample-inverted, converted to sRGB, reconstructed at their native 288 dpi, and joined into one clean 4896-by-3168-pixel text-free spread while preserving the published alignment and crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "4e692f76-281a-402f-aaa2-e482f78b9dfa",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 10,
+      "title": "The Power of “Exousia”",
+      "subtitle": "A Bible Study on Spiritual Authority",
+      "section": "BIBLE DOCTRINES",
+      "byline": {
+        "raw": "Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Spiritual Authority",
+        "Exousia",
+        "Church Administration",
+        "Headship",
+        "Home Leadership"
+      ],
+      "html": {
+        "repository_path": "src/4e692f76-281a-402f-aaa2-e482f78b9dfa.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "74625c04-db8e-4ed6-8842-429f70550aec",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 11,
+      "title": "CBD–Illegal No More",
+      "subtitle": null,
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Wolf Miggiani M.D.\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Wolf Miggiani M.D.",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 30
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "topics": [
+        "CBD",
+        "Cannabis",
+        "Marijuana",
+        "Christian Discernment",
+        "Medical Ethics"
+      ],
+      "html": {
+        "repository_path": "src/74625c04-db8e-4ed6-8842-429f70550aec.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/74625c04-db8e-4ed6-8842-429f70550aec-1.png",
+          "public_path": "/images/74625c04-db8e-4ed6-8842-429f70550aec-1.png",
+          "source_page": 26,
+          "role": "article opener illustration",
+          "alt": "Line drawing of a doctor writing on a clipboard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this illustration. Twenty embedded pieces were reconstructed in a five-by-four layout, with inverted CMYK JPEG samples corrected where needed, converted to sRGB, and cropped to the clean 500-by-535-pixel illustration without article text."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/74625c04-db8e-4ed6-8842-429f70550aec-2.jpg",
+          "public_path": "/images/74625c04-db8e-4ed6-8842-429f70550aec-2.jpg",
+          "source_page": 26,
+          "role": "molecular structure diagram",
+          "alt": "Molecular structures of Delta-9-tetrahydrocannabinol (THC) and Cannabidiol (CBD)",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this diagram. The clean native inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and normalized as a baseline 1488-by-533-pixel JPEG while preserving its labels, crop, and orientation."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/74625c04-db8e-4ed6-8842-429f70550aec-3.png",
+          "public_path": "/images/74625c04-db8e-4ed6-8842-429f70550aec-3.png",
+          "source_page": 29,
+          "role": "cannabis product illustration",
+          "alt": "Silhouettes of a cannabis leaf, dropper, drop, and medicine bottle",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this illustration. Three inverted-CMYK JPEG pieces and one correctly oriented CMYK TIFF piece were colour-corrected as required, converted to sRGB, and composited in their published two-by-two arrangement as a 1054-by-1054-pixel PNG without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "34f1de2d-cca6-4333-b60b-3f08d6e9c17f",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 12,
+      "title": "The Bible—God’s Word or A Crystal Ball",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Matt Drayer\nWolcott, IN",
+        "authors": [
+          {
+            "name": "Matt Drayer",
+            "location": "Wolcott, IN"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "topics": [
+        "Children",
+        "Education",
+        "Guidance",
+        "Scripture"
+      ],
+      "html": {
+        "repository_path": "src/34f1de2d-cca6-4333-b60b-3f08d6e9c17f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/34f1de2d-cca6-4333-b60b-3f08d6e9c17f-1.jpg",
+          "public_path": "/images/34f1de2d-cca6-4333-b60b-3f08d6e9c17f-1.jpg",
+          "source_page": 31,
+          "role": "opening thematic photograph",
+          "alt": "A crystal ball reflecting a room",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. Three embedded inverted-CMYK slices were sample-inverted, converted to sRGB, joined to the published 1510-by-1090-pixel crop, and baseline-encoded at 300 dpi without article text."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/34f1de2d-cca6-4333-b60b-3f08d6e9c17f-2.jpg",
+          "public_path": "/images/34f1de2d-cca6-4333-b60b-3f08d6e9c17f-2.jpg",
+          "source_page": 31,
+          "role": "closing thematic photograph",
+          "alt": "An open Bible with red-letter text",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. The embedded inverted-CMYK tiles were sample-inverted, converted to sRGB, joined to the published 3070-by-2390-pixel crop, and baseline-encoded at 360 dpi without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "e0fa8e40-c5f8-4289-b8d1-7c2e363b8e2d",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 13,
+      "title": "Joy in the Crevices",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Sheryl Zeiset\nTanzania, East Africa",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Tanzania, East Africa"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Motherhood",
+        "Homemaking",
+        "Gratitude",
+        "Joy"
+      ],
+      "html": {
+        "repository_path": "src/e0fa8e40-c5f8-4289-b8d1-7c2e363b8e2d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e0fa8e40-c5f8-4289-b8d1-7c2e363b8e2d-1.jpg",
+          "public_path": "/images/e0fa8e40-c5f8-4289-b8d1-7c2e363b8e2d-1.jpg",
+          "source_page": 32,
+          "role": "two-page article background photograph",
+          "alt": "A close-up of a pink flower spanning the article’s two-page background",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. Twenty-four embedded inverted-CMYK tiles were sample-inverted, converted to sRGB, and joined into the continuous flower spread; the top 350-pixel section-furniture strip was cropped, and the result was baseline-encoded as a 5100-by-2950-pixel 300-dpi JPEG without article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "4018b9c9-786c-497f-a442-7bcebf4017a3",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 14,
+      "title": "Featured Board Member—Joe & Liz Tindall",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Family",
+            "slug": "family"
+          }
+        ]
+      },
+      "topics": [
+        "Board Member Profile",
+        "Family",
+        "Ministry",
+        "Marriage"
+      ],
+      "html": {
+        "repository_path": "src/4018b9c9-786c-497f-a442-7bcebf4017a3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4018b9c9-786c-497f-a442-7bcebf4017a3-1.jpg",
+          "public_path": "/images/4018b9c9-786c-497f-a442-7bcebf4017a3-1.jpg",
+          "source_page": 34,
+          "role": "family portrait",
+          "alt": "Joe and Liz Tindall standing outdoors with three of their daughters",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. The clean native inverted-Adobe CMYK asset was sample-inverted, converted to sRGB, and baseline-encoded as a 1058-by-663-pixel 300-dpi JPEG while preserving its crop and orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "9b698649-bc80-4909-bdb5-ac16d0c029c9",
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 15,
+      "title": "Continuing Endurance",
+      "subtitle": "(Luke 18)",
+      "section": null,
+      "byline": {
+        "raw": "Jaleesa D. Henderson",
+        "authors": [
+          {
+            "name": "Jaleesa D. Henderson",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Prayer",
+        "Endurance",
+        "Thanksgiving"
+      ],
+      "html": {
+        "repository_path": "src/9b698649-bc80-4909-bdb5-ac16d0c029c9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/9b698649-bc80-4909-bdb5-ac16d0c029c9-1.jpg",
+          "public_path": "/images/9b698649-bc80-4909-bdb5-ac16d0c029c9-1.jpg",
+          "source_page": 35,
+          "role": "full-page poem background",
+          "alt": "Faded praying hands on a parchment-like background with ornate corners",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this background. Sixty-three embedded inverted-CMYK tiles were sample-inverted, converted to sRGB, and reconstructed into the clean full-page background at 2550 by 3300 pixels and 300 dpi, then baseline-encoded without the separate poem, title, subtitle, byline, or page text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
     }
   ],
   "skipped": [
@@ -17266,6 +18249,22 @@
       "source_pages": {
         "start": 29,
         "end": 31
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2019-fall",
+      "sequence": 6,
+      "title": "A Broken and Contrite Heart",
+      "byline": "By Harold S. Martin",
+      "source_pages": {
+        "start": 12,
+        "end": 15
       },
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
