@@ -579,6 +579,30 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2018-fall",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Fall 2018",
+        "year": 2018,
+        "season": "Fall",
+        "precision": "season"
+      },
+      "volume_number": 22,
+      "issue_number": 3,
+      "source": {
+        "filename": "Fall-2018-Remnant.pdf",
+        "sha256": "f661b0321e0207b2b3ce6079c27da2084f9da31e293bdeb28433923629e66e7d",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -17661,6 +17685,564 @@
         "decorative_pull_quote_duplicated_in_pdf": false,
         "decorative_pull_quote_duplicated_in_html": false
       }
+    },
+    {
+      "id": "6b0f932f-2349-49d2-9d54-8e26afc8403f",
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 13,
+        "pages": [
+          3,
+          9,
+          13
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Ministry Growth",
+        "Counseling",
+        "Reader Outreach"
+      ],
+      "publication_note": "Dated October 22, 2018.",
+      "html": {
+        "repository_path": "src/6b0f932f-2349-49d2-9d54-8e26afc8403f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/6b0f932f-2349-49d2-9d54-8e26afc8403f-1.png",
+          "public_path": "/images/6b0f932f-2349-49d2-9d54-8e26afc8403f-1.png",
+          "source_page": 3,
+          "role": "repeated decorative section icon",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this quill-and-inkwell icon, which repeats on printed pages 3, 9, and 13. The page artwork was rendered at 300 dpi with text suppressed, isolated from the magazine furniture, converted to sRGB, and given a transparent background; one representative occurrence is used in the HTML."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "e9f9fe03-b21a-4ea2-b9a1-cad142d5d747",
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 2,
+      "title": "Godly Stress Management",
+      "subtitle": null,
+      "section": "VICTORIOUS CHRISTIAN LIVING",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Stress",
+        "Rest",
+        "Faith",
+        "Peace"
+      ],
+      "html": {
+        "repository_path": "src/e9f9fe03-b21a-4ea2-b9a1-cad142d5d747.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e9f9fe03-b21a-4ea2-b9a1-cad142d5d747-1.png",
+          "public_path": "/images/e9f9fe03-b21a-4ea2-b9a1-cad142d5d747-1.png",
+          "source_page": 4,
+          "role": "article opener photograph",
+          "alt": "A rowboat silhouetted against a vivid red sunset",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. The clean embedded inverted-Adobe CMYK asset was sample-inverted, converted to sRGB, and masked to preserve its circular published crop and orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "52ffee9c-79cc-4735-a754-ec9190c8e497",
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 6,
+      "title": "What Gospel Are We Living?",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant | Arcahaie, Haiti | July 28, 2018",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Arcahaie, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Missions",
+          "slug": "missions"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Missions",
+        "Gospel",
+        "Christian Practice"
+      ],
+      "publication_note": "Dated July 28, 2018.",
+      "html": {
+        "repository_path": "src/52ffee9c-79cc-4735-a754-ec9190c8e497.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "630d2537-83ca-4d87-91fe-bd028457f99b",
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 7,
+      "title": "The Preacher",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Barry Grant",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 18
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Missions",
+            "slug": "missions"
+          }
+        ]
+      },
+      "topics": [
+        "Evangelism",
+        "Perseverance",
+        "Persecution"
+      ],
+      "html": {
+        "repository_path": "src/630d2537-83ca-4d87-91fe-bd028457f99b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/630d2537-83ca-4d87-91fe-bd028457f99b-1.png",
+          "public_path": "/images/630d2537-83ca-4d87-91fe-bd028457f99b-1.png",
+          "source_page": 18,
+          "role": "full-page poem illustration",
+          "alt": "A kneeling man praying in silhouette",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this illustration. The integrated page artwork was rendered at 300 dpi with text suppressed and converted to sRGB, preserving the complete 2550-by-3300-pixel published silhouette and border artwork without the poem, title, byline, or page number."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "2f9aa011-78bf-4423-9e05-2f629f9d5343",
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 9,
+      "title": "The Day God Started a Tractor",
+      "subtitle": null,
+      "section": "CHILDREN’S CORNER",
+      "byline": {
+        "raw": "Joshua Yoder—Age 16 | Big Prairie, OH",
+        "authors": [
+          {
+            "name": "Joshua Yoder",
+            "location": "Big Prairie, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Prayer",
+        "Providence",
+        "Safety"
+      ],
+      "html": {
+        "repository_path": "src/2f9aa011-78bf-4423-9e05-2f629f9d5343.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/2f9aa011-78bf-4423-9e05-2f629f9d5343-1.jpg",
+          "public_path": "/images/2f9aa011-78bf-4423-9e05-2f629f9d5343-1.jpg",
+          "source_page": 23,
+          "role": "story photograph",
+          "alt": "A vintage tractor seen head-on in a dark barn",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. The complete text-free published frame was rendered and cropped at 300 dpi, preserving its original dark border, tonal fade, crop, and orientation, then baseline-encoded as an sRGB JPEG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "42605c52-4ee9-4342-bf2b-9dc35b62c5ac",
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 10,
+      "title": "Vaccines—",
+      "subtitle": "the Cost of Security",
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Wolf Miggiani MD\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Wolf Miggiani MD",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Vaccines",
+        "Herd Immunity",
+        "VAERS",
+        "Medical Ethics"
+      ],
+      "publication_note": "An unsigned Editor’s Note begins on printed page 30 and continues through printed page 31; it is preserved with the article.",
+      "html": {
+        "repository_path": "src/42605c52-4ee9-4342-bf2b-9dc35b62c5ac.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-1.png",
+          "public_path": "/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-1.png",
+          "source_page": 24,
+          "role": "article opener illustration",
+          "alt": "Line drawing of a doctor writing on a clipboard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this illustration. The published artwork was rendered with text suppressed at 300 dpi, closely cropped without the section banner, and converted to sRGB PNG."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-2.jpg",
+          "public_path": "/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-2.jpg",
+          "source_page": 24,
+          "role": "article opener photograph",
+          "alt": "A weathered stone wall in a green rural landscape",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. The clean embedded inverted-Adobe CMYK asset was sample-inverted, converted to sRGB, and normalized as a baseline 2559-by-619-pixel JPEG while preserving the published crop and orientation."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-3.jpg",
+          "public_path": "/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-3.jpg",
+          "source_page": 27,
+          "role": "vaccine complications table",
+          "alt": "Table 1: Average Annual Vaccine Complications, 2008–2017 VAERS Cases Reported",
+          "caption": null,
+          "credit": "https://vaers.hhs.gov/data.html",
+          "rights_note": "The source URL printed below this table is preserved as its credit. The complete source-content region was rendered and tightly cropped at 300 dpi, preserving the table’s printed 2008-2017 heading, labels, values, colours, and orientation, then baseline-encoded as an sRGB JPEG without surrounding article text."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-4.jpg",
+          "public_path": "/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-4.jpg",
+          "source_page": 28,
+          "role": "immunization benefits table",
+          "alt": "Table 2: Estimated illnesses, hospitalizations, and deaths prevented by routine childhood immunization",
+          "caption": null,
+          "credit": "Benefits from Immunization during the Vaccines for Children Program Era — United States, 1994–2013, MMWR",
+          "rights_note": "The printed MMWR source line is preserved as the credit. The complete source-content region was rendered and tightly cropped at 300 dpi, preserving all headings, notes, labels, values, and orientation, then baseline-encoded as an sRGB JPEG without surrounding article text."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-5.png",
+          "public_path": "/images/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-5.png",
+          "source_page": 30,
+          "role": "decorative syringe illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this illustration. Two embedded inverted-CMYK pieces were sample-inverted, converted to sRGB, and joined in their exact published arrangement as a text-free PNG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "e96c680d-c989-469f-abfb-0adc9d2c38e9",
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 11,
+      "title": "Genuine Relationships",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Regina Martin\nHuaral, Lima, Peru",
+        "authors": [
+          {
+            "name": "Regina Martin",
+            "location": "Huaral, Lima, Peru"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Transparency",
+        "Communication",
+        "Friendship",
+        "Compassion"
+      ],
+      "html": {
+        "repository_path": "src/e96c680d-c989-469f-abfb-0adc9d2c38e9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e96c680d-c989-469f-abfb-0adc9d2c38e9-1.jpg",
+          "public_path": "/images/e96c680d-c989-469f-abfb-0adc9d2c38e9-1.jpg",
+          "source_page": 34,
+          "role": "closing-page article background photograph",
+          "alt": "Two heart-shaped soaps among purple flowers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. The integrated page artwork was rendered at 300 dpi with text suppressed and converted to sRGB, preserving the complete 2550-by-3300-pixel published floral and heart-soap composition without article text, pull quotes, or page furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "540be2d2-b67d-4b83-a1ba-6eabbdd06c8f",
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 12,
+      "title": "While Life Is In the Prime Of Youth",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Susan M. Stalter",
+        "authors": [
+          {
+            "name": "Susan M. Stalter",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Youth",
+            "slug": "youth"
+          }
+        ]
+      },
+      "topics": [
+        "Youth",
+        "Service",
+        "Dedication"
+      ],
+      "html": {
+        "repository_path": "src/540be2d2-b67d-4b83-a1ba-6eabbdd06c8f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/540be2d2-b67d-4b83-a1ba-6eabbdd06c8f-1.jpg",
+          "public_path": "/images/540be2d2-b67d-4b83-a1ba-6eabbdd06c8f-1.jpg",
+          "source_page": 35,
+          "role": "full-page poem background",
+          "alt": "An autumn forest path framed by vivid red and orange trees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this background. The integrated page artwork was rendered at 300 dpi with text suppressed and converted to sRGB, preserving the complete 2550-by-3300-pixel published autumn scene without the poem, title, byline, or page furniture, then baseline-encoded as a JPEG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
     }
   ],
   "skipped": [
@@ -18269,6 +18851,71 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "Used by permission of Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 3,
+      "title": "The Changing Technological Age",
+      "byline": "Kirby Witmer\nCarlisle, PA",
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Adapted/Used with permission of the author"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 4,
+      "title": "Developing a Biblical Value System",
+      "byline": null,
+      "source_pages": {
+        "start": 10,
+        "end": 12
+      },
+      "reason": "Article-specific permission notices were detected.",
+      "detected_notices": [
+        "Used by permission—see end of article",
+        "Used by permission"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 5,
+      "title": "The Royal Telephone—Prayer",
+      "byline": "By Luke B. Bucher",
+      "source_pages": {
+        "start": 14,
+        "end": 15
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of: Bible Helps,\nPO Box 391, Hanover PA 17331"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2018-fall",
+      "sequence": 8,
+      "title": "Meeting the Emotional Needs of Our Family",
+      "byline": "Howard Horst\nMyerstown, PA June 2012",
+      "source_pages": {
+        "start": 19,
+        "end": 21
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Adapted/Used with permission of the author"
       ],
       "html_exported": false,
       "images_exported": false
