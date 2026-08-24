@@ -531,6 +531,30 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2020-fall",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Fall 2020",
+        "year": 2020,
+        "season": "Fall",
+        "precision": "season"
+      },
+      "volume_number": 24,
+      "issue_number": 3,
+      "source": {
+        "filename": "Fall-2020-Remnant.pdf",
+        "sha256": "9bf8fc8482cdc2a065df20d4e68d8fe2a3445ce6fbd1480028de45fbeb694b6b",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -15854,6 +15878,806 @@
         "images_against_pdf": "verified_by_ai",
         "image_reconstruction_note": "The two-page poem background was reconstructed from its exact page-34 and page-35 embedded halves."
       }
+    },
+    {
+      "id": "7b1e1ad6-5386-4f66-8a96-15b63dc633f7",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "FROM THE EDITOR",
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Curvin L Wenger",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 34,
+        "pages": [
+          3,
+          34
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "COVID-19",
+        "Civil Government",
+        "Christian Hope",
+        "Ministry Updates"
+      ],
+      "html": {
+        "repository_path": "src/7b1e1ad6-5386-4f66-8a96-15b63dc633f7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7b1e1ad6-5386-4f66-8a96-15b63dc633f7-1.png",
+          "public_path": "/images/7b1e1ad6-5386-4f66-8a96-15b63dc633f7-1.png",
+          "source_page": 3,
+          "role": "decorative quill and inkwell illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, licence statement, or separate-permission notice is printed; rely on the reported publisher authorization. The PDF represents the quill through fragmented image pieces and supplies no clean standalone asset. The clean quill-only region was rendered at 300 dpi, excluding article text, trimmed, and had only the near-white printed page background removed to transparency; its silhouette, orientation, and proportions are unchanged."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/7b1e1ad6-5386-4f66-8a96-15b63dc633f7-2.jpg",
+          "public_path": "/images/7b1e1ad6-5386-4f66-8a96-15b63dc633f7-2.jpg",
+          "source_page": 34,
+          "role": "continuation-page photograph",
+          "alt": "Vintage typewriter holding a blank sheet of paper",
+          "caption": null,
+          "credit": "pixabay.com",
+          "rights_note": "The page-2 masthead credits pixabay.com for printed page 34; no separate permission notice or licence terms are stated. The exact embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and baseline-encoded at its published 2551-by-1051 dimensions and 300 dpi without changing its crop, aspect ratio, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The article begins on printed page 3 and continues nonconsecutively on printed page 34.",
+        "author_identity_note": "No article byline is printed; the page-34 signoff reads Curvin L Wenger and the page-2 masthead identifies Curvin Wenger as Editor.",
+        "source_footer_note": "The running footer on printed page 3 says Summer 2020, while the cover, contents, masthead, and remaining issue furniture identify this issue as Fall 2020."
+      }
+    },
+    {
+      "id": "d7496f7e-7921-4309-abcc-4f69685f6f0d",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 2,
+      "title": "Freedom in Christ",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nTitanyen, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Titanyen, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Freedom",
+        "Victory",
+        "Sin",
+        "Repentance",
+        "Kingdom of God"
+      ],
+      "html": {
+        "repository_path": "src/d7496f7e-7921-4309-abcc-4f69685f6f0d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/d7496f7e-7921-4309-abcc-4f69685f6f0d-1.jpg",
+          "public_path": "/images/d7496f7e-7921-4309-abcc-4f69685f6f0d-1.jpg",
+          "source_page": 4,
+          "role": "article opener photograph",
+          "alt": "Silhouette of a man standing on a rocky outcrop with arms extended beside pine branches",
+          "caption": null,
+          "credit": "unslpash.com",
+          "rights_note": "The page-2 masthead credits printed page 4 to unslpash.com; no licence terms or separate permission requirement are stated. The exact embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and baseline-encoded at its published 2559-by-741 dimensions and 300 dpi without changing its crop, aspect ratio, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "7d41059f-d281-48eb-85f4-d6217212849c",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 3,
+      "title": "Understanding the Times",
+      "subtitle": null,
+      "section": "IN THE WORLD, BUT NOT OF IT",
+      "byline": {
+        "raw": "Larry Zook\nKalona, IA",
+        "authors": [
+          {
+            "name": "Larry Zook",
+            "location": "Kalona, IA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "End Times",
+        "Preparedness",
+        "Persecution",
+        "Non-resistance",
+        "Christian Citizenship",
+        "Spiritual Discernment"
+      ],
+      "html": {
+        "repository_path": "src/7d41059f-d281-48eb-85f4-d6217212849c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7d41059f-d281-48eb-85f4-d6217212849c-1.jpg",
+          "public_path": "/images/7d41059f-d281-48eb-85f4-d6217212849c-1.jpg",
+          "source_page": 7,
+          "role": "article opener photograph",
+          "alt": "Close-up of an analog clock face behind a white fade",
+          "caption": null,
+          "credit": "StockSnap",
+          "rights_note": "The page-2 masthead credits printed page 7 to StockSnap; no licence terms or separate permission requirement are stated. Eleven embedded inverted-Adobe CMYK clock segments were sample-inverted, converted to sRGB, and recomposited at their native 300-dpi page matrices into the clean 1646-by-826 opener background without the overlaid banner, title, or byline."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/7d41059f-d281-48eb-85f4-d6217212849c-2.jpg",
+          "public_path": "/images/7d41059f-d281-48eb-85f4-d6217212849c-2.jpg",
+          "source_page": 9,
+          "role": "closing photograph",
+          "alt": "Panoramic storm clouds at sunset over countryside",
+          "caption": null,
+          "credit": "Andrew Schwartz",
+          "rights_note": "The page-2 masthead credits printed page 9 to Andrew Schwartz; no licence terms or separate permission requirement are stated. Nine embedded inverted-Adobe CMYK landscape segments were sample-inverted, converted to sRGB, and recomposited at their native 300-dpi page matrices into the clean 2553-by-1281 photograph without article text, table content, ornaments, or page furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "90fa97b8-f862-4911-b9b9-270af53a949d",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 4,
+      "title": "How Should I Vote?",
+      "subtitle": null,
+      "section": "ISSUES FACING THE CHURCH",
+      "byline": {
+        "raw": "Leonard Martin\nBethel, PA",
+        "authors": [
+          {
+            "name": "Leonard Martin",
+            "location": "Bethel, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 12
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          }
+        ]
+      },
+      "topics": [
+        "Voting",
+        "Two Kingdoms",
+        "Christian Citizenship",
+        "Politics",
+        "Separation from the World",
+        "Prayer for Government"
+      ],
+      "html": {
+        "repository_path": "src/90fa97b8-f862-4911-b9b9-270af53a949d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/90fa97b8-f862-4911-b9b9-270af53a949d-1.jpg",
+          "public_path": "/images/90fa97b8-f862-4911-b9b9-270af53a949d-1.jpg",
+          "source_page": 10,
+          "role": "article opener illustration",
+          "alt": "Outline of the United States filled with a waving American flag",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit, licence terms, or permission requirement is stated for the flag-map illustration on printed page 10, which is absent from the page-2 photo-credit list. The exact embedded inverted-Adobe CMYK JPEG was sample-inverted, converted to sRGB, and baseline-encoded at its published 771-by-473 dimensions and 126 dpi without the overlaid banner or title text."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/90fa97b8-f862-4911-b9b9-270af53a949d-2.jpg",
+          "public_path": "/images/90fa97b8-f862-4911-b9b9-270af53a949d-2.jpg",
+          "source_page": 11,
+          "role": "continuation-page photograph",
+          "alt": "Open Bible on a wooden picnic table with autumn leaves",
+          "caption": null,
+          "credit": "StockSnap",
+          "rights_note": "The page-2 masthead credits printed page 11 to StockSnap; no licence terms or separate permission requirement are stated. Fourteen embedded inverted-Adobe CMYK photograph segments were sample-inverted, converted to sRGB, and recomposited at their native 300-dpi page matrices into the clean 2553-by-1773 photograph without article text or page furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_credit_note": "No credit is printed for the page-10 flag-map illustration."
+      }
+    },
+    {
+      "id": "629a86f2-a29e-414c-9a6f-ceb910dd427f",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 5,
+      "title": "The Wisdom of This World",
+      "subtitle": null,
+      "section": "BIBLE DOCTRINES",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Wisdom",
+        "Ahithophel",
+        "Worldliness",
+        "Pride"
+      ],
+      "html": {
+        "repository_path": "src/629a86f2-a29e-414c-9a6f-ceb910dd427f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/629a86f2-a29e-414c-9a6f-ceb910dd427f-1.png",
+          "public_path": "/images/629a86f2-a29e-414c-9a6f-ceb910dd427f-1.png",
+          "source_page": 13,
+          "role": "article header photograph",
+          "alt": "A black-and-white view across a university campus toward a domed neoclassical building",
+          "caption": null,
+          "credit": "publicdomainpictures.net",
+          "rights_note": "The page-2 masthead credits publicdomainpictures.net for printed page 13; no separate permission notice or licence terms are stated. The exact 1858-by-748 embedded indexed-colour image was preserved as an sRGB PNG without changing its crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "75096264-e3eb-4ef7-8197-2443fe3df539",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 6,
+      "title": "Vision",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "By Adrianna Fanton | Griswold, IA",
+        "authors": [
+          {
+            "name": "Adrianna Fanton",
+            "location": "Griswold, IA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Vision",
+        "Suffering",
+        "Purification",
+        "Surrender"
+      ],
+      "html": {
+        "repository_path": "src/75096264-e3eb-4ef7-8197-2443fe3df539.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/75096264-e3eb-4ef7-8197-2443fe3df539-1.jpg",
+          "public_path": "/images/75096264-e3eb-4ef7-8197-2443fe3df539-1.jpg",
+          "source_page": 16,
+          "role": "two-page poem background landscape",
+          "alt": "An autumn landscape reflected in a pond across a two-page spread",
+          "caption": null,
+          "credit": "Andrew Schwartz",
+          "rights_note": "The page-2 masthead credits Andrew Schwartz for printed page 16; no separate permission notice or licence terms are stated. Pages 16 and 17 were rendered at 300 dpi with PDF text filtered out and joined at the spread boundary, preserving the published background design and its two white poem panels without poem, title, or byline text; the result was baseline-encoded as a 5100-by-3300 sRGB JPEG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_credit_note": "The masthead explicitly credits printed page 16; the same landscape design continues across printed page 17, which has no separate credit."
+      }
+    },
+    {
+      "id": "420398b9-e4fa-449d-9aa2-3053fffb1e07",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 7,
+      "title": "Never Give Up",
+      "subtitle": null,
+      "section": "CHILDREN’S CORNER",
+      "byline": {
+        "raw": "Jesse Sutherland\nMillersburg, OH",
+        "authors": [
+          {
+            "name": "Jesse Sutherland",
+            "location": "Millersburg, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Perseverance",
+        "Learning",
+        "Encouragement",
+        "Endurance"
+      ],
+      "html": {
+        "repository_path": "src/420398b9-e4fa-449d-9aa2-3053fffb1e07.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/420398b9-e4fa-449d-9aa2-3053fffb1e07-1.jpg",
+          "public_path": "/images/420398b9-e4fa-449d-9aa2-3053fffb1e07-1.jpg",
+          "source_page": 18,
+          "role": "opening full-page story background photograph",
+          "alt": "A red apple resting on a stack of books",
+          "caption": null,
+          "credit": "unslpash.com",
+          "rights_note": "The page-2 masthead credits unslpash.com for printed page 18; no separate permission notice or licence terms are stated. The exact embedded 1913-by-2475 inverted-Adobe CMYK background was sample-inverted, converted to sRGB, and baseline-encoded at 225 dpi without changing its crop, aspect ratio, or orientation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/420398b9-e4fa-449d-9aa2-3053fffb1e07-2.jpg",
+          "public_path": "/images/420398b9-e4fa-449d-9aa2-3053fffb1e07-2.jpg",
+          "source_page": 19,
+          "role": "continuation full-page story background photograph",
+          "alt": "Colored pencils and alphabet blocks on a desk",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit, licence, or permission notice is stated for the full-page background on printed page 19. The exact embedded 1914-by-2475 inverted-Adobe CMYK background was sample-inverted, converted to sRGB, and baseline-encoded at 225 dpi without changing its crop, aspect ratio, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_credit_note": "The masthead credits printed page 18 to unslpash.com but states no credit for the separate page-19 background."
+      }
+    },
+    {
+      "id": "cd8de854-c640-4e43-b8d4-54dc212510c2",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 9,
+      "title": "The Christian and Conspiracies",
+      "subtitle": null,
+      "section": "MODERN DAY PERILS",
+      "byline": {
+        "raw": "John Waldron\nGladys, VA",
+        "authors": [
+          {
+            "name": "John Waldron",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Deception",
+            "slug": "deception"
+          }
+        ]
+      },
+      "topics": [
+        "Conspiracy Theories",
+        "Discernment",
+        "Misinformation",
+        "COVID-19"
+      ],
+      "html": {
+        "repository_path": "src/cd8de854-c640-4e43-b8d4-54dc212510c2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/cd8de854-c640-4e43-b8d4-54dc212510c2-1.jpg",
+          "public_path": "/images/cd8de854-c640-4e43-b8d4-54dc212510c2-1.jpg",
+          "source_page": 24,
+          "role": "full-width conspiracy illustration",
+          "alt": "The word TRUTH filled with repeated instances of LIES beneath a magnifying glass",
+          "caption": null,
+          "credit": "unslpash.com",
+          "rights_note": "The page-2 masthead credits unslpash.com for printed page 24; no licence, separate-permission requirement, or reprint restriction is stated. The published illustration is assembled from several placed CMYK raster pieces, gradients, and the magnifying-glass composition, so the clean bottom illustration region was recovered from a 300-dpi page render and baseline-encoded as a 2550-by-1090 sRGB JPEG without changing its orientation or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "c706cd44-4a12-4f52-9a51-7e2446694f66",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 10,
+      "title": "To Marry or Not to Marry?",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Family",
+          "slug": "family"
+        },
+        "additional": [
+          {
+            "name": "Youth",
+            "slug": "youth"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Marriage",
+        "Courtship",
+        "Celibacy",
+        "Family",
+        "Young Adults"
+      ],
+      "html": {
+        "repository_path": "src/c706cd44-4a12-4f52-9a51-7e2446694f66.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c706cd44-4a12-4f52-9a51-7e2446694f66-1.jpg",
+          "public_path": "/images/c706cd44-4a12-4f52-9a51-7e2446694f66-1.jpg",
+          "source_page": 26,
+          "role": "marriage-themed paired-shoe photograph",
+          "alt": "A white women’s shoe and a black men’s shoe side by side",
+          "caption": null,
+          "credit": "Andrew Schwartz",
+          "rights_note": "The page-2 masthead credits Andrew Schwartz for printed page 26; no licence, separate-permission requirement, or reprint restriction is stated. The printed composition is assembled from overlapping raster and mask elements, so the clean bottom photograph region was recovered from a 300-dpi page render and baseline-encoded as a 2550-by-850 sRGB JPEG without changing its orientation or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "910879a5-19f9-4e45-a68c-1cc3967acadc",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 12,
+      "title": "Stay at Home",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Elizabeth Rust\nLititz, PA",
+        "authors": [
+          {
+            "name": "Elizabeth Rust",
+            "location": "Lititz, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Family",
+            "slug": "family"
+          }
+        ]
+      },
+      "topics": [
+        "Homemaking",
+        "Keepers at Home",
+        "Hospitality",
+        "Motherhood"
+      ],
+      "html": {
+        "repository_path": "src/910879a5-19f9-4e45-a68c-1cc3967acadc.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/910879a5-19f9-4e45-a68c-1cc3967acadc-1.jpg",
+          "public_path": "/images/910879a5-19f9-4e45-a68c-1cc3967acadc-1.jpg",
+          "source_page": 32,
+          "role": "article opener photograph",
+          "alt": "Glass terrarium and pine cones on a wood slice in a living room",
+          "caption": null,
+          "credit": "unslpash.com",
+          "rights_note": "The page-2 masthead credits unslpash.com for printed page 32; no separate permission notice or licence terms are stated. The published photograph is fragmented into multiple CMYK slices with a fade, so the clean article-photo region was rendered at 300 dpi without article text and baseline-encoded as a 2550-by-1530 sRGB JPEG while retaining the visible crop and orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "6cf38cda-02b1-4a4d-8326-19b440015f2c",
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 13,
+      "title": "Recommitment",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "By Barry Grant | Titanyen, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Titanyen, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Recommitment",
+        "Repentance",
+        "Prayer"
+      ],
+      "html": {
+        "repository_path": "src/6cf38cda-02b1-4a4d-8326-19b440015f2c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/6cf38cda-02b1-4a4d-8326-19b440015f2c-1.jpg",
+          "public_path": "/images/6cf38cda-02b1-4a4d-8326-19b440015f2c-1.jpg",
+          "source_page": 35,
+          "role": "poem background photograph",
+          "alt": "Sunset reflected on a lake beside silhouetted trees",
+          "caption": null,
+          "credit": "pixabay.com",
+          "rights_note": "The page-2 masthead credits pixabay.com for printed page 35; no separate permission notice or licence terms are stated. The clean embedded inverted-Adobe CMYK background was sample-inverted, converted to sRGB, and baseline-encoded at its published 1715-by-2218 dimensions and 202 dpi without poem text or the cross layout, while retaining its crop and orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
     }
   ],
   "skipped": [
@@ -16414,6 +17238,38 @@
       "detected_notices": [
         "Used by permission of Bible Helps",
         "No reprinting of this article is allowed without permission from Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 8,
+      "title": "Old Fashioned Parents and Jet Age Teenagers",
+      "byline": "By David W. Lehigh",
+      "source_pages": {
+        "start": 20,
+        "end": 22
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2020-fall",
+      "sequence": 11,
+      "title": "The Purpose of Suffering",
+      "byline": "By Harold S. Martin",
+      "source_pages": {
+        "start": 29,
+        "end": 31
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Used by permission of Bible Helps"
       ],
       "html_exported": false,
       "images_exported": false
