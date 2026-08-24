@@ -507,6 +507,30 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2021-fall",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Fall 2021",
+        "year": 2021,
+        "season": "Fall",
+        "precision": "season"
+      },
+      "volume_number": 25,
+      "issue_number": 3,
+      "source": {
+        "filename": "Fall-2021-Remnant.pdf",
+        "sha256": "18d881748f2d1b0156ffcbdbda3c8ae51f998d5169454d8cc099f1536d5186fc",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -15015,6 +15039,820 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
         "image_reconstruction_note": "The published pages 32-33 mountain image was reconstructed from its main page-32 asset and narrow page-33 continuation."
+      }
+    },
+    {
+      "id": "a5ae3b35-c647-41fe-a111-e60a56aa0fab",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Curvin Wenger",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 29,
+        "pages": [
+          3,
+          29
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Medical",
+            "slug": "medical"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "topics": [
+        "Magazine Schedule",
+        "Covid-19",
+        "Vaccines"
+      ],
+      "html": {
+        "repository_path": "src/a5ae3b35-c647-41fe-a111-e60a56aa0fab.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a5ae3b35-c647-41fe-a111-e60a56aa0fab-1.png",
+          "public_path": "/images/a5ae3b35-c647-41fe-a111-e60a56aa0fab-1.png",
+          "source_page": 3,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No credit, source, permission notice, or license terms are printed for this decorative quill. The embedded indexed-colour image and its soft mask were combined into a transparent sRGB PNG at the published 456-by-456 dimensions; crop and orientation are unchanged. The repeated smaller quill on page 29 was not exported as a duplicate image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "Printed page 3 directs readers to printed page 29, where the article continues and concludes.",
+        "page_decoration_note": "The quill is repeated on the continuation page and is represented once in the HTML."
+      }
+    },
+    {
+      "id": "01e276d2-2c98-4feb-b4cf-5d3fc5fbce21",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 2,
+      "title": "Gossip",
+      "subtitle": null,
+      "section": "Musings of a Missionary",
+      "byline": {
+        "raw": "Barry Grant\nTitanyen, Haiti",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Titanyen, Haiti"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "topics": [
+        "Gossip",
+        "Speech",
+        "Christian Growth"
+      ],
+      "html": {
+        "repository_path": "src/01e276d2-2c98-4feb-b4cf-5d3fc5fbce21.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/01e276d2-2c98-4feb-b4cf-5d3fc5fbce21-1.png",
+          "public_path": "/images/01e276d2-2c98-4feb-b4cf-5d3fc5fbce21-1.png",
+          "source_page": 5,
+          "role": "article photograph",
+          "alt": "Two girls whispering to each other",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 5; no separate permission notice or license terms are stated. The clean embedded sRGB PNG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "84ab7bf1-03db-4242-832a-8c5ffac4ca9b",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 3,
+      "title": "A Shot Across the Bow",
+      "subtitle": null,
+      "section": "Issues Facing the Church",
+      "byline": {
+        "raw": "Edward Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "topics": [
+        "Church",
+        "Cultural Change",
+        "Discipleship",
+        "Repentance"
+      ],
+      "html": {
+        "repository_path": "src/84ab7bf1-03db-4242-832a-8c5ffac4ca9b.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "7efa4011-f4a2-4e94-a02b-ff66d6cddf75",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 4,
+      "title": "God in the Cloud",
+      "subtitle": null,
+      "section": "Featured Article",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 12
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Clouds",
+        "Faith",
+        "Hope",
+        "Love",
+        "Suffering",
+        "Uncertainty",
+        "God’s Presence"
+      ],
+      "html": {
+        "repository_path": "src/7efa4011-f4a2-4e94-a02b-ff66d6cddf75.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7efa4011-f4a2-4e94-a02b-ff66d6cddf75-1.jpg",
+          "public_path": "/images/7efa4011-f4a2-4e94-a02b-ff66d6cddf75-1.jpg",
+          "source_page": 10,
+          "role": "article header photograph",
+          "alt": "White clouds in a blue sky",
+          "caption": null,
+          "credit": "Andrew Schwartz",
+          "rights_note": "The page-2 masthead credits Andrew Schwartz for printed page 10; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline sRGB JPEG with nonzero JFIF density, without changing its published dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "bfebbb33-3bd0-4e11-ba65-83a7a62df3f0",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 5,
+      "title": "A Ministry to Parents of Lost Children",
+      "subtitle": "A sermon preached by Dale Heisey in Huaral, Peru",
+      "section": "The Godly Home",
+      "byline": {
+        "raw": "Transcribed and abridged by Regina Martin of Huaral, Peru",
+        "authors": [
+          {
+            "name": "Dale Heisey",
+            "location": "Huaral, Peru",
+            "role": "Sermon preacher"
+          },
+          {
+            "name": "Regina Martin",
+            "location": "Huaral, Peru",
+            "role": "Transcriber and abridger"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Children",
+            "slug": "children"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Lost Children",
+        "Parenting",
+        "The Prodigal Son",
+        "Prayer"
+      ],
+      "html": {
+        "repository_path": "src/bfebbb33-3bd0-4e11-ba65-83a7a62df3f0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/bfebbb33-3bd0-4e11-ba65-83a7a62df3f0-1.jpg",
+          "public_path": "/images/bfebbb33-3bd0-4e11-ba65-83a7a62df3f0-1.jpg",
+          "source_page": 14,
+          "role": "article illustration",
+          "alt": "Pigs gathered around food beside a crouching man",
+          "caption": null,
+          "credit": "S.M. Davis photo collection",
+          "rights_note": "The page-2 masthead credits S.M. Davis photo collection for printed page 14; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline sRGB JPEG with nonzero JFIF density, without changing its published dimensions, crop, or orientation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/bfebbb33-3bd0-4e11-ba65-83a7a62df3f0-2.jpg",
+          "public_path": "/images/bfebbb33-3bd0-4e11-ba65-83a7a62df3f0-2.jpg",
+          "source_page": 15,
+          "role": "article illustration",
+          "alt": "Biblical illustration of the prodigal son",
+          "caption": "The Prodigal Son",
+          "credit": null,
+          "rights_note": "No separate credit is stated for this illustration on printed page 15, and no permission notice or license terms are printed. The clean embedded image was standards-normalized as a baseline sRGB JPEG with nonzero JFIF density, without changing its published dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "ee2039bb-d8f1-47d2-af3d-d4e4f0d701aa",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 6,
+      "title": "An Upside-Down Lesson",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Simon Martin\nGlenmont, OH",
+        "authors": [
+          {
+            "name": "Simon Martin",
+            "location": "Glenmont, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Diligence",
+        "Work",
+        "Obedience"
+      ],
+      "html": {
+        "repository_path": "src/ee2039bb-d8f1-47d2-af3d-d4e4f0d701aa.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ee2039bb-d8f1-47d2-af3d-d4e4f0d701aa-1.jpg",
+          "public_path": "/images/ee2039bb-d8f1-47d2-af3d-d4e4f0d701aa-1.jpg",
+          "source_page": 18,
+          "role": "two-page article painting",
+          "alt": "Watercolor painting of a boy hanging upside down from a snowy shed roof",
+          "caption": null,
+          "credit": "Painting by Lydia Bauman",
+          "rights_note": "The page-2 masthead states “Page 19: Painting by Lydia Bauman”; no separate permission notice or license terms are stated. The 553-by-2239 page-18 strip and the 2559-by-2239 page-19 embedded sRGB JPEG were joined at the exact spread boundary and baseline-encoded in sRGB without changing the published panorama’s content, orientation, or height."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "title_authority_note": "The content-page title “An Upside-Down Lesson” is authoritative; the table of contents instead says “The Upside-Down View.”",
+        "image_reconstruction_note": "The painting was reconstructed from its exact page-18 and page-19 embedded pieces."
+      }
+    },
+    {
+      "id": "7e44f2ce-d435-438a-a48b-cc661de898b9",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 7,
+      "title": "Dear Lydia,",
+      "subtitle": null,
+      "section": "Sister to Sister",
+      "byline": {
+        "raw": "Sheryl Zeiset\nTanzania, East Africa",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Tanzania, East Africa"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Motherhood",
+        "Daughters",
+        "Discipleship",
+        "Modesty"
+      ],
+      "html": {
+        "repository_path": "src/7e44f2ce-d435-438a-a48b-cc661de898b9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7e44f2ce-d435-438a-a48b-cc661de898b9-1.png",
+          "public_path": "/images/7e44f2ce-d435-438a-a48b-cc661de898b9-1.png",
+          "source_page": 21,
+          "role": "closing photograph",
+          "alt": "A woman and a girl walking together on a dirt road",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 21; no separate permission notice or license terms are stated. The clean embedded sRGB PNG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "011466a5-f7aa-4c4b-a125-384e02671901",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 8,
+      "title": "The Search for Happiness",
+      "subtitle": null,
+      "section": "Victorious Christian Living",
+      "byline": {
+        "raw": "Harold S. Martin",
+        "authors": [
+          {
+            "name": "Harold S. Martin",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Happiness",
+        "Solomon",
+        "Ecclesiastes",
+        "Contentment"
+      ],
+      "html": {
+        "repository_path": "src/011466a5-f7aa-4c4b-a125-384e02671901.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/011466a5-f7aa-4c4b-a125-384e02671901-1.jpg",
+          "public_path": "/images/011466a5-f7aa-4c4b-a125-384e02671901-1.jpg",
+          "source_page": 22,
+          "role": "article illustration",
+          "alt": "Illustration of workers constructing Solomon’s temple",
+          "caption": "Construction of Solomon's Temple",
+          "credit": "S.M. Davis photo collection",
+          "rights_note": "The page-2 masthead credits S.M. Davis photo collection for printed page 22; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline sRGB JPEG with nonzero JFIF density, without changing its published dimensions, crop, or orientation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "publication_note": "The printed source line identifies this as A Bible Helps Tract No. T14. The closing address says where print copies may be obtained and does not require permission for reuse."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "eef082a6-ad08-486a-bb74-8d345c834e51",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 9,
+      "title": "To All Young People",
+      "subtitle": null,
+      "section": "Inspirations for Youth",
+      "byline": {
+        "raw": "Kenneth Hopkins\nGreenville, OH",
+        "authors": [
+          {
+            "name": "Kenneth Hopkins",
+            "location": "Greenville, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Youth",
+        "Spiritual Growth",
+        "Purity",
+        "Bible Reading"
+      ],
+      "html": {
+        "repository_path": "src/eef082a6-ad08-486a-bb74-8d345c834e51.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/eef082a6-ad08-486a-bb74-8d345c834e51-1.jpg",
+          "public_path": "/images/eef082a6-ad08-486a-bb74-8d345c834e51-1.jpg",
+          "source_page": 25,
+          "role": "article header photograph",
+          "alt": "An open Bible beside dried flowers and grasses",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 25; no separate permission notice or license terms are stated. The clean full-width embedded image was standards-normalized as a baseline sRGB JPEG with nonzero JFIF density, without changing its published dimensions, crop, or orientation. The same photograph’s faded full-page background renditions were not exported as duplicate images."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "background_image_repeated_in_pdf": true,
+        "background_image_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "d0dcd602-3ffe-453e-96ee-9a4f798f486d",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 10,
+      "title": "Weight Loss",
+      "subtitle": "PART 2",
+      "section": "A Word From A Doctor",
+      "byline": {
+        "raw": "Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "series": {
+        "name": "Weight Loss",
+        "part": 2,
+        "total_parts": null
+      },
+      "topics": [
+        "Weight Loss",
+        "Nutrition",
+        "Exercise",
+        "Health"
+      ],
+      "html": {
+        "repository_path": "src/d0dcd602-3ffe-453e-96ee-9a4f798f486d.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "a9eade03-1180-4ae5-b4bf-b45a1961b446",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 11,
+      "title": "A Guided Tour Through Heaven",
+      "subtitle": "A Study in Revelation 21-22",
+      "section": "Bible Doctrines",
+      "byline": {
+        "raw": "Harold S. Martin",
+        "authors": [
+          {
+            "name": "Harold S. Martin",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Judgment",
+            "slug": "judgment"
+          }
+        ]
+      },
+      "topics": [
+        "Heaven",
+        "New Jerusalem",
+        "Revelation",
+        "Eternity"
+      ],
+      "html": {
+        "repository_path": "src/a9eade03-1180-4ae5-b4bf-b45a1961b446.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/a9eade03-1180-4ae5-b4bf-b45a1961b446-1.jpg",
+          "public_path": "/images/a9eade03-1180-4ae5-b4bf-b45a1961b446-1.jpg",
+          "source_page": 30,
+          "role": "article background photograph",
+          "alt": "Sunlight breaking through clouds over a calm ocean",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 31; no separate permission notice or license terms are stated. The same ocean-sunset photograph appears as a cropped two-page band on pages 30-31 and as a repeated faded background on pages 32-33. The full clean photograph was reconstructed from its exact 3839-by-4964 page-32 and page-33 embedded sRGB halves and baseline-encoded as a visually faithful web-quality sRGB JPEG at 7678-by-4964 pixels without article text; duplicate layout renditions were not exported."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "publication_note": "The printed source line identifies this as A Bible Helps Booklet No. 371. The closing address says where print copies may be obtained and does not require permission for reuse."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "background_image_repeated_in_pdf": true,
+        "background_image_duplicated_in_html": false,
+        "image_reconstruction_note": "The full clean ocean-sunset photograph was reconstructed from its exact page-32 and page-33 embedded halves."
+      }
+    },
+    {
+      "id": "295cdefb-bc3e-4962-8d17-7b38c87e99d8",
+      "issue_id": "heartbeat-remnant-2021-fall",
+      "sequence": 12,
+      "title": "Freedom",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–by Adrianna Fanton",
+        "authors": [
+          {
+            "name": "Adrianna Fanton",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Freedom",
+        "Liberty",
+        "Christ"
+      ],
+      "html": {
+        "repository_path": "src/295cdefb-bc3e-4962-8d17-7b38c87e99d8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/295cdefb-bc3e-4962-8d17-7b38c87e99d8-1.jpg",
+          "public_path": "/images/295cdefb-bc3e-4962-8d17-7b38c87e99d8-1.jpg",
+          "source_page": 34,
+          "role": "two-page poem background photograph",
+          "alt": "Sunrise over a misty autumn forest",
+          "caption": null,
+          "credit": "Unsplash.com",
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 34; no separate permission notice or license terms are stated. The two exact 2670-by-3453 embedded sRGB halves from pages 34 and 35 were joined at the spread boundary and baseline-encoded as a visually faithful sRGB JPEG at 5340-by-3453 pixels without poem text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_reconstruction_note": "The two-page poem background was reconstructed from its exact page-34 and page-35 embedded halves."
       }
     }
   ],
