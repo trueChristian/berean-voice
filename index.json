@@ -521,7 +521,7 @@
       "volume_number": 25,
       "issue_number": 3,
       "source": {
-        "filename": "Fall-2021-Remnant.pdf",
+        "filename": "Fall-2021-Remnant(1).pdf",
         "sha256": "18d881748f2d1b0156ffcbdbda3c8ae51f998d5169454d8cc099f1536d5186fc",
         "pdf_page_count": 36,
         "printed_page_range": "2-35"
@@ -15169,7 +15169,7 @@
           "alt": "Two girls whispering to each other",
           "caption": null,
           "credit": "Unsplash.com",
-          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 5; no separate permission notice or license terms are stated. The clean embedded sRGB PNG was copied byte-for-byte without transformation."
+          "rights_note": "The page-2 masthead credits Unsplash.com for printed page 5; no separate permission notice or license terms are stated. The clean embedded sRGB PNG was horizontally flipped to reproduce its printed orientation; its published dimensions and crop are unchanged."
         }
       ],
       "rights": {
@@ -15292,7 +15292,7 @@
           "alt": "White clouds in a blue sky",
           "caption": null,
           "credit": "Andrew Schwartz",
-          "rights_note": "The page-2 masthead credits Andrew Schwartz for printed page 10; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline sRGB JPEG with nonzero JFIF density, without changing its published dimensions, crop, or orientation."
+          "rights_note": "The page-2 masthead credits Andrew Schwartz for printed page 10; no separate permission notice or license terms are stated. The embedded Adobe RGB (1998) image was colour-managed through its PDF ICC profile, converted to sRGB, and standards-normalized as a baseline JPEG with nonzero JFIF density, without changing its published dimensions, crop, or orientation."
         }
       ],
       "rights": {
