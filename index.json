@@ -626,6 +626,30 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2023-autumn",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Autumn 2023",
+        "year": 2023,
+        "season": "Autumn",
+        "precision": "season"
+      },
+      "volume_number": 31,
+      "issue_number": 3,
+      "source": {
+        "filename": "Autumn-2023-Remnant_for-the-web.pdf",
+        "sha256": "ea6b66dcf47d7b473871d121962165ab881e361e55c8337d2989546f48291ac9",
+        "pdf_page_count": 19,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -19164,6 +19188,681 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "4c4494ea-2d0b-4c42-b501-f7b51385e712",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Interim editor,\nEdward Martin",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": null,
+            "role": "Interim editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4c4494ea-2d0b-4c42-b501-f7b51385e712.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4c4494ea-2d0b-4c42-b501-f7b51385e712-1.jpg",
+          "public_path": "/images/4c4494ea-2d0b-4c42-b501-f7b51385e712-1.jpg",
+          "source_page": 3,
+          "role": "closing-page background photograph",
+          "alt": "Red and orange autumn leaves among fallen leaves",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 3; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "e5b8d801-2044-43e8-a608-a7896996f346",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 2,
+      "title": "Cross Bearing",
+      "subtitle": "The Discipleship Series",
+      "section": "CHRISTIAN DISCIPLESHIP",
+      "byline": {
+        "raw": "by Donald Brechbill\nChambersburg, PA",
+        "authors": [
+          {
+            "name": "Donald Brechbill",
+            "location": "Chambersburg, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/e5b8d801-2044-43e8-a608-a7896996f346.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e5b8d801-2044-43e8-a608-a7896996f346-1.jpg",
+          "public_path": "/images/e5b8d801-2044-43e8-a608-a7896996f346-1.jpg",
+          "source_page": 6,
+          "role": "article illustration",
+          "alt": "A vine-wrapped wooden cross at sunset",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 6; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1b59b086-09fb-46c6-98f1-e926f80f17ac",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 3,
+      "title": "This Is The Way, Walk Ye In It",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "by Barry Grant\nHicksville, OH",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Hicksville, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Missions",
+          "slug": "missions"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1b59b086-09fb-46c6-98f1-e926f80f17ac.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1b59b086-09fb-46c6-98f1-e926f80f17ac-1.jpg",
+          "public_path": "/images/1b59b086-09fb-46c6-98f1-e926f80f17ac-1.jpg",
+          "source_page": 7,
+          "role": "opening-page photograph",
+          "alt": "A rocky road ascending through green hills in Haiti",
+          "caption": null,
+          "credit": null,
+          "credit_candidates": [
+            "Photography By Laurel",
+            "Edward Martin"
+          ],
+          "rights_note": "The page-2 masthead lists both Photography By Laurel and Edward Martin for printed page 7 without binding either credit to this image; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/1b59b086-09fb-46c6-98f1-e926f80f17ac-2.jpg",
+          "public_path": "/images/1b59b086-09fb-46c6-98f1-e926f80f17ac-2.jpg",
+          "source_page": 8,
+          "role": "two-page spread photograph",
+          "alt": "Green and brown hills under a pale sky in Haiti",
+          "caption": null,
+          "credit": "Edward Martin",
+          "rights_note": "The page-2 masthead credits Edward Martin for printed pages 8 and 9; no separate permission notice or license terms are stated. One embedded image spans the two printed pages and was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "03aeecbd-d94b-4302-ab98-91188987c81e",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 5,
+      "title": "Mary—Jesus’ Mother and Disciple",
+      "subtitle": null,
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "by Joshua Yoder\nBig Prairie, OH",
+        "authors": [
+          {
+            "name": "Joshua Yoder",
+            "location": "Big Prairie, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Deception",
+            "slug": "deception"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/03aeecbd-d94b-4302-ab98-91188987c81e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/03aeecbd-d94b-4302-ab98-91188987c81e-1.jpg",
+          "public_path": "/images/03aeecbd-d94b-4302-ab98-91188987c81e-1.jpg",
+          "source_page": 13,
+          "role": "opening-page background photograph",
+          "alt": "A woman holding an infant beside a bright window",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 13; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/03aeecbd-d94b-4302-ab98-91188987c81e-2.jpg",
+          "public_path": "/images/03aeecbd-d94b-4302-ab98-91188987c81e-2.jpg",
+          "source_page": 14,
+          "role": "article photograph",
+          "alt": "A smiling baby held by an adult outdoors",
+          "caption": null,
+          "credit": null,
+          "credit_candidates": [
+            "Belle Vie Images",
+            "Brimming Focus Photography"
+          ],
+          "rights_note": "The page-2 masthead lists both Belle Vie Images and Brimming Focus Photography for printed page 14 without binding either credit to this image; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1bb83eea-79df-42fa-8919-99c206444ab4",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 6,
+      "title": "Being A Friend",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "by Marian Martin\nGlenmont, Ohio",
+        "authors": [
+          {
+            "name": "Marian Martin",
+            "location": "Glenmont, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1bb83eea-79df-42fa-8919-99c206444ab4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1bb83eea-79df-42fa-8919-99c206444ab4-1.jpg",
+          "public_path": "/images/1bb83eea-79df-42fa-8919-99c206444ab4-1.jpg",
+          "source_page": 17,
+          "role": "full-page closing photograph",
+          "alt": "Three girls walking together through autumn woodland",
+          "caption": null,
+          "credit": "Brimming Focus Photography",
+          "rights_note": "The page-2 masthead credits Brimming Focus Photography for printed page 17; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "ce5147a0-f957-4c40-92ea-f1d14cb5c1d4",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 7,
+      "title": "Insomnia",
+      "subtitle": null,
+      "section": "A WORD FROM A DOCTOR",
+      "byline": {
+        "raw": "by Vincent “John” Waldron MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/ce5147a0-f957-4c40-92ea-f1d14cb5c1d4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ce5147a0-f957-4c40-92ea-f1d14cb5c1d4-1.jpg",
+          "public_path": "/images/ce5147a0-f957-4c40-92ea-f1d14cb5c1d4-1.jpg",
+          "source_page": 18,
+          "role": "opening-page header photograph",
+          "alt": "A blue nighttime forest beneath a cloudy sky",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 18; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/ce5147a0-f957-4c40-92ea-f1d14cb5c1d4-2.jpg",
+          "public_path": "/images/ce5147a0-f957-4c40-92ea-f1d14cb5c1d4-2.jpg",
+          "source_page": 19,
+          "role": "article header photograph",
+          "alt": "An analog clock showing a few minutes past two",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 19; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "8c5ca71e-e67f-4887-aa9b-56cf26f85688",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 8,
+      "title": "An Ordered Life",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "by Sheryl Zeiset\nLebanon, PA",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Lebanon, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 24
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Family",
+            "slug": "family"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/8c5ca71e-e67f-4887-aa9b-56cf26f85688.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8c5ca71e-e67f-4887-aa9b-56cf26f85688-1.jpg",
+          "public_path": "/images/8c5ca71e-e67f-4887-aa9b-56cf26f85688-1.jpg",
+          "source_page": 22,
+          "role": "opening-page photograph",
+          "alt": "An open Bible beside a cup of coffee and autumn leaves",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 22; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/8c5ca71e-e67f-4887-aa9b-56cf26f85688-2.jpg",
+          "public_path": "/images/8c5ca71e-e67f-4887-aa9b-56cf26f85688-2.jpg",
+          "source_page": 24,
+          "role": "article illustration",
+          "alt": "A dark metal latch on a wooden door",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, license, or separate permission notice is printed for the door-latch photograph on printed page 24. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1140eb64-3891-46b1-9b3f-df09e2c02405",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 9,
+      "title": "Are all Alternative Medicines and Practices equal?",
+      "subtitle": null,
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "by Rick Hess\nDornsife, PA",
+        "authors": [
+          {
+            "name": "Rick Hess",
+            "location": "Dornsife, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 29
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1140eb64-3891-46b1-9b3f-df09e2c02405.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1140eb64-3891-46b1-9b3f-df09e2c02405-1.jpg",
+          "public_path": "/images/1140eb64-3891-46b1-9b3f-df09e2c02405-1.jpg",
+          "source_page": 26,
+          "role": "two-page spread illustration",
+          "alt": "Wet black stones and a pink tulip on a dark reflective surface",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed pages 26 and 27; no separate permission notice or license terms are stated. One embedded image spans the two printed pages and was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/1140eb64-3891-46b1-9b3f-df09e2c02405-2.jpg",
+          "public_path": "/images/1140eb64-3891-46b1-9b3f-df09e2c02405-2.jpg",
+          "source_page": 29,
+          "role": "article photograph",
+          "alt": "Assorted dried herbs and teas in round wooden bowls",
+          "caption": null,
+          "credit": "AdobeStock.com",
+          "rights_note": "The page-2 masthead credits AdobeStock.com for printed page 29; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1bd826f1-263f-4891-aa7a-62c7a7ca70ca",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 10,
+      "title": "Whose God Is Their Belly?",
+      "subtitle": null,
+      "section": "BIBLE DOCTRINES",
+      "byline": {
+        "raw": "by Lee Rufener\nAthens, WI",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, WI"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1bd826f1-263f-4891-aa7a-62c7a7ca70ca.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1bd826f1-263f-4891-aa7a-62c7a7ca70ca-1.jpg",
+          "public_path": "/images/1bd826f1-263f-4891-aa7a-62c7a7ca70ca-1.jpg",
+          "source_page": 31,
+          "role": "article photograph",
+          "alt": "Macarons, sliced fruit, berries, and bowls of food at a buffet",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 31; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/1bd826f1-263f-4891-aa7a-62c7a7ca70ca-2.jpg",
+          "public_path": "/images/1bd826f1-263f-4891-aa7a-62c7a7ca70ca-2.jpg",
+          "source_page": 33,
+          "role": "closing-page photograph",
+          "alt": "Waffles with strawberries and whipped cream",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 33; no separate permission notice or license terms are stated. The embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG because the source JPEG had undefined JFIF density; pixel dimensions, published crop, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "7783f526-dda5-4e3d-8f54-9840aa68a419",
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 11,
+      "title": "Blessed Assurance",
+      "subtitle": null,
+      "section": "HYMN HISTORY",
+      "byline": {
+        "raw": "by Joel A. Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A. Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/7783f526-dda5-4e3d-8f54-9840aa68a419.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7783f526-dda5-4e3d-8f54-9840aa68a419-1.png",
+          "public_path": "/images/7783f526-dda5-4e3d-8f54-9840aa68a419-1.png",
+          "source_page": 35,
+          "role": "sheet music",
+          "alt": "Sheet music for Blessed Assurance, Jesus Is Mine",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit, license, or separate permission notice is printed for the sheet music on printed page 35. The full published graphic was reconstructed as one 8-bit sRGB PNG from its two adjacent embedded source segments, preserving their order and crop while excluding the hymn-book page number outside the PDF's visible crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
     }
   ],
   "skipped": [
@@ -19840,6 +20539,24 @@
       ],
       "html_exported": false,
       "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2023-autumn",
+      "sequence": 4,
+      "title": "Acceptance, Belonging, and Continual Companionship",
+      "byline": "Gary Miller",
+      "source_pages": {
+        "start": 10,
+        "end": 12
+      },
+      "reason": "Article-specific permission notices require separate permission.",
+      "detected_notices": [
+        "Used by permission – see the end of article",
+        "Used by permission."
+      ],
+      "html_exported": false,
+      "images_exported": false
     }
   ]
 }
+
