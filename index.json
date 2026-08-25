@@ -603,6 +603,29 @@
         "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2024-autumn",
+      "publication": "The Heartbeat of the Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Autumn 2024",
+        "year": 2024,
+        "season": "Autumn",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Autumn-2024-Remnant_web.pdf",
+        "sha256": "9643798ee5296461bd83d238cae6dddda63e1b94d921318452cb3ade434023d6",
+        "pdf_page_count": 21,
+        "printed_page_range": "2-39"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "Material not marked used by permission may be copied or reprinted in its entirety without changes when the magazine name, date, and issue number are referenced.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -18242,6 +18265,904 @@
         "images_against_pdf": "verified_by_ai",
         "decorative_pull_quote_duplicated_in_pdf": false,
         "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "bac9eb21-a63f-489c-97f7-d7ef54ebd853",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Edward Martin",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/bac9eb21-a63f-489c-97f7-d7ef54ebd853.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/bac9eb21-a63f-489c-97f7-d7ef54ebd853-1.jpg",
+          "public_path": "/images/bac9eb21-a63f-489c-97f7-d7ef54ebd853-1.jpg",
+          "source_page": 3,
+          "role": "closing-page background photograph",
+          "alt": "Colorful autumn leaves scattered across the ground",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 3; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "7c31a3d5-7802-4070-8c96-e6ab6a714811",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 2,
+      "title": "Freedom in Christ",
+      "subtitle": null,
+      "section": "FEATURED ARTICLE",
+      "byline": {
+        "raw": "Lee Rufener\nAthens, Wisconsin",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, Wisconsin"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/7c31a3d5-7802-4070-8c96-e6ab6a714811.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7c31a3d5-7802-4070-8c96-e6ab6a714811-1.jpg",
+          "public_path": "/images/7c31a3d5-7802-4070-8c96-e6ab6a714811-1.jpg",
+          "source_page": 6,
+          "role": "closing article photograph",
+          "alt": "An open Bible lit by warm autumn light",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 6; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "d38a7a97-58eb-449e-ac0c-4542b913e672",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 3,
+      "title": "LITTLE DAVY GOES TO SCHOOL",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "David Leid\nBig Prairie, Ohio",
+        "authors": [
+          {
+            "name": "David Leid",
+            "location": "Big Prairie, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": {
+          "name": "Children",
+          "slug": "children"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/d38a7a97-58eb-449e-ac0c-4542b913e672.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/d38a7a97-58eb-449e-ac0c-4542b913e672-1.jpg",
+          "public_path": "/images/d38a7a97-58eb-449e-ac0c-4542b913e672-1.jpg",
+          "source_page": 7,
+          "role": "article illustration",
+          "alt": "A boy swinging a baseball bat",
+          "caption": null,
+          "credit": "Lydia Bauman",
+          "rights_note": "The page-2 masthead credits Lydia Bauman for the artwork on printed page 7; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "c725c2e8-4702-4317-976c-cffd4547b36c",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 4,
+      "title": "Resist Not",
+      "subtitle": null,
+      "section": "MUSINGS OF A MISSIONARY",
+      "byline": {
+        "raw": "Barry Grant\nShelbyville, Indiana",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Shelbyville, Indiana"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Missions",
+            "slug": "missions"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c725c2e8-4702-4317-976c-cffd4547b36c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c725c2e8-4702-4317-976c-cffd4547b36c-1.jpg",
+          "public_path": "/images/c725c2e8-4702-4317-976c-cffd4547b36c-1.jpg",
+          "source_page": 9,
+          "role": "article photograph",
+          "alt": "A black Holy Bible on a dark wooden surface",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 9; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/c725c2e8-4702-4317-976c-cffd4547b36c-2.jpg",
+          "public_path": "/images/c725c2e8-4702-4317-976c-cffd4547b36c-2.jpg",
+          "source_page": 10,
+          "role": "two-page panoramic article photograph",
+          "alt": "A rural Haitian landscape with a dirt road and mountains",
+          "caption": null,
+          "credit": "Edward Martin",
+          "rights_note": "The page-2 masthead credits Edward Martin for printed pages 10 and 11; no separate permission notice or license terms are stated. The clean embedded full-spread panorama was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "d6a9dbdb-afea-45fa-b973-7c924e4cf3e8",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 5,
+      "title": "SHOULD WE Vote?",
+      "subtitle": null,
+      "section": "ISSUES AFFECTING THE CHURCH",
+      "byline": {
+        "raw": "Gary Miller\nCaldwell, Idaho",
+        "authors": [
+          {
+            "name": "Gary Miller",
+            "location": "Caldwell, Idaho"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/d6a9dbdb-afea-45fa-b973-7c924e4cf3e8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/d6a9dbdb-afea-45fa-b973-7c924e4cf3e8-1.png",
+          "public_path": "/images/d6a9dbdb-afea-45fa-b973-7c924e4cf3e8-1.png",
+          "source_page": 12,
+          "role": "opening article photograph",
+          "alt": "An American flag waving on a flagpole",
+          "caption": null,
+          "credit": "Austin Troyer",
+          "rights_note": "The page-2 masthead credits Austin Troyer for printed pages 12 and 13; no separate permission notice or license terms are stated. The embedded image and PDF soft mask were combined as one transparent sRGB PNG without changing the published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "94f9ad84-2cb9-4511-9c5f-e25b2e6f1643",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 6,
+      "title": "Christians Vote?",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "—Darren Brubaker",
+        "authors": [
+          {
+            "name": "Darren Brubaker",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/94f9ad84-2cb9-4511-9c5f-e25b2e6f1643.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "4d6e2019-29bf-410c-9ca4-0d3a22ac2333",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 7,
+      "title": "Screen Time",
+      "subtitle": null,
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Vincent “John”\nWaldron, MD\nGladys, VA",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron, MD",
+            "location": "Gladys, VA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Medical",
+          "slug": "medical"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4d6e2019-29bf-410c-9ca4-0d3a22ac2333.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4d6e2019-29bf-410c-9ca4-0d3a22ac2333-1.jpg",
+          "public_path": "/images/4d6e2019-29bf-410c-9ca4-0d3a22ac2333-1.jpg",
+          "source_page": 16,
+          "role": "opening article photograph",
+          "alt": "Hands holding a smartphone above a desk",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 16; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/4d6e2019-29bf-410c-9ca4-0d3a22ac2333-2.jpg",
+          "public_path": "/images/4d6e2019-29bf-410c-9ca4-0d3a22ac2333-2.jpg",
+          "source_page": 18,
+          "role": "article photograph",
+          "alt": "An open Bible beside a small potted plant near a window",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 18; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "5debb819-a6cb-48f9-9bee-a96915d065cc",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 8,
+      "title": "In Defense of Conscience",
+      "subtitle": null,
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "Rick Hess\nDornsife, PA",
+        "authors": [
+          {
+            "name": "Rick Hess",
+            "location": "Dornsife, PA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/5debb819-a6cb-48f9-9bee-a96915d065cc.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/5debb819-a6cb-48f9-9bee-a96915d065cc-1.jpg",
+          "public_path": "/images/5debb819-a6cb-48f9-9bee-a96915d065cc-1.jpg",
+          "source_page": 21,
+          "role": "article photograph",
+          "alt": "A cross recessed into a weathered stone wall",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 21; no separate permission notice or license terms are stated. The clean embedded image was rotated to its published upright orientation and standards-normalized as a baseline 96-dpi sRGB JPEG without changing its crop or content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/5debb819-a6cb-48f9-9bee-a96915d065cc-2.jpg",
+          "public_path": "/images/5debb819-a6cb-48f9-9bee-a96915d065cc-2.jpg",
+          "source_page": 22,
+          "role": "article photograph",
+          "alt": "A historic white meetinghouse with a steep shingled roof",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 22; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "964b2776-41fa-496b-bbda-e3193f780d76",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 9,
+      "title": "A Christ-Centered Courtship",
+      "subtitle": "Satan’s Snares for Male and Female",
+      "section": "INSPIRATIONS FOR YOUTH",
+      "series": {
+        "name": "A Christ-Centered Courtship",
+        "part": 2,
+        "total_parts": 6
+      },
+      "byline": {
+        "raw": "Paul Hershberger\nMillersburg, Ohio",
+        "authors": [
+          {
+            "name": "Paul Hershberger",
+            "location": "Millersburg, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/964b2776-41fa-496b-bbda-e3193f780d76.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/964b2776-41fa-496b-bbda-e3193f780d76-1.jpg",
+          "public_path": "/images/964b2776-41fa-496b-bbda-e3193f780d76-1.jpg",
+          "source_page": 25,
+          "role": "article photograph",
+          "alt": "A leaf-strewn road through autumn woods",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 25; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/964b2776-41fa-496b-bbda-e3193f780d76-2.jpg",
+          "public_path": "/images/964b2776-41fa-496b-bbda-e3193f780d76-2.jpg",
+          "source_page": 27,
+          "role": "article photograph",
+          "alt": "A potted snake plant beside a bright window",
+          "caption": null,
+          "credit": "Misty Photography",
+          "rights_note": "The page-2 masthead credits Misty Photography for printed page 27; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "91c01bcf-5b37-4516-bdaf-8e48fc76ca31",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 10,
+      "title": "The Constitution or the Bible",
+      "subtitle": null,
+      "section": "BIBLE DOCTRINE",
+      "byline": {
+        "raw": "By Edward Martin\nGlenmont, Ohio",
+        "authors": [
+          {
+            "name": "Edward Martin",
+            "location": "Glenmont, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/91c01bcf-5b37-4516-bdaf-8e48fc76ca31.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/91c01bcf-5b37-4516-bdaf-8e48fc76ca31-1.jpg",
+          "public_path": "/images/91c01bcf-5b37-4516-bdaf-8e48fc76ca31-1.jpg",
+          "source_page": 28,
+          "role": "opening layered composition",
+          "alt": "An open Bible overlaid with the United States flag and Constitution",
+          "caption": null,
+          "credit": "Photography By Laurel; Adobe Stock",
+          "rights_note": "The page-2 masthead credits Photography By Laurel and Adobe Stock for printed page 28; no separate permission notice or license terms are stated. The layered printed composition was rendered at 300 dpi, cropped to the text-free published image region, converted to sRGB, and web-quality encoded as a baseline 2550-by-2350-pixel JPEG."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/91c01bcf-5b37-4516-bdaf-8e48fc76ca31-2.jpg",
+          "public_path": "/images/91c01bcf-5b37-4516-bdaf-8e48fc76ca31-2.jpg",
+          "source_page": 31,
+          "role": "article photograph",
+          "alt": "A mountain valley beneath a glowing sky",
+          "caption": null,
+          "credit": "Austin Troyer",
+          "rights_note": "The page-2 masthead credits Austin Troyer for printed page 31; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "77a6f2d1-3ddd-4eed-9b80-9db2be0c922e",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 11,
+      "title": "COME, LET US TUNE OUR loftiest song",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "Robert A. West",
+        "authors": [
+          {
+            "name": "Robert A. West",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 32
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/77a6f2d1-3ddd-4eed-9b80-9db2be0c922e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/77a6f2d1-3ddd-4eed-9b80-9db2be0c922e-1.jpg",
+          "public_path": "/images/77a6f2d1-3ddd-4eed-9b80-9db2be0c922e-1.jpg",
+          "source_page": 32,
+          "role": "full-page poem background photograph",
+          "alt": "A single yellow leaf on dark wet pavement",
+          "caption": null,
+          "credit": "Belle Vie Images",
+          "rights_note": "The page-2 masthead credits Belle Vie Images for printed page 32; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1da906dc-7485-4e88-adfb-dc70df21e888",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 12,
+      "title": "Songs in the Night",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Faith Sommers\nBangor, California",
+        "authors": [
+          {
+            "name": "Faith Sommers",
+            "location": "Bangor, California"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1da906dc-7485-4e88-adfb-dc70df21e888.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1da906dc-7485-4e88-adfb-dc70df21e888-1.jpg",
+          "public_path": "/images/1da906dc-7485-4e88-adfb-dc70df21e888-1.jpg",
+          "source_page": 33,
+          "role": "header photograph",
+          "alt": "Three candle-shaped lights glowing in darkness",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 33; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "7bdf0cfc-6ca5-4b2b-b8f9-257f3392d05f",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 13,
+      "title": "The Christian in Election Year",
+      "subtitle": null,
+      "section": "CHRISTIAN DISCIPLESHIP",
+      "byline": {
+        "raw": "Dave Sweigart\nPeach Bottom, PA.",
+        "authors": [
+          {
+            "name": "Dave Sweigart",
+            "location": "Peach Bottom, PA."
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 37
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/7bdf0cfc-6ca5-4b2b-b8f9-257f3392d05f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7bdf0cfc-6ca5-4b2b-b8f9-257f3392d05f-1.jpg",
+          "public_path": "/images/7bdf0cfc-6ca5-4b2b-b8f9-257f3392d05f-1.jpg",
+          "source_page": 35,
+          "role": "article photograph",
+          "alt": "A Bible resting on an American flag",
+          "caption": null,
+          "credit": "Adobe Stock",
+          "rights_note": "The page-2 masthead credits Adobe Stock for printed page 35; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/7bdf0cfc-6ca5-4b2b-b8f9-257f3392d05f-2.jpg",
+          "public_path": "/images/7bdf0cfc-6ca5-4b2b-b8f9-257f3392d05f-2.jpg",
+          "source_page": 37,
+          "role": "article photograph",
+          "alt": "Sunlight shining through stalks of wheat",
+          "caption": null,
+          "credit": "Photography By Laurel",
+          "rights_note": "The page-2 masthead credits Photography By Laurel for printed page 37; no separate permission notice or license terms are stated. The clean embedded image was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "e296cdce-916b-4ecd-8bc5-8cc00726a580",
+      "issue_id": "heartbeat-remnant-2024-autumn",
+      "sequence": 14,
+      "title": "Lead On, O King Eternal",
+      "subtitle": null,
+      "section": "HYMN HISTORY",
+      "byline": {
+        "raw": "Joel A Hostetler\nCoshocton, OH",
+        "authors": [
+          {
+            "name": "Joel A Hostetler",
+            "location": "Coshocton, OH"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 38,
+        "end": 39
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/e296cdce-916b-4ecd-8bc5-8cc00726a580.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e296cdce-916b-4ecd-8bc5-8cc00726a580-1.jpg",
+          "public_path": "/images/e296cdce-916b-4ecd-8bc5-8cc00726a580-1.jpg",
+          "source_page": 39,
+          "role": "sheet music",
+          "alt": "Sheet music for Lead On, O King Eternal, headed Ernest W. Shurtleff, 1887, and Henry T. Smart, 1835",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit, license, or permission notice is printed for the sheet music on printed page 39. The complete embedded music graphic was standards-normalized as a baseline 96-dpi sRGB JPEG without changing its published dimensions, crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
       }
     }
   ],
