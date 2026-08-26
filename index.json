@@ -704,6 +704,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2013-03",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Ephrata Christian Fellowship",
+      "date": {
+        "label": "March/April 2013",
+        "year": 2013,
+        "months": [
+          3,
+          4
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 19,
+      "issue_number": 2,
+      "source": {
+        "filename": "2013-03-Remnant.pdf",
+        "sha256": "e47fdef73473cc1e53c7e02bb8469a90c570ae2bd962b2f8429fe36e4bca8283",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -21273,6 +21300,702 @@
           "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The pale bottle was stored in the PDF as two vertically adjacent sRGB JPEG components; those components were combined at their published positions into one sRGB PNG at 150 ppi without the separately rendered article text."
         }
       ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "bfec593e-9641-46a9-97d6-84e3bffe789c",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 1,
+      "title": "Flying Too High?",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 9,
+        "pages": [
+          3,
+          9
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/bfec593e-9641-46a9-97d6-84e3bffe789c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/bfec593e-9641-46a9-97d6-84e3bffe789c-1.jpg",
+          "public_path": "/images/bfec593e-9641-46a9-97d6-84e3bffe789c-1.jpg",
+          "source_page": 3,
+          "role": "illustration",
+          "alt": "A grayscale illustration of Icarus falling after flying too close to the sun",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "9b22e638-a735-48fe-b31b-817c614538ca",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 2,
+      "title": "Enemy or Ally?",
+      "subtitle": "Taking tribute from the Canaanites",
+      "section": null,
+      "byline": {
+        "raw": "Based on the outline of a sermon by Michael L. Overholt.",
+        "authors": [
+          {
+            "name": "Michael L. Overholt",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/9b22e638-a735-48fe-b31b-817c614538ca.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/9b22e638-a735-48fe-b31b-817c614538ca-1.jpg",
+          "public_path": "/images/9b22e638-a735-48fe-b31b-817c614538ca-1.jpg",
+          "source_page": 4,
+          "role": "illustration",
+          "alt": "A sale tag reading Only $100.00",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/9b22e638-a735-48fe-b31b-817c614538ca-2.png",
+          "public_path": "/images/9b22e638-a735-48fe-b31b-817c614538ca-2.png",
+          "source_page": 5,
+          "role": "illustration",
+          "alt": "Ancient soldiers riding in a horse-drawn chariot",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/9b22e638-a735-48fe-b31b-817c614538ca-3.png",
+          "public_path": "/images/9b22e638-a735-48fe-b31b-817c614538ca-3.png",
+          "source_page": 6,
+          "role": "illustration",
+          "alt": "Two men playing miniature golf",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/9b22e638-a735-48fe-b31b-817c614538ca-4.jpg",
+          "public_path": "/images/9b22e638-a735-48fe-b31b-817c614538ca-4.jpg",
+          "source_page": 7,
+          "role": "illustration",
+          "alt": "A discouraged man seated at a table with a laptop and books",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/9b22e638-a735-48fe-b31b-817c614538ca-5.jpg",
+          "public_path": "/images/9b22e638-a735-48fe-b31b-817c614538ca-5.jpg",
+          "source_page": 8,
+          "role": "photograph",
+          "alt": "A large house and lawn",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "e66a02d4-667c-4f50-b5e1-158ff98b82d5",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 3,
+      "title": "The Humble Man Feels Small",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "John M. Brenneman",
+        "authors": [
+          {
+            "name": "John M. Brenneman",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 13
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/e66a02d4-667c-4f50-b5e1-158ff98b82d5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e66a02d4-667c-4f50-b5e1-158ff98b82d5-1.jpg",
+          "public_path": "/images/e66a02d4-667c-4f50-b5e1-158ff98b82d5-1.jpg",
+          "source_page": 10,
+          "role": "illustration",
+          "alt": "A man kneeling low to the ground",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/e66a02d4-667c-4f50-b5e1-158ff98b82d5-2.jpg",
+          "public_path": "/images/e66a02d4-667c-4f50-b5e1-158ff98b82d5-2.jpg",
+          "source_page": 11,
+          "role": "illustration",
+          "alt": "The publican bowing before God while other people stand nearby",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/e66a02d4-667c-4f50-b5e1-158ff98b82d5-3.jpg",
+          "public_path": "/images/e66a02d4-667c-4f50-b5e1-158ff98b82d5-3.jpg",
+          "source_page": 13,
+          "role": "book cover",
+          "alt": "Cover of Pride and Humility",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "053cec10-1df0-4f62-832e-362809b44283",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 4,
+      "title": "Ponderings for Daughters",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Marcia Zimmerman",
+        "authors": [
+          {
+            "name": "Marcia Zimmerman",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 16
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/053cec10-1df0-4f62-832e-362809b44283.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/053cec10-1df0-4f62-832e-362809b44283-1.png",
+          "public_path": "/images/053cec10-1df0-4f62-832e-362809b44283-1.png",
+          "source_page": 14,
+          "role": "illustration",
+          "alt": "A small house",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/053cec10-1df0-4f62-832e-362809b44283-2.jpg",
+          "public_path": "/images/053cec10-1df0-4f62-832e-362809b44283-2.jpg",
+          "source_page": 15,
+          "role": "illustration",
+          "alt": "Cornerstones in a brick wall",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "4fa4c74d-d2b0-433f-8108-15ed3ef8a9db",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 5,
+      "title": "Disturb Us, Lord",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Sir Frances Drake 1577",
+        "authors": [
+          {
+            "name": "Sir Frances Drake",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 16
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4fa4c74d-d2b0-433f-8108-15ed3ef8a9db.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "f87354d0-0bb8-4271-a8db-792c77d0d090",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 6,
+      "title": "Redeeming the Baptism of the Holy Ghost from Pentecostalism",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/f87354d0-0bb8-4271-a8db-792c77d0d090.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f87354d0-0bb8-4271-a8db-792c77d0d090-1.jpg",
+          "public_path": "/images/f87354d0-0bb8-4271-a8db-792c77d0d090-1.jpg",
+          "source_page": 18,
+          "role": "illustration",
+          "alt": "A grayscale illustration of people gathered at Pentecost",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/f87354d0-0bb8-4271-a8db-792c77d0d090-2.jpg",
+          "public_path": "/images/f87354d0-0bb8-4271-a8db-792c77d0d090-2.jpg",
+          "source_page": 19,
+          "role": "illustration",
+          "alt": "A continuation of the grayscale Pentecost illustration",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/f87354d0-0bb8-4271-a8db-792c77d0d090-3.jpg",
+          "public_path": "/images/f87354d0-0bb8-4271-a8db-792c77d0d090-3.jpg",
+          "source_page": 20,
+          "role": "illustration",
+          "alt": "A stylized flame",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/f87354d0-0bb8-4271-a8db-792c77d0d090-4.jpg",
+          "public_path": "/images/f87354d0-0bb8-4271-a8db-792c77d0d090-4.jpg",
+          "source_page": 21,
+          "role": "illustration",
+          "alt": "A dove in flight receiving a gift from an outstretched hand",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/f87354d0-0bb8-4271-a8db-792c77d0d090-5.jpg",
+          "public_path": "/images/f87354d0-0bb8-4271-a8db-792c77d0d090-5.jpg",
+          "source_page": 25,
+          "role": "illustration",
+          "alt": "A smiling road sign",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "e7fba858-3c29-42c7-ae42-198541696da3",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 7,
+      "title": "The Tongues Test",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/e7fba858-3c29-42c7-ae42-198541696da3.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "816d80f0-e3dd-46a6-ae6e-03214e209890",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 8,
+      "title": "On the Danger of Increasing Riches",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "John Wesley",
+        "authors": [
+          {
+            "name": "John Wesley",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 32
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/816d80f0-e3dd-46a6-ae6e-03214e209890.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/816d80f0-e3dd-46a6-ae6e-03214e209890-1.jpg",
+          "public_path": "/images/816d80f0-e3dd-46a6-ae6e-03214e209890-1.jpg",
+          "source_page": 28,
+          "role": "photograph",
+          "alt": "A hand reaching through a wooden fence toward paper money",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/816d80f0-e3dd-46a6-ae6e-03214e209890-2.jpg",
+          "public_path": "/images/816d80f0-e3dd-46a6-ae6e-03214e209890-2.jpg",
+          "source_page": 32,
+          "role": "photograph",
+          "alt": "A statue of John Wesley",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "8d329db2-4f64-4c9e-badb-7955e4c6f115",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 9,
+      "title": "Meditations on Judging and Doing",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Loyal Martin—Philadelphia, NY",
+        "authors": [
+          {
+            "name": "Loyal Martin",
+            "location": "Philadelphia, NY",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Judgment",
+          "slug": "judgment"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/8d329db2-4f64-4c9e-badb-7955e4c6f115.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8d329db2-4f64-4c9e-badb-7955e4c6f115-1.png",
+          "public_path": "/images/8d329db2-4f64-4c9e-badb-7955e4c6f115-1.png",
+          "source_page": 33,
+          "role": "illustration",
+          "alt": "A seated judge holding an open book beside scales",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate permission notice is printed. The original embedded asset was exported and normalized to browser-compatible sRGB; composite pieces were joined without adding or removing published image content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "0862fd6d-7c62-456c-8b3f-abb513f498ce",
+      "issue_id": "heartbeat-remnant-2013-03",
+      "sequence": 10,
+      "title": "Running the Race Together",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Author unknown",
+        "authors": [
+          {
+            "name": "Author unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0862fd6d-7c62-456c-8b3f-abb513f498ce.html"
+      },
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
