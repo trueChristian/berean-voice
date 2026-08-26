@@ -731,6 +731,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2013-01",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Ephrata Christian Fellowship",
+      "date": {
+        "label": "January/February 2013",
+        "year": 2013,
+        "months": [
+          1,
+          2
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 19,
+      "issue_number": 1,
+      "source": {
+        "filename": "2013-01-Remnant.pdf",
+        "sha256": "d2dc5893aa7b5de5c11051ab1d9d2d8b7e368d594ca03e9018c3d7b43d62f2cd",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -22060,6 +22087,604 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
       }
+    },
+    {
+      "id": "c9cda67c-6031-4ebf-8553-a2baa80c2180",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 1,
+      "title": "An Ancient Message from Blank Paper",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 35,
+        "pages": [
+          3,
+          34,
+          35
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Home histories",
+            "slug": "home-histories"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c9cda67c-6031-4ebf-8553-a2baa80c2180.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-1.jpg",
+          "public_path": "/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-1.jpg",
+          "source_page": 3,
+          "role": "opening photograph",
+          "alt": "Close-up of handwriting in the Hutterian Chronicles",
+          "caption": null,
+          "credit": "Stephen Taylor",
+          "rights_note": "The page-2 masthead credits Stephen Taylor for photographs on printed pages 3, 34, and 35; no separate permission notice or licence terms are stated. The embedded sRGB JPEG was re-encoded at the same dimensions as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density; its crop, orientation, and content were unchanged."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-2.jpg",
+          "public_path": "/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-2.jpg",
+          "source_page": 3,
+          "role": "comet drawing",
+          "alt": "A comet drawn in the Hutterian Chronicles",
+          "caption": "Comet drawn in the Hutterian Chronicles",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com without mapping this drawing to that source. The embedded sRGB JPEG was re-encoded at the same dimensions as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density; its crop, orientation, and content were unchanged."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-3.jpg",
+          "public_path": "/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-3.jpg",
+          "source_page": 34,
+          "role": "manuscript box photograph",
+          "alt": "The wooden box holding the Hutterian Chronicles",
+          "caption": "This wooden box “guards” the original, handwritten Hutterian Chronicles.",
+          "credit": "Stephen Taylor",
+          "rights_note": "The page-2 masthead credits Stephen Taylor for photographs on printed pages 3, 34, and 35; no separate permission notice or licence terms are stated. The embedded sRGB JPEG was re-encoded at the same dimensions as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density; its crop, orientation, and content were unchanged."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-4.jpg",
+          "public_path": "/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-4.jpg",
+          "source_page": 35,
+          "role": "Table of Martyrs manuscript detail",
+          "alt": "Blank spaces in the Hutterian Chronicles’ Table of Martyrs",
+          "caption": "The original manuscript of The Hutterian Chronicles left blank spaces and pages in the Table of Martyrs, probably because they expected that later generations who would live godly in Christ Jesus would need to be added.",
+          "credit": "Stephen Taylor",
+          "rights_note": "The page-2 masthead credits Stephen Taylor for photographs on printed pages 3, 34, and 35; no separate permission notice or licence terms are stated. The photograph was stored as two horizontally adjacent sRGB JPEG tiles; they were joined at their published positions into one 559 × 372 standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving its crop, orientation, and content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-5.jpg",
+          "public_path": "/images/c9cda67c-6031-4ebf-8553-a2baa80c2180-5.jpg",
+          "source_page": 35,
+          "role": "Table of Martyrs open-book spread",
+          "alt": "Blank and handwritten pages in the Hutterian Chronicles’ Table of Martyrs",
+          "caption": "The original manuscript of The Hutterian Chronicles left blank spaces and pages in the Table of Martyrs, probably because they expected that later generations who would live godly in Christ Jesus would need to be added.",
+          "credit": "Stephen Taylor",
+          "rights_note": "The page-2 masthead credits Stephen Taylor for photographs on printed pages 3, 34, and 35; no separate permission notice or licence terms are stated. The photograph was stored as two horizontally adjacent sRGB JPEG tiles; they were joined at their published positions into one 559 × 372 standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving its crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "60d3e58e-1571-47a8-9360-c145f22d17b7",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 2,
+      "title": "Those Who Die Win",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Arlin Weaver",
+        "authors": [
+          {
+            "name": "Arlin Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 4
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/60d3e58e-1571-47a8-9360-c145f22d17b7.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "c0661172-c311-446c-9b32-63d02eddbab5",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 3,
+      "title": "All Are Precious In His Sight",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Some precious lessons that the Lord has taught me this year, 2012. – Angela Gellenbeck",
+        "authors": [
+          {
+            "name": "Angela Gellenbeck",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 5,
+        "end": 5
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c0661172-c311-446c-9b32-63d02eddbab5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c0661172-c311-446c-9b32-63d02eddbab5-1.jpg",
+          "public_path": "/images/c0661172-c311-446c-9b32-63d02eddbab5-1.jpg",
+          "source_page": 5,
+          "role": "background photograph",
+          "alt": "A large crowd gathered outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com without mapping this image to that source. The page's text-free non-text objects were rendered at 300 dpi, cropped to the published image region, and resampled to 1275 × 1250 as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published crop and content while excluding article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "8a62851e-33fe-410c-a6af-0a6b0bcf4f29",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 5,
+      "title": "The foundation of your fellowship is ...",
+      "subtitle": "... what?",
+      "section": null,
+      "byline": null,
+      "source_pages": {
+        "start": 10,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/8a62851e-33fe-410c-a6af-0a6b0bcf4f29.html"
+      },
+      "title_layout_note": "The boxed item is separately listed in the contents and appears beneath the related article on printed page 10.",
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "26e64c91-d756-4bf5-94b8-afd661a38c4c",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 6,
+      "title": "Christian Counseling—Is It Biblical?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Based on a message given by Curvin Wenger",
+        "authors": [
+          {
+            "name": "Curvin Wenger",
+            "location": null,
+            "role": "message speaker"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Deception",
+            "slug": "deception"
+          },
+          {
+            "name": "Medical",
+            "slug": "medical"
+          }
+        ]
+      },
+      "publication_note": "This message can be listened to at http://ephrataministries.org/msg_detail.a5w?vlast_index=4761. The recorded message can also be obtained by writing or calling the contact information inside the front cover of this magazine.",
+      "title_layout_note": "The printed title and byline span pages 18 and 19; index metadata records the combined title.",
+      "html": {
+        "repository_path": "src/26e64c91-d756-4bf5-94b8-afd661a38c4c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/26e64c91-d756-4bf5-94b8-afd661a38c4c-1.jpg",
+          "public_path": "/images/26e64c91-d756-4bf5-94b8-afd661a38c4c-1.jpg",
+          "source_page": 18,
+          "role": "opening Bible photograph",
+          "alt": "An open Bible",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com without mapping this image to that source. The embedded sRGB JPEG was re-encoded at the same dimensions as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density; its crop, orientation, and content were unchanged."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/26e64c91-d756-4bf5-94b8-afd661a38c4c-2.jpg",
+          "public_path": "/images/26e64c91-d756-4bf5-94b8-afd661a38c4c-2.jpg",
+          "source_page": 19,
+          "role": "balance scale illustration",
+          "alt": "A balance scale beneath a flame",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com without mapping this image to that source. The embedded sRGB JPEG was re-encoded at the same dimensions as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density; its crop, orientation, and content were unchanged."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/26e64c91-d756-4bf5-94b8-afd661a38c4c-3.jpg",
+          "public_path": "/images/26e64c91-d756-4bf5-94b8-afd661a38c4c-3.jpg",
+          "source_page": 22,
+          "role": "Sigmund Freud portrait",
+          "alt": "Portrait of Sigmund Freud",
+          "caption": "Sigmund Freud, considered the founder of psychoanalysis, felt that God was an illusion.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com without mapping this image to that source. The PDF applied inverted decode semantics to the embedded one-channel separation JPEG; its samples were inverted and encoded at the same dimensions as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving its crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "dfc80edf-efff-4f43-a0b6-f0328948b30b",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 7,
+      "title": "The Girl Who Could Be Me",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~L.H.",
+        "authors": [
+          {
+            "name": "L.H.",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/dfc80edf-efff-4f43-a0b6-f0328948b30b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/dfc80edf-efff-4f43-a0b6-f0328948b30b-1.png",
+          "public_path": "/images/dfc80edf-efff-4f43-a0b6-f0328948b30b-1.png",
+          "source_page": 27,
+          "role": "central illustration",
+          "alt": "Illustration of a barefoot woman in a worn coat and hat",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com without mapping this image to that source. The clean embedded sRGB raster was retained as a 406 × 752 sRGB PNG; its density metadata was normalized to 150 ppi without changing its crop, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "ea28ab1a-5d2b-4cdd-bc81-e2ad1383940b",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 8,
+      "title": "At Home with Usefulness",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Leora Schmucker",
+        "authors": [
+          {
+            "name": "Leora Schmucker",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31,
+        "pages": [
+          28,
+          30,
+          31
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/ea28ab1a-5d2b-4cdd-bc81-e2ad1383940b.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "5298b523-0783-4288-afc2-d35522c8891b",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 9,
+      "title": "Dear Mother (and Future Mother)",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Marcia Zimmerman",
+        "authors": [
+          {
+            "name": "Marcia Zimmerman",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 30,
+        "pages": [
+          28,
+          29,
+          30
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/5298b523-0783-4288-afc2-d35522c8891b.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "30c8298f-f077-483a-8c01-33c00c8b48fa",
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 10,
+      "title": "Constant in Prayer",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Charles E. Orr",
+        "authors": [
+          {
+            "name": "Charles E. Orr",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/30c8298f-f077-483a-8c01-33c00c8b48fa.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/30c8298f-f077-483a-8c01-33c00c8b48fa-1.jpg",
+          "public_path": "/images/30c8298f-f077-483a-8c01-33c00c8b48fa-1.jpg",
+          "source_page": 32,
+          "role": "opening prayer engraving",
+          "alt": "Engraving of a man kneeling in prayer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com without mapping this image to that source. The PDF applied inverted decode semantics to the embedded one-channel separation JPEG; its samples were inverted and encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/30c8298f-f077-483a-8c01-33c00c8b48fa-2.jpg",
+          "public_path": "/images/30c8298f-f077-483a-8c01-33c00c8b48fa-2.jpg",
+          "source_page": 33,
+          "role": "wall clock photograph",
+          "alt": "An analog wall clock",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com without mapping this image to that source. The clock was stored as two vertically adjacent sRGB JPEG tiles; they were joined at their published positions into one 452 × 454 standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving its crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "standalone_decorative_matter_after_article_omitted": true
+      }
     }
   ],
   "skipped": [
@@ -22782,6 +23407,22 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "©2001 Used by permission. Timothy R. Phillips & Dennis L. Okholm, A Family of Faith: An Introduction to Evangelical Christianity, Baker Academic (A division of Baker Publishing Group), Grand Rapids MI, 182–192."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2013-01",
+      "sequence": 4,
+      "title": "Experience vs. Obedience?",
+      "byline": "Mike Atnip",
+      "source_pages": {
+        "start": 6,
+        "end": 17
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "(Pictures on pp. 7 and 8 are by Floyd A. Johnson. He could not be contacted to ask permission to use his paintings.)"
       ],
       "html_exported": false,
       "images_exported": false
