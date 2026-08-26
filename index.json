@@ -758,6 +758,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2012-11",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Ephrata Christian Fellowship",
+      "date": {
+        "label": "November/December 2012",
+        "year": 2012,
+        "months": [
+          11,
+          12
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 18,
+      "issue_number": 1,
+      "source": {
+        "filename": "2012-11-Remnant.pdf",
+        "sha256": "532fcf90587bea768203a639f2bf8fc0f9af06de8fa2d10bb4942a3187dd15d4",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -22685,6 +22712,739 @@
         "decorative_pull_quote_duplicated_in_html": false,
         "standalone_decorative_matter_after_article_omitted": true
       }
+    },
+    {
+      "id": "4c281a52-8d82-4455-9559-37d18c0a4a7b",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 1,
+      "title": "Mennonite Nazis:",
+      "subtitle": "A Lesson from History",
+      "section": "From the editor",
+      "byline": {
+        "raw": "Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 8
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Deception",
+            "slug": "deception"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4c281a52-8d82-4455-9559-37d18c0a4a7b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-1.jpg",
+          "public_path": "/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-1.jpg",
+          "source_page": 3,
+          "role": "opening historical photograph",
+          "alt": "A Nazi rally with officials, uniformed girls, and a large crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-2.jpg",
+          "public_path": "/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-2.jpg",
+          "source_page": 4,
+          "role": "portrait of Emperor Augustus",
+          "alt": "A portrait drawing of Emperor Augustus",
+          "caption": "Emperor Augustus (63 BCE - 14 CE) The son of God who brought the good news of peace to the world.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-3.jpg",
+          "public_path": "/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-3.jpg",
+          "source_page": 4,
+          "role": "crosses illustration",
+          "alt": "A Christian cross combined with a swastika and Nazi election material",
+          "caption": "Could the two crosses be fused?",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-4.jpg",
+          "public_path": "/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-4.jpg",
+          "source_page": 5,
+          "role": "historical Nazi-salute photograph",
+          "alt": "A large crowd giving the Nazi salute",
+          "caption": "The famous straight-arm Nazi salute is now illegal in Germany and a few other European nations.",
+          "credit": "Bundesarchiv, Bild 102-04481B / CC-BY-SA",
+          "rights_note": "The printed credit identifies the image as “Bundesarchiv, Bild 102-04481B / CC-BY-SA”; no separate permission notice is printed. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-5.jpg",
+          "public_path": "/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-5.jpg",
+          "source_page": 6,
+          "role": "Nazi belt-buckle photograph",
+          "alt": "A Nazi military belt buckle bearing the words Gott mit Uns",
+          "caption": "Nazi belt buckle, emblazoned with the words “God with us.”",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-6.jpg",
+          "public_path": "/images/4c281a52-8d82-4455-9559-37d18c0a4a7b-6.jpg",
+          "source_page": 7,
+          "role": "Fernheim Colony meeting-hall photograph",
+          "alt": "The interior of the Fernheim Colony meeting hall with a portrait of Adolf Hitler above the front table",
+          "caption": "The meeting hall at Fernheim Colony, Paraguay, was opened to the Bruderhof refugees as a place to gather. Note the portrait of Adolf Hitler at the front, and the old German saying on the banner—Gemeinnutz vor Eigennutz! (Roughly translated, “Community before self-interest.”)",
+          "credit": "From Mennonite Church USA Archives in North Newton, Kansas.",
+          "rights_note": "The image is credited “From Mennonite Church USA Archives in North Newton, Kansas.” No image-specific licence or separate permission notice is printed. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "15543f73-d6cc-49f1-bd36-cf6693c2cfc2",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 2,
+      "title": "Our readers write ...",
+      "subtitle": null,
+      "section": null,
+      "byline": null,
+      "source_pages": {
+        "start": 9,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/15543f73-d6cc-49f1-bd36-cf6693c2cfc2.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "68ea86dd-7e55-416b-9bdc-07fce6e1aa44",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 3,
+      "title": "Tschoop",
+      "subtitle": "First-fruit of the Moravian Indian Mission in America",
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Missions",
+          "slug": "missions"
+        },
+        "additional": [
+          {
+            "name": "Revival",
+            "slug": "revival"
+          },
+          {
+            "name": "Home histories",
+            "slug": "home-histories"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/68ea86dd-7e55-416b-9bdc-07fce6e1aa44.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-1.jpg",
+          "public_path": "/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-1.jpg",
+          "source_page": 11,
+          "role": "First Fruits painting",
+          "alt": "Painting of Tschoop kissing Jesus’ feet as converts from several nations gather around",
+          "caption": "In this famous painting by Johann Haidt—call “First Fruits”—Tschoop kisses the feet of Jesus while other first converts of Moravian missions from various nations gather around. (Some details of the painting have been slightly modified.)",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-2.png",
+          "public_path": "/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-2.png",
+          "source_page": 13,
+          "role": "Moravian mission map",
+          "alt": "Map showing locations of Moravian Indian missions, including Shekomeko and Bethlehem",
+          "caption": "The Moravian missions to the Indians would eventually spread over many states and into Canada. Shown on the map are the approximate locations of some (but not all) of the Christian Indian villages and mission outreaches begun in the 1700s and early 1800s.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this figure to either source. The complete printed map and all of its labels were rendered at 300 dpi and stored as an RGB PNG, preserving the published crop, orientation, and content; the printed caption remains separate in HTML."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-3.jpg",
+          "public_path": "/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-3.jpg",
+          "source_page": 14,
+          "role": "portrait of August Spangenberg",
+          "alt": "Engraved portrait of August Spangenberg",
+          "caption": "August Spangenberg, a bishop in the Moravian Brethren church, said concerning the Shekomeko revival after visiting the village, “It is impossible to express what is felt here; God has done the work.”",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-4.jpg",
+          "public_path": "/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-4.jpg",
+          "source_page": 14,
+          "role": "rum-trader illustration",
+          "alt": "Black-and-white illustration of rum traders carrying barrels",
+          "caption": "The rum traders were so upset at their loss of business at Shekomeko that they started terrible rumors about the missionaries.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-5.jpg",
+          "public_path": "/images/68ea86dd-7e55-416b-9bdc-07fce6e1aa44-5.jpg",
+          "source_page": 17,
+          "role": "Shekomeko monument photograph",
+          "alt": "Tall stone monument at Shekomeko",
+          "caption": "This monument at Shekomeko (in conmemoration of the revival) is a testament of the power of God to change lives.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "21e37c11-b16f-40bd-97a2-097867fa1ab3",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 4,
+      "title": "Our World and Our Wealth",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Based on a message preached by John D. Martin",
+        "authors": [
+          {
+            "name": "John D. Martin",
+            "location": null,
+            "role": "Message preached by"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/21e37c11-b16f-40bd-97a2-097867fa1ab3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-1.jpg",
+          "public_path": "/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-1.jpg",
+          "source_page": 18,
+          "role": "opening money-strip illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this illustration to either source. The opening money strip was stored as two horizontally adjacent 481 × 166 embedded RGB JPEG halves spanning printed pages 18–19; they were mechanically joined at their published positions and encoded as one 962 × 166 standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published crop, orientation, content, and seam."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-2.jpg",
+          "public_path": "/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-2.jpg",
+          "source_page": 20,
+          "role": "soft-drink can photograph",
+          "alt": "A soft drink can decorated with a large dollar sign",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-3.png",
+          "public_path": "/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-3.png",
+          "source_page": 21,
+          "role": "world-wealth infographic",
+          "alt": "Two circles comparing 5% of the world’s population with 50% of its wealth",
+          "caption": "The United States has 50% of the world’s wealth, but only 5% of its population.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this figure to either source. The complete layered infographic region was rendered at 300 dpi and stored as an RGB PNG, preserving the published crop, orientation, and content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-4.jpg",
+          "public_path": "/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-4.jpg",
+          "source_page": 22,
+          "role": "portrait of John Wesley",
+          "alt": "An illustration of John Wesley preaching with a book raised in one hand",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-5.jpg",
+          "public_path": "/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-5.jpg",
+          "source_page": 24,
+          "role": "poor-maid illustration",
+          "alt": "A young girl in ragged clothing standing in a furnished room",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The PDF’s raw one-channel separation JPEG used inverted sample semantics; its samples were negated and encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-6.jpg",
+          "public_path": "/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-6.jpg",
+          "source_page": 25,
+          "role": "pickup-truck photograph",
+          "alt": "A pickup truck",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "src/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-7.jpg",
+          "public_path": "/images/21e37c11-b16f-40bd-97a2-097867fa1ab3-7.jpg",
+          "source_page": 27,
+          "role": "large-house photograph",
+          "alt": "A large two-story house with striped awnings",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "source_availability_note_retained": true
+      }
+    },
+    {
+      "id": "6355a30b-fbbb-411c-8e9b-b4f2dc5f8b8d",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 5,
+      "title": "In the Secret Place",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Charles E. Orr",
+        "authors": [
+          {
+            "name": "Charles E. Orr",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 29
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/6355a30b-fbbb-411c-8e9b-b4f2dc5f8b8d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/6355a30b-fbbb-411c-8e9b-b4f2dc5f8b8d-1.jpg",
+          "public_path": "/images/6355a30b-fbbb-411c-8e9b-b4f2dc5f8b8d-1.jpg",
+          "source_page": 28,
+          "role": "hen-and-chicks photograph",
+          "alt": "A hen sheltering chicks under her wings",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/6355a30b-fbbb-411c-8e9b-b4f2dc5f8b8d-2.jpg",
+          "public_path": "/images/6355a30b-fbbb-411c-8e9b-b4f2dc5f8b8d-2.jpg",
+          "source_page": 29,
+          "role": "chick illustration",
+          "alt": "A hen sitting with chicks on a nest",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "22d6c0e1-ac83-46e4-b80c-e24fde12e8d0",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 6,
+      "title": "The Matter is Quite Simple",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—Soren Kierkegaard",
+        "authors": [
+          {
+            "name": "Soren Kierkegaard",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 29
+      },
+      "categories": {
+        "primary": {
+          "name": "Sharpened words",
+          "slug": "sharpened-words"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/22d6c0e1-ac83-46e4-b80c-e24fde12e8d0.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "title_supplied_by_contents_page": true
+      }
+    },
+    {
+      "id": "5ad40684-ea16-43ba-be8d-a8a1687a446c",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 7,
+      "title": "The True Way of Turning to God",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "William Law",
+        "authors": [
+          {
+            "name": "William Law",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/5ad40684-ea16-43ba-be8d-a8a1687a446c.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "f957067f-a69c-4321-a3cd-b28fe861eb40",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 8,
+      "title": "Jesus",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~By an unknown Ghanian",
+        "authors": [
+          {
+            "name": "unknown Ghanian",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/f957067f-a69c-4321-a3cd-b28fe861eb40.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "contents_page_describes_item_as_poem": true
+      }
+    },
+    {
+      "id": "79a88322-8779-4eee-bf0c-f230b07aeef5",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 9,
+      "title": "In the Image of Christ",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Christina Benjamin",
+        "authors": [
+          {
+            "name": "Christina Benjamin",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 32
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/79a88322-8779-4eee-bf0c-f230b07aeef5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/79a88322-8779-4eee-bf0c-f230b07aeef5-1.jpg",
+          "public_path": "/images/79a88322-8779-4eee-bf0c-f230b07aeef5-1.jpg",
+          "source_page": 32,
+          "role": "Bible photograph",
+          "alt": "A closed black Holy Bible with a ribbon bookmark",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states “Some images ©2001-2012” and lists www.clipart.com and www.sxc.hu without mapping this image to either source. The embedded image was encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "d4285e0f-d99a-4f2b-adca-4ea683617014",
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 10,
+      "title": "The King’s Heart",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Marcia Zimmerman",
+        "authors": [
+          {
+            "name": "Marcia Zimmerman",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/d4285e0f-d99a-4f2b-adca-4ea683617014.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "contents_page_start_page": 34,
+        "actual_start_page": 33,
+        "standalone_financial_report_after_article_omitted": true
+      }
     }
   ],
   "skipped": [
@@ -23423,6 +24183,24 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "(Pictures on pp. 7 and 8 are by Floyd A. Johnson. He could not be contacted to ask permission to use his paintings.)"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2012-11",
+      "sequence": 11,
+      "title": "God Never Sows in Vain",
+      "byline": "Text: James Troyer, 2011\nMusic: Jeffrey D. Martin, 2011",
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "reason": "Article-specific copyright and use restrictions limit copying to congregational use or family worship and require contacting the copyright owners for other uses.",
+      "detected_notices": [
+        "Text copyright © 2011 James Troyer and Shenandoah Christian Music Camp",
+        "Music copyright © 2011 Jeffrey D. Martin and Shenandoah Christian Music Camp",
+        "This song may be freely copied for congregational use or family worship. For other uses, contact the copyright owners."
       ],
       "html_exported": false,
       "images_exported": false
