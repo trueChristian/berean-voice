@@ -839,6 +839,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2012-05",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Ephrata Christian Fellowship",
+      "date": {
+        "label": "May/June 2012",
+        "year": 2012,
+        "months": [
+          5,
+          6
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 18,
+      "issue_number": 3,
+      "source": {
+        "filename": "2012-05-Remnant.pdf",
+        "sha256": "095d69d11eac9f9e50405721ca8dbc964b3d2dad6e43066599c5b480379ef7dd",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -25057,6 +25084,925 @@
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "7892cc59-da45-45cc-98e4-f2d864365c73",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/7892cc59-da45-45cc-98e4-f2d864365c73.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7892cc59-da45-45cc-98e4-f2d864365c73-1.jpg",
+          "public_path": "/images/7892cc59-da45-45cc-98e4-f2d864365c73-1.jpg",
+          "source_page": 3,
+          "role": "seated Jewish man illustration",
+          "alt": "A seated Jewish man wearing a prayer shawl",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The seated-man region was isolated from the page-3 Scribd JPEG image-layer sprite at x=260, y=339, width=265, height=184, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/7892cc59-da45-45cc-98e4-f2d864365c73-2.jpg",
+          "public_path": "/images/7892cc59-da45-45cc-98e4-f2d864365c73-2.jpg",
+          "source_page": 3,
+          "role": "synagogue scene",
+          "alt": "Men and women in a synagogue",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The synagogue-scene region was isolated from the page-3 Scribd JPEG image-layer sprite at x=237, y=641, width=319, height=121, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "9bd9bf22-302e-4178-bea6-edfefbe92928",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 2,
+      "title": "Beyond the Broken Mirrors",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—Arlin Weaver",
+        "authors": [
+          {
+            "name": "Arlin Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 4
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/9bd9bf22-302e-4178-bea6-edfefbe92928.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/9bd9bf22-302e-4178-bea6-edfefbe92928-1.jpg",
+          "public_path": "/images/9bd9bf22-302e-4178-bea6-edfefbe92928-1.jpg",
+          "source_page": 4,
+          "role": "broken-mirror illustration",
+          "alt": "A man looking at himself in a tall mirror",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. An embedded artist monogram is not legible enough to identify a creator. The page-4 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=330, height=411, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "b79b6344-d2ea-4f1d-a9f3-c6c24dc3fc5b",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 3,
+      "title": "What are you doing here?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Pablo Yoder",
+        "authors": [
+          {
+            "name": "Pablo Yoder",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 5,
+        "end": 5
+      },
+      "categories": {
+        "primary": {
+          "name": "Revival",
+          "slug": "revival"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b79b6344-d2ea-4f1d-a9f3-c6c24dc3fc5b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b79b6344-d2ea-4f1d-a9f3-c6c24dc3fc5b-1.png",
+          "public_path": "/images/b79b6344-d2ea-4f1d-a9f3-c6c24dc3fc5b-1.png",
+          "source_page": 5,
+          "role": "Elijah illustration",
+          "alt": "Elijah crouching in a cave",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The complete stitched illustration in the page-5 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=4, width=532, height=307, normalized to 8-bit sRGB, and encoded as an RGB PNG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "573cd144-52b1-4a25-a315-43049fce6903",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 4,
+      "title": "Calculating and Evaluating Your Kingdom Service",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Jacob C. Berlin",
+        "authors": [
+          {
+            "name": "Jacob C. Berlin",
+            "location": "Southeast Asia",
+            "role": "an ambassador for his King."
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 33,
+        "pages": [
+          6,
+          7,
+          8,
+          9,
+          33
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/573cd144-52b1-4a25-a315-43049fce6903.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/573cd144-52b1-4a25-a315-43049fce6903-1.png",
+          "public_path": "/images/573cd144-52b1-4a25-a315-43049fce6903-1.png",
+          "source_page": 8,
+          "role": "measuring-stick comparison diagram",
+          "alt": "God’s measuring stick of faithfulness compared with man’s measuring sticks of success and comparison",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this diagram. The measuring-stick region in the page-8 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=536, width=399, height=213, normalized to 8-bit sRGB, and encoded as an RGB PNG at 96 ppi without scaling or changing orientation; the separate large table is preserved semantically in HTML rather than duplicated in the image. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The article runs on printed pages 6-9 and concludes on printed page 33.",
+        "shared_page_note": "The conclusion shares printed page 33 with sequences 6 and 10."
+      }
+    },
+    {
+      "id": "219f202d-bace-44dd-b3a4-5374a28523a3",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 5,
+      "title": "The Beauty of Holiness",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 14
+      },
+      "categories": {
+        "primary": {
+          "name": "Modesty Articles",
+          "slug": "modesty-articles"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/219f202d-bace-44dd-b3a4-5374a28523a3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/219f202d-bace-44dd-b3a4-5374a28523a3-1.jpg",
+          "public_path": "/images/219f202d-bace-44dd-b3a4-5374a28523a3-1.jpg",
+          "source_page": 10,
+          "role": "opening illustration",
+          "alt": "A seated robed figure",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-10 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=294, height=266, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/219f202d-bace-44dd-b3a4-5374a28523a3-2.jpg",
+          "public_path": "/images/219f202d-bace-44dd-b3a4-5374a28523a3-2.jpg",
+          "source_page": 11,
+          "role": "vision illustration",
+          "alt": "A kneeling figure beholding a robed figure in a vision",
+          "caption": "... like unto the Son of man, clothed with a garment down to the foot. (Re. 1:13)",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-11 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=4, width=316, height=429, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/219f202d-bace-44dd-b3a4-5374a28523a3-3.png",
+          "public_path": "/images/219f202d-bace-44dd-b3a4-5374a28523a3-3.png",
+          "source_page": 12,
+          "role": "restroom-symbol diagram",
+          "alt": "Public restroom symbols showing a woman in a dress and a man in pants",
+          "caption": "Public restrooms around the world still portray the universal symbol of the woman wearing a dress and the man wearing pants.",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this diagram. The page-12 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=218, height=224, normalized to 8-bit sRGB, and encoded as an RGB PNG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/219f202d-bace-44dd-b3a4-5374a28523a3-4.jpg",
+          "public_path": "/images/219f202d-bace-44dd-b3a4-5374a28523a3-4.jpg",
+          "source_page": 13,
+          "role": "katastole illustration",
+          "alt": "A woman wearing a long layered garment",
+          "caption": "A Greek “katastole” was a garment that expressed hiddenness.",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-13 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=4, width=208, height=426, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/219f202d-bace-44dd-b3a4-5374a28523a3-5.jpg",
+          "public_path": "/images/219f202d-bace-44dd-b3a4-5374a28523a3-5.jpg",
+          "source_page": 14,
+          "role": "historical portrait",
+          "alt": "Portraits illustrating elaborate clothing, jewelry, and hairstyle",
+          "caption": "The natural woman (and man!) has an inbuilt hankering to display herself as attractive in the flesh, through clothes, jewelry, and hairstyle.",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The joined portrait region in the page-14 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=319, height=416, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "b07a10da-3815-4676-ad8c-be94ebe06fd0",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 6,
+      "title": "Letters from our readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 33,
+        "pages": [
+          15,
+          33
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/b07a10da-3815-4676-ad8c-be94ebe06fd0.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The article begins on printed page 15 and concludes on printed page 33.",
+        "shared_page_note": "The conclusion shares printed page 33 with sequences 4 and 10."
+      }
+    },
+    {
+      "id": "0889f6e9-5e58-40d9-bba0-d473897b9c27",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 7,
+      "title": "Hijacked!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Deception",
+            "slug": "deception"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0889f6e9-5e58-40d9-bba0-d473897b9c27.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-1.jpg",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-1.jpg",
+          "source_page": 16,
+          "role": "9/11 flight-path map",
+          "alt": "Map showing the flight paths of the four planes hijacked on September 11, 2001",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The map region in the page-16 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=372, height=240, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-2.jpg",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-2.jpg",
+          "source_page": 16,
+          "role": "Grace heading illustration",
+          "alt": "The word Grace with an arrow",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The Grace region in the page-16 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=375, y=5, width=170, height=111, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-3.jpg",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-3.jpg",
+          "source_page": 17,
+          "role": "Saved heading illustration",
+          "alt": "The word Saved with an arrow",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-17 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=4, width=218, height=155, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-4.jpg",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-4.jpg",
+          "source_page": 19,
+          "role": "Faith heading illustration",
+          "alt": "The word Faith with an arrow",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The Faith region in the transparent page-19 Scribd PNG image-layer sprite was cropped at x=532, y=464, width=229, height=113, flattened over white to reproduce the printed appearance, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-5.jpg",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-5.jpg",
+          "source_page": 20,
+          "role": "Of works heading illustration",
+          "alt": "The words Of works with an arrow",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-20 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=224, height=87, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-6.png",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-6.png",
+          "source_page": 21,
+          "role": "Abraham and Isaac illustration",
+          "alt": "Illustration of Abraham preparing to offer Isaac",
+          "caption": "If God said it, Abraham acted upon it. That is called “faith.”",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The complete published composite in the page-21 Scribd JPEG image-layer sprite was cropped to its CSS clip at x=1, y=4, width=390, height=307, normalized to 8-bit sRGB, and encoded as an RGB PNG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-7.png",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-7.png",
+          "source_page": 18,
+          "role": "two-page comparison chart",
+          "alt": "Two-page illustrated comparison chart explaining faith and works",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this chart. The page-18 and page-19 Scribd chart layers were reconstructed from their published CSS clips and font layers; preview-only watermark pixels were excluded by a black-and-white threshold that preserves the printed monochrome line art and labels. The two-page composite was encoded as one 9020×1500 8-bit sRGB PNG at 300 ppi without changing its published orientation. The accompanying explanatory blocks remain semantic HTML exactly once. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 8,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-8.jpg",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-8.jpg",
+          "source_page": 22,
+          "role": "dove illustration",
+          "alt": "Dove in flight",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-22 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=173, height=167, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms. The adjacent displayed sentence is not treated as a caption because it repeats article body text and is not duplicated in the HTML."
+        },
+        {
+          "sequence": 9,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-9.png",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-9.png",
+          "source_page": 23,
+          "role": "inoculation illustration",
+          "alt": "Illustration of a syringe and dropper administering an inoculation",
+          "caption": "A hijacked version of Ephesians 2:8-10 is used to inoculate a person from contracting the “disease” of a Jesus-following, obedient-to-the-King, separated, sin-killing, good-works-producing, radical Christianity.",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The complete syringe-and-dropper composite in the page-23 Scribd JPEG image-layer sprite was cropped at x=1, y=54, width=390, height=299, normalized to 8-bit sRGB, and encoded as an RGB PNG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 10,
+          "repository_path": "src/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-10.jpg",
+          "public_path": "/images/0889f6e9-5e58-40d9-bba0-d473897b9c27-10.jpg",
+          "source_page": 23,
+          "role": "gun illustration",
+          "alt": "Handgun pointed toward the right",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The gun region in the page-23 Scribd JPEG image-layer sprite was cropped at x=393, y=54, width=132, height=107, normalized to 8-bit sRGB, and explicitly encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "note": "The page-17 hand-lettered callout contains unique text and is retained as a pull quote. The page-22 displayed sentences alongside the dove and before the final section repeat body text and are not duplicated. The two-page comparison chart is placed with its explanatory sidebar blocks at the point they are discussed; those blocks preserve their printed bold lead-ins. A preview-only watermark was excluded during chart reconstruction."
+      }
+    },
+    {
+      "id": "f2ea2c50-318d-49b5-bf6f-1efafa983831",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 8,
+      "title": "My Soul, Be On Thy Guard",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Marcia Zimmerman",
+        "authors": [
+          {
+            "name": "Marcia Zimmerman",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/f2ea2c50-318d-49b5-bf6f-1efafa983831.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f2ea2c50-318d-49b5-bf6f-1efafa983831-1.png",
+          "public_path": "/images/f2ea2c50-318d-49b5-bf6f-1efafa983831-1.png",
+          "source_page": 24,
+          "role": "Sisters’ Corner house illustration",
+          "alt": "Illustration of a house",
+          "caption": "That they may teach the young women ...",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The house region in the page-24 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=157, height=112, normalized to 8-bit sRGB, and encoded as an RGB PNG at 96 ppi without scaling or changing orientation; the separate mother emblem was omitted as magazine furniture, and the page-25 circular pull quote was omitted because it duplicates body text. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "note": "The oversized pull quote on printed page 25 repeats article body text and is not duplicated in the HTML."
+      }
+    },
+    {
+      "id": "423a2c6e-a716-4b25-a80c-3bfd399858d5",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 9,
+      "title": "Installing a Kingdom Filter",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Based on a message preached by Mose Stoltzfus",
+        "authors": [
+          {
+            "name": "Mose Stoltzfus",
+            "location": null,
+            "role": "Message preached by"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Youth",
+            "slug": "youth"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/423a2c6e-a716-4b25-a80c-3bfd399858d5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/423a2c6e-a716-4b25-a80c-3bfd399858d5-1.png",
+          "public_path": "/images/423a2c6e-a716-4b25-a80c-3bfd399858d5-1.png",
+          "source_page": 26,
+          "role": "plane-and-strainer illustration",
+          "alt": "An airplane passing through a kitchen strainer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The complete plane-and-strainer composite in the page-26 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=381, height=242, normalized to 8-bit sRGB, and encoded as an RGB PNG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/423a2c6e-a716-4b25-a80c-3bfd399858d5-2.png",
+          "public_path": "/images/423a2c6e-a716-4b25-a80c-3bfd399858d5-2.png",
+          "source_page": 27,
+          "role": "four-filter diagram",
+          "alt": "Four kitchen strainers filtering a stream into a drinking glass",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this diagram. The complete four-filter diagram in the transparent page-27 Scribd PNG image-layer sprite was cropped to its published CSS clip at x=1, y=4, width=414, height=938 and encoded as an 8-bit sRGB PNG at 96 ppi while preserving transparency, dimensions, and orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/423a2c6e-a716-4b25-a80c-3bfd399858d5-3.jpg",
+          "public_path": "/images/423a2c6e-a716-4b25-a80c-3bfd399858d5-3.jpg",
+          "source_page": 29,
+          "role": "sports car photograph",
+          "alt": "A black sports car",
+          "caption": "One cannot rip around in a sports car to the glory of God.",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-29 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=4, width=320, height=160, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/423a2c6e-a716-4b25-a80c-3bfd399858d5-4.jpg",
+          "public_path": "/images/423a2c6e-a716-4b25-a80c-3bfd399858d5-4.jpg",
+          "source_page": 30,
+          "role": "pool-table photograph",
+          "alt": "Pool tables in a billiards hall",
+          "caption": "I would not want to spend my life on such a vanity as building pool tables!",
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-30 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=319, height=213, normalized to 8-bit sRGB, and encoded as a 3-component baseline JPEG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "note": "The decorative pull quote on printed page 28 repeats article body text and is not duplicated in the HTML. The four-filter diagram retains its printed labels inside the image, the unique page-31 sidebar remains semantic HTML, and the article’s one footnote is preserved."
+      }
+    },
+    {
+      "id": "4c5bb125-517f-476b-a4eb-2ce8c8e101c9",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 10,
+      "title": "I Must Pray in Secret!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Author Unknown",
+        "authors": [
+          {
+            "name": "Author Unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33,
+        "pages": [
+          32,
+          33
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4c5bb125-517f-476b-a4eb-2ce8c8e101c9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4c5bb125-517f-476b-a4eb-2ce8c8e101c9-1.png",
+          "public_path": "/images/4c5bb125-517f-476b-a4eb-2ce8c8e101c9-1.png",
+          "source_page": 32,
+          "role": "prayer illustration",
+          "alt": "A person kneeling in prayer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead gives only unassigned general art provenance (“Some images ©2001-2012,” www.clipart.com, and www.sxc.hu); it prints no asset-specific credit, permission notice, or license for this image. The page-32 Scribd JPEG image-layer sprite was cropped to its published CSS clip at x=1, y=5, width=290, height=278, normalized to 8-bit sRGB, and encoded as an RGB PNG at 96 ppi without scaling or changing orientation. The issue does not identify this asset’s individual source or source-specific terms."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The article begins on printed page 32 and concludes on printed page 33.",
+        "shared_page_note": "The conclusion shares printed page 33 with sequences 4 and 6."
+      }
+    },
+    {
+      "id": "09f037f6-74ca-41c0-864c-e3c4c09cd451",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 11,
+      "title": "Thy Courts, O Lord",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "Sylvan Ressler\nSylvan Ressler",
+        "authors": [
+          {
+            "name": "Sylvan Ressler",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/09f037f6-74ca-41c0-864c-e3c4c09cd451.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/09f037f6-74ca-41c0-864c-e3c4c09cd451-1.png",
+          "public_path": "/images/09f037f6-74ca-41c0-864c-e3c4c09cd451-1.png",
+          "source_page": 34,
+          "role": "sheet music",
+          "alt": "Sheet music and lyrics for Thy Courts, O Lord",
+          "caption": null,
+          "credit": "Sylvan Ressler",
+          "rights_note": "The printed music notices state “May not be copyrighted,” “May freely be used for the honor and glory of God,” and “Public Domain.” The full score, title, names, lyrics, and notices in the page-34 Scribd JPEG image-layer sprite were cropped at x=1, y=1, width=771, height=950, omitting only the separate gray page-furniture band stored at y=953–997, then normalized to 8-bit sRGB and encoded as an RGB PNG at 96 ppi without scaling, changing orientation, or altering the musical content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "publication_note": "May not be copyrighted | May freely be used for the honor and glory of God | Public Domain"
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_text_note": "The lyrics are semantic HTML, while the score image preserves the music notation and reuse notices."
+      }
+    },
+    {
+      "id": "bca0a271-2016-4523-9284-e93412e6727a",
+      "issue_id": "heartbeat-remnant-2012-05",
+      "sequence": 12,
+      "title": "About the song ...",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "publication_note": "The opening paragraph states that the following paragraphs are adapted from Sylvan Ressler’s multi-page description of the difference between worship and praise and honor.",
+      "html": {
+        "repository_path": "src/bca0a271-2016-4523-9284-e93412e6727a.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "shared_page_note": "The article occupies the left side of printed page 35; the financial report on the right is excluded as non-article material."
       }
     }
   ],
