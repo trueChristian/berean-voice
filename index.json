@@ -920,6 +920,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2011-11",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Ephrata Christian Fellowship",
+      "date": {
+        "label": "November/December 2011",
+        "year": 2011,
+        "months": [
+          11,
+          12
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 17,
+      "issue_number": 6,
+      "source": {
+        "filename": "2011-11-Remnant.pdf",
+        "sha256": "df53876f73e8c74abbf9c64d0ee135f9e8c49f0d100dd6501fe1f9920299b454",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -27364,6 +27391,1015 @@
         "images_against_pdf": "verified_by_ai",
         "page_decoration_note": "The gray two-page scroll is page-layout decoration behind the article text and was not exported; the text was transcribed semantically."
       }
+    },
+    {
+      "id": "af6cf5c0-d3a3-438d-873e-65cee1feaf7b",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Revival",
+            "slug": "revival"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/af6cf5c0-d3a3-438d-873e-65cee1feaf7b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/af6cf5c0-d3a3-438d-873e-65cee1feaf7b-1.jpg",
+          "public_path": "/images/af6cf5c0-d3a3-438d-873e-65cee1feaf7b-1.jpg",
+          "source_page": 3,
+          "role": "documentary protest photograph",
+          "alt": "A crowd at an Occupy protest holding a sign that reads ‘OCCUPY EVERYTHING’",
+          "caption": null,
+          "credit": "Photo: David Shankbone",
+          "rights_note": "The exact printed credit “Photo: David Shankbone” is embedded in the photograph; no image-specific licence, source terms, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2011,” followed by www.clipart.com and www.sxc.hu, without mapping this photograph to either source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi JFIF density, preserving the published 405×300 dimensions, crop, orientation, credit text, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "page_decoration_note": "The curved gray title-area band is page-layout furniture and was not exported. The printed photograph credit remains visible in the normalized image and is also recorded in image metadata."
+      }
+    },
+    {
+      "id": "8822da0b-eff1-4180-a4a4-254ebe48a8e7",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 2,
+      "title": "Cultivating a Heart for the Home",
+      "subtitle": null,
+      "section": "young ladies",
+      "byline": {
+        "raw": "By Sarah Miller",
+        "authors": [
+          {
+            "name": "Sarah Miller",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 4
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/8822da0b-eff1-4180-a4a4-254ebe48a8e7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8822da0b-eff1-4180-a4a4-254ebe48a8e7-1.jpg",
+          "public_path": "/images/8822da0b-eff1-4180-a4a4-254ebe48a8e7-1.jpg",
+          "source_page": 4,
+          "role": "lead photograph",
+          "alt": "Two hands working in soil",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, credit, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2011,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The published photograph was stored as two vertically adjacent embedded JPEG segments measuring 408×314 and 408×64 pixels. They were reassembled without scaling and encoded as one standards-normalized three-component baseline sRGB JPEG with 150 ppi JFIF density, preserving the published combined 408×378 dimensions, crop, orientation, feathered border, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "page_decoration_note": "The pale gray diagonal “young ladies” wording is recorded as the printed audience/section label and is not duplicated in the HTML body. The separately embedded title artwork was not exported because title and byline live in index metadata."
+      }
+    },
+    {
+      "id": "31dfe629-b7fb-41e2-8d89-018530d14229",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 3,
+      "title": "Men Wanted!",
+      "subtitle": null,
+      "section": "young men",
+      "byline": {
+        "raw": "By Nathan Manion",
+        "authors": [
+          {
+            "name": "Nathan Manion",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 5,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Missions",
+            "slug": "missions"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/31dfe629-b7fb-41e2-8d89-018530d14229.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/31dfe629-b7fb-41e2-8d89-018530d14229-1.jpg",
+          "public_path": "/images/31dfe629-b7fb-41e2-8d89-018530d14229-1.jpg",
+          "source_page": 5,
+          "role": "lead classified-advertisement photograph",
+          "alt": "A newspaper classified section with a Help Wanted listing",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, credit, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2011,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded one-channel image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi JFIF density, preserving the published 401×268 dimensions, crop, orientation, feathered border, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "page_decoration_note": "The pale gray diagonal “young men” wording is recorded as the printed audience/section label and is not duplicated in the HTML body. The outlined page-6 pull quote duplicates the running-body sentence “Where are some young men who are willing to give their all for the kingdom?” and was not exported or repeated."
+      }
+    },
+    {
+      "id": "aae2def7-6499-4b08-b8c2-5be30c54984e",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 4,
+      "title": "The Law of Life",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 12
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Revival",
+            "slug": "revival"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/aae2def7-6499-4b08-b8c2-5be30c54984e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/aae2def7-6499-4b08-b8c2-5be30c54984e-1.jpg",
+          "public_path": "/images/aae2def7-6499-4b08-b8c2-5be30c54984e-1.jpg",
+          "source_page": 7,
+          "role": "lead sparrow illustration",
+          "alt": "A living sparrow perched above a dead sparrow",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded inverted separated grayscale JPEG samples were negated and encoded as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 dpi density, preserving the published 262×450 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/aae2def7-6499-4b08-b8c2-5be30c54984e-2.png",
+          "public_path": "/images/aae2def7-6499-4b08-b8c2-5be30c54984e-2.png",
+          "source_page": 8,
+          "role": "aerodynamics diagram",
+          "alt": "Diagram of air moving over a wing to create lift",
+          "caption": "The law of gravity can be overcome by introducing the law of aerodynamics. In the same way, the Spirit of life overcomes spiritual death.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded raster was normalized to an sRGB PNG, preserving the published 525×376 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/aae2def7-6499-4b08-b8c2-5be30c54984e-3.png",
+          "public_path": "/images/aae2def7-6499-4b08-b8c2-5be30c54984e-3.png",
+          "source_page": 9,
+          "role": "tug-of-war illustration",
+          "alt": "Silhouette of a man pulling a rope in a tug of war",
+          "caption": "In the tug of war between right and wrong in the unconverted, the law of sin wins more often than the desire to be upright does.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded raster was normalized to an sRGB PNG, preserving the published 375×350 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/aae2def7-6499-4b08-b8c2-5be30c54984e-4.jpg",
+          "public_path": "/images/aae2def7-6499-4b08-b8c2-5be30c54984e-4.jpg",
+          "source_page": 10,
+          "role": "Day of Atonement illustration",
+          "alt": "A priest presenting a goat before an altar as people watch",
+          "caption": "On the Day of Atonement, a blood transfusion occurred, when the life (blood) of the goat was transferred to the inner sanctuary, “quickening” it.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded inverted separated grayscale JPEG samples were negated and encoded as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 dpi density, preserving the published 450×272 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/aae2def7-6499-4b08-b8c2-5be30c54984e-5.jpg",
+          "public_path": "/images/aae2def7-6499-4b08-b8c2-5be30c54984e-5.jpg",
+          "source_page": 11,
+          "role": "Esther scene",
+          "alt": "Esther kneeling and pointing before King Ahasuerus and his court",
+          "caption": "Through Esther’s intervention, the law of death instigated by Haman was annulled by introducing a counteractive law.\n\nThis was the basis of the celebration of Purim, which is essentially a celebration of life over death!",
+          "credit": "www.freechristimages.org (p.11)",
+          "rights_note": "The issue-level Art credit identifies this page as “www.freechristimages.org (p.11)”; that exact text is preserved as the stated credit. No licence or separate-permission notice is printed. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 dpi density, preserving the published 653×450 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/aae2def7-6499-4b08-b8c2-5be30c54984e-6.jpg",
+          "public_path": "/images/aae2def7-6499-4b08-b8c2-5be30c54984e-6.jpg",
+          "source_page": 12,
+          "role": "falling dead bird illustration",
+          "alt": "A dead sparrow falling headfirst",
+          "caption": "Dropping a dead bird from an airplane does not make it fly. In the same way, sending an unregenerated person on a mission trip does not make life in Christ.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 dpi density, preserving the published 284×419 dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": false,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "unique_display_text_note": "All handwritten display captions were retained. The page-11 Esther text was retained as two caption paragraphs, and the page-12 Holy Spirit ritual text was retained as a separate pull quote because both contain unique wording rather than exact body duplicates.",
+        "page_decoration_note": "The rounded and scalloped print-layout corner treatments around the page-10 and page-11 images were not baked into the clean embedded assets; dimensions, crop, orientation, and substantive image content are preserved.",
+        "image_decode_note": "All six final images were completely decoded without warnings by Pillow, ImageMagick, and FFmpeg; JPEG metadata was also checked for baseline three-component sRGB encoding and nonzero density.",
+        "rights_review_note": "The complete article, including its footnote, captions, display callouts, images, and final line, contains no article-specific wording requiring separate permission. The issue-level reprint policy and Art credits were reviewed separately."
+      }
+    },
+    {
+      "id": "c686be27-7ea4-4109-b955-2748af446084",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 5,
+      "title": "A Birthright, or an Empty Soup Bowl?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "By Stephen Mast",
+        "authors": [
+          {
+            "name": "Stephen Mast",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 14
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "topics": [
+        "Birthright",
+        "Worldliness",
+        "Temptation"
+      ],
+      "publication_note": "—Taken from A Love of the Truth, Oct. 2011",
+      "html": {
+        "repository_path": "src/c686be27-7ea4-4109-b955-2748af446084.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c686be27-7ea4-4109-b955-2748af446084-1.jpg",
+          "public_path": "/images/c686be27-7ea4-4109-b955-2748af446084-1.jpg",
+          "source_page": 13,
+          "role": "lead soup illustration",
+          "alt": "A bearded man stirring a bowl of soup",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded image was re-encoded at its published 208×269 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 dpi JFIF density, preserving the crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "provenance_note": "The printed line “—Taken from A Love of the Truth, Oct. 2011” is a source attribution only and does not state or imply that separate permission is required."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "footnotes_preserved": true,
+        "image_decode_note": "The final JPEG was fully decoded without warnings by Pillow, ImageMagick, and FFmpeg; its three-component baseline sRGB encoding, dimensions, and nonzero density were checked, and its raster was visually compared with the embedded asset and the 300 dpi page render.",
+        "rights_review_note": "The complete article, including all three footnotes, the illustration, the provenance line, and the final line, contains no wording requiring separate permission."
+      }
+    },
+    {
+      "id": "1c762697-04ff-47f7-8967-4654972dbbe7",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 6,
+      "title": "Oh Christendom!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by William Penn (1644-1718)",
+        "authors": [
+          {
+            "name": "William Penn",
+            "location": null,
+            "role": null,
+            "birth_year": 1644,
+            "death_year": 1718
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 14
+      },
+      "categories": {
+        "primary": {
+          "name": "Judgment",
+          "slug": "judgment"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Judgment",
+        "Christian Profession",
+        "Obedience"
+      ],
+      "html": {
+        "repository_path": "src/1c762697-04ff-47f7-8967-4654972dbbe7.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "shared_page_note": "The article occupies the right side of printed page 14 and is separated by a vertical rule from the concluding page of the preceding article.",
+        "rights_review_note": "The complete article and its final line contain no article-specific source, copyright, reprint, or separate-permission notice."
+      }
+    },
+    {
+      "id": "5168bd59-597f-43f2-ad37-e9763b1aae6c",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 7,
+      "title": "On Fruit Bearing",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Charles E. Orr",
+        "authors": [
+          {
+            "name": "Charles E. Orr",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 16
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          },
+          {
+            "name": "Church",
+            "slug": "church"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Fruit of the Spirit",
+        "Christian Character",
+        "Church"
+      ],
+      "html": {
+        "repository_path": "src/5168bd59-597f-43f2-ad37-e9763b1aae6c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/5168bd59-597f-43f2-ad37-e9763b1aae6c-1.png",
+          "public_path": "/images/5168bd59-597f-43f2-ad37-e9763b1aae6c-1.png",
+          "source_page": 15,
+          "role": "lead grape illustration",
+          "alt": "A black-and-white botanical illustration of a cluster of grapes with leaves",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded one-channel Separation/Black raster was normalized to an sRGB PNG at its published 305×360 dimensions, preserving the crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/5168bd59-597f-43f2-ad37-e9763b1aae6c-2.jpg",
+          "public_path": "/images/5168bd59-597f-43f2-ad37-e9763b1aae6c-2.jpg",
+          "source_page": 16,
+          "role": "cultivated field photograph",
+          "alt": "Rows of crops growing in a cultivated field",
+          "caption": "Ye are God’s cultivated field!",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded photograph was re-encoded at its published 400×267 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 dpi JFIF density, preserving the crop, orientation, and content; the separate gray drop-shadow raster was correctly omitted as page decoration."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "page_decoration_note": "Both handwritten pull quotes repeat wording retained in the article body and were not duplicated in HTML. The field photograph’s separate shadow raster was omitted as decoration, while its exact printed caption was retained.",
+        "image_decode_note": "Both final images were fully decoded without warnings by Pillow, ImageMagick, and FFmpeg; the JPEG’s three-component baseline sRGB encoding and nonzero density were checked, and both rasters were visually compared with their embedded assets and the 300 dpi page renders.",
+        "rights_review_note": "The complete article, both images, the exact caption, and the final line contain no article-specific wording requiring separate permission."
+      }
+    },
+    {
+      "id": "25d5cf37-4756-4905-8eca-cdb817ade997",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 8,
+      "title": "Kindness",
+      "subtitle": "Be ye kind one to another.",
+      "section": null,
+      "byline": null,
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Character",
+          "slug": "character"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Kindness",
+        "Gentleness",
+        "Discipline"
+      ],
+      "publication_note": "—Taken from The Sword and Trumpet",
+      "html": {
+        "repository_path": "src/25d5cf37-4756-4905-8eca-cdb817ade997.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/25d5cf37-4756-4905-8eca-cdb817ade997-1.jpg",
+          "public_path": "/images/25d5cf37-4756-4905-8eca-cdb817ade997-1.jpg",
+          "source_page": 17,
+          "role": "lead kindness illustration",
+          "alt": "A larger hand resting over a smaller hand",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded image was re-encoded at its published 518×309 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 dpi JFIF density, preserving the crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "provenance_note": "The printed line “—Taken from The Sword and Trumpet” is a source attribution only and does not state or imply that separate permission is required."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "block_quote_preserved": true,
+        "page_decoration_note": "The handwritten pull quote repeats two sentences retained in the article body and was not duplicated in HTML. The separately indented quotation introduced by “One writer says:” contains unique text and was preserved as a block quote.",
+        "image_decode_note": "The final JPEG was fully decoded without warnings by Pillow, ImageMagick, and FFmpeg; its three-component baseline sRGB encoding, dimensions, and nonzero density were checked, and its raster was visually compared with the embedded asset and the 300 dpi page render.",
+        "rights_review_note": "The complete article, its illustration, source attribution, block quote, and final line contain no wording requiring separate permission."
+      }
+    },
+    {
+      "id": "92c60bf3-4ec7-49de-8315-4ec25b5d89ea",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 9,
+      "title": "The Way of the Cross",
+      "subtitle": "The story of Michael Sattler’s journey from Catholicism, to Evangelicalism, to a follower of Jesus",
+      "section": null,
+      "byline": {
+        "raw": "By Dave Esh",
+        "authors": [
+          {
+            "name": "Dave Esh",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Michael Sattler",
+        "Anabaptist history",
+        "Schleitheim Confession",
+        "Martyrdom",
+        "Non-resistance"
+      ],
+      "publication_note": "All the letters and articles in this story are factual as taken primarily from four books: The Martyrs Mirror, The Sources of Swiss Anabaptism, The Legacy of Michael Sattler and The Life and Thought of Michael Sattler. The actions of Michael and Margaretha are factual, but I took liberties in personalizing their conversations. —Dave Esh",
+      "html": {
+        "repository_path": "src/92c60bf3-4ec7-49de-8315-4ec25b5d89ea.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-1.jpg",
+          "public_path": "/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-1.jpg",
+          "source_page": 18,
+          "role": "opening title-spread portrait",
+          "alt": "Painted portrait of a bearded man raising one hand",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The pictured man is not identified and no image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this image. Its matching 127 × 220 and 147 × 220 gutter fragments from printed pages 18 and 19 were joined without a gap or overlap, then encoded at the reconstructed 274 × 220 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published content and orientation. A narrow compression seam remains where the two independently encoded source fragments meet; no blending or invented pixels were used."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-2.jpg",
+          "public_path": "/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-2.jpg",
+          "source_page": 18,
+          "role": "opening title-spread memorial plaque",
+          "alt": "A German memorial plaque mounted on a stone",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this image. The plaque’s small German inscription is not fully legible at the PDF’s embedded resolution; no copyright symbol or permission/reprint wording is visible. Its matching 272 × 200 and 54 × 200 gutter fragments from printed pages 18 and 19 were joined without a gap or overlap, then encoded at the reconstructed 326 × 200 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published content and orientation. The independently encoded fragments were joined without blending or invented pixels."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-3.jpg",
+          "public_path": "/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-3.jpg",
+          "source_page": 20,
+          "role": "monastery interior photograph",
+          "alt": "Interior of St. Peter’s of the Black Forest",
+          "caption": "The current interior of St. Peter’s of the Black Forest. As a prior in the monastery, Michael could have had an easy life of material abundance.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this photograph. The same photograph appears as a gutter-split decorative copy on pages 18–19; it was exported only once from the complete page-20 embedded asset and encoded at the unchanged 375 × 497 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published crop, orientation, content, and exact HTML caption."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-4.jpg",
+          "public_path": "/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-4.jpg",
+          "source_page": 21,
+          "role": "paired portrait, left: Martin Bucer",
+          "alt": "Engraved profile portrait of Martin Bucer",
+          "caption": "Martin Bucer (l.) and Wolfgang Capito (r.) were Protestant Reformers in Strasbourg. After being forced out of Zurich, Michael Sattler spent time with these men, but soon realized that they were not going to take the reforms all the way.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this portrait. The same portrait appears as a gutter-split decorative copy on pages 18–19; it was exported only once from the complete page-21 embedded asset and encoded at the unchanged 201 × 239 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density. This image and sequence 5 share the single exact figcaption printed beneath the pair."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-5.jpg",
+          "public_path": "/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-5.jpg",
+          "source_page": 21,
+          "role": "paired portrait, right: Wolfgang Capito",
+          "alt": "Portrait of Wolfgang Capito holding a book",
+          "caption": "Martin Bucer (l.) and Wolfgang Capito (r.) were Protestant Reformers in Strasbourg. After being forced out of Zurich, Michael Sattler spent time with these men, but soon realized that they were not going to take the reforms all the way.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this portrait. The same portrait appears as a gutter-split decorative copy on pages 18–19; it was exported only once from the complete page-21 embedded asset. The PDF stores it in a Separation/Black colour space whose tint transform makes the directly extracted grayscale samples appear as a negative, so those samples were inverted and encoded at the unchanged 210 × 229 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, matching the printed black-on-white appearance. This image and sequence 4 share the single exact figcaption printed beneath the pair."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-6.jpg",
+          "public_path": "/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-6.jpg",
+          "source_page": 22,
+          "role": "trial-section Bible illustration",
+          "alt": "A hand holding an open Bible",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this illustration. The clean embedded asset was encoded at the unchanged 300 × 268 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density. The decorative pull quote ‘I appeal to the words of Christ.’ repeats body text and was not duplicated in HTML."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "src/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-7.jpg",
+          "public_path": "/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-7.jpg",
+          "source_page": 23,
+          "role": "trial-section noose illustration",
+          "alt": "A noose illustration",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this illustration. The PDF stores the clean embedded asset in a Separation/Black colour space whose tint transform makes the directly extracted grayscale samples appear as a negative, so those samples were inverted and encoded at the unchanged 150 × 339 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, matching the printed black-on-white appearance. The decorative pull quote ‘The hangman shall dispute with you, I assure you!’ repeats body text and was not duplicated in HTML."
+        },
+        {
+          "sequence": 8,
+          "repository_path": "src/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-8.jpg",
+          "public_path": "/images/92c60bf3-4ec7-49de-8315-4ec25b5d89ea-8.jpg",
+          "source_page": 24,
+          "role": "Neckar River photograph",
+          "alt": "The Neckar River beside a bridge and town buildings",
+          "caption": "Margaretha Sattler chose to be drowned in the peaceful Neckar River rather than compromise.",
+          "credit": "Photo by Wikipedia User:Matt314",
+          "rights_note": "The exact printed credit is ‘(Photo by Wikipedia User:Matt314)’. It is a creator/source credit only; no image-specific licence terms or separate-permission wording are stated. The clean embedded asset was encoded at the unchanged 525 × 366 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published crop, orientation, content, exact caption, and exact credit."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "provenance_note": "The final author note identifies four books used as factual sources, and the river photograph has a Wikipedia user credit; neither states or implies that separate reuse permission is required. No article-specific restriction appears from the opening heading through the final author note."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "footnotes_preserved": true,
+        "page_sharing_note": "Printed page 25 was separated by column ownership: the left column completes this article through the Dave Esh source note, while the independently titled and signed Claudia Esh poem in the right column is sequence 10.",
+        "layout_recovery_note": "In the page-22 trial transcript, the final ‘t’ of ‘yet’ and the initial ‘i’ of ‘imperial’ are visually obscured by the overlaid Bible graphic; the underlying PDF text objects and OCR-180 reading establish the complete words ‘yet’ and ‘imperial’, which were retained as nonsemantic layout recovery rather than silently omitted.",
+        "montage_note": "The title-spread montage was deduplicated: its complete later copies of the church and both portraits were exported only at their captioned page-20/page-21 positions. The two unique montage-only visuals were faithfully reconstructed from equal-height gutter fragments. No full-page screenshot or duplicate visual was exported.",
+        "pull_quote_note": "The page-22 and page-23 pull quotes repeat sentences already present in the trial transcript and were not duplicated; their associated Bible and noose illustrations were retained.",
+        "image_decode_note": "All eight final JPEGs were checked as three-component baseline sRGB files with unchanged or exactly reconstructed dimensions and nonzero 150 ppi JFIF density, fully decoded without warnings by Pillow, ImageMagick, and FFmpeg, and visually compared with the embedded assets and the 300 dpi page renders. The directly extracted Separation/Black samples for images 5 and 7 were inverted to reproduce their printed black-on-white appearance.",
+        "exact_punctuation_note": "The source distinguishes U+2026 ellipsis glyphs from literal three-period sequences. Page 21 prints an ellipsis after ‘separation’ but three periods after ‘world’; page 25 prints three periods after ‘But, if’. Those distinctions were verified from the 300 dpi render and the underlying PDF glyph objects and preserved exactly.",
+        "rights_review_note": "The complete article, all five footnotes, captions, credits, title-spread graphics, trial transcript, final source note, and final line contain no wording requiring separate permission."
+      }
+    },
+    {
+      "id": "3ffcb3c6-d608-4d9a-8efb-bf25a3652040",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 10,
+      "title": "The Heritage of the Faithful",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—Claudia Esh",
+        "authors": [
+          {
+            "name": "Claudia Esh",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Christian heritage",
+        "Martyrdom",
+        "Faithfulness",
+        "Anabaptist history"
+      ],
+      "publication_note": "(Claudia is the daughter of Dave Esh, author of the article on Michael Sattler.)",
+      "html": {
+        "repository_path": "src/3ffcb3c6-d608-4d9a-8efb-bf25a3652040.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "poem_structure_note": "All five eight-line stanzas, their printed line breaks and stanza breaks, punctuation, centered poem structure, italic author signature, and parenthetical author note were visually verified against printed page 25.",
+        "page_sharing_note": "This independently titled and signed poem occupies the right column of printed page 25; the left column belongs to the conclusion of sequence 9. The issue contents page also lists the poem separately at page 25.",
+        "rights_review_note": "The complete poem, author signature, parenthetical author note, and final line contain no wording requiring separate permission."
+      }
+    },
+    {
+      "id": "0b4125db-ad7a-4a74-a4fa-6bf1c00fb95b",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 12,
+      "title": "In God We Don’t Trust",
+      "subtitle": null,
+      "section": "The Book Shelf",
+      "byline": {
+        "raw": "A book review by Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 31
+      },
+      "categories": {
+        "primary": {
+          "name": "Book reviews",
+          "slug": "book-reviews"
+        },
+        "additional": [
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          },
+          {
+            "name": "Church",
+            "slug": "church"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/0b4125db-ad7a-4a74-a4fa-6bf1c00fb95b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/0b4125db-ad7a-4a74-a4fa-6bf1c00fb95b-1.jpg",
+          "public_path": "/images/0b4125db-ad7a-4a74-a4fa-6bf1c00fb95b-1.jpg",
+          "source_page": 29,
+          "role": "book cover image",
+          "alt": "Cover of In God We Don’t Trust by David Bercot",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published 355×549 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/0b4125db-ad7a-4a74-a4fa-6bf1c00fb95b-2.jpg",
+          "public_path": "/images/0b4125db-ad7a-4a74-a4fa-6bf1c00fb95b-2.jpg",
+          "source_page": 30,
+          "role": "Mary Dyer monument photograph",
+          "alt": "The seated Mary Dyer monument above an inscribed stone pedestal",
+          "caption": "The Massachusetts Puritans hanged Quakers like Mary Dyer, until the British forced them to stop.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published 375×519 dimensions, crop, orientation, inscription, and content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/0b4125db-ad7a-4a74-a4fa-6bf1c00fb95b-3.jpg",
+          "public_path": "/images/0b4125db-ad7a-4a74-a4fa-6bf1c00fb95b-3.jpg",
+          "source_page": 31,
+          "role": "Boston Tea Party historical engraving",
+          "alt": "Historic engraving of people throwing tea cargo from ships into Boston Harbor",
+          "caption": "The Boston Tea Party was in response to the British tax on tea ... which equalled a few cents per cup in today’s money. Ironically, after the colonies gained independence, taxes became higher overall in the newly formed States!",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published 525×343 dimensions, crop, orientation, embedded historical caption, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "reading_order_note": "On printed page 31, the paragraph ending with “paid” at the bottom of the left column resumes with “their taxes” at the top of the right column; the HTML preserves that semantic order.",
+        "page_decoration_note": "The decorative bookshelf masthead containing the section label “The Book Shelf” and the gray drop-shadow plate behind the book cover contain no unique substantive article content and were not exported. The section label is preserved in metadata, and the clean embedded cover image is exported.",
+        "image_decode_note": "All three final images were completely decoded without warnings by Pillow, ImageMagick, and FFmpeg; each JPEG is baseline, three-component RGB/sRGB, and has nonzero 150 ppi JFIF density.",
+        "rights_review_note": "The complete review, including all three substantive images, embedded image text, captions, quotations, and the final Scroll Publishing availability note, contains no article-specific wording requiring separate permission. The issue-level reprint policy and Art notice were reviewed separately."
+      }
+    },
+    {
+      "id": "7ff9c09f-fa5d-4bd3-a4f5-d3ef1daeff71",
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 13,
+      "title": "What Does Simple Living Have to Do with Christianity?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Bryce Geiser",
+        "authors": [
+          {
+            "name": "Bryce Geiser",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "publication_note": "—Taken from Caneyville Christian Community News, July/August 2011",
+      "html": {
+        "repository_path": "src/7ff9c09f-fa5d-4bd3-a4f5-d3ef1daeff71.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/7ff9c09f-fa5d-4bd3-a4f5-d3ef1daeff71-1.jpg",
+          "public_path": "/images/7ff9c09f-fa5d-4bd3-a4f5-d3ef1daeff71-1.jpg",
+          "source_page": 32,
+          "role": "opening title illustration",
+          "alt": "A seated man at a desk beside a large question mark",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this illustration. The PDF’s raw one-channel separation JPEG used inverted sample semantics; its samples were negated and encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density at the unchanged 261 × 216 dimensions, preserving the published crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/7ff9c09f-fa5d-4bd3-a4f5-d3ef1daeff71-2.png",
+          "public_path": "/images/7ff9c09f-fa5d-4bd3-a4f5-d3ef1daeff71-2.png",
+          "source_page": 33,
+          "role": "wealth-distribution sidebar and graph",
+          "alt": "A graph comparing global wealth thresholds for the top half, top ten percent, and top one percent",
+          "caption": null,
+          "credit": "The World Distribution of Household Wealth, World Institute for Development Economics Research-WIDER.",
+          "rights_note": "The printed graphic cites ‘The World Distribution of Household Wealth, World Institute for Development Economics Research-WIDER.’ and http://www.wider.unu.edu/publications/working-papers/discussion-papers/2008/en_GB/dp2008-03/_files/78918010772127840/default/dp2008-03.pdf. No separate permission notice or licence terms are stated. The complete boxed vector-and-text graph region was rendered from printed page 33 at 300 dpi and stored as a 2210 × 850 three-channel sRGB PNG, preserving the double border, title, prose, scale, labels, source line, URL, crop, orientation, and content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/7ff9c09f-fa5d-4bd3-a4f5-d3ef1daeff71-3.jpg",
+          "public_path": "/images/7ff9c09f-fa5d-4bd3-a4f5-d3ef1daeff71-3.jpg",
+          "source_page": 34,
+          "role": "mannequin illustration",
+          "alt": "A formal coat displayed on a tailor’s mannequin",
+          "caption": "Having two legs doesn’t make you human. Neither does simple living make you a Christian. (But what does a human look like without two legs? And what does Christianity look like without holy simplicity?)",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The general issue art credit states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this illustration. The clean embedded JPEG was re-encoded as a standards-normalized three-channel baseline sRGB JPEG with 150 ppi JFIF density at the unchanged 68 × 300 dimensions, preserving the published crop, orientation, and content; the exact printed callout is retained as the HTML figcaption."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "editorial_note": "The article ends with the ordinary source attribution ‘—Taken from Caneyville Christian Community News, July/August 2011’; it does not state or imply that separate permission is required. The page-33 WIDER source line likewise states no permission requirement."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_transform": "The page-32 separation JPEG required sample inversion and sRGB encoding; the page-33 boxed graph was rendered and cropped at 300 dpi; the page-34 JPEG was container-normalized to baseline sRGB. All dimensions, crops, orientations, and published content were preserved."
+      }
     }
   ],
   "skipped": [
@@ -28216,6 +29252,22 @@
       "reason": "Article-specific rights/permission notice triggers whole-article exclusion.",
       "detected_notices": [
         "A special thanks to the editor of The Mennonite Quarterly Review at Goshen College for permission to use the text."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2011-11",
+      "sequence": 11,
+      "title": "Ulli Ammann, to Churches in Crisis",
+      "byline": null,
+      "source_pages": {
+        "start": 26,
+        "end": 28
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "The letter was used by permission of John D. Roth and the Mennonite Historical Society, Goshen, Indiana."
       ],
       "html_exported": false,
       "images_exported": false
