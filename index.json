@@ -974,6 +974,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2011-07",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Ministries",
+      "date": {
+        "label": "July/August 2011",
+        "year": 2011,
+        "months": [
+          7,
+          8
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 17,
+      "issue_number": 4,
+      "source": {
+        "filename": "2011-07-Remnant.pdf",
+        "sha256": "fc8977974762265f99a203f2c28289fbc737b7ae2ee32017bdbc61af13e831a2",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -29462,6 +29489,862 @@
         "source_oddities_note": "Visually verified printed forms—including ‘descendents’, ‘Ep. 1: 20-23’, lowercase ‘His word’ in the relevant sentence, and ‘(Rom. 1:1),’—were preserved without editorial correction.",
         "toc_note": "The page-2 contents entry shortens the title to ‘Is God Our King or President?’; the article heading on printed page 33 is authoritative and reads ‘Is God Our King or Our President?’"
       }
+    },
+    {
+      "id": "b4982ff3-af5e-42fa-b8a6-b2e556ccc0ed",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          }
+        ]
+      },
+      "topics": [
+        "Anabaptist heritage",
+        "Faithfulness",
+        "Noncompromise",
+        "Martyrdom"
+      ],
+      "html": {
+        "repository_path": "src/b4982ff3-af5e-42fa-b8a6-b2e556ccc0ed.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/b4982ff3-af5e-42fa-b8a6-b2e556ccc0ed-1.jpg",
+          "public_path": "/images/b4982ff3-af5e-42fa-b8a6-b2e556ccc0ed-1.jpg",
+          "source_page": 3,
+          "role": "inline historical illustration",
+          "alt": "A historical illustration of Felix Manz being taken onto the Limmat River",
+          "caption": "The drowning of Felix Manz in the Limmat River.",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The page-2 masthead has only a non-specific image credit that cannot be assigned to this illustration. Exported as a baseline RGB/sRGB JPEG at 150 ppi while preserving the published appearance."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "Visually verified printed forms—including ‘Pingjum were Menno Simons’ and the unmatched opening quotation mark before ‘Did Heinrich Bullinger...’—were preserved without editorial correction."
+      }
+    },
+    {
+      "id": "55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 2,
+      "title": "The Cross Dynamic",
+      "subtitle": "Living the Cross Life in a World of Law, Wisdom, and Power",
+      "section": null,
+      "byline": {
+        "raw": "Arlin Weaver—Ontario, Canada",
+        "authors": [
+          {
+            "name": "Arlin Weaver",
+            "location": "Ontario, Canada",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 8
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Cross-bearing",
+        "Discipleship",
+        "Kingdom of God",
+        "Surrender"
+      ],
+      "html": {
+        "repository_path": "src/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-1.jpg",
+          "public_path": "/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-1.jpg",
+          "source_page": 4,
+          "role": "opening photograph",
+          "alt": "Wheat stalks viewed from ground level beneath a cloudy sky",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed; the adjacent John 12:24 text is an article epigraph. The page-2 generic image credit cannot be assigned to this photograph. Exported as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-2.jpg",
+          "public_path": "/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-2.jpg",
+          "source_page": 5,
+          "role": "inline illustration",
+          "alt": "Three crosses standing on a hill",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed; the nearby pull quote duplicates body text. The page-2 generic image credit cannot be assigned to this illustration. Exported as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-3.jpg",
+          "public_path": "/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-3.jpg",
+          "source_page": 5,
+          "role": "inline photograph",
+          "alt": "A cross pendant hanging from a cord",
+          "caption": "(It costs little to wear a cross on a string around your neck ... or put it in your theology book.)",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The unique parenthetical caption is preserved exactly; the page-2 generic image credit cannot be assigned to this photograph. Exported as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-4.jpg",
+          "public_path": "/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-4.jpg",
+          "source_page": 6,
+          "role": "inline illustration",
+          "alt": "Board-game houses and coins scattered on paper money",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed; the nearby pull quote duplicates body text. The page-2 generic image credit cannot be assigned to this illustration. Exported as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-5.jpg",
+          "public_path": "/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-5.jpg",
+          "source_page": 7,
+          "role": "inline illustration",
+          "alt": "A line drawing of a burdened man carrying possessions",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed; the nearby pull quote duplicates body text. Inverted PDF separation samples were corrected to match print, then encoded as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-6.jpg",
+          "public_path": "/images/55ad237c-4e8e-4f47-a0d5-b70d7b67a1ac-6.jpg",
+          "source_page": 8,
+          "role": "inline historical illustration",
+          "alt": "A historical illustration of one person kneeling before two standing figures",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed; the nearby pull quote duplicates body text. The published rounded crop was preserved with a white corner mask, then encoded as a baseline RGB/sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "footnote_note": "All twelve footnote markers and all twelve footnotes were verified in order against the rendered pages.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "Decorative pulls that repeat authoritative body wording were omitted; the unique parenthetical image caption on page 5 was retained."
+      }
+    },
+    {
+      "id": "91acd25d-fea8-49d4-813c-84c5ec21be0c",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 3,
+      "title": "Rumble, Rumble, Rattle ... Kalunk!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike McDaniel",
+        "authors": [
+          {
+            "name": "Mike McDaniel",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 23,
+        "pages": [
+          9,
+          23
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Character",
+          "slug": "character"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Faithfulness",
+        "Dependability",
+        "Church service",
+        "Commitment"
+      ],
+      "html": {
+        "repository_path": "src/91acd25d-fea8-49d4-813c-84c5ec21be0c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/91acd25d-fea8-49d4-813c-84c5ec21be0c-1.jpg",
+          "public_path": "/images/91acd25d-fea8-49d4-813c-84c5ec21be0c-1.jpg",
+          "source_page": 9,
+          "role": "opening photograph",
+          "alt": "Empty plastic ice tray",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The page-2 generic image credit cannot be assigned to this photograph. Exported as a baseline RGB/sRGB JPEG at 150 ppi while preserving the published appearance."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "continuation_note": "The article begins on printed page 9 and continues in the right column of printed page 23; the explicit source_pages.pages list records this non-contiguous placement.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "d9e8d6f2-78d6-4225-928b-48cd3b6074fd",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 4,
+      "title": "Cyprian, to the Unmarried Sisters",
+      "subtitle": null,
+      "section": "Voices from the Early Church",
+      "byline": null,
+      "source_pages": {
+        "start": 10,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Modesty Articles",
+          "slug": "modesty-articles"
+        },
+        "additional": [
+          {
+            "name": "Woman",
+            "slug": "woman"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Modesty",
+        "Adornment",
+        "Cosmetics",
+        "Virginity",
+        "Continency"
+      ],
+      "html": {
+        "repository_path": "src/d9e8d6f2-78d6-4225-928b-48cd3b6074fd.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The terminal printed form ‘it.~’ was preserved exactly. The central decorative callout duplicates body wording and was omitted."
+      }
+    },
+    {
+      "id": "78e73c3f-280a-407c-a958-7e4656334c19",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 5,
+      "title": "Beyond the Bible",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "John Mark Weaver",
+        "authors": [
+          {
+            "name": "John Mark Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 12
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Deception",
+            "slug": "deception"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Biblical authority",
+        "Scripture",
+        "Doctrine",
+        "Tradition",
+        "Pharisaism",
+        "Obedience"
+      ],
+      "html": {
+        "repository_path": "src/78e73c3f-280a-407c-a958-7e4656334c19.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/78e73c3f-280a-407c-a958-7e4656334c19-1.jpg",
+          "public_path": "/images/78e73c3f-280a-407c-a958-7e4656334c19-1.jpg",
+          "source_page": 11,
+          "role": "opening photograph",
+          "alt": "An open Bible held outdoors against a background of trees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. Five embedded tiles were reassembled into the single published composition, then encoded as a baseline RGB/sRGB JPEG at 150 ppi while preserving the page crop and orientation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/78e73c3f-280a-407c-a958-7e4656334c19-2.jpg",
+          "public_path": "/images/78e73c3f-280a-407c-a958-7e4656334c19-2.jpg",
+          "source_page": 12,
+          "role": "inline photograph",
+          "alt": "An annotated Bible passage about knowing Christ and keeping His commandments",
+          "caption": "Knowing God and obedience are inseparable.",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The page-2 generic image credit cannot be assigned to this photograph. Exported as a baseline RGB/sRGB JPEG at 150 ppi while preserving the published appearance."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "list_note": "All four printed ‘go beyond’ statements were preserved as list items in their published order.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false
+      }
+    },
+    {
+      "id": "212949c0-8e48-4f8c-97b8-09f2de51065d",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 6,
+      "title": "Created for Worship",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Based on a message preached by Paul Lloyd",
+        "authors": [
+          {
+            "name": "Paul Lloyd",
+            "location": null,
+            "role": "Message preached by"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Worship",
+        "Idolatry",
+        "God's pleasure",
+        "Christian devotion"
+      ],
+      "html": {
+        "repository_path": "src/212949c0-8e48-4f8c-97b8-09f2de51065d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/212949c0-8e48-4f8c-97b8-09f2de51065d-1.jpg",
+          "public_path": "/images/212949c0-8e48-4f8c-97b8-09f2de51065d-1.jpg",
+          "source_page": 13,
+          "role": "opening illustration",
+          "alt": "Abraham preparing to sacrifice Isaac as an angel intervenes",
+          "caption": "I and the lad will go yonder and worship. Ge. 22:5",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. Three embedded tiles were reassembled into the single published illustration, then encoded as a baseline RGB/sRGB JPEG at 150 ppi while preserving the page composition."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/212949c0-8e48-4f8c-97b8-09f2de51065d-2.jpg",
+          "public_path": "/images/212949c0-8e48-4f8c-97b8-09f2de51065d-2.jpg",
+          "source_page": 14,
+          "role": "inline illustration",
+          "alt": "Fish swimming in an aquarium",
+          "caption": "Fish don’t “go swimming”!",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The published chamfered crop was preserved with a white corner mask, then encoded as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/212949c0-8e48-4f8c-97b8-09f2de51065d-3.jpg",
+          "public_path": "/images/212949c0-8e48-4f8c-97b8-09f2de51065d-3.jpg",
+          "source_page": 15,
+          "role": "sidebar photograph",
+          "alt": "Baseball",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed. The page-2 generic image credit cannot be assigned to this photograph. Exported as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/212949c0-8e48-4f8c-97b8-09f2de51065d-4.jpg",
+          "public_path": "/images/212949c0-8e48-4f8c-97b8-09f2de51065d-4.jpg",
+          "source_page": 16,
+          "role": "inline photograph",
+          "alt": "Baseball player batting in a stadium",
+          "caption": "He hit the ball with a tremendous whack ... and that place erupted in worship!",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The page-2 generic image credit cannot be assigned to this photograph. Exported as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/212949c0-8e48-4f8c-97b8-09f2de51065d-5.jpg",
+          "public_path": "/images/212949c0-8e48-4f8c-97b8-09f2de51065d-5.jpg",
+          "source_page": 17,
+          "role": "inline illustration",
+          "alt": "Quail standing in grass",
+          "caption": "Meat is not a bad thing, yet because of the manner in which they desired meat, it became idolatry.",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The page-2 generic image credit cannot be assigned to this illustration. Exported as a baseline RGB/sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "sidebar_note": "The complete ‘Whose Pleasure?’ sidebar, including its ‘~M.A.’ sign-off, is preserved.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "The page-17 decorative pull repeats the final body paragraph and was omitted."
+      }
+    },
+    {
+      "id": "afd572c8-9ba9-426e-863b-ce6c0f5fd4ee",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 7,
+      "title": "Who Is This?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "(Adapted from an unknown author by Mark Brubaker)",
+        "authors": [
+          {
+            "name": "Mark Brubaker",
+            "location": null,
+            "role": "Adapter"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 20
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Revival",
+            "slug": "revival"
+          }
+        ]
+      },
+      "topics": [
+        "Jesus Christ",
+        "Identity of Christ",
+        "Worship",
+        "Incarnation"
+      ],
+      "html": {
+        "repository_path": "src/afd572c8-9ba9-426e-863b-ce6c0f5fd4ee.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "callout_note": "The unique cross-spread quotation was retained. The giant slogan and page-20 box repeat authoritative body text and were omitted."
+      }
+    },
+    {
+      "id": "5324b182-6429-4ee4-8d85-9a389779bad6",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 9,
+      "title": "The Renewing of the Mind",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Stephen Geise, South Africa",
+        "authors": [
+          {
+            "name": "Stephen Geise",
+            "location": "South Africa",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Renewing the mind",
+        "Christian thought",
+        "Scripture",
+        "Spiritual growth"
+      ],
+      "html": {
+        "repository_path": "src/5324b182-6429-4ee4-8d85-9a389779bad6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/5324b182-6429-4ee4-8d85-9a389779bad6-1.jpg",
+          "public_path": "/images/5324b182-6429-4ee4-8d85-9a389779bad6-1.jpg",
+          "source_page": 24,
+          "role": "opening photograph",
+          "alt": "An open Bible",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed. The page-2 generic image credit cannot be assigned to this photograph. Exported as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/5324b182-6429-4ee4-8d85-9a389779bad6-2.jpg",
+          "public_path": "/images/5324b182-6429-4ee4-8d85-9a389779bad6-2.jpg",
+          "source_page": 25,
+          "role": "inline photograph",
+          "alt": "A smiling performer standing behind a stage apparatus",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed; the handwritten text below it duplicates body text. The published four-corner chamfer was preserved with a white mask, then encoded as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/5324b182-6429-4ee4-8d85-9a389779bad6-3.jpg",
+          "public_path": "/images/5324b182-6429-4ee4-8d85-9a389779bad6-3.jpg",
+          "source_page": 26,
+          "role": "inline illustration",
+          "alt": "A line drawing of a human brain",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed; the handwritten text duplicates body text. Inverted PDF separation samples were corrected to match print, then encoded as a baseline RGB/sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/5324b182-6429-4ee4-8d85-9a389779bad6-4.jpg",
+          "public_path": "/images/5324b182-6429-4ee4-8d85-9a389779bad6-4.jpg",
+          "source_page": 27,
+          "role": "inline illustration",
+          "alt": "A chisel marked God’s Word cutting through an illustration of a brain",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed; the handwritten text duplicates body text. Inverted PDF separation samples were corrected to match print, then encoded as a baseline RGB/sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "continuation_note": "The article runs continuously through the left column of printed page 28; the adjacent right-column poem is excluded.",
+        "footnote_note": "All three footnotes were preserved and verified.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "Four decorative handwritten pulls on printed pages 25–28 duplicate authoritative body wording and were omitted."
+      }
+    },
+    {
+      "id": "78d3a8c5-d090-4325-8b8f-cb2dcf86d5e9",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 11,
+      "title": "The Theology of Anabaptism",
+      "subtitle": null,
+      "section": "The Book Shelf",
+      "byline": {
+        "raw": "Book review by Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Book reviews",
+          "slug": "book-reviews"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Anabaptist theology",
+        "Protestantism",
+        "Robert Friedmann",
+        "Reformation",
+        "Discipleship"
+      ],
+      "html": {
+        "repository_path": "src/78d3a8c5-d090-4325-8b8f-cb2dcf86d5e9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/78d3a8c5-d090-4325-8b8f-cb2dcf86d5e9-1.jpg",
+          "public_path": "/images/78d3a8c5-d090-4325-8b8f-cb2dcf86d5e9-1.jpg",
+          "source_page": 29,
+          "role": "book cover",
+          "alt": "Cover of The Theology of Anabaptism by Robert Friedmann",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed. The image is the reviewed book cover and was exported as a baseline RGB/sRGB JPEG at 150 ppi while preserving the published appearance."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/78d3a8c5-d090-4325-8b8f-cb2dcf86d5e9-2.jpg",
+          "public_path": "/images/78d3a8c5-d090-4325-8b8f-cb2dcf86d5e9-2.jpg",
+          "source_page": 34,
+          "role": "closing montage",
+          "alt": "A barn raising above a church interior with an organ, pulpit, and cross",
+          "caption": "Why did “Gemeinde” become “Kirke”?",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The published rounded crop was preserved with a white corner mask, then encoded as a baseline RGB/sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "toc_note": "The contents page describes this item as ‘Book Review: The Theology of Anabaptism’; the article heading and established The Book Shelf metadata precedent use ‘The Theology of Anabaptism’.",
+        "source_oddities_note": "Visually verified printed forms—including ‘simul justus as peccatur’, ‘Sebastion’, ‘fore and center’, ‘peddler’s’, and ‘Pulishers’—were preserved without editorial correction."
+      }
+    },
+    {
+      "id": "01e1bd6f-f251-4835-8729-2a052e4d514d",
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 12,
+      "title": "To Be Like Thee",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "Karissa Hiebert, 2010 (b. 1989)",
+        "authors": [
+          {
+            "name": "Karissa Hiebert",
+            "location": null,
+            "role": null,
+            "birth_year": 1989
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Christlikeness",
+        "Consecration",
+        "Holiness",
+        "Hymn"
+      ],
+      "publication_note": "This song is not copyrighted and is free to be published for the glory of God.",
+      "html": {
+        "repository_path": "src/01e1bd6f-f251-4835-8729-2a052e4d514d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/01e1bd6f-f251-4835-8729-2a052e4d514d-1.png",
+          "public_path": "/images/01e1bd6f-f251-4835-8729-2a052e4d514d-1.png",
+          "source_page": 35,
+          "role": "sheet music",
+          "alt": "Sheet music and lyrics for To Be Like Thee by Karissa Hiebert",
+          "caption": null,
+          "credit": "Karissa Hiebert, 2010 (b. 1989)",
+          "rights_note": "The page explicitly states: ‘This song is not copyrighted and is free to be published for the glory of God.’ Nine embedded tiles were reassembled into the single published score, tonally quantized for web delivery, and encoded as a grayscale PNG at 150 ppi while preserving the published dimensions, crop, orientation, notation, and text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "reuse_note": "The affirmative non-copyright/republication sentence is preserved verbatim in the HTML and publication_note."
+      }
     }
   ],
   "skipped": [
@@ -30330,6 +31213,44 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "The letter was used by permission of John D. Roth and the Mennonite Historical Society, Goshen, Indiana."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 8,
+      "title": "My Career ... Or His?",
+      "byline": "L.M., Kansas",
+      "source_pages": {
+        "start": 21,
+        "end": 23,
+        "pages": [
+          21,
+          22,
+          23
+        ]
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Phillips, Douglas W. The Little Boy Down the Road: Short Stories & Essays on the Beauty of Family Life. Vision Forum, 2009. Used by permission."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2011-07",
+      "sequence": 10,
+      "title": "And God Said, “No”",
+      "byline": "Claudia Minden Weisz",
+      "source_pages": {
+        "start": 28,
+        "end": 28
+      },
+      "reason": "Article-specific permission and copyright notice was detected.",
+      "detected_notices": [
+        "© 1980, Claudia Minden Weisz. Used by permission of the author.",
+        "All other rights reserved by Claudia Minden Weisz."
       ],
       "html_exported": false,
       "images_exported": false
