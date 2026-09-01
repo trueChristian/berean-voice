@@ -1028,6 +1028,28 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2007-special-edition",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "2007 Special Edition",
+        "year": 2007,
+        "precision": "year"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "2007-Special-Edition.pdf",
+        "sha256": "9dd2cc6c658eaf8a65512ec89477467f646c459edfd01697024524272a9191b9",
+        "pdf_page_count": 44,
+        "printed_page_range": "2-43"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -31488,6 +31510,1044 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
         "page_decoration_note": "The adjacent first-quarter financial report and its images are unrelated magazine matter and were not exported."
+      }
+    },
+    {
+      "id": "e905899f-5f2b-42a4-a2b2-3a0af7f0e0e3",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 1,
+      "title": "From the editor...",
+      "subtitle": null,
+      "section": "From the editor...",
+      "byline": {
+        "raw": "Bro. Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Revival",
+            "slug": "revival"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/e905899f-5f2b-42a4-a2b2-3a0af7f0e0e3.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "page_decoration_note": "The printed notepaper border and ring-binder motif are decorative page furniture and were not exported."
+      }
+    },
+    {
+      "id": "fc4c9504-47f0-4d15-9e2e-848dd10c349e",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 2,
+      "title": "REVIVAL AT ANY COST!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Greg Gordon",
+        "authors": [
+          {
+            "name": "Greg Gordon",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Revival",
+          "slug": "revival"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/fc4c9504-47f0-4d15-9e2e-848dd10c349e.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "layout_note": "The italic opening deck and three pull quotes repeat body wording and were not duplicated.",
+        "source_oddity_note": "The printed form “doublesmart” is preserved exactly."
+      }
+    },
+    {
+      "id": "a6fd953e-3e00-4044-b995-5a38ea9192e5",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 3,
+      "title": "DUNCAN CAMPBELL",
+      "subtitle": "on the Lewis Revival",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Duncan Campbell",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 30,
+        "pages": [
+          7,
+          8,
+          9,
+          10,
+          30
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Revival",
+          "slug": "revival"
+        },
+        "additional": [
+          {
+            "name": "Testimony",
+            "slug": "testimony"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/a6fd953e-3e00-4044-b995-5a38ea9192e5.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The article continues nonconsecutively from page 10 to page 30; the ordered pages array preserves that reading order.",
+        "author_identity_note": "Duncan Campbell is printed as the article’s main heading and the first-person speaker; no separate byline line is printed."
+      }
+    },
+    {
+      "id": "8389d62e-1ba0-47de-bf13-29a71ffa204c",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 4,
+      "title": "A Motivating Vision for Our Homes",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Taken from the book The Pursuit of Godly Seed, by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 14
+      },
+      "categories": {
+        "primary": {
+          "name": "Parenting",
+          "slug": "parenting"
+        },
+        "additional": [
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Godly homes",
+        "Parenting",
+        "Spiritual vision",
+        "Family discipleship"
+      ],
+      "publication_note": "Taken from the book The Pursuit of Godly Seed, by Denny Kenaston",
+      "html": {
+        "repository_path": "src/8389d62e-1ba0-47de-bf13-29a71ffa204c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8389d62e-1ba0-47de-bf13-29a71ffa204c-1.png",
+          "public_path": "/images/8389d62e-1ba0-47de-bf13-29a71ffa204c-1.png",
+          "source_page": 11,
+          "role": "opening biblical illustration",
+          "alt": "Three robed figures looking across a landscape",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright, or separate-permission notice is printed. The page-2 general art notice states ‘Some images © 2001-2007’ and ‘clipart.com / photos.com’ without identifying this asset’s individual source. The embedded separated grayscale image was decoded to a 504×253 sRGB PNG without crop, rotation, or content alteration."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/8389d62e-1ba0-47de-bf13-29a71ffa204c-2.jpg",
+          "public_path": "/images/8389d62e-1ba0-47de-bf13-29a71ffa204c-2.jpg",
+          "source_page": 12,
+          "role": "Kenaston family photograph",
+          "alt": "Denny and Jackie Kenaston with their family",
+          "caption": "Denny & Jackie Kenaston family",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright, or separate-permission notice is printed. The page-2 general art notice does not identify this asset’s individual source. The embedded separated grayscale JPEG used inverted PDF display semantics; its samples were negated to match the printed page and it was encoded at the unchanged 357×288 dimensions as a standards-normalized three-component baseline sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/8389d62e-1ba0-47de-bf13-29a71ffa204c-3.png",
+          "public_path": "/images/8389d62e-1ba0-47de-bf13-29a71ffa204c-3.png",
+          "source_page": 13,
+          "role": "family Bible-reading illustration repeated on pages 13 and 14",
+          "alt": "A family gathered around a table while a man reads to them",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright, or separate-permission notice is printed. The page-2 general art notice does not identify this asset’s individual source. The same embedded 215×192 grayscale illustration is printed on pages 13 and 14; it was decoded once to an sRGB PNG and is referenced once in the semantic HTML to avoid duplicating identical decorative content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pull_quote_note": "Two boxed pull quotes repeat body wording and were not duplicated.",
+        "repeated_image_note": "The identical family Bible-reading illustration printed on pages 13 and 14 is exported and referenced once.",
+        "source_oddities_note": "The printed forms “God’s spirit,” “His word,” and “3,120 people” are preserved exactly."
+      }
+    },
+    {
+      "id": "14a35072-cac9-42df-a3ca-1f7db446d968",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 5,
+      "title": "A Message To The World",
+      "subtitle": "(Fresh from the Welch Revival of 1904)",
+      "section": null,
+      "byline": {
+        "raw": "by Evan Roberts",
+        "authors": [
+          {
+            "name": "Evan Roberts",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 15
+      },
+      "categories": {
+        "primary": {
+          "name": "Revival",
+          "slug": "revival"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Revival",
+        "Holy Spirit",
+        "Obedience",
+        "Christian witness"
+      ],
+      "html": {
+        "repository_path": "src/14a35072-cac9-42df-a3ca-1f7db446d968.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/14a35072-cac9-42df-a3ca-1f7db446d968-1.jpg",
+          "public_path": "/images/14a35072-cac9-42df-a3ca-1f7db446d968-1.jpg",
+          "source_page": 15,
+          "role": "title illustration",
+          "alt": "A pale grayscale world map in an oval grid",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright, or separate-permission notice is printed. The page-2 general art notice states ‘Some images © 2001-2007’ and ‘clipart.com / photos.com’ without identifying this asset’s individual source. The embedded separated grayscale JPEG used inverted PDF display semantics; its samples were negated to match the printed pale-gray-on-white appearance and it was encoded at the unchanged 324×166 dimensions as a standards-normalized three-component baseline sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/14a35072-cac9-42df-a3ca-1f7db446d968-2.jpg",
+          "public_path": "/images/14a35072-cac9-42df-a3ca-1f7db446d968-2.jpg",
+          "source_page": 15,
+          "role": "portrait photograph",
+          "alt": "A man seated at a desk reading an open book",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright, or separate-permission notice is printed, and the photographed person is not identified by a printed caption. The page-2 general art notice does not identify this asset’s individual source. The embedded separated grayscale JPEG used inverted PDF display semantics; its samples were negated to match the printed black-and-white appearance and it was encoded at the unchanged 107×146 dimensions as a standards-normalized three-component baseline sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "The subtitle spelling “Welch,” the form “half hearted,” and the final “Obedience! Obedience!! Obedience!!!” are preserved exactly."
+      }
+    },
+    {
+      "id": "304e1120-f241-4d9e-972b-c72dec82b134",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 6,
+      "title": "A Mother’s Heart Cry",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 18
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Motherhood",
+        "Contentment",
+        "Joy",
+        "Homemaking"
+      ],
+      "html": {
+        "repository_path": "src/304e1120-f241-4d9e-972b-c72dec82b134.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/304e1120-f241-4d9e-972b-c72dec82b134-1.jpg",
+          "public_path": "/images/304e1120-f241-4d9e-972b-c72dec82b134-1.jpg",
+          "source_page": 16,
+          "role": "opening mother-and-child illustration",
+          "alt": "A seated mother holding a child",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright, or separate-permission notice is printed. The page-2 general art notice does not identify this asset’s individual source. The embedded 540×471 separated grayscale JPEG is a composite containing the rasterized title, byline, unique introductory lines, and illustration. The title and byline are retained in index metadata and the unique introductory lines are transcribed as semantic HTML. The mother-and-child illustration was isolated with a 245×330 crop beginning at source coordinate +295+35, the inverted grayscale samples were negated to match the printed page, and the crop was encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/304e1120-f241-4d9e-972b-c72dec82b134-2.png",
+          "public_path": "/images/304e1120-f241-4d9e-972b-c72dec82b134-2.png",
+          "source_page": 16,
+          "role": "decorative floral vase illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright, or separate-permission notice is printed. The page-2 general art notice does not identify this asset’s individual source. The embedded 182×119 grayscale image was decoded to an sRGB PNG without crop, rotation, or content alteration."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/304e1120-f241-4d9e-972b-c72dec82b134-3.jpg",
+          "public_path": "/images/304e1120-f241-4d9e-972b-c72dec82b134-3.jpg",
+          "source_page": 17,
+          "role": "decorative bird-and-flower illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright, or separate-permission notice is printed. The page-2 general art notice does not identify this asset’s individual source. The embedded separated grayscale JPEG used inverted PDF display semantics; its samples were negated to match the printed page and it was encoded at the unchanged 119×360 dimensions as a standards-normalized three-component baseline sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/304e1120-f241-4d9e-972b-c72dec82b134-4.jpg",
+          "public_path": "/images/304e1120-f241-4d9e-972b-c72dec82b134-4.jpg",
+          "source_page": 18,
+          "role": "house illustration",
+          "alt": "A large house beside a stream",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright, or separate-permission notice is printed. The page-2 general art notice does not identify this asset’s individual source. The embedded separated grayscale JPEG used inverted PDF display semantics; its samples were negated to match the printed page and it was encoded at the unchanged 152×180 dimensions as a standards-normalized three-component baseline sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pull_quote_note": "Three callouts repeat running-body wording and were not duplicated.",
+        "raster_text_note": "The eleven unique introductory lines rasterized into the page-16 title composite were visually transcribed with their exact lineation and punctuation."
+      }
+    },
+    {
+      "id": "8887e7f5-1047-4baf-a9d7-db2644e0fd7a",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 7,
+      "title": "Revivals That Stay",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "E. M. Bounds",
+        "authors": [
+          {
+            "name": "E. M. Bounds",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": {
+          "name": "Revival",
+          "slug": "revival"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "publication_note": "(Article taken from Christian Advocate)",
+      "html": {
+        "repository_path": "src/8887e7f5-1047-4baf-a9d7-db2644e0fd7a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8887e7f5-1047-4baf-a9d7-db2644e0fd7a-1.png",
+          "public_path": "/images/8887e7f5-1047-4baf-a9d7-db2644e0fd7a-1.png",
+          "source_page": 20,
+          "role": "opening illustration",
+          "alt": "Large revival tents surrounded by a crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No asset-specific credit or license terms are printed with the illustration. The general masthead says that some images are © 2001-2007 clipart.com / photos.com but does not identify this asset; no article-specific permission requirement is stated. The clean embedded 252x172 sRGB PNG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/8887e7f5-1047-4baf-a9d7-db2644e0fd7a-2.jpg",
+          "public_path": "/images/8887e7f5-1047-4baf-a9d7-db2644e0fd7a-2.jpg",
+          "source_page": 21,
+          "role": "closing illustration",
+          "alt": "An outdoor religious gathering in a wooded camp with a preacher addressing a crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No asset-specific credit or license terms are printed with the illustration. The general masthead says that some images are © 2001-2007 clipart.com / photos.com but does not identify this asset; no article-specific permission requirement is stated. The embedded grayscale JPEG used inverted samples in the PDF; it was sample-inverted to match the rendered page and normalized as a baseline three-component sRGB JPEG at the original 332x211 dimensions and 72 dpi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pull_quote_note": "The page-20 and page-21 pull quotes repeat body wording and were not duplicated."
+      }
+    },
+    {
+      "id": "cbbe9a81-d8fd-46c2-bfcd-0d31bdd59fb1",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 8,
+      "title": "Thoughts on The Martyrs Mirror",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/cbbe9a81-d8fd-46c2-bfcd-0d31bdd59fb1.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/cbbe9a81-d8fd-46c2-bfcd-0d31bdd59fb1-1.jpg",
+          "public_path": "/images/cbbe9a81-d8fd-46c2-bfcd-0d31bdd59fb1-1.jpg",
+          "source_page": 22,
+          "role": "opening illustration",
+          "alt": "Dirk Willems reaches toward his pursuer who has fallen through the ice",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No asset-specific credit or license terms are printed with the illustration. The general masthead says that some images are © 2001-2007 clipart.com / photos.com but does not identify this asset; no article-specific permission requirement is stated. The embedded grayscale JPEG used inverted samples in the PDF; it was sample-inverted to match the rendered page and normalized as a baseline three-component sRGB JPEG at the original 265x205 dimensions and 72 dpi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/cbbe9a81-d8fd-46c2-bfcd-0d31bdd59fb1-2.jpg",
+          "public_path": "/images/cbbe9a81-d8fd-46c2-bfcd-0d31bdd59fb1-2.jpg",
+          "source_page": 23,
+          "role": "author family photograph",
+          "alt": "Dean and Tania Taylor with their family outdoors",
+          "caption": "Dean & Tania Taylor family",
+          "credit": null,
+          "rights_note": "No asset-specific credit or license terms are printed with the photograph. The general masthead says that some images are © 2001-2007 clipart.com / photos.com but does not identify this asset; no article-specific permission requirement is stated. The embedded grayscale JPEG used inverted samples in the PDF; it was sample-inverted to match the rendered page and normalized as a baseline three-component sRGB JPEG at the original 330x216 dimensions and 72 dpi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "page_decoration_note": "The decorative end marker was omitted as magazine furniture."
+      }
+    },
+    {
+      "id": "598a388a-7ddf-451e-95a5-626e530d27e5",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 9,
+      "title": "The Dungeon Of The Soul",
+      "subtitle": "“O wretched man that I am!\nWho shall deliver me from this body of death?”",
+      "section": null,
+      "byline": {
+        "raw": "Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 39,
+        "pages": [
+          24,
+          25,
+          26,
+          39
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/598a388a-7ddf-451e-95a5-626e530d27e5.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The article continues nonconsecutively from page 26 to the lower section of page 39; the ordered pages array preserves that reading order."
+      }
+    },
+    {
+      "id": "037c5573-3fce-413e-9361-a6d75e878fe7",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 10,
+      "title": "The Pursuit of Godly Seed",
+      "subtitle": null,
+      "section": "A BOOK REVIEW",
+      "byline": {
+        "raw": "Book Review by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 30
+      },
+      "categories": {
+        "primary": {
+          "name": "Book reviews",
+          "slug": "book-reviews"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Children",
+            "slug": "children"
+          }
+        ]
+      },
+      "topics": [
+        "Book review",
+        "Child training",
+        "Godly homes",
+        "Parenting"
+      ],
+      "publication_note": "The heading identifies the reviewed work as The Pursuit of Godly Seed, “by Denny Kenaston.”",
+      "html": {
+        "repository_path": "src/037c5573-3fce-413e-9361-a6d75e878fe7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/037c5573-3fce-413e-9361-a6d75e878fe7-1.jpg",
+          "public_path": "/images/037c5573-3fce-413e-9361-a6d75e878fe7-1.jpg",
+          "source_page": 27,
+          "role": "author portrait",
+          "alt": "Denny Kenaston seated indoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or separate reuse notice is printed with the photograph. The page-2 masthead has a general source line for some magazine images but does not identify this photograph; no licence is inferred. The clean embedded 164×249 JPEG used inverted grayscale samples in the PDF, so its samples were negated and it was re-encoded at the original dimensions as a three-component baseline sRGB JPEG with 72 DPI density."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "heading_note": "The heading credits Denny Kenaston as the author of the reviewed book; the separate printed article byline identifies Dean Taylor as the reviewer.",
+        "pull_quote_note": "Decorative pull quotes repeat body wording and were not duplicated."
+      }
+    },
+    {
+      "id": "fd4b0e3a-4e95-4927-ada8-70576e3bf708",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 11,
+      "title": "How Do We Prepare Our Youth Girls For the Future?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Helen Leibee",
+        "authors": [
+          {
+            "name": "Helen Leibee",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Woman",
+            "slug": "woman"
+          },
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Young women",
+        "Homemaking",
+        "Spiritual formation",
+        "Missionary preparation"
+      ],
+      "html": {
+        "repository_path": "src/fd4b0e3a-4e95-4927-ada8-70576e3bf708.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/fd4b0e3a-4e95-4927-ada8-70576e3bf708-1.jpg",
+          "public_path": "/images/fd4b0e3a-4e95-4927-ada8-70576e3bf708-1.jpg",
+          "source_page": 31,
+          "role": "family photograph",
+          "alt": "Rick and Helen Leibee with their family outdoors",
+          "caption": "Rick & Helen Leibee family",
+          "credit": null,
+          "rights_note": "The exact printed caption is preserved. No image-specific credit, licence, or separate reuse notice is printed with the photograph. The page-2 masthead has a general source line for some magazine images but does not identify this photograph; no licence is inferred. The clean embedded 358×210 JPEG used inverted grayscale samples in the PDF, so its samples were negated and it was re-encoded at the original dimensions as a three-component baseline sRGB JPEG with 72 DPI density."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "page_decoration_note": "The title-panel rose and decorative pull quotes were omitted; the unique closing Proverbs text was retained."
+      }
+    },
+    {
+      "id": "54a067b0-14dd-41ca-afb7-a109f69eb389",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 12,
+      "title": "The Christian’s PET SIN",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Ronald E. Willams, Director\nHephzibah House\n508 School St., Winona Lake, IN 46590",
+        "authors": [
+          {
+            "name": "Ronald E. Willams",
+            "location": "Winona Lake, IN 46590",
+            "role": "Director, Hephzibah House"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 37
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          },
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ]
+      },
+      "topics": [
+        "Television",
+        "Media influence",
+        "Family spiritual leadership",
+        "Holiness"
+      ],
+      "html": {
+        "repository_path": "src/54a067b0-14dd-41ca-afb7-a109f69eb389.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/54a067b0-14dd-41ca-afb7-a109f69eb389-1.png",
+          "public_path": "/images/54a067b0-14dd-41ca-afb7-a109f69eb389-1.png",
+          "source_page": 35,
+          "role": "opening television-viewing photograph",
+          "alt": "A man seated in a chair watching television",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The page-2 masthead states ‘Some images © 2001-2007 clipart.com / photos.com’ without assigning this photograph to either source, so no individual source or licence is inferred. The clean embedded 245×215 sRGB PNG faithfully matches the printed photograph and was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/54a067b0-14dd-41ca-afb7-a109f69eb389-2.png",
+          "public_path": "/images/54a067b0-14dd-41ca-afb7-a109f69eb389-2.png",
+          "source_page": 37,
+          "role": "television-disorder cartoon",
+          "alt": "A family in a chaotic room gathered around a television",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The page-2 masthead states ‘Some images © 2001-2007 clipart.com / photos.com’ without assigning this cartoon to either source, so no individual source or licence is inferred. The clean embedded 253×214 sRGB PNG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "rights_note": "“Reprints may be obtained from this address.” states availability and does not require separate reuse permission.",
+        "source_oddities_note": "The printed forms “Willams,” “voluntarily. by,” “(ll Peter3:14),” “distinctives. and,” and “(11 Corinthians 5:10)” are preserved exactly."
+      }
+    },
+    {
+      "id": "9839d90c-243d-4475-bda4-ef769be34134",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 13,
+      "title": "“Shall I enter the Army?” Moody said, “No.”",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 38,
+        "end": 39
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Home histories",
+            "slug": "home-histories"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "topics": [
+        "Dwight L. Moody",
+        "Nonresistance",
+        "American Civil War",
+        "Forgiveness"
+      ],
+      "publication_note": "Published by Christian Printing Mission",
+      "html": {
+        "repository_path": "src/9839d90c-243d-4475-bda4-ef769be34134.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/9839d90c-243d-4475-bda4-ef769be34134-1.png",
+          "public_path": "/images/9839d90c-243d-4475-bda4-ef769be34134-1.png",
+          "source_page": 38,
+          "role": "opening military illustration",
+          "alt": "An officer standing before four uniformed men",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The illustration contains a small artist-signature mark that is not legible enough in the source PDF to transcribe, and no separate printed credit, licence, source, or permission notice appears. The page-2 masthead states ‘Some images © 2001-2007 clipart.com / photos.com’ without identifying this asset, so no individual source or licence is inferred. The clean embedded 360×224 sRGB PNG preserves the signature mark and was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "Only the upper page-39 section belongs to this article; the lower section is the continuation of sequence 9.",
+        "source_oddities_note": "The printed forms “Wendell Philips,” “to...“Love,” ““Good News”.” and the source’s unclosed quotation marks are preserved exactly."
+      }
+    },
+    {
+      "id": "1a7d847f-2d8f-4b0e-be52-1d9eca925865",
+      "issue_id": "heartbeat-remnant-2007-special-edition",
+      "sequence": 14,
+      "title": "Revival Terminology in History",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Richard Owen Roberts",
+        "authors": [
+          {
+            "name": "Richard Owen Roberts",
+            "location": null,
+            "role": "President, International Awakening Ministries, Inc."
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 40,
+        "end": 43
+      },
+      "categories": {
+        "primary": {
+          "name": "Revival",
+          "slug": "revival"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Revival terminology",
+        "Revival history",
+        "Manifest presence of God"
+      ],
+      "html": {
+        "repository_path": "src/1a7d847f-2d8f-4b0e-be52-1d9eca925865.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1a7d847f-2d8f-4b0e-be52-1d9eca925865-1.jpg",
+          "public_path": "/images/1a7d847f-2d8f-4b0e-be52-1d9eca925865-1.jpg",
+          "source_page": 40,
+          "role": "opening historical illustration",
+          "alt": "A man addresses a kneeling group gathered outside a building",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or separate reuse notice is printed with the illustration. The page-2 masthead states that some magazine images are © 2001-2007 clipart.com / photos.com but does not identify this illustration; no licence is inferred. The embedded one-component JPEG used inverted grayscale samples in the PDF, so its samples were negated and it was re-encoded at the original dimensions as a baseline three-component sRGB JPEG with 72 DPI density."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pull_quote_note": "Two decorative pull quotes repeat body wording and were not duplicated.",
+        "source_oddities_note": "The printed forms “(Prov. 14:14.),” the missing opening quotation mark before “The Pouring Out…,” commas outside closing quotation marks, and “itinerate ministry” are preserved exactly."
       }
     }
   ],
