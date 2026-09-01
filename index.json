@@ -947,6 +947,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2011-09",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Ephrata Christian Fellowship",
+      "date": {
+        "label": "September/October 2011",
+        "year": 2011,
+        "months": [
+          9,
+          10
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 17,
+      "issue_number": 5,
+      "source": {
+        "filename": "2011-09-Remnant.pdf",
+        "sha256": "6eec928accac52d25ee4d16d63c115381a3b29a0003d81557fc6dc4116408caa",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -28399,6 +28426,1041 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
         "image_transform": "The page-32 separation JPEG required sample inversion and sRGB encoding; the page-33 boxed graph was rendered and cropped at 300 dpi; the page-34 JPEG was container-normalized to baseline sRGB. All dimensions, crops, orientations, and published content were preserved."
+      }
+    },
+    {
+      "id": "40e7c480-ee90-42cc-b53e-1b45c03c728a",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 5,
+        "pages": [
+          3,
+          5
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Watchfulness",
+        "Second Coming",
+        "Church"
+      ],
+      "html": {
+        "repository_path": "src/40e7c480-ee90-42cc-b53e-1b45c03c728a.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The article begins on printed page 3, whose final line directs readers to page 5. It resumes in the right column of printed page 5 beneath the continuation label ‘Editorial, Cont. from p. 3’ and ends there.",
+        "signoff_note": "The terminal sign-off ‘~Bro. Dean’ is preserved inline and italicized exactly where it appears at the end of the final paragraph. The page-2 masthead identifies Dean Taylor as General Editor."
+      }
+    },
+    {
+      "id": "6d065ef7-cb98-41d1-90a7-643b818c650d",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 2,
+      "title": "How Shall We Preach?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Yost H. Miller (1918-2009)",
+        "authors": [
+          {
+            "name": "Yost H. Miller",
+            "location": null,
+            "role": null,
+            "birth_year": 1918,
+            "death_year": 2009
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 5
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Revival",
+            "slug": "revival"
+          }
+        ]
+      },
+      "topics": [
+        "Preaching",
+        "Holiness",
+        "Revival"
+      ],
+      "publication_note": "Originally published in “Calvary Messenger,” November 1993",
+      "html": {
+        "repository_path": "src/6d065ef7-cb98-41d1-90a7-643b818c650d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/6d065ef7-cb98-41d1-90a7-643b818c650d-1.jpg",
+          "public_path": "/images/6d065ef7-cb98-41d1-90a7-643b818c650d-1.jpg",
+          "source_page": 4,
+          "role": "opening illustration",
+          "alt": "Black-and-white illustration of a man preaching from a pulpit",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright mark, or separate permission notice is printed. Page 2 provides only the non-specific masthead credit ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu’; it cannot be assigned to this illustration. The PDF applied inverted decode semantics to the embedded one-channel separation JPEG; its samples were inverted and encoded as a three-channel baseline sRGB JPEG at 150 ppi, preserving the published 525 × 263 pixel dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "Two decorative pull-quote renditions were omitted because they repeat body wording. The first decorative rendition adds a comma after ‘commanding’ that is absent from the authoritative body sentence; the exact body punctuation was preserved and the decorative rendition was not duplicated, following the explicit extraction instruction.",
+        "continuation_note": "The article begins on printed page 4 and continues without an explicit label into the left column at the top of printed page 5, where it concludes above the provenance line."
+      }
+    },
+    {
+      "id": "917362d2-a009-40e9-9cee-64501c6b3acf",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 3,
+      "title": "Dedication—A Noble Example for Young People",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "By Andrew V. Ste. Marie",
+        "authors": [
+          {
+            "name": "Andrew V. Ste. Marie",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          }
+        ]
+      },
+      "topics": [
+        "Dedication",
+        "Persecution",
+        "Faithfulness"
+      ],
+      "html": {
+        "repository_path": "src/917362d2-a009-40e9-9cee-64501c6b3acf.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "callout_note": "The unique framed callout was transcribed as a semantic two-paragraph blockquote. Its calligraphic emphasis, blank paragraph break, final exclamation mark, and immediately adjacent tilde were preserved.",
+        "quotation_note": "Both indented passages introduced as readings from Martyrs Mirror were preserved as prose blockquotes. The second ‘all’ in ‘all—all—for Him’ is the only emphasized word in that phrase and is preserved with emphasis."
+      }
+    },
+    {
+      "id": "4e61acd5-0d1f-499e-b00d-3ae6320cc89a",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 4,
+      "title": "Lambs among Wolves",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "George R. Brunk, Sr.",
+        "authors": [
+          {
+            "name": "George R. Brunk, Sr.",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "Nonresistance",
+        "War",
+        "Conscientious objection",
+        "World War I",
+        "Calvinism"
+      ],
+      "publication_note": "Taken from—The Sword and Trumpet, April, 1929. Bold wording is original. This was written in 1929, and George’s words here are almost prophetic of the coming second World War. Note that in a few places the words in this article have been changed to “World War I,” as George called it the “great World War.”",
+      "html": {
+        "repository_path": "src/4e61acd5-0d1f-499e-b00d-3ae6320cc89a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4e61acd5-0d1f-499e-b00d-3ae6320cc89a-1.jpg",
+          "public_path": "/images/4e61acd5-0d1f-499e-b00d-3ae6320cc89a-1.jpg",
+          "source_page": 7,
+          "role": "opening illustration",
+          "alt": "Two wolves beside a lamb",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or separate permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The clean embedded 527x347 sRGB JPEG was re-encoded without crop, flip, rotation, or content alteration as a standards-normalized baseline three-component sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/4e61acd5-0d1f-499e-b00d-3ae6320cc89a-2.jpg",
+          "public_path": "/images/4e61acd5-0d1f-499e-b00d-3ae6320cc89a-2.jpg",
+          "source_page": 8,
+          "role": "article illustration",
+          "alt": "Large naval guns on the deck of a battleship",
+          "caption": "“Madam,” said I, “the way is already made, and it is a narrow one, and there is no authority in heaven or earth to make it wide [enough to include war].”",
+          "credit": null,
+          "rights_note": "No image-specific credit or separate permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The embedded 675x471 one-component separation JPEG used inverted samples in the PDF. Its samples were negated to match the printed page, converted to sRGB, and re-encoded without crop, flip, rotation, or content alteration as a standards-normalized baseline three-component sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pull_quote_note": "Two decorative pull quotes were omitted because they repeat wording preserved in the body; the unique handwritten wording attached to the battleship was retained as its exact figcaption because its bracketed text does not occur in the body.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow, ImageMagick, and FFmpeg; both are baseline three-component sRGB JPEGs at 150 ppi and were visually compared with the printed pages.",
+        "rights_review_note": "The complete article, notes, footnotes, captions, and images contain no wording requiring separate permission."
+      }
+    },
+    {
+      "id": "0a063acf-fbc6-46ef-8dc6-24a20518734c",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 5,
+      "title": "The True Holy War",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Anonymous",
+        "authors": [
+          {
+            "name": "Anonymous",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Spiritual warfare",
+        "Suffering",
+        "Holiness"
+      ],
+      "html": {
+        "repository_path": "src/0a063acf-fbc6-46ef-8dc6-24a20518734c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/0a063acf-fbc6-46ef-8dc6-24a20518734c-1.jpg",
+          "public_path": "/images/0a063acf-fbc6-46ef-8dc6-24a20518734c-1.jpg",
+          "source_page": 10,
+          "role": "upper image in paired illustration",
+          "alt": "An army gathered outside a fortified city",
+          "caption": "Two methods to try to conquer evil. Which did Jesus choose?",
+          "credit": null,
+          "rights_note": "No image-specific credit or separate permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The embedded 303x450 JPEG was selected ahead of the PDF object-order image to preserve its printed upper-first reading order, then re-encoded without crop, flip, rotation, or content alteration as a standards-normalized baseline three-component sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/0a063acf-fbc6-46ef-8dc6-24a20518734c-2.jpg",
+          "public_path": "/images/0a063acf-fbc6-46ef-8dc6-24a20518734c-2.jpg",
+          "source_page": 10,
+          "role": "lower image in paired illustration",
+          "alt": "Jesus carrying the cross while surrounded by people",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or separate permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The embedded 342x432 JPEG was selected second to preserve its printed lower-second reading order, then re-encoded without crop, flip, rotation, or content alteration as a standards-normalized baseline three-component sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_order_note": "The paired illustrations follow published top-to-bottom order rather than PDF object order; the single printed caption applies jointly to both images and is stored once on the first image.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow, ImageMagick, and FFmpeg; both are baseline three-component sRGB JPEGs at 150 ppi and were visually compared with the printed page.",
+        "rights_review_note": "The complete article, caption, and images contain no wording requiring separate permission."
+      }
+    },
+    {
+      "id": "c7b3f732-3606-4dd8-a903-ee2625178bb9",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 6,
+      "title": "The Preachers Confess!",
+      "subtitle": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent. Re. 2:5.",
+      "section": null,
+      "byline": null,
+      "source_pages": {
+        "start": 11,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Revival",
+          "slug": "revival"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Ministerial confession",
+        "Repentance",
+        "Preaching",
+        "Prayer",
+        "Revival"
+      ],
+      "publication_note": "Adapted from Words to Winners of Souls by Horatius Bonar.",
+      "html": {
+        "repository_path": "src/c7b3f732-3606-4dd8-a903-ee2625178bb9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-1.jpg",
+          "public_path": "/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-1.jpg",
+          "source_page": 11,
+          "role": "lead historical woodcut illustration",
+          "alt": "A woodcut-style illustration of a kneeling man surrounded by people",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this illustration. The PDF stores the embedded JPEG in a one-channel Separation/Black colour space whose directly extracted samples appear as a negative, so the samples were inverted and encoded at the unchanged 900 × 525 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, matching the printed black-on-white appearance."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-2.png",
+          "public_path": "/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-2.png",
+          "source_page": 12,
+          "role": "jesting-ministers illustration",
+          "alt": "A black-and-white caricature of men gathered in conversation",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this illustration. The embedded one-channel Separation/Black raster was normalized at the unchanged 375 × 133 dimensions as an sRGB palette PNG with nonzero 150 ppi density, preserving its printed black-on-white appearance, crop, orientation, and content. The adjacent handwritten pull quote repeats wording retained in the article body and was not duplicated in HTML."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-3.jpg",
+          "public_path": "/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-3.jpg",
+          "source_page": 13,
+          "role": "crowd photograph",
+          "alt": "A large outdoor crowd carrying flags",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this photograph. The clean embedded ICCBased RGB JPEG was encoded at the unchanged 525 × 352 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published crop, orientation, and content. The adjacent handwritten pull quote repeats a sentence retained in the article body and was not duplicated in HTML."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-4.jpg",
+          "public_path": "/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-4.jpg",
+          "source_page": 14,
+          "role": "courtyard engraving",
+          "alt": "An older woman sewing while a younger woman approaches in a courtyard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this engraving. The PDF stores the embedded JPEG in a one-channel Separation/Black colour space whose directly extracted samples appear as a negative, so the samples were inverted and encoded at the unchanged 525 × 725 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, matching the printed black-on-white appearance. The adjacent handwritten pull quote repeats a sentence retained in the article body and was not duplicated in HTML."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-5.jpg",
+          "public_path": "/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-5.jpg",
+          "source_page": 16,
+          "role": "sports-balls photograph",
+          "alt": "Assorted soccer, basketball, baseball, tennis, and golf balls",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this photograph. The clean embedded ICCBased RGB JPEG was encoded at the unchanged 450 × 302 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published crop, orientation, and content. The adjacent handwritten pull quote repeats wording retained in the article body and was not duplicated in HTML."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-6.jpg",
+          "public_path": "/images/c7b3f732-3606-4dd8-a903-ee2625178bb9-6.jpg",
+          "source_page": 17,
+          "role": "desert-solitude photograph",
+          "alt": "A solitary person sitting on the edge of a desert cliff",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states ‘Some images ©2001-2011’ and lists www.clipart.com and www.sxc.hu without mapping either source to this photograph. The clean embedded ICCBased RGB JPEG was encoded at the unchanged 525 × 350 dimensions as a standards-normalized three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published crop, orientation, and content. The adjacent handwritten pull quote repeats wording retained in the article body and was not duplicated in HTML."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "provenance_note": "The page-14 source-transition parenthetical and page-17 line ‘Adapted from Words to Winners of Souls by Horatius Bonar.’ are source/provenance statements only. Neither states or implies that separate reuse permission is required. No article-specific restriction occurs from the opening heading through the final attribution."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pages_visually_checked": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "subtitle_epigraph_note": "The exact three-line italic epigraph is stored as the subtitle metadata and is not duplicated above the HTML body, consistent with the repository contract.",
+        "emphasis_note": "The only body italics are the magazine title ‘The Heartbeat of the Remnant’ on page 11, the word ‘about’ on page 13, and the book title ‘Words to Winners of Souls’ in the final attribution on page 17; all were preserved with em elements. The subtitle is italic in print and retained in metadata.",
+        "source_transition_note": "The complete page-14 parenthetical introducing Horatius Bonar’s thoughts was retained in its printed position and punctuation.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "Seven decorative handwritten/display pull quotes on pages 12–17 repeat wording already retained in the body and were not duplicated in HTML: the page-12 ‘Deadness of spirit’ and ‘Foolish jesting’ quotes; page-13 ‘Not preaching with bowels of compassion’; page-14 ‘Not knowing how to speak’; page-15 ‘Up to the point where a sacrifice was demanded’; page-16 ‘How deeply ought we to be abased’; and page-17 ‘... God is nigh’. The literal three-period sequences on pages 15 and 17 were distinguished visually from ellipsis glyphs and recorded exactly in this metadata.",
+        "text_sequence_note": "The HTML word sequence was compared against the complete decoded PDF text layer after visually resolving its font-subset glyph mappings, removing only title/subtitle metadata, repeated decorative pull quotes, and page furniture, and joining only discretionary line/page-break hyphens. The resulting 4,867-token source and HTML sequences matched exactly after accounting for the source extractor’s known ligature and final-tilde glyph artifacts; every paragraph, heading, quotation mark, apostrophe, dash, bracket, parenthesis, scripture reference, final tilde, and attribution was then checked against the 300 dpi page renders.",
+        "html_structure_note": "The fragment parses as exactly one outer article with the matching UUID, 15 h3 subheadings, 40 paragraphs, six ordered figures, and six root-relative image references. No title, subtitle, byline, running header/footer, page number, or duplicate pull quote was introduced into the body.",
+        "image_decode_note": "All five final JPEGs and the final PNG were fully decoded without warnings by Pillow, ImageMagick, and FFmpeg. Pillow reports all JPEGs as three-channel RGB; ImageMagick reports sRGB, noninterlaced JPEGs with three 1x1 sampling components and nonzero 150 ppi density. All six final rasters preserve the embedded dimensions and were visually compared with both the directly extracted assets and the 300 dpi printed-page renders. The two directly extracted negative Separation/Black JPEGs from pages 11 and 14 were sample-inverted to match their printed black-on-white appearance.",
+        "rights_review_note": "The complete article, source-transition note, all six images, all adjacent display text, final tilde, and final adaptation credit contain no wording requiring separate permission. The issue-level generic Art notice is not assigned to any individual image as a specific credit or licence."
+      }
+    },
+    {
+      "id": "23058fee-cfdb-4578-9796-68f30a496186",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 7,
+      "title": "He Died at His Post",
+      "subtitle": "The story of Johnny Kline",
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Home histories",
+          "slug": "home-histories"
+        },
+        "additional": [
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          }
+        ]
+      },
+      "topics": [
+        "John Kline",
+        "Church of the Brethren",
+        "Nonresistance",
+        "American Civil War",
+        "Martyrdom"
+      ],
+      "html": {
+        "repository_path": "src/23058fee-cfdb-4578-9796-68f30a496186.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/23058fee-cfdb-4578-9796-68f30a496186-1.jpg",
+          "public_path": "/images/23058fee-cfdb-4578-9796-68f30a496186-1.jpg",
+          "source_page": 18,
+          "role": "opening spread photograph",
+          "alt": "A man riding a horse in front of a log cabin",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No printed credit or permission notice. The article's final parenthetical note states exactly: “(Note that the picture at the beginning of the story is NOT John Kline.)” The two separately embedded 150-ppi JPEG halves from printed pages 18 and 19 were joined horizontally in spread order without rescaling or content alteration, then encoded as a standards-normalized baseline three-component sRGB JPEG at 150 dpi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/23058fee-cfdb-4578-9796-68f30a496186-2.jpg",
+          "public_path": "/images/23058fee-cfdb-4578-9796-68f30a496186-2.jpg",
+          "source_page": 22,
+          "role": "historical distillery illustration",
+          "alt": "Historical illustration of barrels and a distillery in flames",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No printed credit or permission notice. The handwritten wording beneath the image is a decorative pull quote duplicated verbatim by the page-23 body quotation and is therefore preserved once in the body rather than duplicated as a figcaption. Original embedded grayscale/separation JPEG retained at its published dimensions and encoded as a standards-normalized baseline three-component sRGB JPEG at 150 dpi; no inversion was required."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/23058fee-cfdb-4578-9796-68f30a496186-3.jpg",
+          "public_path": "/images/23058fee-cfdb-4578-9796-68f30a496186-3.jpg",
+          "source_page": 23,
+          "role": "On Drinking Wine sidebar image",
+          "alt": "A beverage glass with another vessel behind it",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No printed credit or permission notice. Original embedded JPEG retained at its published dimensions and encoded as a standards-normalized baseline three-component sRGB JPEG at 150 dpi."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/23058fee-cfdb-4578-9796-68f30a496186-4.jpg",
+          "public_path": "/images/23058fee-cfdb-4578-9796-68f30a496186-4.jpg",
+          "source_page": 24,
+          "role": "historical photograph",
+          "alt": "Two women carrying food containers outdoors",
+          "caption": "In this unique photograph, Sarah Bowman and Catherine Showalter deliver food to the Brethren men in jail for refusing to bear arms in the Civil War.",
+          "credit": null,
+          "rights_note": "No printed credit or permission notice. The embedded grayscale/separation JPEG's sample values appeared inverted outside the PDF decode context. Samples were negated to match the rendered source page, then the image was encoded at unchanged dimensions as a standards-normalized baseline three-component sRGB JPEG at 150 dpi."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/23058fee-cfdb-4578-9796-68f30a496186-5.jpg",
+          "public_path": "/images/23058fee-cfdb-4578-9796-68f30a496186-5.jpg",
+          "source_page": 25,
+          "role": "historical illustration",
+          "alt": "Illustration of a black-clad preacher riding a horse",
+          "caption": "While John Kline was not really a circuit preacher, his ministry bore very similar results.",
+          "credit": null,
+          "rights_note": "No printed credit or permission notice. Original embedded JPEG retained at its published dimensions and encoded as a standards-normalized baseline three-component sRGB JPEG at 150 dpi."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/23058fee-cfdb-4578-9796-68f30a496186-6.jpg",
+          "public_path": "/images/23058fee-cfdb-4578-9796-68f30a496186-6.jpg",
+          "source_page": 26,
+          "role": "first photograph in the paired memorial figure",
+          "alt": "A memorial enclosed by a fence in a wooded field",
+          "caption": "A memorial marks the spot in Virginia where Johnny Kline was martyred.",
+          "credit": "Photos © Robert H. Moore II, Provided by www.hmdb.org",
+          "rights_note": "The printed photographer/source credit is preserved exactly and contains no separate-permission requirement. The caption and plural credit are shared by images 6 and 7. Original embedded JPEG retained at its published dimensions and encoded as a standards-normalized baseline three-component sRGB JPEG at 150 dpi."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "src/images/23058fee-cfdb-4578-9796-68f30a496186-7.jpg",
+          "public_path": "/images/23058fee-cfdb-4578-9796-68f30a496186-7.jpg",
+          "source_page": 26,
+          "role": "second photograph in the paired memorial figure",
+          "alt": "The stone marker at the site where John Kline was killed",
+          "caption": null,
+          "credit": "Photos © Robert H. Moore II, Provided by www.hmdb.org",
+          "rights_note": "The printed photographer/source credit is preserved exactly and contains no separate-permission requirement. The caption and plural credit are shared by images 6 and 7. Original embedded JPEG retained at its published dimensions and encoded as a standards-normalized baseline three-component sRGB JPEG at 150 dpi."
+        },
+        {
+          "sequence": 8,
+          "repository_path": "src/images/23058fee-cfdb-4578-9796-68f30a496186-8.png",
+          "public_path": "/images/23058fee-cfdb-4578-9796-68f30a496186-8.png",
+          "source_page": 27,
+          "role": "True Patriotism sidebar illustration",
+          "alt": "Historical illustration of a battlefield",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No printed credit or permission notice. Original embedded PNG retained at its published dimensions and re-encoded as an RGB sRGB PNG with nonzero 150-dpi density."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pages_checked_visually_at_300_dpi": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "text_method": "Every HTML paragraph, heading, quotation, unique pull quote, sidebar, caption, poem line, note marker, footnote/endnote, final line, and emphasized span was compared against the corresponding 300-dpi rendered page. The PDF text layer and 300-dpi Tesseract output were used only as locating aids; doubtful punctuation and the source's apparent errors were resolved visually.",
+        "formatting_notes": [
+          "The page-23 “On Drinking Wine” box is retained as a semantic aside at the exact point where the main article references it.",
+          "The page-27 “John Kline on / True Patriotism” box is retained as a second semantic aside.",
+          "The unique page-21 question callout is retained once as a semantic pull quote.",
+          "The decorative page-20 self-centered-life callout, page-21 slave-wages callout, and page-22 distillery pull quote are omitted as duplicate print furniture because their exact wording is already present in the body.",
+          "Discretionary line-end and page/column-break hyphens were removed; intentional compounds and source punctuation were retained.",
+          "The article's Unicode ellipsis glyphs, em dashes, curly quotation marks, and apostrophes were preserved."
+        ],
+        "image_method": "Every final asset was visually compared with the source render and opened at full raster resolution. All JPEGs are baseline JFIF, three-component sRGB, and have nonzero 150-dpi density. Pillow, ImageMagick, and FFmpeg each fully decoded all eight files without warnings or errors.",
+        "html_validation": "Parsed successfully as exactly one outer article element with the matching UUID; eight root-relative image references occur once each, in order, and every referenced file exists.",
+        "inventory_note": "Although the contents page separately highlights ‘On Drinking Wine,’ the main body explicitly directs readers to it as the ‘sidebar on this page’; it is therefore retained as a semantic aside owned by this feature. The later ‘John Kline on / True Patriotism’ box is likewise retained as a related semantic aside.",
+        "rights_review_note": "The complete feature from its opening heading on page 18 through its final article text, notes, sidebars, captions, embedded graphic text, and final line on page 27 was checked. No wording requires separate permission to copy, use, reproduce, or reprint the article or an associated image.",
+        "image_credit_note": "The printed nonrestrictive credit “Photos © Robert H. Moore II, Provided by www.hmdb.org” applies to the paired memorial photographs."
+      }
+    },
+    {
+      "id": "ccbccd6f-c51e-4e7e-a758-a9237aa8cc63",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 8,
+      "title": "Marriage Is Like a Garden",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 30
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-1.jpg",
+          "public_path": "/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-1.jpg",
+          "source_page": 28,
+          "role": "lead photograph",
+          "alt": "A basket filled with strawberries",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, creator credit, license, or article-specific permission notice is stated. The clean embedded 401×268 RGB JPEG was re-encoded as a standards-normalized baseline sRGB JPEG at 150 ppi because the extracted asset had undefined JFIF density. Dimensions, published crop, orientation, vignette, and content were preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-2.jpg",
+          "public_path": "/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-2.jpg",
+          "source_page": 29,
+          "role": "inline illustration",
+          "alt": "A woman seated at a desk writing",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, creator credit, license, or article-specific permission notice is stated. The embedded 301×552 separation/grayscale JPEG used inverse sample polarity in the PDF. Its samples were inverted to match the rendered page and it was converted to a standards-normalized baseline RGB/sRGB JPEG at 150 ppi. Dimensions, oval crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-3.jpg",
+          "public_path": "/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-3.jpg",
+          "source_page": 29,
+          "role": "inline illustration",
+          "alt": "A man hoeing a garden",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, creator credit, license, or article-specific permission notice is stated. The embedded 492×455 separation/grayscale JPEG used inverse sample polarity in the PDF. Its samples were inverted to match the rendered page and it was converted to a standards-normalized baseline RGB/sRGB JPEG at 150 ppi. Dimensions, crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-4.jpg",
+          "public_path": "/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-4.jpg",
+          "source_page": 30,
+          "role": "inline illustration",
+          "alt": "A watering can and garden tools",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, creator credit, license, or article-specific permission notice is stated. The embedded 371×320 separation/grayscale JPEG used inverse sample polarity in the PDF. Its samples were inverted to match the rendered page and it was converted to a standards-normalized baseline RGB/sRGB JPEG at 150 ppi. Dimensions, crop, orientation, and content were preserved."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-5.jpg",
+          "public_path": "/images/ccbccd6f-c51e-4e7e-a758-a9237aa8cc63-5.jpg",
+          "source_page": 30,
+          "role": "closing photograph",
+          "alt": "A still life of assorted garden vegetables",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No caption, creator credit, license, or article-specific permission notice is stated. The published still life was stored as three adjacent inverse-polarity separation/grayscale JPEG tiles (508×488, 508×488, and 74×488). The tiles were joined left-to-right without overlap or rescaling, their samples were inverted to match the rendered page, and the 1090×488 result was encoded as a standards-normalized baseline RGB/sRGB JPEG at 150 ppi. The published crop, aspect ratio, orientation, and content were preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "pages_checked": [
+          28,
+          29,
+          30
+        ],
+        "note": "The complete article, quoted letter, poem attribution, final scripture, image areas, and final line were visually checked. No wording requires separate permission to copy, reproduce, use, or reprint the article or any image."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "text_pages": {
+          "28": "Every article character and paragraph was visually compared with the 1530×1980 rendered page; column-end hyphenation was removed only where it split one word.",
+          "29": "Every article character, quoted-letter paragraph, punctuation mark, parenthetical, and column continuation was visually compared with the 1530×1980 rendered page.",
+          "30": "Every article character, end of the quoted letter, main-text continuation, Horatius Bonar verse, attribution formatting, and final scripture was visually compared with the 1530×1980 rendered page."
+        },
+        "formatting_against_pdf": "verified_by_ai",
+        "formatting_note": "The long letter is represented as one block quotation with source paragraph boundaries; all five images occur in published reading order; the Bonar verse retains its four lines and italic author attribution; only the final scripture wording, not its surrounding quotation marks or reference, is italicized as printed.",
+        "images_against_pdf": "verified_by_ai",
+        "image_visual_check": "All five final images were opened and visually compared with pages 28–30 for subject, crop, aspect ratio, orientation, polarity, and grayscale appearance. The reconstructed vegetable still life was also checked at full resolution for tile order and seams.",
+        "image_colour_check": "All five final JPEGs report sRGB and RGB raster mode, 8 bits per channel, and 150×150 pixels per inch; none is CMYK or grayscale-only.",
+        "image_decode_check": {
+          "status": "passed",
+          "decoders": [
+            "Pillow complete raster load",
+            "ImageMagick complete decode with warnings treated as errors",
+            "FFmpeg complete decode"
+          ],
+          "warnings": []
+        },
+        "html_structure": "passed: parsed successfully with one outer article element whose data-article-id matches the UUID",
+        "image_reference_order": "passed: exactly five root-relative image URLs occur once each in sequence 1–5 and map to existing final files"
+      }
+    },
+    {
+      "id": "383d2d13-cefc-42dd-a3b9-e6e41a0d373f",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 9,
+      "title": "The Reasons Why ...",
+      "subtitle": "Christian Families Will NOT ALLOW Television in Their Homes",
+      "section": null,
+      "byline": {
+        "raw": "By Daniel Mena",
+        "authors": [
+          {
+            "name": "Daniel Mena",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 32
+      },
+      "categories": {
+        "primary": {
+          "name": "Family",
+          "slug": "family"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Deception",
+            "slug": "deception"
+          }
+        ]
+      },
+      "topics": [
+        "Television",
+        "Internet",
+        "Family",
+        "Media discernment"
+      ],
+      "publication_note": "(Taken from an old issue of The Sword and Trumpet)",
+      "html": {
+        "repository_path": "src/383d2d13-cefc-42dd-a3b9-e6e41a0d373f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/383d2d13-cefc-42dd-a3b9-e6e41a0d373f-1.png",
+          "public_path": "/images/383d2d13-cefc-42dd-a3b9-e6e41a0d373f-1.png",
+          "source_page": 31,
+          "role": "opening illustration",
+          "alt": "A cartoon of a multigenerational family gathered around a television",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright mark, or separate permission notice is printed. Page 2 provides only the non-specific masthead credit ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu’; it cannot be assigned to this illustration. The clean embedded 375 × 386 pixel three-channel raster was exported as a lossless 8-bit RGB/sRGB PNG, preserving the published dimensions, crop, aspect ratio, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "editorial_note": "The closing parenthetical attribution to The Sword and Trumpet is an ordinary source/provenance note and contains no wording that requires separate permission or prohibits reprinting."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "continuation_note": "The article begins on printed page 31, continues across the page break into the upper-left portion of printed page 32, and ends with the bold scripture callout ‘And if thine eye offend thee, pluck it out ...’. The page seam was joined without changing article text.",
+        "list_note": "The numbered list contains 22 items. Item 22 contains nine subordinate bullet points whose printed bold labels, punctuation, and order are preserved. Both printed instances of ‘20th’ retain superscript ‘th’ in semantic HTML.",
+        "formatting_note": "The four opening scripture passages are represented as a block quotation. The source-note lead-in is italic while ‘The Sword and Trumpet’ remains roman, exactly as printed. The unique ‘Now the big questions ...’ subheading, italic summary sentence, terminal tilde, and bold closing scripture line are preserved.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "The large decorative page-31 rendition of numbered point 18 was omitted because the same sentence is already present in the authoritative numbered body list."
+      }
+    },
+    {
+      "id": "35229f2e-80ab-484b-a435-9acf9818975f",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 10,
+      "title": "The Conversation of the Unborn Twins",
+      "subtitle": "The conversation of a set of twins in the womb of their mother ...",
+      "section": null,
+      "byline": {
+        "raw": "—Author Unknown",
+        "authors": [
+          {
+            "name": "Author Unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 32
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Children",
+            "slug": "children"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Unborn children",
+        "Faith",
+        "Life after birth"
+      ],
+      "html": {
+        "repository_path": "src/35229f2e-80ab-484b-a435-9acf9818975f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/35229f2e-80ab-484b-a435-9acf9818975f-1.jpg",
+          "public_path": "/images/35229f2e-80ab-484b-a435-9acf9818975f-1.jpg",
+          "source_page": 32,
+          "role": "inline illustration",
+          "alt": "A pencil-style illustration of unborn twins curled together in a womb",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright mark, or separate permission notice is printed. Page 2 provides only the non-specific masthead credit ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu’; it cannot be assigned to this illustration. The PDF applied inverted decode semantics to the embedded 451 × 383 pixel one-channel separation JPEG; its samples were inverted to match the printed pale pencil drawing on a white field and encoded as a standards-normalized three-component baseline RGB/sRGB JPEG at 150 ppi, preserving the published dimensions, crop, aspect ratio, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "dialogue_note": "All twelve dialogue paragraphs, including the four question marks in ‘Mother????’, and the terminal ‘—Author Unknown’ attribution were verified character-for-character against the 400 dpi page render.",
+        "image_placement_note": "The illustration is placed after the fifth dialogue paragraph, corresponding to its published logical position. Its decorative enclosing border is print layout and was not reproduced as article content."
+      }
+    },
+    {
+      "id": "bdcf009f-dc9c-4f41-8dbb-230f955c742f",
+      "issue_id": "heartbeat-remnant-2011-09",
+      "sequence": 11,
+      "title": "Is God Our King or Our President?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Nathan L. Meyers",
+        "authors": [
+          {
+            "name": "Nathan L. Meyers",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          }
+        ]
+      },
+      "topics": [
+        "Kingship of Christ",
+        "Church authority",
+        "Anabaptists",
+        "Second Coming"
+      ],
+      "html": {
+        "repository_path": "src/bdcf009f-dc9c-4f41-8dbb-230f955c742f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/bdcf009f-dc9c-4f41-8dbb-230f955c742f-1.jpg",
+          "public_path": "/images/bdcf009f-dc9c-4f41-8dbb-230f955c742f-1.jpg",
+          "source_page": 33,
+          "role": "opening graphic",
+          "alt": "A campaign-style button reading ‘VOTE FOR JESUS’ surrounded by stars",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, copyright mark, or separate permission notice is printed. Page 2 provides only the non-specific masthead credit ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu’; it cannot be assigned to this graphic. The clean embedded 150 × 148 pixel three-channel JPEG was re-encoded as a standards-normalized three-component baseline RGB/sRGB JPEG at 150 ppi, preserving the published dimensions, crop, aspect ratio, orientation, grayscale appearance, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "continuation_note": "The article runs continuously from printed page 33 through printed page 35. Both page seams—‘contrary’ into ‘to the decrees...’ and ‘twisting and’ into ‘manipulating Scripture...’—were joined without changing text. It ends in the left column of page 35 at ‘Re. 19:16 ~’; the adjacent financial report is not part of the article.",
+        "subheading_note": "All three printed subheads are preserved in order: ‘Israel rejected God as their king’, ‘Christ is King of the church’, and ‘Christ will come as King of kings’.",
+        "callout_note": "The unique opening ‘Monarchy / vs. / Democracy’ wording is preserved semantically as a three-line aside. The VOTE FOR JESUS badge is retained as the sole associated graphic.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "The page-34 octagonal question callout and page-35 constitutional-rights pull quote were omitted because both repeat wording already present in the authoritative body paragraphs.",
+        "source_oddities_note": "Visually verified printed forms—including ‘descendents’, ‘Ep. 1: 20-23’, lowercase ‘His word’ in the relevant sentence, and ‘(Rom. 1:1),’—were preserved without editorial correction.",
+        "toc_note": "The page-2 contents entry shortens the title to ‘Is God Our King or President?’; the article heading on printed page 33 is authoritative and reads ‘Is God Our King or Our President?’"
       }
     }
   ],
