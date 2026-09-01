@@ -1001,6 +1001,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2011-05",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Ministries",
+      "date": {
+        "label": "May/June 2011",
+        "year": 2011,
+        "months": [
+          5,
+          6
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 17,
+      "issue_number": 3,
+      "source": {
+        "filename": "2011-05-Remnant.pdf",
+        "sha256": "2ee571d66a422b7c018b1e9ad84e51bfe3908e48be0be3feaa8c8fad3e2f9888",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -30345,6 +30372,1123 @@
         "independent_visual_proofread": "passed",
         "reuse_note": "The affirmative non-copyright/republication sentence is preserved verbatim in the HTML and publication_note."
       }
+    },
+    {
+      "id": "8cbf980c-3d5c-4a98-8a1f-9553593803e3",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Conscientious objection",
+        "Nonresistance",
+        "Gelassenheit",
+        "Two kingdoms"
+      ],
+      "html": {
+        "repository_path": "src/8cbf980c-3d5c-4a98-8a1f-9553593803e3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/8cbf980c-3d5c-4a98-8a1f-9553593803e3-1.jpg",
+          "public_path": "/images/8cbf980c-3d5c-4a98-8a1f-9553593803e3-1.jpg",
+          "source_page": 3,
+          "role": "upper image in paired comparison",
+          "alt": "A submarine traveling on the surface of the sea",
+          "caption": "A submarine patrols the seas above, while below a Quaker hugs a native in Pennsylvania. Which picture represents Jesus better?",
+          "credit": null,
+          "rights_note": "No image-specific credit or separate-permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The embedded 300x193 JPEG was re-encoded without crop, flip, rotation, scaling, or content alteration as a standards-normalized baseline three-component sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/8cbf980c-3d5c-4a98-8a1f-9553593803e3-2.jpg",
+          "public_path": "/images/8cbf980c-3d5c-4a98-8a1f-9553593803e3-2.jpg",
+          "source_page": 3,
+          "role": "lower image in paired comparison",
+          "alt": "A historical illustration of a Quaker embracing a Native person in Pennsylvania",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or separate-permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The embedded 300x417 JPEG was re-encoded without crop, flip, rotation, scaling, or content alteration as a standards-normalized baseline three-component sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "The printed ‘conscientious objector’ construction, the abbreviation ‘Re. 12:5-6, 11,’ and the missing closing quotation mark after ‘the death.’ were preserved without editorial correction.",
+        "image_order_note": "The paired images follow the printed top-to-bottom order; the single printed caption applies jointly to both images and is stored once on the first image.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow, ImageMagick, and FFmpeg; both are baseline three-component sRGB JPEGs at 150 ppi and were visually compared with printed page 3.",
+        "rights_review_note": "The complete article, caption, and both images contain no wording requiring separate permission. The generic masthead Art credit is not asset-specific."
+      }
+    },
+    {
+      "id": "639a5712-42bb-4159-b0ce-723c9ee3b61b",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 2,
+      "title": "Maximizing Your Teen Years",
+      "subtitle": "How normal teenagers can make the most of their youth",
+      "section": null,
+      "byline": {
+        "raw": "Abner Showalter",
+        "authors": [
+          {
+            "name": "Abner Showalter",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 5
+      },
+      "categories": {
+        "primary": {
+          "name": "Youth",
+          "slug": "youth"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Youth",
+        "Prayer",
+        "Time stewardship",
+        "Spiritual discipline"
+      ],
+      "html": {
+        "repository_path": "src/639a5712-42bb-4159-b0ce-723c9ee3b61b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/639a5712-42bb-4159-b0ce-723c9ee3b61b-1.jpg",
+          "public_path": "/images/639a5712-42bb-4159-b0ce-723c9ee3b61b-1.jpg",
+          "source_page": 5,
+          "role": "inline clock illustration",
+          "alt": "An antique clock face with Roman numerals and a small seconds dial",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or separate-permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The embedded 400x398 JPEG was re-encoded without crop, flip, rotation, scaling, or content alteration as a standards-normalized baseline three-component sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Printed forms including ‘uncomfortableness,’ ‘studentlike,’ ‘happenstance,’ ‘ought thereof,’ and ‘us youth’ were preserved without editorial correction.",
+        "pull_quote_note": "The decorative handwritten pull quote on page 5 was omitted because it duplicates wording already preserved in the body.",
+        "image_decode_note": "The final image fully decoded without warnings in Pillow, ImageMagick, and FFmpeg; it is a baseline three-component sRGB JPEG at 150 ppi and was visually compared with printed page 5.",
+        "rights_review_note": "The complete article, decorative pull quote, final line, and image contain no wording requiring separate permission. The generic masthead Art credit is not asset-specific."
+      }
+    },
+    {
+      "id": "d0898011-fe8b-4c35-9aac-12c20ec0d950",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 3,
+      "title": "Pentagonal Christianity",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Fisher",
+        "authors": [
+          {
+            "name": "Mike Fisher",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 16,
+        "pages": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          16
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Biblicism",
+        "Revivalism",
+        "Traditionalism",
+        "Christocentrism",
+        "Restorationism",
+        "Christian humility"
+      ],
+      "html": {
+        "repository_path": "src/d0898011-fe8b-4c35-9aac-12c20ec0d950.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/d0898011-fe8b-4c35-9aac-12c20ec0d950-1.jpg",
+          "public_path": "/images/d0898011-fe8b-4c35-9aac-12c20ec0d950-1.jpg",
+          "source_page": 7,
+          "role": "revival illustration",
+          "alt": "People kneeling in prayer during a revival meeting",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The embedded separated grayscale JPEG used inverted PDF display semantics; its samples were negated to match the printed black-on-white appearance and it was encoded at the unchanged 526×404 dimensions as a standards-normalized three-component baseline sRGB JPEG at 150 ppi. The adjacent handwritten Revivalism callout duplicates wording retained in the body and was not treated as a caption."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/d0898011-fe8b-4c35-9aac-12c20ec0d950-2.jpg",
+          "public_path": "/images/d0898011-fe8b-4c35-9aac-12c20ec0d950-2.jpg",
+          "source_page": 10,
+          "role": "Christocentrism Bible illustration",
+          "alt": "An open historic Bible",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The clean embedded image was encoded at the unchanged 301×197 dimensions as a standards-normalized three-component baseline sRGB JPEG at 150 ppi. The surrounding circular callout repeats the body quotation and was not duplicated."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pages_checked_visually": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          16
+        ],
+        "continuation_note": "The running article occupies the unframed text on printed pages 6-13 and resumes only inside the shaded box headed “Continued from page 13” on printed page 16. The source_pages.pages array records this nonconsecutive continuation.",
+        "sidebar_boundary_note": "The independently framed “Traditions: Are they good or bad?” on printed pages 8-9 and “The Jefferson Bible” on printed page 11 were excluded from this host article and archived separately as sequences 4 and 5.",
+        "tennyson_ownership_note": "The Alfred Tennyson excerpt is retained with this article because it follows Mike Fisher’s explicit Tennyson lead-in inside the same shaded continuation box and directly substantiates the concluding sentence. The preceding terminal tilde marks the end of Fisher’s prose, but the untitled credited poem remains a supporting block quotation rather than a separately inventoried article.",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "The page-7 Revivalism callout, page-10 Christocentrism callout, page-12 Restorationism pentagon, and page-13 failproof pentagon repeat body wording and were omitted. The unique page-6 Biblicism callout and page-13 attitudes pentagon were preserved semantically.",
+        "source_oddities_note": "Visually verified printed forms—including “throughly,” “firstbegotten,” “failproof,” the single-glyph ellipses after “problems” and “learned them,” and Tennyson’s line “Ours wills are ours, to make them Thine.”—were preserved without editorial correction.",
+        "image_decode_note": "Both final images are baseline three-component sRGB JPEGs with nonzero 150 ppi JFIF density. Each fully decoded without warnings in Pillow, ImageMagick, and FFmpeg and was visually compared with its embedded asset and printed page.",
+        "rights_review_note": "The complete article across all nine source pages, both images, all display text, the page-16 continuation, final tilde, Tennyson excerpt, and attribution contain no wording requiring separate permission to copy, use, reproduce, or reprint."
+      }
+    },
+    {
+      "id": "e7e3ec8b-76a7-4b0b-9837-12e668dd9abd",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 4,
+      "title": "Traditions: Are they good or bad?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~ Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 9
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "topics": [
+        "Church traditions",
+        "Fasting",
+        "Spiritual discipline",
+        "Church life"
+      ],
+      "html": {
+        "repository_path": "src/e7e3ec8b-76a7-4b0b-9837-12e668dd9abd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e7e3ec8b-76a7-4b0b-9837-12e668dd9abd-1.jpg",
+          "public_path": "/images/e7e3ec8b-76a7-4b0b-9837-12e668dd9abd-1.jpg",
+          "source_page": 8,
+          "role": "opening article graphic",
+          "alt": "Torn-paper poster reading ‘WANTED Dead or Alive Christian Traditions,’ with ‘Dead or’ crossed out and ‘Alive’ circled",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without identifying this asset’s individual source. The clean embedded image was encoded at the unchanged 525×574 dimensions as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published crop, orientation, embedded text, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "pages_checked_visually": [
+          8,
+          9
+        ],
+        "boundary_note": "Only the diamond-framed sidebar was transcribed; all surrounding unframed Pentagonal Christianity text was excluded.",
+        "image_decode_note": "The final image is a baseline three-component sRGB JPEG with nonzero 150 ppi JFIF density. It fully decoded without warnings in Pillow, ImageMagick, and FFmpeg and was visually compared with its embedded asset and printed page.",
+        "rights_review_note": "The complete framed article, its closing signature, and its embedded graphic contain no wording requiring separate permission to copy, use, reproduce, or reprint."
+      }
+    },
+    {
+      "id": "783fddfc-86ed-44d9-b13e-e4adea31a5d5",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 5,
+      "title": "The Jefferson Bible",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 11
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Deception",
+            "slug": "deception"
+          }
+        ]
+      },
+      "topics": [
+        "Thomas Jefferson",
+        "The Jefferson Bible",
+        "Biblical authority",
+        "Christocentrism"
+      ],
+      "html": {
+        "repository_path": "src/783fddfc-86ed-44d9-b13e-e4adea31a5d5.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pages_checked_visually": [
+          11
+        ],
+        "boundary_note": "Only the independently titled text inside the wavy frame at the bottom of printed page 11 was transcribed; the surrounding Pentagonal Christianity columns were excluded.",
+        "source_oddities_note": "The four-period sequence after “led”, “Jeffersoncentric”, the sentence-case continuation “And rolled a great stone”, and the terminal tilde were preserved exactly as printed.",
+        "rights_review_note": "The complete framed article, both quoted passages, final line, and frame contain no wording requiring separate permission to copy, use, reproduce, or reprint."
+      }
+    },
+    {
+      "id": "4171e741-b739-4659-8aec-4b8f5f833165",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 6,
+      "title": "The Cause of Division ... and the Cure",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 16
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/4171e741-b739-4659-8aec-4b8f5f833165.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4171e741-b739-4659-8aec-4b8f5f833165-1.jpg",
+          "public_path": "/images/4171e741-b739-4659-8aec-4b8f5f833165-1.jpg",
+          "source_page": 14,
+          "role": "opening historical illustration",
+          "alt": "A historical religious artwork with Christ at the center, surrounded by many figures",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The page-2 masthead lists non-specific art credits (‘Some images ©2001-2011’, www.clipart.com, and www.sxc.hu), but none can be assigned to this image. The clean embedded baseline RGB/sRGB JPEG was copied byte-for-byte without transformation."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/4171e741-b739-4659-8aec-4b8f5f833165-2.jpg",
+          "public_path": "/images/4171e741-b739-4659-8aec-4b8f5f833165-2.jpg",
+          "source_page": 15,
+          "role": "inline illustration",
+          "alt": "An illustration of one man raising a sword over another man",
+          "caption": "“May those who divide Christ be divided with the sword. May they be hewn in pieces, may they be burned alive.”\n—“Gangster Synod”",
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The page-2 masthead lists non-specific art credits (‘Some images ©2001-2011’, www.clipart.com, and www.sxc.hu), but none can be assigned to this image. The embedded grayscale JPEG used inverted PDF decode semantics; its samples were inverted and it was re-encoded as a three-component baseline sRGB JPEG at 150 ppi to reproduce the printed black-on-white appearance."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "The printed title uses three literal periods in ‘... and the Cure’. The printed forms ‘then we care to admit’, ‘In several place throughout’, and the unmatched opening quotation marks in the first numbered question and the sports-car question were preserved. The page-15 image callout was retained because its ‘—“Gangster Synod”’ attribution is unique; the page-15 and page-16 boxed pull quotes duplicate body wording and were omitted. The shaded right column on printed page 16 is the continuation of ‘Pentagonal Christianity’ and was excluded from this article."
+      }
+    },
+    {
+      "id": "6f528c85-5ee6-4ccd-804f-63652b5c3a1d",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 7,
+      "title": "We Are World Christians",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-Author unknown (Adapted)",
+        "authors": [
+          {
+            "name": "Author unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Missions",
+          "slug": "missions"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/6f528c85-5ee6-4ccd-804f-63652b5c3a1d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/6f528c85-5ee6-4ccd-804f-63652b5c3a1d-1.png",
+          "public_path": "/images/6f528c85-5ee6-4ccd-804f-63652b5c3a1d-1.png",
+          "source_page": 17,
+          "role": "title illustration",
+          "alt": "A black-and-white globe centered on Africa",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or reuse restriction is printed. The page-2 masthead lists non-specific art credits (‘Some images ©2001-2011’, www.clipart.com, and www.sxc.hu), but none can be assigned to this image. The clean embedded RGB/sRGB PNG was copied byte-for-byte without transformation."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "The exact concluding wording ‘-Author unknown (Adapted)’ and the printed ‘Lord-and’ form were preserved. The central oval pull quote duplicates the sentence in the body and was omitted."
+      }
+    },
+    {
+      "id": "51c6b872-b5d3-45c6-a0b1-d1dd48ece711",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 8,
+      "title": "Gelassenheit—Purposeful Detachment",
+      "subtitle": "An explanation of the concept of the German word Gelassenheit.",
+      "section": null,
+      "byline": {
+        "raw": "Overview of a tract by Andreas Rudolff-Bodenstein von Karlstadt (1486-1541)",
+        "authors": [
+          {
+            "name": "Andreas Rudolff-Bodenstein von Karlstadt",
+            "location": null,
+            "role": "Tract author",
+            "birth_year": 1486,
+            "death_year": 1541
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 22
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "topics": [
+        "Gelassenheit",
+        "Detachment",
+        "Self-denial",
+        "Christian discipleship"
+      ],
+      "html": {
+        "repository_path": "src/51c6b872-b5d3-45c6-a0b1-d1dd48ece711.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/51c6b872-b5d3-45c6-a0b1-d1dd48ece711-1.jpg",
+          "public_path": "/images/51c6b872-b5d3-45c6-a0b1-d1dd48ece711-1.jpg",
+          "source_page": 20,
+          "role": "earth-detachment illustration",
+          "alt": "Two hands above and below a globe",
+          "caption": "We must let go of earth so that\nwe can grasp heaven.\nThis “letting go” is “Gelassenheit.”",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The clean embedded 525×456 image was encoded as a standards-normalized baseline three-component sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content; no flip, rotation, scaling, or material retouching was applied."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/51c6b872-b5d3-45c6-a0b1-d1dd48ece711-2.jpg",
+          "public_path": "/images/51c6b872-b5d3-45c6-a0b1-d1dd48ece711-2.jpg",
+          "source_page": 21,
+          "role": "baptism photograph",
+          "alt": "Two people helping another person rise from water",
+          "caption": "When the soul irrevocably turns away from\nthe natural desires, it is a baptism in the\ndeath of Christ.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission wording is printed. The page-2 masthead states generally, ‘Some images ©2001-2011 / www.clipart.com / www.sxc.hu,’ but does not identify which source, if either, applies to this image. The clean embedded 525×408 image was encoded as a standards-normalized baseline three-component sRGB JPEG with nonzero 150 ppi JFIF density, preserving the published dimensions, crop, orientation, and content; no flip, rotation, scaling, or material retouching was applied."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false,
+        "provenance_note": "The printed ‘Overview of a tract by Andreas Rudolff-Bodenstein von Karlstadt (1486-1541)’ is an author/tract attribution only and does not state or imply that separate permission is required."
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "Printed forms including ‘welldisposed,’ ‘by as much as he has cares,’ ‘not the same releasing,’ and the terminal tildes after both the tract overview and boxed sidebar were preserved without editorial correction.",
+        "unique_display_text_note": "The two-stanza ‘Gelassenheit’ poem by Claudia Esh, the Origen quotation and attribution, and the complete boxed ‘How to Fill a Cup with Pure Water’ sidebar were retained because each contains unique substantive text.",
+        "page_decoration_note": "The circular spread framing around the Claudia Esh poem, the scalloped border around the Origen callout, the gray dotted sidebar box, and the rounded page-layout corners around the page-21 photograph were not reproduced as HTML decoration; all unique text and the clean embedded image content were retained semantically.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow, ImageMagick, and FFmpeg; both are baseline three-component sRGB JPEGs with nonzero 150 ppi JFIF density and were visually compared with printed pages 20 and 21.",
+        "rights_review_note": "The complete article from its first heading through its final line, including the Claudia Esh poem, both images and captions, the Origen callout, and the boxed sidebar through its terminal tilde, contains no wording requiring separate permission. The generic masthead Art credit is not asset-specific."
+      }
+    },
+    {
+      "id": "fe4a7487-2a8a-47c1-96c1-cecbfccbc0dd",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 10,
+      "title": "Coals of Fire",
+      "subtitle": null,
+      "section": "The Book Shelf",
+      "byline": {
+        "raw": "Book Review by Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Book reviews",
+          "slug": "book-reviews"
+        },
+        "additional": [
+          {
+            "name": "Children",
+            "slug": "children"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          }
+        ]
+      },
+      "topics": [
+        "Overcoming evil with good",
+        "Children’s literature",
+        "Kingdom Christianity",
+        "Conscientious objection"
+      ],
+      "html": {
+        "repository_path": "src/fe4a7487-2a8a-47c1-96c1-cecbfccbc0dd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/fe4a7487-2a8a-47c1-96c1-cecbfccbc0dd-1.jpg",
+          "public_path": "/images/fe4a7487-2a8a-47c1-96c1-cecbfccbc0dd-1.jpg",
+          "source_page": 26,
+          "role": "book cover",
+          "alt": "Cover of Coals of Fire by Elizabeth Hershberger Bauman",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific caption, credit, or reuse restriction is printed. The reviewed book cover was exported as a standards-normalized baseline RGB/sRGB JPEG at 150 ppi while preserving its published dimensions, crop, orientation, and appearance."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The printed forms ‘Indian Himalayans’ and ‘Your children’s, and your own heart, are in good hands’ were preserved without editorial correction.",
+        "decorative_asset_note": "The recurring The Book Shelf header artwork is represented by semantic section metadata and was not exported. Embedded img-024.png is only the rectangular drop-shadow plate printed behind the book cover; it is decorative page construction rather than an article image and was not exported. Embedded img-025.jpg is the semantic book-cover image and was exported.",
+        "image_decode_note": "The final JPEG was fully decoded without warnings by Pillow/libjpeg, ImageMagick, and FFmpeg, and visually compared with the rendered source page."
+      }
+    },
+    {
+      "id": "924514c7-52be-4e2b-ab75-3141e14ea9a0",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 11,
+      "title": "King of the Earth",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "John J. Hostetler",
+        "authors": [
+          {
+            "name": "John J. Hostetler",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 27
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Character",
+            "slug": "character"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "topics": [
+        "Self-denial",
+        "Humility",
+        "Self-life",
+        "Christlikeness"
+      ],
+      "publication_note": "Taken from the April, 2011 issue of Love of the Truth.",
+      "html": {
+        "repository_path": "src/924514c7-52be-4e2b-ab75-3141e14ea9a0.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "shared_page_note": "The article begins below the conclusion of ‘Coals of Fire’ on printed page 27.",
+        "source_note": "The terminal tilde and the parenthetical Love of the Truth publication note were preserved."
+      }
+    },
+    {
+      "id": "98e522ea-f992-438f-86e7-2588963ef008",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 12,
+      "title": "Dying and Resurrecting with Christ",
+      "subtitle": null,
+      "section": "Voices from the Early Church",
+      "byline": {
+        "raw": "Origen (c. 185-254)",
+        "authors": [
+          {
+            "name": "Origen",
+            "location": null,
+            "role": null,
+            "birth_year": 185,
+            "death_year": 254
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 28
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Church",
+            "slug": "church"
+          }
+        ]
+      },
+      "topics": [
+        "Dying to sin",
+        "Baptism",
+        "Newness of life",
+        "Spiritual renewal"
+      ],
+      "html": {
+        "repository_path": "src/98e522ea-f992-438f-86e7-2588963ef008.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The printed forms ‘what is means’ and ‘as in a mirror and, beholding’ were preserved without editorial correction.",
+        "citation_note": "The complete printed Scheck/Origen source citation was preserved, including ‘Books 1-5’ and ‘p. 358-360.’",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "pull_quote_note": "The central decorative pull quote duplicates wording from the first paragraph and was omitted."
+      }
+    },
+    {
+      "id": "6b3e3e7e-b5fd-4701-9a63-699b90f17ec9",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 13,
+      "title": "When Kingdoms Clash",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 33
+      },
+      "categories": {
+        "primary": {
+          "name": "Non-resistance",
+          "slug": "non-resistance"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Two kingdoms",
+        "Nonresistance",
+        "Conscience",
+        "Civil government",
+        "Timo Miller"
+      ],
+      "html": {
+        "repository_path": "src/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-1.jpg",
+          "public_path": "/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-1.jpg",
+          "source_page": 29,
+          "role": "opening bison illustration",
+          "alt": "Two bison facing each other",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice states “Some images ©2001-2011” and lists www.clipart.com and www.sxc.hu without assigning this asset to either source. The embedded inverted separated grayscale JPEG samples were negated to match the printed page and encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published 809×245 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-2.jpg",
+          "public_path": "/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-2.jpg",
+          "source_page": 30,
+          "role": "historical antislavery document",
+          "alt": "The two-page 1688 Germantown antislavery statement",
+          "caption": "A few Quakers and Mennonites framed this first public antislavery statement in North America, in 1688. It was a statement that clashed with the kingdoms of this world.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published 450×353 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-3.jpg",
+          "public_path": "/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-3.jpg",
+          "source_page": 31,
+          "role": "historic house photograph",
+          "alt": "The Isaac Wenger home in Virginia",
+          "caption": "The Isaac Wenger home was a stop in the Mennonite Underground Railroad in the Shenandoah Valley of Virginia. This “line” helped conscientious objectors escape to the North during the Civil War.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published 400×309 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-4.jpg",
+          "public_path": "/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-4.jpg",
+          "source_page": 31,
+          "role": "book cover",
+          "alt": "Cover of Martyrs Mirror by Thieleman J. van Braght",
+          "caption": "The Martyrs Mirror is a history of the clash between Christ’s kingdom and the kingdoms of this world.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, or separate-permission notice is printed. The image is the discussed book cover. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published 150×215 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-5.jpg",
+          "public_path": "/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-5.jpg",
+          "source_page": 32,
+          "role": "Joseph Hofer grave-marker photograph",
+          "alt": "Grave marker for Joseph Hofer, 1894–1918",
+          "caption": "Two Hutterites, Joseph and Michael Hofer, died at Leavenworth Military Prison in Kansas from mistreatment received from US military officials for refusing to bear arms in WW I.",
+          "credit": null,
+          "rights_note": "This photograph shares the printed caption with the following Michael Hofer photograph. No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice does not identify its source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published 375×282 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "src/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-6.jpg",
+          "public_path": "/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-6.jpg",
+          "source_page": 32,
+          "role": "Michael Hofer grave-marker photograph",
+          "alt": "Grave marker for Michael Hofer, 1893–1918",
+          "caption": "Two Hutterites, Joseph and Michael Hofer, died at Leavenworth Military Prison in Kansas from mistreatment received from US military officials for refusing to bear arms in WW I.",
+          "credit": null,
+          "rights_note": "This photograph shares the printed caption with the preceding Joseph Hofer photograph. No image-specific credit, licence, source, or separate-permission notice is printed. The issue-level Art notice does not identify its source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published 375×282 dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "src/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-7.jpg",
+          "public_path": "/images/6b3e3e7e-b5fd-4701-9a63-699b90f17ec9-7.jpg",
+          "source_page": 33,
+          "role": "portrait photograph",
+          "alt": "Profile of a man with facial tattoos and piercings",
+          "caption": "The day may well come when children will be required by law to be indoctrinated with the perverted values of the pagan society that the USA is becoming.",
+          "credit": "Photo credit: Wikipedia User: Nicor",
+          "rights_note": "The exact printed credit “Photo credit: Wikipedia User: Nicor” is recorded as stated; the PDF prints no licence or separate-permission notice. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published 375×443 dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "pull_quote_note": "The page-33 callout “The only tools used to propagate the kingdom of God are teaching and example.” exactly duplicates the running body and was not repeated.",
+        "source_oddities_note": "The source distinction between the ellipsis glyph (…) and literal three-period sequences (...) was preserved, as was the printed form “façade.”",
+        "image_decode_note": "All seven final JPEGs were fully decoded by Pillow and ImageMagick without warnings. Each is a three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density and visually matches the printed page."
+      }
+    },
+    {
+      "id": "ba07e0b0-5152-46e9-9761-0d0ed839789b",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 14,
+      "title": "Hallelujah, It Is Finished",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "Philip Hess\nG. Koehn",
+        "authors": [
+          {
+            "name": "Philip Hess",
+            "location": null,
+            "role": null
+          },
+          {
+            "name": "G. Koehn",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Hymn",
+        "Christ’s victory",
+        "Praise"
+      ],
+      "html": {
+        "repository_path": "src/ba07e0b0-5152-46e9-9761-0d0ed839789b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/ba07e0b0-5152-46e9-9761-0d0ed839789b-1.jpg",
+          "public_path": "/images/ba07e0b0-5152-46e9-9761-0d0ed839789b-1.jpg",
+          "source_page": 34,
+          "role": "sheet music",
+          "alt": "Sheet music and lyrics for Hallelujah, It Is Finished by Philip Hess and G. Koehn",
+          "caption": null,
+          "credit": "Philip Hess\nG. Koehn",
+          "rights_note": "The score prints the names Philip Hess and G. Koehn without assigning specific roles; those names are preserved without inference. No licence, copyright, or separate-permission notice is printed. The embedded score was encoded as a standards-normalized three-component baseline sRGB JPEG at 150 ppi, preserving the published 1110×1096 dimensions, crop, orientation, notation, and text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "lyrics_note": "The three simultaneous verse texts were linearized as three unnumbered stanzas. Their shorter simultaneous harmony lines and the repeated harmony words in the refrain were retained in reading order, while syllable-separation marks imposed by musical notation were removed as nonsemantic layout artifacts.",
+        "source_oddities_note": "The printed form “dismanteling” in the closing author note was preserved without correction.",
+        "image_decode_note": "The final sheet-music JPEG was fully decoded by Pillow and ImageMagick without warnings. It is a three-component baseline sRGB JPEG with nonzero 150 ppi JFIF density and visually matches the printed page."
+      }
+    },
+    {
+      "id": "47c2bd87-06a9-4c31-854b-84c64975d399",
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 15,
+      "title": "God’s Saving Grace",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Jared Stump",
+        "authors": [
+          {
+            "name": "Jared Stump",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "topics": [
+        "Christian unity",
+        "Prayer",
+        "Saving grace"
+      ],
+      "html": {
+        "repository_path": "src/47c2bd87-06a9-4c31-854b-84c64975d399.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "page_decoration_note": "The adjacent first-quarter financial report and its images are unrelated magazine matter and were not exported."
+      }
     }
   ],
   "skipped": [
@@ -31251,6 +32395,22 @@
       "detected_notices": [
         "© 1980, Claudia Minden Weisz. Used by permission of the author.",
         "All other rights reserved by Claudia Minden Weisz."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2011-05",
+      "sequence": 9,
+      "title": "Poisoned Paper",
+      "byline": "Edith Witmer",
+      "source_pages": {
+        "start": 23,
+        "end": 25
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Reprinted with permission of Keepers At Home magazine."
       ],
       "html_exported": false,
       "images_exported": false
