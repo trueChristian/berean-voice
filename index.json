@@ -866,6 +866,33 @@
         "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
         "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
       }
+    },
+    {
+      "id": "heartbeat-remnant-2012-03",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Ephrata Christian Fellowship",
+      "date": {
+        "label": "March/April 2012",
+        "year": 2012,
+        "months": [
+          3,
+          4
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 18,
+      "issue_number": 2,
+      "source": {
+        "filename": "2012-03-Remnant.pdf",
+        "sha256": "bfad31d3d703a8a0cd945d8ae5a64379e60c3124701eedd48693d05197ffb1a9",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      }
     }
   ],
   "articles": [
@@ -26004,6 +26031,908 @@
         "images_against_pdf": "verified_by_ai",
         "shared_page_note": "The article occupies the left side of printed page 35; the financial report on the right is excluded as non-article material."
       }
+    },
+    {
+      "id": "f7636acb-8866-40ab-a534-2984e0a0b890",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": {
+          "name": "Editorial",
+          "slug": "editorial"
+        },
+        "additional": [
+          {
+            "name": "Revival",
+            "slug": "revival"
+          },
+          {
+            "name": "Martyrdom",
+            "slug": "martyrdom"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/f7636acb-8866-40ab-a534-2984e0a0b890.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f7636acb-8866-40ab-a534-2984e0a0b890-1.jpg",
+          "public_path": "/images/f7636acb-8866-40ab-a534-2984e0a0b890-1.jpg",
+          "source_page": 3,
+          "role": "martyrdom engraving",
+          "alt": "A historical illustration of people being martyred by fire",
+          "caption": "The lives of the martyrs make mine feel sheepishly soft.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "15508027-55ab-4499-9ac9-a0d786da0463",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 2,
+      "title": "That I May Dwell among Them",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Philip Hodson",
+        "authors": [
+          {
+            "name": "Philip Hodson",
+            "location": "the Ukraine",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Spiritual exercise",
+          "slug": "spiritual-exercise"
+        },
+        "additional": [
+          {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          {
+            "name": "Revival",
+            "slug": "revival"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/15508027-55ab-4499-9ac9-a0d786da0463.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "decorative_pull_quote_duplicated_in_pdf": true,
+        "decorative_pull_quote_duplicated_in_html": false,
+        "shared_page_note": "The article concludes in the upper-left portion of printed page 6; unrelated adjacent material is excluded."
+      }
+    },
+    {
+      "id": "90180fb7-c941-483c-a4e1-8d45335b1131",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 3,
+      "title": "Reigning in this Life",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Daniel S. Warner (1842-1895)",
+        "authors": [
+          {
+            "name": "Daniel S. Warner",
+            "location": null,
+            "role": null,
+            "birth_year": 1842,
+            "death_year": 1895
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 6
+      },
+      "categories": {
+        "primary": {
+          "name": "Poetry",
+          "slug": "poetry"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/90180fb7-c941-483c-a4e1-8d45335b1131.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "227e6467-8423-4bfd-a048-7b5be1151e79",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 4,
+      "title": "Kings to God: Grace Reigns through Righteousness!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "By Andrew V. Ste. Marie",
+        "authors": [
+          {
+            "name": "Andrew V. Ste. Marie",
+            "location": "Michigan",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 8
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/227e6467-8423-4bfd-a048-7b5be1151e79.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/227e6467-8423-4bfd-a048-7b5be1151e79-1.png",
+          "public_path": "/images/227e6467-8423-4bfd-a048-7b5be1151e79-1.png",
+          "source_page": 7,
+          "role": "crown illustration",
+          "alt": "An ornate royal crown topped by a cross",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The PDF’s one-channel Separation/Black image was decoded using its stated semantics and stored as an sRGB PNG, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "293c5fdc-b5d0-48c0-a288-ec0e2e8dae62",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 5,
+      "title": "Deliverance from Witchcraft",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Personal testimony of Lydiann Leid",
+        "authors": [
+          {
+            "name": "Lydiann Leid",
+            "location": "near Reinholds, PA",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 10
+      },
+      "categories": {
+        "primary": {
+          "name": "Testimony",
+          "slug": "testimony"
+        },
+        "additional": [
+          {
+            "name": "Deception",
+            "slug": "deception"
+          },
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Medical",
+            "slug": "medical"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/293c5fdc-b5d0-48c0-a288-ec0e2e8dae62.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/293c5fdc-b5d0-48c0-a288-ec0e2e8dae62-1.jpg",
+          "public_path": "/images/293c5fdc-b5d0-48c0-a288-ec0e2e8dae62-1.jpg",
+          "source_page": 9,
+          "role": "reflexology foot chart",
+          "alt": "Reflexology chart labeling areas of the feet with corresponding body parts",
+          "caption": "This reflexology chart is a sample of the many kinds of witchcraft or old wives’ fables that exists to deceive God’s people. In clinical blind tests, reflexology has never proven to be effective.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "shared_page_note": "The article concludes above the separately boxed, excluded article “Discerning ‘Old Wives’ Fables” on printed page 10."
+      }
+    },
+    {
+      "id": "65ec4c0a-ea46-40fe-acbc-d50026df60f5",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 7,
+      "title": "Radiesthesia",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 14
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Deception",
+            "slug": "deception"
+          },
+          {
+            "name": "Medical",
+            "slug": "medical"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/65ec4c0a-ea46-40fe-acbc-d50026df60f5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-1.png",
+          "public_path": "/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-1.png",
+          "source_page": 11,
+          "role": "opening dowsing configurations",
+          "alt": "Historical illustrations of several dowsing-rod configurations",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The PDF’s two vertically split embedded JPEG tiles were reconstructed in their published arrangement with their 1-pixel overlap removed and stored as a 452×735 sRGB PNG, preserving the published crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-2.jpg",
+          "public_path": "/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-2.jpg",
+          "source_page": 12,
+          "role": "Abrams portrait",
+          "alt": "Portrait of Albert Abrams",
+          "caption": "“Doctor” Albert Abrams, “dean of the 20-century charlatans,” invented some “black boxes” that were [supposedly] based on a type of radiesthesia. To buy one of his machines, the buyer had to sign a contract that he would never open it up to look inside!",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-3.jpg",
+          "public_path": "/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-3.jpg",
+          "source_page": 13,
+          "role": "Radioclast device",
+          "alt": "An electronic Radioclast device",
+          "caption": "This “Radioclast” (possibly built by Albert Abrams) sits in a museum as an example of black box quackery. If “black boxes” do work, they work outside of the known laws of physics, in the spiritual realm.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-4.jpg",
+          "public_path": "/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-4.jpg",
+          "source_page": 14,
+          "role": "pendulum",
+          "alt": "A pendulum hanging from a string",
+          "caption": "With a pendulum like this, some people claim the ability to diagnose disease from a hair sample, or find minerals on a map. Others claim the ability to tell an unborn baby’s gender. These are forms of radiesthesia.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-5.jpg",
+          "public_path": "/images/65ec4c0a-ea46-40fe-acbc-d50026df60f5-5.jpg",
+          "source_page": 14,
+          "role": "rod diagrams",
+          "alt": "Historical illustrations of several divining-rod configurations",
+          "caption": "The illustration at the beginning of this article shows various types of dowsing rod configurations. This shows that radiesthesia is not based on the physical properties of the rod. The photo below shows other possible divining rods.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "27a4fa5c-96e7-487f-b3d6-22493020a429",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 8,
+      "title": "300-Million-Year-Old Coal and the Bible",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 17
+      },
+      "categories": {
+        "primary": {
+          "name": "Discernment",
+          "slug": "discernment"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/27a4fa5c-96e7-487f-b3d6-22493020a429.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/27a4fa5c-96e7-487f-b3d6-22493020a429-1.jpg",
+          "public_path": "/images/27a4fa5c-96e7-487f-b3d6-22493020a429-1.jpg",
+          "source_page": 15,
+          "role": "coal",
+          "alt": "A chunk of coal",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/27a4fa5c-96e7-487f-b3d6-22493020a429-2.jpg",
+          "public_path": "/images/27a4fa5c-96e7-487f-b3d6-22493020a429-2.jpg",
+          "source_page": 16,
+          "role": "horse",
+          "alt": "A horse showing its teeth",
+          "caption": "The teeth of horses in Eden would probably have shown several years of age, even only one minute after being created—because God created mature horses.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The PDF’s one-channel Separation/Black JPEG samples were inverted according to their published decode semantics and encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/27a4fa5c-96e7-487f-b3d6-22493020a429-3.jpg",
+          "public_path": "/images/27a4fa5c-96e7-487f-b3d6-22493020a429-3.jpg",
+          "source_page": 17,
+          "role": "rock",
+          "alt": "A rounded rock",
+          "caption": "If this rock dates to be 100,000 years old, it may simply mean that God created it 6,000 years ago as a 94,000-year-old rock.",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "c865ee9b-c60f-4a93-915e-091fc7d6eae0",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 9,
+      "title": "What the True Cross of Christ Is",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Johann Arndt (1555-1621)",
+        "authors": [
+          {
+            "name": "Johann Arndt",
+            "location": null,
+            "role": null,
+            "birth_year": 1555,
+            "death_year": 1621
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": {
+          "name": "Christian Living",
+          "slug": "christian-living"
+        },
+        "additional": [
+          {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          {
+            "name": "Character",
+            "slug": "character"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/c865ee9b-c60f-4a93-915e-091fc7d6eae0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/c865ee9b-c60f-4a93-915e-091fc7d6eae0-1.png",
+          "public_path": "/images/c865ee9b-c60f-4a93-915e-091fc7d6eae0-1.png",
+          "source_page": 18,
+          "role": "cross-bearing and storefront composite",
+          "alt": "A person carrying a cross past an Abercrombie & Fitch storefront",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The two facing-page embedded JPEG tiles were reconstructed in their published arrangement with their five-pixel overlap removed (two pixels from the right edge of the left tile and three from the left edge of the right tile) and stored as a 525×727 sRGB PNG, preserving the published crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "567d06c7-f1eb-4bdb-953f-ada0341b5400",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 10,
+      "title": "Sitting on Your Very Own Pity Potty",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Author unknown",
+        "authors": [
+          {
+            "name": "Author unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 6,
+        "pages": [
+          20,
+          6
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Character",
+          "slug": "character"
+        },
+        "additional": [
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/567d06c7-f1eb-4bdb-953f-ada0341b5400.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/567d06c7-f1eb-4bdb-953f-ada0341b5400-1.jpg",
+          "public_path": "/images/567d06c7-f1eb-4bdb-953f-ada0341b5400-1.jpg",
+          "source_page": 20,
+          "role": "dejected seated man engraving",
+          "alt": "Engraving of a dejected man sitting on a bench",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The PDF’s one-channel Separation/Black JPEG samples were inverted according to their published decode semantics and encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The article begins on printed page 20 and concludes in the lower-left portion of printed page 6."
+      }
+    },
+    {
+      "id": "81a91478-5833-4e2a-939b-6149bf90af5d",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 11,
+      "title": "A Mother’s Heart Cry",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Marcia Zimmerman",
+        "authors": [
+          {
+            "name": "Marcia Zimmerman",
+            "location": "the Finger Lakes region of New York",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 21,
+        "end": 23
+      },
+      "categories": {
+        "primary": {
+          "name": "Woman",
+          "slug": "woman"
+        },
+        "additional": [
+          {
+            "name": "Parenting",
+            "slug": "parenting"
+          },
+          {
+            "name": "Family",
+            "slug": "family"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/81a91478-5833-4e2a-939b-6149bf90af5d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/81a91478-5833-4e2a-939b-6149bf90af5d-1.png",
+          "public_path": "/images/81a91478-5833-4e2a-939b-6149bf90af5d-1.png",
+          "source_page": 21,
+          "role": "Sisters’ Corner house",
+          "alt": "A small house",
+          "caption": "That they may teach the young women ...",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded RGB image was stored directly as an sRGB PNG, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/81a91478-5833-4e2a-939b-6149bf90af5d-2.jpg",
+          "public_path": "/images/81a91478-5833-4e2a-939b-6149bf90af5d-2.jpg",
+          "source_page": 22,
+          "role": "construction worker",
+          "alt": "A construction worker pointing",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "3564cda3-0cd9-4e36-a17b-4056aa520000",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 12,
+      "title": "I Cannot Go with These",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Author unknown",
+        "authors": [
+          {
+            "name": "Author unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Revival",
+            "slug": "revival"
+          },
+          {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/3564cda3-0cd9-4e36-a17b-4056aa520000.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/3564cda3-0cd9-4e36-a17b-4056aa520000-1.png",
+          "public_path": "/images/3564cda3-0cd9-4e36-a17b-4056aa520000-1.png",
+          "source_page": 24,
+          "role": "David refusing Saul’s armor",
+          "alt": "Illustration of David removing armor before soldiers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The PDF’s one-channel Separation/Black image was decoded using its stated semantics and stored as an sRGB PNG, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
+    },
+    {
+      "id": "1fb11dd9-8813-4447-a91c-f33005907b91",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 14,
+      "title": "Letters from our readers ...",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 23,
+        "pages": [
+          30,
+          31,
+          32,
+          33,
+          23
+        ]
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          {
+            "name": "Woman",
+            "slug": "woman"
+          },
+          {
+            "name": "Non-resistance",
+            "slug": "non-resistance"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/1fb11dd9-8813-4447-a91c-f33005907b91.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/1fb11dd9-8813-4447-a91c-f33005907b91-1.jpg",
+          "public_path": "/images/1fb11dd9-8813-4447-a91c-f33005907b91-1.jpg",
+          "source_page": 30,
+          "role": "quill/books/letters",
+          "alt": "Writing desk with books, candle, quill, and letters",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/1fb11dd9-8813-4447-a91c-f33005907b91-2.jpg",
+          "public_path": "/images/1fb11dd9-8813-4447-a91c-f33005907b91-2.jpg",
+          "source_page": 32,
+          "role": "dirty dishes",
+          "alt": "Dishes and cups in soapy water",
+          "caption": "Did Jesus say, “Wash only the inside of the cup, as that is the only thing that matters?”",
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "continuation_note": "The letters section begins on printed page 30, continues through pages 31-33, and concludes in the boxed continuation on printed page 23."
+      }
+    },
+    {
+      "id": "90ad55fb-56d0-42e9-b36d-409fd97f2156",
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 15,
+      "title": "Hymns of the Church",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "Compiled by John D. Martin",
+        "authors": [
+          {
+            "name": "John D. Martin",
+            "location": "Chambersburg, PA",
+            "role": "Compiler"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Poetry",
+            "slug": "poetry"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/90ad55fb-56d0-42e9-b36d-409fd97f2156.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/90ad55fb-56d0-42e9-b36d-409fd97f2156-1.jpg",
+          "public_path": "/images/90ad55fb-56d0-42e9-b36d-409fd97f2156-1.jpg",
+          "source_page": 34,
+          "role": "hymnal",
+          "alt": "A copy of the Hymns of the Church hymnal",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific licence, source, or separate permission notice is printed. The issue-level art notice states “Some images ©2001-2012,” followed by www.clipart.com and www.sxc.hu; the PDF does not identify this asset’s individual source. The embedded image was encoded as a standards-normalized three-component baseline sRGB JPEG with 150 ppi density, preserving the published dimensions, crop, orientation, and content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      }
     }
   ],
   "skipped": [
@@ -26792,6 +27721,38 @@
       "reason": "Article-specific permission and copyright notice was detected.",
       "detected_notices": [
         "Used by permission | © WORLD magazine, all rights reserved | www.worldmag.com."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 6,
+      "title": "Discerning “Old Wives’ Fables”",
+      "byline": null,
+      "source_pages": {
+        "start": 10,
+        "end": 10
+      },
+      "reason": "Article-specific rights/permission notice triggers whole-article exclusion.",
+      "detected_notices": [
+        "Image copyright 2008, Franklin and Marshall College, Lancaster, PA"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2012-03",
+      "sequence": 13,
+      "title": "Konrad’s Choice",
+      "byline": "A book review by Mike Atnip",
+      "source_pages": {
+        "start": 26,
+        "end": 29
+      },
+      "reason": "Article-specific rights/permission notice triggers whole-article exclusion.",
+      "detected_notices": [
+        "© 2011 Used by permission"
       ],
       "html_exported": false,
       "images_exported": false
