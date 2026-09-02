@@ -2475,7 +2475,7 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor"
+        "images_against_pdf": "verified_by_ai"
       }
     },
     {
@@ -2759,7 +2759,7 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor"
+        "images_against_pdf": "verified_by_ai"
       }
     },
     {
@@ -2977,7 +2977,7 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor",
+        "images_against_pdf": "verified_by_ai",
         "image_transform": "The second image was horizontally flipped to match the published placement."
       }
     },
@@ -3101,7 +3101,7 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor",
+        "images_against_pdf": "verified_by_ai",
         "sheet_music_render_dpi": 300
       }
     },
