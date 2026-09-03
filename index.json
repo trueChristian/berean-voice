@@ -5652,12 +5652,15 @@
       "subtitle": null,
       "section": "Poem",
       "byline": {
-        "raw": null,
-        "authors": []
+        "raw": "by Marvin L. Fieldhouse",
+        "authors": [
+          {
+            "name": "Marvin L. Fieldhouse"
+          }
       },
       "source_pages": {
         "start": 34,
-        "end": 34
+        "end": 35
       },
       "categories": {
         "primary": {
@@ -5689,59 +5692,9 @@
           "caption": null,
           "credit": "Adobestock.com",
           "rights_note": "The page-2 masthead credits Adobestock.com for the printed page; no separate permission notice or license terms are stated. The embedded CMYK asset was converted to sRGB for faithful web display without changing its published dimensions, crop, or orientation."
-        }
-      ],
-      "rights": {
-        "status": "eligible",
-        "article_specific_permission_notice_detected": false
-      },
-      "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai"
-      }
-    },
-    {
-      "id": "bf4da4e6-198a-4ae4-88b9-6ef7c0a1d760",
-      "issue_id": "heartbeat-remnant-2021-winter",
-      "sequence": 14,
-      "title": null,
-      "subtitle": null,
-      "section": "Poem",
-      "byline": {
-        "raw": "by Marvin L. Fieldhouse",
-        "authors": [
-          {
-            "name": "Marvin L. Fieldhouse"
-          }
-        ]
-      },
-      "source_pages": {
-        "start": 35,
-        "end": 35
-      },
-      "categories": {
-        "primary": {
-          "name": "Poetry",
-          "slug": "poetry"
         },
-        "additional": [
-          {
-            "name": "Judgment",
-            "slug": "judgment"
-          }
-        ]
-      },
-      "topics": [
-        "Mortality",
-        "Readiness"
-      ],
-      "html": {
-        "repository_path": "src/bf4da4e6-198a-4ae4-88b9-6ef7c0a1d760.html"
-      },
-      "images": [
         {
-          "sequence": 1,
+          "sequence": 2,
           "repository_path": "src/images/bf4da4e6-198a-4ae4-88b9-6ef7c0a1d760-1.jpg",
           "public_path": "/images/bf4da4e6-198a-4ae4-88b9-6ef7c0a1d760-1.jpg",
           "source_page": 35,
@@ -5757,9 +5710,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai"
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor"
       }
     },
     {
