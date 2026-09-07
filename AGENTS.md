@@ -82,6 +82,18 @@ For each candidate article, identify:
 - images, captions, credits, footnotes, sidebars, and pull quotes belonging to it; and
 - all permission or reprint notices from its first heading through its final line.
 
+Build a page-by-page visual image census at the same time. Account for every
+visible photograph, illustration, article background, collage constituent,
+score, and repeated decorative image on every content page. For each visible
+image, record its owning article and one explicit disposition: exported,
+represented once because it is a repeated use of the same image, excluded with
+a skipped article, or omitted under a named issue-inventory exclusion such as a
+cover, masthead, advertisement, form, mailing panel, or genuinely standalone
+decorative matter. Do not treat the PDF's embedded-object list, the set of
+easily recoverable JPEGs, or the images already present in `index.json` as an
+image inventory; layered, tiled, masked, vector, background, and collage images
+must be found by visually inspecting the rendered pages.
+
 Assign a sequence number based on the issue's article order. Keep that sequence number in skipped audit records too, so gaps in the included article sequence are expected and explainable.
 
 ## Hard article-eligibility gate
@@ -346,11 +358,12 @@ Complete every applicable check before committing:
 11. Parse every HTML fragment and confirm it has exactly one outer matching `<article>` element.
 12. Confirm every HTML `/images/...` URL maps to exactly one file under `src/images/` and appears in that article's ordered image metadata.
 13. Confirm every indexed/exported image is referenced exactly once in its owning HTML at the correct logical position and that HTML image order matches index order.
-14. Confirm every image file is indexed, belongs to exactly one eligible article, fully decodes through at least two independent decoders without warnings, opens correctly in a browser-compatible renderer, and visually matches the PDF.
-15. Check for missing, duplicated, and orphaned HTML/image files.
-16. Confirm every nonconsecutive continuation has an ordered `source_pages.pages` array.
-17. Confirm no source PDF, page render, OCR dump, duplicate/transient prompt copy, temporary file, or unrelated change is staged. This canonical `AGENTS.md` is expected repository content and may be staged only when its workflow or the repository contract genuinely changes.
-18. Review the final diff and repository status.
+14. Reconcile the page-by-page visual image census: every visible source image must map to an indexed HTML-referenced export, one documented repeated-image representation, a skipped article, or a named permitted issue-inventory exclusion. A count of internally consistent exported files is not evidence that the source image inventory is complete. Do not set `images_against_pdf` to `verified_by_ai` until this reconciliation balances.
+15. Confirm every image file is indexed, belongs to exactly one eligible article, fully decodes through at least two independent decoders without warnings, opens correctly in a browser-compatible renderer, and visually matches the PDF.
+16. Check for missing, duplicated, and orphaned HTML/image files.
+17. Confirm every nonconsecutive continuation has an ordered `source_pages.pages` array.
+18. Confirm no source PDF, page render, OCR dump, duplicate/transient prompt copy, temporary file, or unrelated change is staged. This canonical `AGENTS.md` is expected repository content and may be staged only when its workflow or the repository contract genuinely changes.
+19. Review the final diff and repository status.
 
 Do not set a verification value to `verified_by_ai` until that specific visual comparison has actually been completed. Keep incomplete or uncertain verification explicit and report it.
 
