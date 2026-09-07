@@ -5657,6 +5657,7 @@
           {
             "name": "Marvin L. Fieldhouse"
           }
+        ]
       },
       "source_pages": {
         "start": 34,
@@ -7138,18 +7139,14 @@
       "title": "From the Editor",
       "subtitle": null,
       "section": "FROM THE EDITOR",
-      "byline": {
-        "raw": "Curvin Wenger\nDalton, OH",
-        "authors": [
-          {
-            "name": "Curvin Wenger",
-            "location": "Dalton, OH"
-          }
-        ]
-      },
+      "byline": null,
       "source_pages": {
         "start": 3,
-        "end": 15
+        "end": 15,
+        "pages": [
+          3,
+          15
+        ]
       },
       "categories": {
         "primary": {
@@ -7188,6 +7185,7 @@
           }
         ]
       },
+      "publication_note": "The Heartbeat of the Remnant\nOctober/November/December 2009\nRevised December 2018",
       "source_pages": {
         "start": 4,
         "end": 6
@@ -7228,7 +7226,7 @@
           "alt": "The rocky plateau and cliffs of Masada",
           "caption": "Masada—Mtn. Island Fortress",
           "credit": null,
-          "rights_note": "No separate image credit or license is stated for this image on printed page 5; the original embedded asset was exported without changing its dimensions, crop, or orientation, then its inverted CMYK samples were converted to sRGB for faithful web display. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate image credit or license is stated for this image on printed page 5; the original embedded asset was exported without changing its dimensions, crop, or orientation, then its inverted CMYK samples were converted to sRGB and re-encoded as a standards-normalized baseline JPEG with nonzero JFIF density for faithful browser display. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
@@ -7286,7 +7284,7 @@
           "alt": "A snow-covered rural landscape",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate image credit or license is stated for this image on printed page 7; the original embedded asset was exported without changing its dimensions, crop, or orientation, then its inverted CMYK samples were converted to sRGB for faithful web display. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate image credit or license is stated for this image on printed page 7; the two tiled embedded image segments were joined at their shared boundary, their inverted CMYK samples were converted to sRGB, and the complete image was re-encoded as a standards-normalized baseline JPEG for faithful browser display. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
@@ -7334,7 +7332,19 @@
       "html": {
         "repository_path": "src/35a1988b-c4df-4d68-9833-f7340f6604d2.html"
       },
-      "images": [],
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/35a1988b-c4df-4d68-9833-f7340f6604d2-1.png",
+          "public_path": "/images/35a1988b-c4df-4d68-9833-f7340f6604d2-1.png",
+          "source_page": 8,
+          "role": "repeated article background photograph",
+          "alt": "A lone man walking along a foggy country road",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on pages 8 or 10. The same photograph appears in different crops on both pages; its clean embedded indexed-PNG form was exported once and normalized to RGB/sRGB PNG without changing its dimensions, crop, orientation, or content. Rely on the publisher permission reported by the project owner."
+        }
+      ],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -7380,7 +7390,19 @@
       "html": {
         "repository_path": "src/0bfa54b8-9d3c-458f-9e9d-3d37c9e85894.html"
       },
-      "images": [],
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/0bfa54b8-9d3c-458f-9e9d-3d37c9e85894-1.jpg",
+          "public_path": "/images/0bfa54b8-9d3c-458f-9e9d-3d37c9e85894-1.jpg",
+          "source_page": 17,
+          "role": "repeated article background photograph",
+          "alt": "A hanging lamp, wooden door, rotary telephone, and open Bible",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on pages 16 or 17. The same still life is faintly repeated on page 16; its tiled page-17 image segments were joined at their boundaries, their inverted CMYK samples were converted to sRGB, and the result was re-encoded as a standards-normalized baseline JPEG. Rely on the publisher permission reported by the project owner."
+        }
+      ],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -7403,7 +7425,7 @@
         "authors": [
           {
             "name": "Annetta Martin",
-            "location": null
+            "location": "Glenmont, OH"
           }
         ]
       },
@@ -7429,14 +7451,14 @@
       "images": [
         {
           "sequence": 1,
-          "repository_path": "src/images/0d931d28-0d57-43c1-b492-26b79348713a-1.jpg",
-          "public_path": "/images/0d931d28-0d57-43c1-b492-26b79348713a-1.jpg",
+          "repository_path": "src/images/0d931d28-0d57-43c1-b492-26b79348713a-1.png",
+          "public_path": "/images/0d931d28-0d57-43c1-b492-26b79348713a-1.png",
           "source_page": 18,
           "role": "article image",
           "alt": "Children gathered outdoors in Niger, Africa",
           "caption": "Children in Niger, Africa",
           "credit": null,
-          "rights_note": "No separate image credit or license is stated for this image on printed page 18; the original embedded asset was exported without changing its dimensions, crop, or orientation, then its inverted CMYK samples were converted to sRGB for faithful web display. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate image credit or license is stated for this image on printed page 18. The full 1025x1025 embedded photograph was sample-inverted from its source CMYK values and converted to sRGB, then a centered inscribed circular alpha mask matching the PDF clipping path was applied without crop, zoom, offset, or orientation change; it was exported losslessly as a transparent PNG. The printed blue outline and green caption ribbon are layout decorations and are not baked into the photograph; the exact caption is retained semantically. Rely on the publisher permission reported by the project owner."
         },
         {
           "sequence": 2,
@@ -7445,7 +7467,7 @@
           "source_page": 19,
           "role": "article image",
           "alt": "A shaded courtyard in Niger, Africa",
-          "caption": null,
+          "caption": "Courtyard in Niger, Africa",
           "credit": null,
           "rights_note": "No separate image credit or license is stated for this image on printed page 19; the original embedded asset was exported without changing its dimensions, crop, or orientation, then its inverted CMYK samples were converted to sRGB and re-encoded as a standards-normalized baseline JPEG for faithful browser display. Rely on the publisher permission reported by the project owner."
         }
@@ -7495,7 +7517,30 @@
       "html": {
         "repository_path": "src/e4a449b3-06b6-4826-9f6f-013aa192a096.html"
       },
-      "images": [],
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/e4a449b3-06b6-4826-9f6f-013aa192a096-1.jpg",
+          "public_path": "/images/e4a449b3-06b6-4826-9f6f-013aa192a096-1.jpg",
+          "source_page": 20,
+          "role": "article background photograph",
+          "alt": "A lamp, window, flowers, and an open Bible",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 20. The background photograph was reconstructed from the PDF's layered image assets without the overlaid article text; the unrelated raster section-header bar was removed and its rectangle restored from the underlying source-photo tiles. The result was normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/e4a449b3-06b6-4826-9f6f-013aa192a096-2.jpg",
+          "public_path": "/images/e4a449b3-06b6-4826-9f6f-013aa192a096-2.jpg",
+          "source_page": 21,
+          "role": "article background photograph",
+          "alt": "Clasped hands resting on an open Bible",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 21. The background photograph was reconstructed from the PDF's layered image assets without the overlaid article text and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+        }
+      ],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -7541,7 +7586,30 @@
       "html": {
         "repository_path": "src/f0c4a770-c263-4945-a638-bcf688841502.html"
       },
-      "images": [],
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/f0c4a770-c263-4945-a638-bcf688841502-1.jpg",
+          "public_path": "/images/f0c4a770-c263-4945-a638-bcf688841502-1.jpg",
+          "source_page": 22,
+          "role": "article photograph",
+          "alt": "A snow-covered country church behind a wooden fence",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 22. The six tiled source segments were reconstructed through the PDF color transform, cropped to the printed photograph bounds, and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/f0c4a770-c263-4945-a638-bcf688841502-2.jpg",
+          "public_path": "/images/f0c4a770-c263-4945-a638-bcf688841502-2.jpg",
+          "source_page": 24,
+          "role": "repeated article background photograph",
+          "alt": "An open Bible in warm sepia light",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this background on pages 22–24. The same photograph is reused across all three pages; it was reconstructed once without the overlaid article text and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+        }
+      ],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -7603,7 +7671,7 @@
       "issue_id": "heartbeat-remnant-2018-winter",
       "sequence": 11,
       "title": "Vaccinations—Wrapping It Up",
-      "subtitle": "Part 5 of 5",
+      "subtitle": null,
       "section": "A WORD FROM THE DOCTOR",
       "byline": {
         "raw": "Wolf Miggiani MD\nMillersburg, OH",
@@ -7633,7 +7701,30 @@
       "html": {
         "repository_path": "src/4bc19d23-f52d-49ce-83ae-225a547dc0b5.html"
       },
-      "images": [],
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/4bc19d23-f52d-49ce-83ae-225a547dc0b5-1.png",
+          "public_path": "/images/4bc19d23-f52d-49ce-83ae-225a547dc0b5-1.png",
+          "source_page": 28,
+          "role": "article illustration",
+          "alt": "Line illustration of a doctor writing on a clipboard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this illustration on page 28. Its tiled source objects were reconstructed without the overlaid article text and exported as a lossless sRGB PNG to preserve the source line detail. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/4bc19d23-f52d-49ce-83ae-225a547dc0b5-2.jpg",
+          "public_path": "/images/4bc19d23-f52d-49ce-83ae-225a547dc0b5-2.jpg",
+          "source_page": 31,
+          "role": "article photograph",
+          "alt": "A teddy bear with a syringe, vial, gauze, and adhesive bandage",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 31. The source photograph was exported from the PDF and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+        }
+      ],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -7641,7 +7732,8 @@
       "verification": {
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai"
+        "images_against_pdf": "verified_by_ai",
+        "figure_position_note": "The page-31 teddy-bear photograph falls at a printed page break within a paragraph that begins on page 30. The HTML preserves that paragraph as one semantic paragraph and places the figure immediately before it as the closest valid logical position."
       }
     },
     {
@@ -7660,6 +7752,7 @@
           }
         ]
       },
+      "publication_note": "The Heartbeat of the Remnant—May/June 2004\nRevised—December 2018",
       "source_pages": {
         "start": 33,
         "end": 33
@@ -7679,7 +7772,19 @@
       "html": {
         "repository_path": "src/48d7b751-1d6b-4711-ae34-bf48fb3f1fc6.html"
       },
-      "images": [],
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/48d7b751-1d6b-4711-ae34-bf48fb3f1fc6-1.jpg",
+          "public_path": "/images/48d7b751-1d6b-4711-ae34-bf48fb3f1fc6-1.jpg",
+          "source_page": 33,
+          "role": "article background photograph",
+          "alt": "A close-up portrait of a wolf",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 33. The full-page background was reconstructed from the PDF's tiled image assets without the overlaid article text and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+        }
+      ],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -7691,14 +7796,116 @@
       }
     },
     {
-      "id": "cd529932-1151-4b6f-bbc1-c5412179e36e",
+      "id": "547e464d-0278-45f5-a1f9-1b45bdbc740d",
       "issue_id": "heartbeat-remnant-2018-winter",
       "sequence": 13,
+      "title": "UPDATE/FINANCIAL REPORT",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": {
+          "name": "Church Matters",
+          "slug": "church-matters"
+        },
+        "additional": [
+          {
+            "name": "Editorial",
+            "slug": "editorial"
+          }
+        ]
+      },
+      "html": {
+        "repository_path": "src/547e464d-0278-45f5-a1f9-1b45bdbc740d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-1.jpg",
+          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-1.jpg",
+          "source_page": 34,
+          "role": "storage shed delivery photograph",
+          "alt": "A blue storage shed being transported on a trailer across a snowy yard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 538x219 inverted-CMYK JPEG was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-2.jpg",
+          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-2.jpg",
+          "source_page": 34,
+          "role": "completed storage shed exterior photograph",
+          "alt": "The completed blue storage shed with white trim",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 515x312 inverted-CMYK JPEG was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-3.jpg",
+          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-3.jpg",
+          "source_page": 34,
+          "role": "storage shelving interior photograph",
+          "alt": "Shelving units inside the storage area",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 653x436 inverted-CMYK JPEG was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-4.jpg",
+          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-4.jpg",
+          "source_page": 34,
+          "role": "office interior photograph",
+          "alt": "A desk, computer, printer, and chair in the finished office",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 510x340 inverted-CMYK JPEG was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-5.jpg",
+          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-5.jpg",
+          "source_page": 34,
+          "role": "Bauman family portrait",
+          "alt": "Craig and Diane Bauman seated with their family in a formal group portrait with Psalm 27:14 printed across the image",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 1050x651 inverted-CMYK JPEG, including its decorative Psalm 27:14 text, was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "The printed possessive forms ‘Craig Baumans’ and ‘Craigs’ (twice) have no apostrophes and were preserved; ‘14 x 24’ uses a lowercase x.",
+        "image_order_note": "The four storage photographs follow their printed collage order—top-left, top-right, bottom-left, bottom-right—and the family portrait follows after the board-member text. This differs from PDF object order, which exposes the family portrait first.",
+        "image_transform": "All five embedded JPEGs used inverted CMYK samples; each was negated and converted to a standards-normalized baseline sRGB JPEG without changing dimensions, crop, orientation, or content.",
+        "image_text_note": "The family portrait itself contains decorative wording from Psalm 27:14; it remains in the image and is not duplicated as body text.",
+        "rights_review_note": "The table of contents identifies this page as ‘Update/Financial Report.’ The complete page and all five images contain no article-specific or image-specific wording requiring separate permission."
+      }
+    },
+    {
+      "id": "cd529932-1151-4b6f-bbc1-c5412179e36e",
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 14,
       "title": "This Mind Which Was In Christ",
       "subtitle": null,
       "section": "Poem",
       "byline": {
-        "raw": "By Rebecca Weber\nInspired by a message at Youth Bible School in 2016",
+        "raw": "By Rebecca Weber",
         "authors": [
           {
             "name": "Rebecca Weber",
@@ -7706,6 +7913,7 @@
           }
         ]
       },
+      "publication_note": "Inspired by a message at Youth Bible School in 2016",
       "source_pages": {
         "start": 35,
         "end": 35
@@ -7725,7 +7933,19 @@
       "html": {
         "repository_path": "src/cd529932-1151-4b6f-bbc1-c5412179e36e.html"
       },
-      "images": [],
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "src/images/cd529932-1151-4b6f-bbc1-c5412179e36e-1.jpg",
+          "public_path": "/images/cd529932-1151-4b6f-bbc1-c5412179e36e-1.jpg",
+          "source_page": 35,
+          "role": "poem background",
+          "alt": "Two cross silhouettes against sunset clouds",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 35. The full-page background was reconstructed from the PDF's layered image assets without the overlaid poem text and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+        }
+      ],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
