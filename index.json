@@ -7342,7 +7342,7 @@
           "alt": "A lone man walking along a foggy country road",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on pages 8 or 10. The same photograph appears in different crops on both pages; its clean embedded indexed-PNG form was exported once and normalized to RGB/sRGB PNG without changing its dimensions, crop, orientation, or content. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on pages 8 or 10. The same photograph appears in different crops on both pages. The clean photographic region of the embedded indexed PNG was cropped exactly at source y=1150, removing the 760-pixel flat cream layout panel and its long fade while retaining the complete walker and path; it was normalized to a 389x719 RGB/sRGB PNG without scaling, reorientation, generated pixels, or a duplicate export. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
@@ -7400,7 +7400,7 @@
           "alt": "A hanging lamp, wooden door, rotary telephone, and open Bible",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on pages 16 or 17. The same still life is faintly repeated on page 16; its tiled page-17 image segments were joined at their boundaries, their inverted CMYK samples were converted to sRGB, and the result was re-encoded as a standards-normalized baseline JPEG. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on pages 16 or 17. The same still life is faintly repeated on page 16. Page-17 source objects 412–419 were joined at their exact boundaries, their inverted CMYK samples were converted to sRGB, and the clean region was cropped by 150 pixels at left and 140 pixels at bottom to omit the flattened feathered edge and bottom fade strip (object 407). The 1049x1677 baseline JPEG retains the lamp, door, telephone, and Bible without scaling, invented pixels, or a duplicate export. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
@@ -7523,22 +7523,22 @@
           "repository_path": "src/images/e4a449b3-06b6-4826-9f6f-013aa192a096-1.jpg",
           "public_path": "/images/e4a449b3-06b6-4826-9f6f-013aa192a096-1.jpg",
           "source_page": 20,
-          "role": "article background photograph",
-          "alt": "A lamp, window, flowers, and an open Bible",
+          "role": "unobscured article-background detail",
+          "alt": "A lampshade and pull chain before a softly lit window",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 20. The background photograph was reconstructed from the PDF's layered image assets without the overlaid article text; the unrelated raster section-header bar was removed and its rectangle restored from the underlying source-photo tiles. The result was normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 20. The 1922x650 clean source-photo band was assembled from embedded objects 549 and 550 at their pixel-identical two-pixel overlap, omitting the separate section-header bar, article text, and flattened white reading panel. Because PDF/X-1a does not retain the complete unobscured photograph, this is its largest deterministic clean region; it was normalized to a baseline sRGB JPEG without generation, inpainting, scaling, or a duplicate export. Rely on the publisher permission reported by the project owner."
         },
         {
           "sequence": 2,
           "repository_path": "src/images/e4a449b3-06b6-4826-9f6f-013aa192a096-2.jpg",
           "public_path": "/images/e4a449b3-06b6-4826-9f6f-013aa192a096-2.jpg",
           "source_page": 21,
-          "role": "article background photograph",
+          "role": "unobscured article-background detail",
           "alt": "Clasped hands resting on an open Bible",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 21. The background photograph was reconstructed from the PDF's layered image assets without the overlaid article text and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 21. The 2550x1217 image is an exact 300-dpi crop of the largest unobscured printed photograph region below the reading panel and its shadow (page y=500–792). Because PDF/X-1a flattened the panel into the other tiles and does not retain the complete clean original, this deterministic crop preserves the praying hands and open Bible without generation, inpainting, speculative retouching, or a duplicate export; it was encoded as a baseline sRGB JPEG. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
@@ -7596,7 +7596,7 @@
           "alt": "A snow-covered country church behind a wooden fence",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 22. The six tiled source segments were reconstructed through the PDF color transform, cropped to the printed photograph bounds, and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 22. The six tiled source segments were reconstructed through the PDF color transform, cropped to the printed photograph bounds, and normalized to a standards-safe sRGB JPEG. The subtle white edge feather is flattened into the only source tiles and is retained because further cropping would discard meaningful church, tree, fence, and landscape pixels; no separable panel, text, frame, or page furniture remains. Rely on the publisher permission reported by the project owner."
         },
         {
           "sequence": 2,
@@ -7607,7 +7607,7 @@
           "alt": "An open Bible in warm sepia light",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this background on pages 22–24. The same photograph is reused across all three pages; it was reconstructed once without the overlaid article text and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this background on pages 22–24. The same photograph is reused across all three pages. Its unobscured page-24 source objects 367 and 368 were joined once, and the three-pixel publisher separator above the photograph was omitted at its exact boundary. The 2550x1030 result was encoded once from the lossless 300-dpi source as a baseline sRGB JPEG without article text, scaling, invented pixels, or a duplicate export. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
@@ -7782,7 +7782,7 @@
           "alt": "A close-up portrait of a wolf",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 33. The full-page background was reconstructed from the PDF's tiled image assets without the overlaid article text and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 33. The wolf portrait was reconstructed from the tiled PDF image assets, and its flattened uniform 80-percent white layout fade was removed by the deterministic inverse of the retained 20-percent source blend; the inner source luma p0.1 value of 204.5 independently matches the expected 204 white threshold. Only the baked frame/vignette margins (40 pixels left/right and 32 pixels top/bottom) were trimmed. The 2314x2922 result was encoded as a baseline sRGB JPEG without generation, inpainting, or a duplicate export. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
@@ -7876,10 +7876,10 @@
           "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-5.jpg",
           "source_page": 34,
           "role": "Bauman family portrait",
-          "alt": "Craig and Diane Bauman seated with their family in a formal group portrait with Psalm 27:14 printed across the image",
+          "alt": "Craig and Diane Bauman seated with their family in a formal group portrait",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 1050x651 inverted-CMYK JPEG, including its decorative Psalm 27:14 text, was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The decorative Psalm 27:14 banner is flattened into the only embedded photograph, so the largest meaningful unobstructed source region was cropped exactly above row 482, where the banner's blurred edge begins. The 1050x482 crop retains all 16 faces and the complete clean family group above the banner; its inverted CMYK samples were negated and converted to a standards-normalized baseline sRGB JPEG without scaling, generated pixels, or a duplicate export. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
@@ -7892,8 +7892,8 @@
         "images_against_pdf": "verified_by_ai",
         "source_oddities_note": "The printed possessive forms ‘Craig Baumans’ and ‘Craigs’ (twice) have no apostrophes and were preserved; ‘14 x 24’ uses a lowercase x.",
         "image_order_note": "The four storage photographs follow their printed collage order—top-left, top-right, bottom-left, bottom-right—and the family portrait follows after the board-member text. This differs from PDF object order, which exposes the family portrait first.",
-        "image_transform": "All five embedded JPEGs used inverted CMYK samples; each was negated and converted to a standards-normalized baseline sRGB JPEG without changing dimensions, crop, orientation, or content.",
-        "image_text_note": "The family portrait itself contains decorative wording from Psalm 27:14; it remains in the image and is not duplicated as body text.",
+        "image_transform": "All five embedded JPEGs used inverted CMYK samples; each was negated and converted to a standards-normalized baseline sRGB JPEG. The first four retain their embedded dimensions and crops. The family portrait retains its width and orientation but is cropped at the exact top edge of its flattened decorative banner, leaving the complete unobstructed family group.",
+        "image_text_note": "The decorative Psalm 27:14 banner flattened into the lower part of the family-portrait source raster was omitted with a source-faithful top crop; it is not duplicated as body text.",
         "rights_review_note": "The table of contents identifies this page as ‘Update/Financial Report.’ The complete page and all five images contain no article-specific or image-specific wording requiring separate permission."
       }
     },
@@ -7943,7 +7943,7 @@
           "alt": "Two cross silhouettes against sunset clouds",
           "caption": null,
           "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 35. The full-page background was reconstructed from the PDF's layered image assets without the overlaid poem text and normalized to a standards-safe sRGB JPEG. Rely on the publisher permission reported by the project owner."
+          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 35. The page's exact raster pieces were joined without the poem text, and the flattened uniform 70-percent white layout fade was removed by the deterministic inverse of the retained 30-percent source blend; the source luma p0.1 value of 178.3 independently matches the expected 178.5 white threshold. The left placement strip and footer furniture were cropped, and the result was encoded as a baseline sRGB JPEG without generation, inpainting, or a duplicate export. Rely on the publisher permission reported by the project owner."
         }
       ],
       "rights": {
