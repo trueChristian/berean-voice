@@ -7796,108 +7796,6 @@
       }
     },
     {
-      "id": "547e464d-0278-45f5-a1f9-1b45bdbc740d",
-      "issue_id": "heartbeat-remnant-2018-winter",
-      "sequence": 13,
-      "title": "UPDATE/FINANCIAL REPORT",
-      "subtitle": null,
-      "section": null,
-      "byline": {
-        "raw": null,
-        "authors": []
-      },
-      "source_pages": {
-        "start": 34,
-        "end": 34
-      },
-      "categories": {
-        "primary": {
-          "name": "Church Matters",
-          "slug": "church-matters"
-        },
-        "additional": [
-          {
-            "name": "Editorial",
-            "slug": "editorial"
-          }
-        ]
-      },
-      "html": {
-        "repository_path": "src/547e464d-0278-45f5-a1f9-1b45bdbc740d.html"
-      },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-1.jpg",
-          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-1.jpg",
-          "source_page": 34,
-          "role": "storage shed delivery photograph",
-          "alt": "A blue storage shed being transported on a trailer across a snowy yard",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 538x219 inverted-CMYK JPEG was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
-        },
-        {
-          "sequence": 2,
-          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-2.jpg",
-          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-2.jpg",
-          "source_page": 34,
-          "role": "completed storage shed exterior photograph",
-          "alt": "The completed blue storage shed with white trim",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 515x312 inverted-CMYK JPEG was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
-        },
-        {
-          "sequence": 3,
-          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-3.jpg",
-          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-3.jpg",
-          "source_page": 34,
-          "role": "storage shelving interior photograph",
-          "alt": "Shelving units inside the storage area",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 653x436 inverted-CMYK JPEG was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
-        },
-        {
-          "sequence": 4,
-          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-4.jpg",
-          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-4.jpg",
-          "source_page": 34,
-          "role": "office interior photograph",
-          "alt": "A desk, computer, printer, and chair in the finished office",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The original embedded 510x340 inverted-CMYK JPEG was exported in the page's visual reading order; its samples were negated and converted to a standards-normalized baseline sRGB JPEG at unchanged dimensions, crop, and orientation. Rely on the publisher permission reported by the project owner."
-        },
-        {
-          "sequence": 5,
-          "repository_path": "src/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-5.jpg",
-          "public_path": "/images/547e464d-0278-45f5-a1f9-1b45bdbc740d-5.jpg",
-          "source_page": 34,
-          "role": "Bauman family portrait",
-          "alt": "Craig and Diane Bauman seated with their family in a formal group portrait",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No separate caption, credit, license, or permission restriction is printed for this image on page 34. The decorative Psalm 27:14 banner is flattened into the only embedded photograph, so the largest meaningful unobstructed source region was cropped exactly above row 482, where the banner's blurred edge begins. The 1050x482 crop retains all 16 faces and the complete clean family group above the banner; its inverted CMYK samples were negated and converted to a standards-normalized baseline sRGB JPEG without scaling, generated pixels, or a duplicate export. Rely on the publisher permission reported by the project owner."
-        }
-      ],
-      "rights": {
-        "status": "eligible",
-        "article_specific_permission_notice_detected": false
-      },
-      "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
-        "source_oddities_note": "The printed possessive forms ‘Craig Baumans’ and ‘Craigs’ (twice) have no apostrophes and were preserved; ‘14 x 24’ uses a lowercase x.",
-        "image_order_note": "The four storage photographs follow their printed collage order—top-left, top-right, bottom-left, bottom-right—and the family portrait follows after the board-member text. This differs from PDF object order, which exposes the family portrait first.",
-        "image_transform": "All five embedded JPEGs used inverted CMYK samples; each was negated and converted to a standards-normalized baseline sRGB JPEG. The first four retain their embedded dimensions and crops. The family portrait retains its width and orientation but is cropped at the exact top edge of its flattened decorative banner, leaving the complete unobstructed family group.",
-        "image_text_note": "The decorative Psalm 27:14 banner flattened into the lower part of the family-portrait source raster was omitted with a source-faithful top crop; it is not duplicated as body text.",
-        "rights_review_note": "The table of contents identifies this page as ‘Update/Financial Report.’ The complete page and all five images contain no article-specific or image-specific wording requiring separate permission."
-      }
-    },
-    {
       "id": "cd529932-1151-4b6f-bbc1-c5412179e36e",
       "issue_id": "heartbeat-remnant-2018-winter",
       "sequence": 14,
@@ -32968,6 +32866,20 @@
       "detected_notices": [
         "Used by permission"
       ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "heartbeat-remnant-2018-winter",
+      "sequence": 13,
+      "title": "UPDATE/FINANCIAL REPORT",
+      "byline": null,
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "reason": "Excluded as administrative material at the project owner's request.",
+      "detected_notices": [],
       "html_exported": false,
       "images_exported": false
     },
