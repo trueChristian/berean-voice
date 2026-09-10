@@ -13721,7 +13721,7 @@
           "alt": "",
           "caption": null,
           "credit": "Andrew Schwartz ©",
-          "rights_note": "The page-2 photo credits attribute printed page 15 to Andrew Schwartz ©; no license terms or separate permission requirement are stated. The text-free full-page background was reconstructed at 300 dpi from the PDF's embedded CMYK image pieces, preserving the published page-image composition, crop, orientation, and translucent panels while excluding the title, poem, and byline; it was normalized as a baseline sRGB JPEG."
+          "rights_note": "The page-2 photo credits attribute printed page 15 to Andrew Schwartz ©; no license terms or separate permission requirement are stated. The exact 300 dpi text-free page-image reconstruction from the published PDF is retained. Its opaque CMYK tiles already contain the publisher's spatially varying white/lavender reading-panel wash, with no mask, alpha channel, clean base object, or meaningful unobstructed crop available in the PDF; the vector title, poem, and byline are omitted. No generated, inpainted, or inverse-estimated pixels were used."
         }
       ],
       "rights": {
@@ -14044,7 +14044,7 @@
           "alt": "Pink bleeding heart flowers against a softly blurred green background",
           "caption": null,
           "credit": "unsplash.com",
-          "rights_note": "The page-2 photo credits attribute printed page 27 to unsplash.com; no license terms or separate permission notice are stated. The clean text-free upper published portion was reconstructed at the flattened CMYK fragments' exact PDF placements and rendered at 300 dpi; vector title and poem text, guide lines, and poem-panel rectangles were excluded. Poppler applied the PDF's CMYK decode semantics and the result was normalized as a baseline sRGB JPEG without generated or inpainted pixels."
+          "rights_note": "The page-2 photo credits attribute printed page 27 to unsplash.com; no license terms or separate permission notice are stated. The former incomplete upper strip was replaced by an exact 300 dpi reconstruction from all 21 ordinary page-image XObjects in the published PDF, preserving their original crop, placement, clipping, draw order, and CMYK-to-sRGB rendering. The vector title and poem/byline text were omitted. The publisher's poem-panel rectangles, shadows, and guide lines remain because they are flattened into the only surviving raster pieces. No external, generated, inpainted, or inverse-estimated pixels were used."
         }
       ],
       "rights": {
@@ -14165,7 +14165,7 @@
           "alt": "Layered blue mountains beneath a warm peach-colored sky",
           "caption": null,
           "credit": "pixabay.com",
-          "rights_note": "The page-2 photo credits attribute printed page 35 to pixabay.com; no license terms or separate permission notice are stated. The clean text-free central published panel was reconstructed from five flattened photograph pieces at their exact PDF positions; all vector title, poem, and byline text were excluded. Poppler applied the PDF's CMYK decode semantics and the result was normalized as a baseline sRGB JPEG, preserving the printed pale-lavender panel tint without generated or inpainted pixels."
+          "rights_note": "The page-2 photo credits attribute printed page 35 to pixabay.com; no license terms or separate permission notice are stated. The former incomplete central-panel fragment was replaced by an exact 300 dpi reconstruction from the published PDF's ordinary page-image XObjects, preserving their original crop, placement, clipping, draw order, and CMYK-to-sRGB rendering. The vector poem and byline and the two text-clipped raster fills forming “JOY” were omitted. The pale center wash remains because it is flattened into the only surviving raster pieces. No external, generated, inpainted, or inverse-estimated pixels were used."
         }
       ],
       "rights": {
