@@ -1,0 +1,275 @@
+{
+  "purpose": "Reviewable repairs of pre-existing HTML inconsistencies; no source wording, image bytes, index alt values or verification claims changed.",
+  "articles": [
+    {
+      "article_id": "042fce50-3724-4100-b397-093c6d081e89",
+      "title": "From the Editor",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/042fce50-3724-4100-b397-093c6d081e89-1.jpg",
+          "old": "An open Gutenberg Bible on display",
+          "new": "Gutenberg Bible on display at the U.S. Library of Congress",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "f42c4d2aa6d7bf148f4de55f2956cd8d0c198d8661562ff6050f6bd3ccb9f373",
+      "after_sha256": "590c85a1bafaf02acb91544e14a4b00b14d497e6aea5af05da66736db3fd4d76",
+      "source_text_sha256": "b691d3bed542dc7c68042daa48d994a0aed08a2fa2f9cd391ce9d6b278c8421a",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "58963510-f56e-43e0-88dd-0eb9941ddea9",
+      "title": "A Glorious Church",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/58963510-f56e-43e0-88dd-0eb9941ddea9-1.jpg",
+          "old": "A wooden church and evergreen branches in winter",
+          "new": "A three-panel collage of a wooden church door, a church in snow, and snow-covered evergreen branches",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "77f4aa6ea323e541aeeeaccca9cded2fc4e24fe504962b12cf5336926cb2e08a",
+      "after_sha256": "df6afe421749991d2978d1814150e593a04dd7c5be81bf9a4e9ed6f0aa2398dd",
+      "source_text_sha256": "87fec3ab2c768f73b0f98105040081f31636a301879e9ff5b2c9fa9a56596cc3",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "8f996405-d870-4074-947b-35190faad643",
+      "title": "City of God",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/8f996405-d870-4074-947b-35190faad643-1.jpg",
+          "old": "A river running through a snow-covered landscape",
+          "new": "A snowy path beside bare winter trees",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "136b26f32164e0be4524c429a8865a76164d944334602a1a2d324ea637cdc36b",
+      "after_sha256": "6d09e3772cc58a39bafeab96001e22505649a353bfa2a873ebd822b43454b1ac",
+      "source_text_sha256": "5c40e105102ef20bc33fbf0cc6b8a6777c5333e9e6d9e2ce0e947d0700c3b185",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "b5ea052a-167f-45c4-bf40-cd463c4546b6",
+      "title": "It Was Winter",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/b5ea052a-167f-45c4-bf40-cd463c4546b6-1.jpg",
+          "old": "An evergreen tree covered in snow",
+          "new": "Snow-covered evergreen trees",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "1dc70ca6f29289ff26e6b245b73deaf2ea956d0aaf03a1b37c09268b461aa967",
+      "after_sha256": "6f9ac73a782d67f342f1f4e377b17eb3d2c0790cd4669501f493a9b49e683731",
+      "source_text_sha256": "d2da0c655f7686f96537ee5325dc461f9e386575e6170176eea68c0adea642e6",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "f31b1f66-9cee-419c-b2b0-87d9b9b2e3a9",
+      "title": "Winter Song",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/f31b1f66-9cee-419c-b2b0-87d9b9b2e3a9-1.jpg",
+          "old": "A bare tree covered in snow",
+          "new": "A lone bare tree in a snowy field",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "c28118ca440ce05620ffb5849e36da09bf8fd55e9a41abfdc81fe09ffd398c38",
+      "after_sha256": "407ddc2eee5048e07053d19f07c44b37e69a6f5f0c9efae16ad2a427c1e73433",
+      "source_text_sha256": "262ea42d51d2ee0e83525a3d4abaf6ef317c034acbc0c59e24cd16d5cfb901a6",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "21180900-6bdd-4c06-a4ed-fd0f6b8a3571",
+      "title": "A Chronicle Like to Ours",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/21180900-6bdd-4c06-a4ed-fd0f6b8a3571-1.jpg",
+          "old": "Historic windmills in Russia",
+          "new": "A historical photograph of windmills, people, and livestock",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "5194f72d83fb8cd6afc430f9a31cde96e973a7558467f9f115cebce21104560b",
+      "after_sha256": "57928fd5a0c16ae47fc74f6348f01739625c536f6feb061c329f986441626f9f",
+      "source_text_sha256": "60e0a7d30a1169510f3e94880856eb47dc45a5f50eb932e288f160287bbaf19d",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "a42c5719-aea1-47ed-abad-ed0cd2571382",
+      "title": "The Mint Man",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/a42c5719-aea1-47ed-abad-ed0cd2571382-1.jpg",
+          "old": "Individually wrapped mints spilling from a glass jar",
+          "new": "A glass jar spilling wrapped mints beside a potted plant",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "60c3d4d737eee6bb513a2a2aff330c18c930df2b8b31104cb3246dba7a338a1a",
+      "after_sha256": "653f6dc292a646fb529139744b2a956e0d3957ecf73474460504dc7ada7e4a28",
+      "source_text_sha256": "ec34ded14a29a5dcd546eda9f7f9e058584e5daa5a17c566d083672524de75d5",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "5a87c21f-cce9-4033-8a43-5458311bc7f0",
+      "title": "A Christ-Centered Courtship Series",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/5a87c21f-cce9-4033-8a43-5458311bc7f0-2.jpg",
+          "old": "",
+          "new": "A three-panel collage of winter trees and a snowy rural scene",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "db6663e485765ada64fc57ad1bc80a49b0963cca8cdb73fe455d03e1ffaa269c",
+      "after_sha256": "f04da126cf920decfcee4979c79c7d9ddd4c691245315540700d53dab9807cd8",
+      "source_text_sha256": "a3dd26bc3101a0d36ace8365f50d2e55173617cd67b3d93926709dc47e346a75",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "fbb7faf4-04de-4858-b608-09cb6aedaacf",
+      "title": "The Googlification of Medicine",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-1.jpg",
+          "old": "A stack of well-worn Bibles",
+          "new": "A stack of old Bibles and books",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        },
+        {
+          "image": "/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-2.jpg",
+          "old": "Gloved hand holding two blood sample tubes",
+          "new": "A gloved hand holding blood sample tubes",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        },
+        {
+          "image": "/images/fbb7faf4-04de-4858-b608-09cb6aedaacf-3.jpg",
+          "old": "Doctors in a brightly lit clinic",
+          "new": "A wide collage showing healthcare professionals and a pharmacy",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "262e4e876b771b605d9b342cc839a702caa73556a219da743a4ca204f6252094",
+      "after_sha256": "868aff7f9d18a4c5ae322f27b2d5a221c3936678a5d34ad1f8c453dfc005a1a5",
+      "source_text_sha256": "698261edc179f1a6b98090a0e52305e164dcd4fe315b864578d23cd36ddda84a",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "4ab4f655-4a17-4f5c-9623-e9085bd401f9",
+      "title": "Mother Was Right",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/4ab4f655-4a17-4f5c-9623-e9085bd401f9-1.png",
+          "old": "A child whittling a stick with a small red knife",
+          "new": "A child whittling a stick with a small red-handled knife",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        },
+        {
+          "image": "/images/4ab4f655-4a17-4f5c-9623-e9085bd401f9-2.jpg",
+          "old": "A wooden swing hanging from a large tree",
+          "new": "A rope swing hanging from a large tree",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "7bb6c12c56b0ab8138277237423696521dd5c234b018c1d4f0529adc4de419fc",
+      "after_sha256": "db7f5153cca03f304dbf2e9a48f0a4baad4748522198bd40aeb644d6b47fab87",
+      "source_text_sha256": "bec18538ef2d7c11ab2fa5dffeb176dbb5318761607ace2cbdc009bec3ca0569",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "2e021f55-6588-4d9d-bd0a-068af80732ff",
+      "title": "Lessons From Second Chronicles Twenty",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/2e021f55-6588-4d9d-bd0a-068af80732ff-1.jpg",
+          "old": "A glowing lantern in snow",
+          "new": "A glowing lantern on a snowy path at night",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "9080cae1ea7ff8397e2410a861bf15622aebf9017a058137be6767a43f78795d",
+      "after_sha256": "b99017c6295c1a32aecb61dc741646527af33800c457b5a34ee0c8c3874ba3b4",
+      "source_text_sha256": "fe77044386da2955ea014ba5a2570594d750f8bf1bd32813b899a919dd042822",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "61996151-3b49-4498-9285-995520ca542d",
+      "title": "Rest",
+      "markup": [
+        {
+          "old": "–Hebrews 4:9-11.</em></p>",
+          "new": "–Hebrews 4:9-11.</em></em></p>",
+          "reason": "Close the already-open outer emphasis at the existing paragraph boundary; retain both existing emphasis openings and every source character."
+        }
+      ],
+      "alt": [],
+      "before_sha256": "331bd430672aa5f39f960e297a894be2eb432396ef0c3dd0c9866f8aac7d6dab",
+      "after_sha256": "511bd2c98a405484e585decabb1b5041465d07c03355f081c1789c3212314c3c",
+      "source_text_sha256": "69b516ce3edc946a72141be0c9b0111c36f966e040df094204132d09f73fe283",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "53e8b534-1f5e-4d9d-b191-99707a404256",
+      "title": "Moses in Midian",
+      "markup": [],
+      "alt": [
+        {
+          "image": "/images/53e8b534-1f5e-4d9d-b191-99707a404256-1.jpg",
+          "old": "Sand dunes and shrubs before sunlit mountains beneath dark clouds",
+          "new": "A broad desert valley beneath layered mountains and clouds",
+          "reason": "Use the existing authoritative index alt value; no new description is authored."
+        }
+      ],
+      "before_sha256": "b793c4e20e11ece68594203ffd602a41feee723426bdec2b91cbe67b4e5c11bc",
+      "after_sha256": "3b209e51c5996680dd9825536515d49b07d9baa3a6790e30669cb258b9a2d0c9",
+      "source_text_sha256": "649862896fb178a030892b066f14f785b17392580bb24b21d8db17401963a2f6",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "f82c479a-345a-4ffa-98d9-f10ddef90777",
+      "title": "Admonitions From a Mother in Prison",
+      "markup": [
+        {
+          "old": "Grace, peace, and mercy</strong> from God",
+          "new": "Grace, peace, and mercy from God",
+          "reason": "Remove an orphan closing strong tag. Do not invent bold emphasis where the existing opening tag was already closed."
+        }
+      ],
+      "alt": [],
+      "before_sha256": "78dd9a1abead434e518228a39754167584fece0f53efc3a3d504552f000a618a",
+      "after_sha256": "c2423f354b1151b5042613b851ccf419c95ce12276e7a33cc9545ee3a9eeecb9",
+      "source_text_sha256": "1ff2617bd7e90d3933b1209b68d0538940e5eaf21dedf5975b9bf2f76786c919",
+      "pdf_visual_reverification_performed": false
+    },
+    {
+      "article_id": "9b22e638-a735-48fe-b31b-817c614538ca",
+      "title": "Enemy or Ally?",
+      "markup": [
+        {
+          "old": "” (p. 29-30) [Emphasis mine.]</p>",
+          "new": "” (p. 29-30) [Emphasis mine.]",
+          "reason": "Remove an orphan paragraph close inside an existing list item; no paragraph opening or wording is invented."
+        }
+      ],
+      "alt": [],
+      "before_sha256": "4013f57a4f00c93febefde6609037c418de5a0bb67ef466bd3f0f2c7fb562f8f",
+      "after_sha256": "4176b23eecf2665f1c36da6767eb6114d7c29a693d82cfe4784fcd4803446468",
+      "source_text_sha256": "d48092e951908e71dc696dd51891baed7fd0d404f1ae70a35ba4ed9486e02b0b",
+      "pdf_visual_reverification_performed": false
+    }
+  ]
+}
