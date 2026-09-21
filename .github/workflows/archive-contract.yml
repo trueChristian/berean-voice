@@ -1,0 +1,68 @@
+name: Archive contract
+
+on:
+  pull_request:
+  push:
+    branches: [main, feat/downstream-content-contract]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: archive-contract-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Inspect archive
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import collections, json, pathlib
+          root = pathlib.Path('.')
+          index = json.loads((root / 'index.json').read_text())
+          print('INDEX KEYS', list(index))
+          for key in ('issues', 'articles', 'skipped'):
+              values = index.get(key, [])
+              print(key, 'COUNT', len(values))
+              print('FIRST', json.dumps(values[:2], ensure_ascii=False, indent=2))
+          for key in ('categories', 'primary_category', 'topics', 'series'):
+              values = collections.Counter(json.dumps(a.get(key), ensure_ascii=False, sort_keys=True) for a in index.get('articles', []))
+              print('GROUPING', key, json.dumps(dict(values), ensure_ascii=False, indent=2))
+          if (root / 'tools/archive.py').exists():
+              import subprocess
+              subprocess.run(['python3', 'tools/archive.py', 'validate'], check=True)
+          PY
+      - name: Run contract tests when present
+        run: |
+          if [ -d tests ]; then python3 -m unittest discover -s tests -v; fi
+      - name: Package review source
+        shell: bash
+        run: |
+          mkdir -p /tmp/archive-review
+          git ls-tree -r HEAD > /tmp/archive-review/git-tree.txt
+          git rev-parse HEAD > /tmp/archive-review/revision.txt
+          python3 - <<'PY'
+          import pathlib, tarfile
+          root = pathlib.Path('.')
+          paths = [root / 'index.json', root / 'AGENTS.md', root / 'README.md']
+          paths += sorted(root.glob('src/*.html'))
+          paths += sorted(root.glob('content/**/*.html'))
+          paths += [p for p in (root / 'catalogue.json', root / 'navigation.json') if p.exists()]
+          with tarfile.open('/tmp/archive-review/review-source.tar.gz', 'w:gz') as output:
+              for path in paths:
+                  output.add(path, arcname=str(path), recursive=False)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: archive-review-source
+          path: /tmp/archive-review/
+          retention-days: 7
