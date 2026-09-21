@@ -3,7 +3,7 @@ name: Archive contract
 on:
   pull_request:
   push:
-    branches: [main, feat/downstream-content-contract]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -17,52 +17,69 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    defaults:
+      run:
+        shell: bash
     steps:
-      - uses: actions/checkout@v6
+      - name: Check out the exact event revision
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
           persist-credentials: false
-      - name: Inspect archive
-        shell: bash
+      - name: Check the Python runtime
+        run: |
+          python3 -c 'import sys; print(sys.version); assert sys.version_info >= (3, 11), "Python 3.11 or later is required"'
+          mkdir -p .build/validation
+          git rev-parse HEAD > .build/validation/revision.txt
+      - name: Validate the entire source archive
+        run: |
+          set -euo pipefail
+          python3 tools/archive.py validate | tee .build/validation/archive-counts.json
+      - name: Run contract regression tests
+        run: |
+          set -euo pipefail
+          python3 -m unittest discover -s tests -v 2>&1 | tee .build/validation/tests.txt
+      - name: Verify deterministic committed projections
+        run: |
+          set -euo pipefail
+          python3 tools/archive.py derive
+          git diff --exit-code -- navigation.json manifest.json
+      - name: Verify the root-domain display export
+        run: |
+          set -euo pipefail
+          python3 tools/archive.py export --output .build/root --base /
+          cp .build/root/manifest.json .build/validation/root-export-manifest.json
+      - name: Verify the GitHub Pages project-path display export
+        run: |
+          set -euo pipefail
+          python3 tools/archive.py export --output .build/project --base /berean-voice/
+          cp .build/project/manifest.json .build/validation/project-export-manifest.json
+      - name: Record the validation summary
         run: |
           python3 - <<'PY'
-          import collections, json, pathlib
+          import json, os, pathlib
           root = pathlib.Path('.')
-          index = json.loads((root / 'index.json').read_text())
-          print('INDEX KEYS', list(index))
-          for key in ('issues', 'articles', 'skipped'):
-              values = index.get(key, [])
-              print(key, 'COUNT', len(values))
-              print('FIRST', json.dumps(values[:2], ensure_ascii=False, indent=2))
-          for key in ('categories', 'primary_category', 'topics', 'series'):
-              values = collections.Counter(json.dumps(a.get(key), ensure_ascii=False, sort_keys=True) for a in index.get('articles', []))
-              print('GROUPING', key, json.dumps(dict(values), ensure_ascii=False, indent=2))
-          if (root / 'tools/archive.py').exists():
-              import subprocess
-              subprocess.run(['python3', 'tools/archive.py', 'validate'], check=True)
+          counts = json.loads((root / '.build/validation/archive-counts.json').read_text())
+          catalogue = json.loads((root / 'catalogue.json').read_text())
+          summary = {
+              'source_counts': counts,
+              'registry_counts': {kind: len(catalogue[kind]) for kind in ('issues', 'categories', 'topics', 'series')},
+              'tested_base_paths': ['/', '/berean-voice/'],
+              'source_changed_by_ci': False,
+              'website_deployed': False,
+          }
+          (root / '.build/validation/summary.json').write_text(json.dumps(summary, indent=2) + '\n')
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as output:
+              output.write('## Archive contract passed\n\n')
+              output.write(f"Validated {counts['articles']} articles, {counts['images']} images, {counts['issues']} issues, and {counts['skipped']} skipped audit records.\n\n")
+              output.write('Regression tests, deterministic projections, and both display-only export base paths passed. No source files were committed and no website was deployed.\n')
           PY
-      - name: Run contract tests when present
-        run: |
-          if [ -d tests ]; then python3 -m unittest discover -s tests -v; fi
-      - name: Package review source
-        shell: bash
-        run: |
-          mkdir -p /tmp/archive-review
-          git ls-tree -r HEAD > /tmp/archive-review/git-tree.txt
-          git rev-parse HEAD > /tmp/archive-review/revision.txt
-          python3 - <<'PY'
-          import pathlib, tarfile
-          root = pathlib.Path('.')
-          paths = [root / 'index.json', root / 'AGENTS.md', root / 'README.md']
-          paths += sorted(root.glob('src/*.html'))
-          paths += sorted(root.glob('content/**/*.html'))
-          paths += [p for p in (root / 'catalogue.json', root / 'navigation.json') if p.exists()]
-          with tarfile.open('/tmp/archive-review/review-source.tar.gz', 'w:gz') as output:
-              for path in paths:
-                  output.add(path, arcname=str(path), recursive=False)
-          PY
-      - uses: actions/upload-artifact@v4
+      - name: Upload validation evidence only
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
-          name: archive-review-source
-          path: /tmp/archive-review/
-          retention-days: 7
+          name: archive-contract-validation
+          path: .build/validation/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 14
