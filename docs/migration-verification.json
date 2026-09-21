@@ -1,0 +1,13 @@
+{
+  "baseline_revision": "301ffa03ad6101c610d545619cb430f6c9ac93ca",
+  "counts": {
+    "articles": 463,
+    "images": 620,
+    "issues": 42,
+    "skipped": 57
+  },
+  "source_article_text_unchanged": true,
+  "only_documented_markup_alt_and_img_src_changes": true,
+  "image_git_blobs_unchanged": true,
+  "source_metadata_reversible_without_loss": true
+}

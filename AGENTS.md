@@ -10,7 +10,7 @@ Once the user makes an equivalent request and supplies the PDF, carry out the fu
 
 ## Purpose and permission model
 
-This repository stores CMS-ready articles from PDF issues published by The Berean Voice. The project owner reports that the publisher has permitted reuse of the material, except where an individual article contains its own notice requiring permission or prohibiting reprinting.
+This repository stores the authoritative English article archive from PDF issues published by The Berean Voice. A separate website repository builds and deploys the site; a separate translation repository owns translations and approval. Do not add website pages, templates, styles, translated articles, or deployment workflows here. The project owner reports that the publisher has permitted reuse of the material, except where an individual article contains its own notice requiring permission or prohibiting reprinting.
 
 Treat that statement as the project eligibility rule, not as a claim that the material is public domain. Preserve all credits and provenance. Apply the article-level exclusion gate below before transcribing or exporting anything.
 
@@ -29,7 +29,7 @@ For each supplied issue, complete all of the following:
 3. Exclude every article carrying an article-specific reuse restriction.
 4. Visually transcribe every eligible article into semantic HTML without changing its text.
 5. Export and associate its images.
-6. Update the root `index.json`, which is the single source of truth.
+6. Update the authoritative article catalogue `index.json` and canonical grouping registry `catalogue.json`, then regenerate `navigation.json` and `manifest.json`.
 7. Validate text, formatting, metadata, files, links, and exclusions.
 8. Create a branch from the latest default branch, commit the finished work, push it, and open a draft pull request.
 9. Report exactly what was included, skipped, verified, and left uncertain.
@@ -51,14 +51,14 @@ Permitted aids include:
 
 AI must make and visually verify the decisions about article eligibility, article boundaries, reading order, wording, punctuation, formatting, image ownership, captions, credits, and categories. Never trust mechanically extracted text without checking it against the rendered page.
 
-Do not commit a converter, extraction script, generated OCR dump, page render, contact sheet, temporary working file, or source PDF. Validation helpers may be used locally but are not part of the archive unless the user explicitly changes the repository contract.
+Do not commit a converter, extraction script, generated OCR dump, page render, contact sheet, temporary working file, or source PDF. The versioned validation/export tools in `tools/`, their regression tests, and the read-only archive CI workflow are explicitly part of this repository contract. They may validate, fingerprint, reorganize existing files during an authorized migration, and export a display-only snapshot. They must never transcribe PDFs, decide source wording, translate articles, or replace visual verification.
 
 ## Inspect existing state before editing
 
 Before extracting a new issue:
 
-1. Read this file, `README.md`, and `index.json` completely.
-2. Inspect the existing files under `src/` and `src/images/`.
+1. Read this file, `README.md`, `docs/downstream-contract.md`, `index.json`, and `catalogue.json` completely.
+2. Inspect the existing files under `content/articles/` and `public/images/articles/`.
 3. Check the repository status, default branch, recent merged work, and open pull requests.
 4. Start from the latest remote default branch and preserve all unrelated work.
 5. Compute the supplied PDF's SHA-256 hash and compare its filename, hash, issue data, article titles, and pages with existing index records.
@@ -163,44 +163,45 @@ Resolve doubtful characters by returning to a high-resolution rendering and surr
 
 ## Repository contract
 
-The archive structure is flat and UUID-based:
+The English archive has a versioned, UUID-based downstream contract:
 
 ```text
 AGENTS.md
 README.md
 index.json
-src/
-  <article-uuid>.html
-  images/
-    <article-uuid>-1.jpg
-    <article-uuid>-2.jpg
-    <article-uuid>-3.png
+catalogue.json
+navigation.json
+manifest.json
+content/articles/<article-uuid>.html
+public/images/articles/<article-uuid>-1.jpg
+tools/
+tests/
+docs/downstream-contract.md
+.github/workflows/archive-contract.yml
 ```
 
-Rules:
-
-- `index.json` is the only metadata catalogue.
-- Do not create per-article JSON files.
-- Store every eligible article HTML file directly in `src/`.
-- Store every article image directly in the flat `src/images/` directory.
-- Categories exist only in index metadata; do not create category folders.
-- Do not put dates, titles, authors, or categories in filenames.
-- Do not commit source PDFs or intermediate extraction artifacts.
-- Do not restructure the repository while processing an issue.
+- `index.json` is the authoritative article catalogue and skipped-article audit trail.
+- `catalogue.json` is the authoritative registry for issues, categories, topics and series. Issue provenance lives here, not in a second editable issue list.
+- `navigation.json` and `manifest.json` are deterministic generated projections. Never hand-edit them. Run `python3 tools/archive.py derive` after changing content or metadata.
+- Do not create per-article JSON files, category folders, translated article files, website templates, or deployment code.
+- HTML belongs directly under `content/articles/`; image files belong directly under `public/images/articles/`.
+- Do not put dates, titles, authors, or categories in filenames. Do not commit source PDFs or intermediate extraction artifacts.
+- Keep `format_version` at `2.0`; do not redesign the schema or restructure the repository during ordinary ingestion.
+- Website consumers read the index, registry, HTML and assets from the same immutable commit. Do not copy unindexed files into exports.
 
 ## UUID and filename rules
 
 Only after an article passes the eligibility gate, assign it a new RFC 4122 UUID. Use the UUID as the permanent article ID and HTML basename:
 
 ```text
-src/<article-uuid>.html
+content/articles/<article-uuid>.html
 ```
 
 Name associated images with the same UUID and a one-based increment in published reading order:
 
 ```text
-src/images/<article-uuid>-1.jpg
-src/images/<article-uuid>-2.jpg
+public/images/articles/<article-uuid>-1.jpg
+public/images/articles/<article-uuid>-2.jpg
 ```
 
 Preserve an existing UUID when correcting or reprocessing the same indexed article. Never rename, recycle, or reuse an article UUID. Confirm uniqueness against `index.json`, HTML filenames, `data-article-id` attributes, and image filename prefixes.
@@ -252,27 +253,29 @@ Export only images that genuinely belong to eligible articles. Associate an imag
 - Write concise factual alt text; use an empty alt value for purely decorative images.
 - Never export images belonging to skipped articles.
 
-Treat `src/` as the eventual site export root. HTML image URLs must be root-relative:
+Treat `public/` as the static asset root. Canonical archive HTML uses:
 
 ```html
-<img src="/images/<article-uuid>-1.jpg" alt="...">
+<img src="/images/articles/<article-uuid>-1.jpg" alt="...">
 ```
 
-The matching repository path is:
+The matching repository file is `public/images/articles/<article-uuid>-1.jpg`.
+Never put `public/`, `src/`, `../`, a hostname, a GitHub repository URL, or a deployment-specific project prefix in article image URLs.
+The display exporter applies the website's `--base` prefix to image `src` values and image `public_path` metadata together. It does not change article wording or guess a hostname. This supports both `/` and a GitHub Pages project path without another source migration.
 
-```text
-src/images/<article-uuid>-1.jpg
-```
+## Authoritative metadata and derived outputs
 
-Never use `src/images/...`, `../images/...`, repository URLs, temporary URLs, or local filesystem paths in article HTML.
+Preserve `format_version: "2.0"` and the documented fields. Append/update article and skipped records in `index.json`; register issue, category, topic and series identities in `catalogue.json`. Do not maintain duplicate editable registries.
 
-## `index.json` is the single source of truth
+All article references use canonical UUIDs: `issue_id`, `categories.primary`, each entry of `categories.additional`, each entry of `topics`, and `series.id` when present. Preserve `series.part` and `series.total_parts` exactly as recorded from the source. Omit `series` when not established; an article without topic metadata has `topics: []`.
 
-Read and preserve the current schema and `format_version`. Append or update issue, article, and skipped records without deleting or reformatting unrelated data. Do not redesign the schema during ordinary ingestion.
+Historical `source_labels` preserve the pre-migration category/topic/series metadata for provenance. They are not a second navigation catalogue and are not a claim that these labels were printed. Never overwrite those historical values merely to rename a navigation label. New articles may retain their actual original assignments here as well; all public grouping uses the canonical IDs.
+
+Every included article has `language: "en"`. Translation statuses and translated bodies belong in the separate translation repository, keyed by the unchanged article UUID and the source fingerprints in `manifest.json`. A metadata or HTML change must not silently approve or overwrite translations.
 
 ### Issue metadata
 
-Create one issue record when the PDF is new. Derive its stable lowercase issue ID from the existing publication slug followed by the normalized date from most to least significant. Follow the established patterns:
+Create one issue record in `catalogue.json.issues` when the PDF is new. Assign a globally unique permanent UUID to `id`; reuse that UUID for corrected copies. Preserve a stable human-readable `source_id` and `slug` using the existing publication/date patterns:
 
 ```text
 heartbeat-remnant-2024-winter
@@ -281,11 +284,11 @@ heartbeat-remnant-2025-03-14
 heartbeat-remnant-2025-issue-2
 ```
 
-Use the seasonal form when the source gives only a year and season, the numeric year/month or year/month/day form when those values are printed, and the issue-number form only when no usable date label exists. A corrected PDF of the same issue retains the same issue ID. If two genuinely distinct issues would collide, add the printed volume/issue discriminator rather than an arbitrary counter, and document the choice.
+Use the seasonal form when the source gives only a year and season, the numeric year/month or year/month/day form when those values are printed, and the issue-number form only when no usable date label exists. A corrected PDF of the same issue retains the same UUID, source ID and slug. If two genuinely distinct issues would collide, add the printed volume/issue discriminator rather than an arbitrary counter, and document the choice.
 
 Record all information actually available:
 
-- stable issue ID;
+- permanent issue UUID, preserved human-readable `source_id`, and stable `slug`;
 - exact publication and publisher names;
 - printed issue date as a structured value with the correct precision (exact day, month, season, or year);
 - issue or volume number when present;
@@ -300,7 +303,7 @@ Do not invent an exact day or month when the issue gives only a season or year.
 
 Each eligible article record should retain all metadata actually present, following existing field names and nesting:
 
-- permanent UUID and issue ID;
+- permanent article UUID, `language: "en"`, and canonical issue UUID;
 - issue sequence;
 - exact title, subtitle, and section label;
 - exact raw byline with printed line breaks represented faithfully;
@@ -321,8 +324,8 @@ Use `null` or omit an optional field consistently with the existing schema when 
 For each exported image, record all available fields using the current schema:
 
 - one-based sequence;
-- `repository_path` under `src/images/`;
-- root-relative `public_path` under `/images/`;
+- `repository_path` under `public/images/articles/`;
+- root-relative `public_path` under `/images/articles/`;
 - printed source page;
 - role in the article;
 - concise alt text;
@@ -335,14 +338,17 @@ Do not claim a licence or permission that the PDF does not state. Record uncerta
 
 Use the same ordered `source_pages.pages` addition in a skipped audit record when its restricted article continues across nonconsecutive pages.
 
-## Categories
+## Categories, topics and series
 
-Before categorizing new articles, inspect both:
+`catalogue.json` is the sole navigation vocabulary. Reuse its canonical entity IDs after checking names, aliases and any `slug_aliases`; never create a duplicate just because capitalization, punctuation or a singular/plural spelling differs. `Mission` is an alias of the canonical `Missions` category. Never alter article text or a printed section label to fit navigation.
 
-1. category names already used in `index.json`; and
-2. the current category list at <https://truechristian.church/remnant-articles>.
+Each category, topic and series record has a globally unique permanent UUID, a canonical display `name`, a stable URL `slug`, and an `aliases` array. UUIDs are assigned once; they must not be regenerated when labels or slugs change. Check uniqueness across every entity type and all article IDs. Create a new entity only when no existing entity reasonably fits. Add useful prior labels/slugs as aliases when making an explicitly reviewed normalization.
 
-Prefer an existing category whenever it reasonably fits. Preserve the website's spelling and capitalization and use a stable lowercase URL-style slug consistent with existing entries. Multiple categories are allowed when justified, but identify one primary category. Add a new category only when no existing category reasonably fits. Never alter article text to fit a category.
+Use one `categories.primary` UUID and an ordered, nonduplicated `categories.additional` array. Topic/tag names are centralized in `catalogue.json.topics`; article `topics` is an ordered, nonduplicated UUID array. `series.id` is a canonical series UUID, not a free-text title. Preserve source part numbers and total-parts claims without trying to reconcile contradictory printed values.
+
+Review candidates in `catalogue.json.review_candidates` are intentionally not automatically merged. They preserve uncertain distinctions until editorial approval. Do not infer a category hierarchy, author identity, common series, or theological equivalence from similar labels. The migration review documents known cases, including conflicting Courtship total-parts values.
+
+The live website is not an independent category authority. Navigation changes begin in this registry and are consumed downstream. Website menu styling and which groups to feature remain website responsibilities.
 
 ## Required verification gate
 
@@ -355,17 +361,17 @@ Complete every applicable check before committing:
 5. Visually compare every included article's text with the PDF page by page.
    Treat any changed, added, omitted, reordered, or silently corrected source text as a blocking copyright failure. Publication may proceed only after the HTML is corrected to match the PDF exactly.
 6. Visually compare meaningful formatting, paragraph order, headings, captions, poetry/lyrics lines, notes, and emphasis.
-7. Parse `index.json` successfully.
+7. Parse `index.json` and `catalogue.json` successfully and validate canonical references. Run `python3 tools/archive.py derive` followed by `python3 tools/archive.py validate` and `python3 -m unittest discover -s tests -v`. Generated navigation and fingerprints must match this exact content tree.
 8. Validate every UUID and confirm global uniqueness.
 9. Confirm each UUID matches its index record, HTML filename, HTML `data-article-id`, and image filename prefixes.
 10. Confirm every indexed HTML path exists, every HTML file is indexed exactly once, and no HTML file is orphaned.
 11. Parse every HTML fragment and confirm it has exactly one outer matching `<article>` element.
-12. Confirm every HTML `/images/...` URL maps to exactly one file under `src/images/` and appears in that article's ordered image metadata.
+12. Confirm every HTML `/images/articles/...` URL maps to exactly one file under `public/images/articles/` and appears in that article's ordered image metadata.
 13. Confirm every indexed/exported image is referenced exactly once in its owning HTML at the correct logical position and that HTML image order matches index order.
 14. Reconcile the page-by-page visual image census: every visible source image must map to an indexed HTML-referenced export, one documented repeated-image representation, a skipped article, or a named permitted issue-inventory exclusion. A count of internally consistent exported files is not evidence that the source image inventory is complete. Do not set `images_against_pdf` to `verified_by_ai` until this reconciliation balances.
 15. Confirm every image file is indexed, belongs to exactly one eligible article, fully decodes through at least two independent decoders without warnings, opens correctly in a browser-compatible renderer, and visually matches the PDF.
 16. Perform an overlay-cleanliness audit on every final image at full useful resolution. Compare it with both the rendered source page and the raw base image object or reconstructed source pieces; inspect the centre, edges, and corners for residual text, translucent panels, opacity fades, colour washes, bars, rules, frames, shadows, banners, and page furniture. A removable overlay is a publication blocker; an irreversibly baked overlay must be documented as the explicit exception described above.
-17. Confirm that each logical source image has exactly one canonical export unless a genuinely distinct printed crop contains unique image content. When correcting an image, replace its existing canonical path in place and remove every superseded derivative; verify that no old, bad, duplicate, unindexed, or unreferenced image remains in `src/images/`, `index.json`, or article HTML.
+17. Confirm that each logical source image has exactly one canonical export unless a genuinely distinct printed crop contains unique image content. When correcting an image, replace its existing canonical path in place and remove every superseded derivative; verify that no old, bad, duplicate, unindexed, or unreferenced image remains in `public/images/articles/`, `index.json`, or article HTML.
 18. Check for missing, duplicated, and orphaned HTML/image files.
 19. Confirm every nonconsecutive continuation has an ordered `source_pages.pages` array.
 20. Confirm no source PDF, page render, OCR dump, duplicate/transient prompt copy, temporary file, or unrelated change is staged. This canonical `AGENTS.md` is expected repository content and may be staged only when its workflow or the repository contract genuinely changes.
@@ -379,7 +385,7 @@ An extraction request that invokes this file authorizes the normal repository de
 
 1. Refresh the latest remote default branch and check whether the intended issue is already present.
 2. Resume an existing matching open extraction branch or pull request when one is found. Otherwise create a new branch from the latest default branch using `agent/extract-<issue-date-or-name>`, unless the user explicitly identifies a different existing branch or pull request to update.
-3. Stage only the finished HTML files, image files, `index.json`, and a repository-contract clarification genuinely needed in `README.md` or `AGENTS.md`.
+3. Stage only the finished HTML files, image files, `index.json`, changed canonical records in `catalogue.json`, regenerated `navigation.json` and `manifest.json`, and a repository-contract clarification genuinely needed in `README.md` or `AGENTS.md`. Do not edit tools or tests just to bypass a validation failure.
 4. Do not edit `README.md` or this file merely to describe one newly ingested issue.
 5. Use a terse commit message describing the issue extraction.
 6. Run the verification gate on the exact committed tree.
