@@ -1,0 +1,63 @@
+name: Migrate source archive to v2
+
+on:
+  push:
+    branches: [feat/downstream-content-contract]
+    paths: [.github/workflows/migrate-content-v2.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: one-time-archive-v2-migration
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    if: github.event_name == 'push' && github.repository == 'trueChristian/berean-voice' && github.ref == 'refs/heads/feat/downstream-content-contract'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Migrate and verify before pushing the review commits
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(git hash-object index.json)" = b4f6921029c49ee054849ed3cb2871cc792e4cf3
+          test "$(git rev-parse HEAD:src)" = a6166df61a2ed5efd5acecc5f803254263123400
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python3 -m unittest discover -s tests -v
+          python3 tools/migrate_v2.py repairs
+          git add src docs/migration-adjustments.json
+          git commit -m 'fix(content): reconcile existing HTML syntax and alt metadata'
+          python3 tools/migrate_v2.py layout
+          git add -A -- src content public index.json
+          git commit -m 'refactor(content): align article and asset paths for static builds'
+          python3 tools/migrate_v2.py catalogue
+          git add index.json catalogue.json navigation.json manifest.json
+          git commit -m 'feat(catalogue): register stable grouping IDs and derived navigation'
+          python3 tools/migrate_v2.py instructions
+          python3 tools/archive.py verify-migration --base 301ffa03ad6101c610d545619cb430f6c9ac93ca > docs/migration-verification.json
+          git add AGENTS.md README.md docs/migration-verification.json
+          git commit -m 'docs: align ingestion agents with the v2 content contract'
+          python3 tools/archive.py validate
+          python3 -m unittest discover -s tests -v
+          python3 tools/archive.py verify-migration --base 301ffa03ad6101c610d545619cb430f6c9ac93ca
+          python3 tools/archive.py export --output .build/root --base /
+          python3 tools/archive.py export --output .build/project --base /berean-voice/
+          git push origin HEAD:refs/heads/feat/downstream-content-contract
+          git log --format='%h %s' -5
+      - uses: actions/upload-artifact@v4
+        with:
+          name: archive-migration-verification
+          path: |
+            docs/migration-adjustments.json
+            docs/migration-verification.json
+            manifest.json
+            .build/root/manifest.json
+            .build/project/manifest.json
+          retention-days: 7
