@@ -1,13 +1,13 @@
 {
   "format_version": "2.0",
   "language": "en",
-  "index_sha256": "d8da54fb44984846027897258df7ad2788de9835b2829bc3d07340d11c5956cb",
-  "catalogue_sha256": "ae90a65908604b7097bb97019a1499157c3c6ec320ab6d99b35b92d0557da4b5",
+  "index_sha256": "5d8051c8f6af99b19180318306ca5d34e4e815b6cce5d029d624517ad6424937",
+  "catalogue_sha256": "e311661bab726e11a579cb5c062ded1c1343c37909a4545a3256fce1cbf73e2b",
   "counts": {
-    "articles": 480,
-    "images": 639,
-    "issues": 43,
-    "skipped": 60
+    "articles": 492,
+    "images": 657,
+    "issues": 44,
+    "skipped": 61
   },
   "articles": {
     "011466a5-f7aa-4c4b-a125-384e02671901": {
@@ -604,6 +604,20 @@
           "repository_path": "public/images/articles/15567d7e-1146-48d9-9b34-a0f770ca06fc-2.jpg",
           "sha256": "353c9072f1850e86b7a6777dd4f1b5a085c6ece5f3e885452cb1a5c12fb42e8a",
           "bytes": 796942
+        }
+      ]
+    },
+    "15e2b47b-d51f-47fd-a695-a2bb06f56970": {
+      "html_sha256": "6cb247f4aff98e7d2eab1545421bd7848c549784fe75363a910b0f88aa1de55b",
+      "text_sha256": "f7862a0914ac74f1cb71223847a639f86e8b03ef103ca3e043dc9d9175eca94d",
+      "structure_sha256": "c54854c556670db2475de131bbb3f327309d4b839b1b5f56f7601fd39f2c74bc",
+      "metadata_sha256": "0d31988641fdd433cef3e618cae7c695d4867f53d1fcfa627ad2d4c884e5c365",
+      "translation_metadata_sha256": "264061e7e048a84ca5b2be1449db2354482f78f5d9ada2b1be6eea6a7fd51e02",
+      "images": [
+        {
+          "repository_path": "public/images/articles/15e2b47b-d51f-47fd-a695-a2bb06f56970-1.png",
+          "sha256": "f94a89f55d4a10ce1c43b940a40c2150d7fa7135a00b65347416f7e68ca8e084",
+          "bytes": 9781
         }
       ]
     },
@@ -1301,6 +1315,25 @@
         }
       ]
     },
+    "27d98489-2986-4710-bc1e-590b9ad02133": {
+      "html_sha256": "dd96c7f22a84f20296f8f007703858f9016f2d63b3755e5cf14bad089bf61445",
+      "text_sha256": "51a5d53b076a09f5f4cdd94312b24cbe314dbcde7c775bd0536e41a9d5b70486",
+      "structure_sha256": "50eeb0cbd04acfa64fa851902b04432f84921af149b9963c8e093b59a1c4edca",
+      "metadata_sha256": "436d2f390e8df1f589b27cd0b4eae174379531b8f1a78f5a2a31adbc4fa33d41",
+      "translation_metadata_sha256": "9dc61806268c6fc48f848b75f597cc6c0fd8e6883b0744f6baea933289b86b49",
+      "images": [
+        {
+          "repository_path": "public/images/articles/27d98489-2986-4710-bc1e-590b9ad02133-1.png",
+          "sha256": "cb9533ca3bc53fb5fb6135b15e96a931c5ece6a64b91b3755f20ce67bca33f38",
+          "bytes": 103697
+        },
+        {
+          "repository_path": "public/images/articles/27d98489-2986-4710-bc1e-590b9ad02133-2.png",
+          "sha256": "39586cba3f0a35affa857458fc6b2a19365e8f602ba3b9a3a3e9fc80d4dca5f4",
+          "bytes": 45866
+        }
+      ]
+    },
     "28cd0392-f481-4e7c-9674-fbeb3c49fdf1": {
       "html_sha256": "a213499637e5610080fafc351c13e78790ba1c35ab662d2293e58d08518efcb5",
       "text_sha256": "d5d2962b11e6892cb2e7c5955c963f5c8b5287288c5a375279379de5e80fc917",
@@ -1386,6 +1419,25 @@
           "repository_path": "public/images/articles/2b0884ed-8d65-4e1b-83e2-003e43414e91-2.jpg",
           "sha256": "7402c9810633c568973baac814b36be994ff7ce988c4d4adbaa85558cce2677f",
           "bytes": 196335
+        }
+      ]
+    },
+    "2c651858-e096-464f-b47f-7ccda5db0a03": {
+      "html_sha256": "ae89288695f3975949ff7a901d0426e8d60139ea15f04d10541c4803f56b7625",
+      "text_sha256": "2acbddd0d6f6da4bf8a493291bac91fa6163268e1834ff33e62d9c2cb6381d7d",
+      "structure_sha256": "09f2f287f2b799e5b446405db9584dd67bb990bb4e2968be7dda64ed1c6bb21a",
+      "metadata_sha256": "3950226b0ea4ea4311c80d6c50fb2a3d1cb8b04dad2b41d712c7f5895095ab6d",
+      "translation_metadata_sha256": "cf69ba8277f9513eabb91f01bc288b1a9c9e6e2e4863ca3a8051f149528f2db8",
+      "images": [
+        {
+          "repository_path": "public/images/articles/2c651858-e096-464f-b47f-7ccda5db0a03-1.png",
+          "sha256": "7db5f69685fb04a23a55b4872acc41c009f57963b8443eb35de3d07ed5999965",
+          "bytes": 72706
+        },
+        {
+          "repository_path": "public/images/articles/2c651858-e096-464f-b47f-7ccda5db0a03-2.jpg",
+          "sha256": "6d4e1185fcb1fabf1cfc219d2e61e368a711290585d739e5ae6893c628cf848c",
+          "bytes": 5739
         }
       ]
     },
@@ -1562,6 +1614,14 @@
           "bytes": 7166
         }
       ]
+    },
+    "324a6363-d5b3-489c-b3f5-a1ce08c599ed": {
+      "html_sha256": "a07720cd3444fd45e5290af6b8a9964f05b69f013acc2dc37e38d23ea9d2995f",
+      "text_sha256": "f20e1d6328c0d9e4faf8134315c9db32321ef43721e9153109d5ea40140336cd",
+      "structure_sha256": "7814f28d9c92ad6ba2d71f55cb1b82815cd6c3f7aea68e561cc894ba864ca43d",
+      "metadata_sha256": "c799506a7aa212d67714cf6a972e19976ebff1d650562850e4f9adb7162d3814",
+      "translation_metadata_sha256": "d12f5170689f9f564c81dba5b9082a68dddb1de206ad217d171e228b442da20d",
+      "images": []
     },
     "33c775e0-8571-46c9-8899-61716137ed49": {
       "html_sha256": "19d0a5788b6a04f471f55b496da333c762308b70dab6c79675e0941a7cdb456e",
@@ -1829,6 +1889,30 @@
         }
       ]
     },
+    "3b40ff28-2ada-4d39-8f37-3fbab5543006": {
+      "html_sha256": "8bb7a04e41a774c8dbcac46ba08f89d2f2e38149a027e98cc335b86d0e6928e0",
+      "text_sha256": "bfba4ff817db219c883aff46bbfd8428936bd9e516c5743be88fd59fadcd6fee",
+      "structure_sha256": "cebabf1a3080374058e0b00ceac26d26c89e3b13530782b638ca3dc0f68ed47a",
+      "metadata_sha256": "8d5462068490ecbf2ab8b52c8e62e441751b626c4720992947655707c0bcc76a",
+      "translation_metadata_sha256": "3f15d5e23cd63cbce857e16d350d2b75ef39c7afc890ba76f2aa630eedb6cb97",
+      "images": [
+        {
+          "repository_path": "public/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-1.png",
+          "sha256": "b0035d303a0eb305a860cc8b87016af17966e4e09b9016f312f1f1e998cd395e",
+          "bytes": 43996
+        },
+        {
+          "repository_path": "public/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-2.jpg",
+          "sha256": "d470e654cf22b9176653ca9b86196bed18c98c75aaff515a2c533a9d8570c122",
+          "bytes": 40802
+        },
+        {
+          "repository_path": "public/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-3.jpg",
+          "sha256": "e7714672cc8cfb3f61ba95bb8dcdc53bcd3f879aa3354f05e96cd942ac77bfef",
+          "bytes": 38359
+        }
+      ]
+    },
     "3b932103-b3fb-450d-885a-eaca95ee48fe": {
       "html_sha256": "8f850d5e8663bbeb3446a6427c6171f6074b36aae2ed8bacb7f6fca07df5d60d",
       "text_sha256": "7eebbc182b27d5d178d7ba43b6cf90995fa781084decd3b96900bc2a655aa6c4",
@@ -1850,6 +1934,25 @@
       "metadata_sha256": "ed618189682a4f317df4fcf8bd5e4c9866f4ace25c67ac9fcfca63d998c38703",
       "translation_metadata_sha256": "4dae84c55c8f6932e4fde9272aca71a59e3529dbe8594e7b97d6395fcb54b74c",
       "images": []
+    },
+    "3bf8f397-f79b-43e0-9394-76b47b29bc6b": {
+      "html_sha256": "b9c552602f8c271c5823f52313525b2722c76dcaf54982fd03f0df00285969cd",
+      "text_sha256": "e44ca34608cb9bd948d6f6e7e30f033129b638942242632dbaf3d8f16fee11b0",
+      "structure_sha256": "c5e55ee2b0efdbe480cf51515d1f98bf4aca539425d7dc342953c1511590e751",
+      "metadata_sha256": "e0624591fca293b0c84d4d98a5b4f9407d09d8d0cbf0fc218a0d179b817dabb4",
+      "translation_metadata_sha256": "0df9f9b4f1f9ccd7529ca9c8f889bb2c82929af2de79900978f61776c1e7c019",
+      "images": [
+        {
+          "repository_path": "public/images/articles/3bf8f397-f79b-43e0-9394-76b47b29bc6b-1.png",
+          "sha256": "cb07baea0aba5220125ed4212824c2df873b5a26634936c41a88d273127b4c07",
+          "bytes": 12392
+        },
+        {
+          "repository_path": "public/images/articles/3bf8f397-f79b-43e0-9394-76b47b29bc6b-2.png",
+          "sha256": "1d447002b21c493888aeec9309f76db195f37eea800f19daceaf5422d3d75f88",
+          "bytes": 111305
+        }
+      ]
     },
     "3c581136-51cf-47b2-a38b-3d1ee1d0b864": {
       "html_sha256": "5ffaae992f1ee731cb49b256e83d0ea9e1270592c8e4e4e7062f3c3fe72a7c28",
@@ -3519,6 +3622,14 @@
         }
       ]
     },
+    "71982f2f-ff34-437e-a043-19da0b8b8589": {
+      "html_sha256": "32036452bc98807fb84b72a46353e71bc60718ebc8625613b6f0be764735975b",
+      "text_sha256": "0f77a9a586e7d3b9b0c53a0c7f67fc72b0e6dfa6199a914cdcff5248c115dcb2",
+      "structure_sha256": "4c6160754038b488a9232e6ffbdd4ce7da758b605197e9b73a72114eb84d2ef0",
+      "metadata_sha256": "494b71e53805d318feb09938914bfe273867755b331e3f469dd11e20aa372220",
+      "translation_metadata_sha256": "62d6ed65a18315425a4aac5b2a305dc3a3cfe865aa315ab282b6462d0b6119ee",
+      "images": []
+    },
     "719ef93a-7242-445f-8e5b-201567145e20": {
       "html_sha256": "7c6f2e2eabf99ec2a6b9d95fc9b0b514c67612945fc5fe5573ad8cab26464e1e",
       "text_sha256": "fdedd582915e65f1fef6dbcae2c51181a12761d7b7ee787f0e89454614887d85",
@@ -3605,6 +3716,25 @@
       "metadata_sha256": "c4d3dee70d0a20536eb764643ed7fca5c247372a073682a5c2447415ccad72bd",
       "translation_metadata_sha256": "f5951d72516aaa775728fb3a4e96ce284e212bbbb9369334df66ac7ca3d3d4d6",
       "images": []
+    },
+    "733add79-a726-4815-8705-3d900e54593c": {
+      "html_sha256": "cacb085e99ced782e2943d659c64429a3a7ada1968228923a27e58c0b47e7546",
+      "text_sha256": "8bd0a5df6354ec83310ba5ffb362e2357b59cc4abf82647d621251df1b901131",
+      "structure_sha256": "cea0cdf7304e00dabecec2fb5be770890c8f2856454519a568719cfdfc827acd",
+      "metadata_sha256": "8b4cddf7f939bfe85900060dae38483456631acc8d486ac243244ee1cfc1a17a",
+      "translation_metadata_sha256": "79be93557579b2745b602dc6686b4294131a2622edc52f87bb9544c58c53094e",
+      "images": [
+        {
+          "repository_path": "public/images/articles/733add79-a726-4815-8705-3d900e54593c-1.jpg",
+          "sha256": "e4ba9f12b009f6ad37461e2679a08f90629dc01ac21fbe621bf6ac6a3b89db4d",
+          "bytes": 169257
+        },
+        {
+          "repository_path": "public/images/articles/733add79-a726-4815-8705-3d900e54593c-2.jpg",
+          "sha256": "57cd6cfafcd5b5cd159c168846487e56106335a167e964ec4265d828bea6a23c",
+          "bytes": 75192
+        }
+      ]
     },
     "73def952-dd77-4a51-b030-27713e0cedd2": {
       "html_sha256": "f99c171a1e6436914af5cf38da568ff0d20f5c6ef1ee5a2e90657fe7e84c134c",
@@ -4339,6 +4469,14 @@
           "bytes": 692895
         }
       ]
+    },
+    "8bdd92d0-1f0d-4965-a59b-a23edab884e5": {
+      "html_sha256": "6fbbc067e6ac680b56ea2e83d4455e180c2ff433edce0ced9fe5c9dfd7322c04",
+      "text_sha256": "00e47a3e26527bf3f71ce414ecaedbc50f87ea719f55fe235af469c896d1231a",
+      "structure_sha256": "42d3c25c19bdd912d7b753d8f82d30c34c1b7ce19bed710d670725ac1d397a74",
+      "metadata_sha256": "ce9f6efe0e0097f13f30f739b0f73762b05bfc05bddb8b4f0cb084e4ddfc3ef2",
+      "translation_metadata_sha256": "9d62207db2a9857346b4e114aa8d317d8e7a2ae083992090f1489f3b05e0b581",
+      "images": []
     },
     "8c5ca71e-e67f-4887-aa9b-56cf26f85688": {
       "html_sha256": "d155d0e9e8994b88b9f3697e5b5d557f0cf086f88d7f54147d5584759b09c02d",
@@ -5202,6 +5340,40 @@
       "translation_metadata_sha256": "284af232254171598b3dd798463c6106a2986d7eb86af93c14e39c379176a602",
       "images": []
     },
+    "a7480c1f-6359-4ae8-903c-5aa9d40da15d": {
+      "html_sha256": "be5403a1e3b6a587dc83d7b82e201cac71aa138073b0e9f01d150def96bd196f",
+      "text_sha256": "e956f2b963343787ec5dfcbcc0df1626a936c20c992d53be61220c9e578f2795",
+      "structure_sha256": "299a8e19c4f5be45456777210d7ab53ac2424fad46b5ff5b866c5d2926fbf668",
+      "metadata_sha256": "504eed6e0b1f9c6f00e3f680b18a72f2599d1081762dc342cfc8638390fc6754",
+      "translation_metadata_sha256": "636d06cce24307e217dd4c7498d550a1bfcf5ed86efeb7abbe9281bbd78a3722",
+      "images": [
+        {
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-1.png",
+          "sha256": "0ef268b3352e42c20cb6b3b6d7ab6dd8d554f8a822950cdda4df3158a6e6d255",
+          "bytes": 205529
+        },
+        {
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-2.jpg",
+          "sha256": "320549126731f1dc6f4263f814f66dceec4caf319800dd2138bc42318c9fec7d",
+          "bytes": 12240
+        },
+        {
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-3.jpg",
+          "sha256": "e0398892639392fb0d2e3e5b359209c110489a54d84fd455bd45609eca5ffa28",
+          "bytes": 27509
+        },
+        {
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-4.jpg",
+          "sha256": "11a33cf4992548daa6bd695785df6cb80f451877e1ae936eaca7765927c27786",
+          "bytes": 18484
+        },
+        {
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-5.png",
+          "sha256": "3d87b41bac3b81c9590b4233f3ea04dcadbc8f4c1d6bdc5cfc50a5fd2af7f21f",
+          "bytes": 109807
+        }
+      ]
+    },
     "a76ef013-7cf5-4e99-8312-3a9818d244ff": {
       "html_sha256": "1f56a2f0fab3c9409006f2d1d32d7a3f2b7f09f76eb11f128736f60a8cefa8a3",
       "text_sha256": "2b343df7517891202b809182cfc6609faf67e696412b3ed257f97e26bda16936",
@@ -5243,6 +5415,14 @@
           "bytes": 686275
         }
       ]
+    },
+    "a8d32739-6115-44d9-b024-d98d5ae9214d": {
+      "html_sha256": "e734e65cba674f4ae9eaef85a4e1c047da929fd2c199ca9aefd91dc3ac4a6e8a",
+      "text_sha256": "1563b647a2a4f03ea3024d80aeec261f1b6ba2b793978928da0f78fa018aa3b1",
+      "structure_sha256": "206ee5b8773515d6f420d9cbba760641fe59b968e87a32d31e7bdb4fef8fd2d2",
+      "metadata_sha256": "0f7c3d9d5141a173c03cd745215e67f49b006570c51a61f8539ada0a6048f701",
+      "translation_metadata_sha256": "aefd91b2dd83d3cf8f9cf970f23ac4fc513b0547b004a6191d683bc07fa9f4cd",
+      "images": []
     },
     "a9ab2c6a-8ad9-427b-8d48-841e47e1a5f7": {
       "html_sha256": "52180a8688a28eaf5e5fa430be4683d033962d69b8e291b973122796c9575588",
@@ -6408,6 +6588,20 @@
       "translation_metadata_sha256": "ee51c6fe3b7dc15f0e0ea070d5f964a322535a0280e6bedcfd9db2c9f20cb6d3",
       "images": []
     },
+    "d2573265-f5d7-412d-9ee4-5b04a66b55a5": {
+      "html_sha256": "400c055bf9b964ced9bf52a841259b63b4210516a6dac5d4e1b6495709534ce3",
+      "text_sha256": "4658081101e92592d7831d1b2e7e895489423f8d7d76f81287dbfa57e91e3d1b",
+      "structure_sha256": "d79df31bdb5bb5f9ace8b0c97b91edad6710e71e5a95b4af04a14092f3520027",
+      "metadata_sha256": "35f36386600be888e212dd4f6b9b076d3045e1243f91290e548c371ba80edf56",
+      "translation_metadata_sha256": "203aab41f13723f86a8af7e9b96fa2eabe50a43dd9292ed71969117b6ff59a85",
+      "images": [
+        {
+          "repository_path": "public/images/articles/d2573265-f5d7-412d-9ee4-5b04a66b55a5-1.png",
+          "sha256": "f3790624302009397a210e3623452a36e131d92a569319fcd077488f7033b8d3",
+          "bytes": 21908
+        }
+      ]
+    },
     "d2d95264-7df9-4ca8-9a99-01a68204d73a": {
       "html_sha256": "71ba3985adc29c260425c1a289640cdc9a8647306c70c9dc03be16ad98c65cc8",
       "text_sha256": "4d5c92a958a0c48372041cf92b1365846ff7203c606fe0037c8cebe4982d105b",
@@ -7416,5 +7610,5 @@
       ]
     }
   },
-  "content_sha256": "736de0366786e8a1944db8ffe24e8b59654af1319ce80f306c185e454686571d"
+  "content_sha256": "b3b4640877c20cbdb245b9e5e0909d1e3ff225b72f05d3ad05ebe24e212a2991"
 }
