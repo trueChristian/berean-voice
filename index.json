@@ -37786,6 +37786,1158 @@
       "language": "en"
     },
     {
+      "id": "2c651858-e096-464f-b47f-7ccda5db0a03",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "92851eaf-551e-562f-9a60-8efff905ed54",
+        "15fded78-2bae-5612-8e6d-863871109109",
+        "b23f78ff-d094-5fb4-bb62-cab82040c7d7",
+        "89c5a9d7-0aa4-5760-bfe6-f868626b6d91"
+      ],
+      "html": {
+        "repository_path": "content/articles/2c651858-e096-464f-b47f-7ccda5db0a03.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/2c651858-e096-464f-b47f-7ccda5db0a03-1.png",
+          "public_path": "/images/articles/2c651858-e096-464f-b47f-7ccda5db0a03-1.png",
+          "source_page": 3,
+          "role": "virtual-choir montage",
+          "alt": "A montage of individual singers participating in a virtual choir.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 314×132 raster was normalized as an RGB/sRGB PNG without crop, flip, rotation, scaling, or content alteration; the separately painted tilted drop shadow was omitted."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/2c651858-e096-464f-b47f-7ccda5db0a03-2.jpg",
+          "public_path": "/images/articles/2c651858-e096-464f-b47f-7ccda5db0a03-2.jpg",
+          "source_page": 3,
+          "role": "Facebook Pokes screenshot",
+          "alt": "A Facebook Pokes panel showing options to poke back or remove a poke.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 200×120 one-component Separation JPEG used inverted PDF decode semantics; its samples were inverted and normalized as a baseline three-component sRGB JPEG at 100 ppi to match print. Separately painted shadow and edge/highlight elements were omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The printed “when your singing with all your heart” and the exact cyber-communication terminology were preserved.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow and FFmpeg and were visually compared with printed page 3."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Editorial",
+            "slug": "editorial"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            },
+            {
+              "name": "Church Matters",
+              "slug": "church-matters"
+            }
+          ]
+        },
+        "topics": [
+          "Internet",
+          "Christian Community",
+          "Fellowship",
+          "Brotherhood"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "a7480c1f-6359-4ae8-903c-5aa9d40da15d",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 2,
+      "title": "Going Beyond",
+      "subtitle": "The spiritual journey of Amy Carmichael",
+      "section": null,
+      "byline": {
+        "raw": "~Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 16,
+        "pages": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          16
+        ]
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": [
+          "9514e8ea-e431-5806-a5f3-0953a922c074",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609",
+        "15fded78-2bae-5612-8e6d-863871109109",
+        "b23f78ff-d094-5fb4-bb62-cab82040c7d7",
+        "bf6aa1d7-d4cc-5eb8-8e5a-23fb2055f914"
+      ],
+      "html": {
+        "repository_path": "content/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-1.png",
+          "public_path": "/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-1.png",
+          "source_page": 4,
+          "role": "lead illustration",
+          "alt": "Pencil drawing of Amy Carmichael with her head bowed",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 362×409 source raster was normalized as an RGB/sRGB PNG without crop, flip, rotation, scaling, or content alteration. The article states that the drawing is based on a photograph of Amy at age 57 in 1925, but names no artist or photographer."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-2.jpg",
+          "public_path": "/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-2.jpg",
+          "source_page": 9,
+          "role": "portrait",
+          "alt": "Portrait of Walker of Tinnevelly",
+          "caption": "Walker of Tinnevelly was a fiery evangelist who served as a “big brother” to Amy in India, giving her encouragements and faithful rebukes.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 202×280 raster was normalized as a baseline three-component sRGB JPEG at 100 ppi without changing its crop, dimensions, orientation, or content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-3.jpg",
+          "public_path": "/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-3.jpg",
+          "source_page": 10,
+          "role": "documentary photograph",
+          "alt": "Two helpers seated with several rescued girls",
+          "caption": "Two helpers and a few of the rescued girls\nBy the time Amy had died, more than 1000 girls had been rescued from a life of forced immorality in the temples or other bad circumstances. Note the enlarged earlobe of the helper on the right. Many heavy jewels would have once dangled there. A good number of the rescued girls later stayed on as helpers in the mission.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 300×225 one-component Separation JPEG used inverted PDF decode semantics; its samples were inverted and normalized as a baseline three-component sRGB JPEG at 100 ppi without changing crop, dimensions, orientation, or content."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-4.jpg",
+          "public_path": "/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-4.jpg",
+          "source_page": 10,
+          "role": "documentary photograph",
+          "alt": "A group of rescued girls playing a game outdoors",
+          "caption": "Below, a group of girls rescued from a life of vice enjoy a happy game.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 300×188 one-component Separation JPEG used inverted PDF decode semantics; its samples were inverted and normalized as a baseline three-component sRGB JPEG at 100 ppi without changing crop, dimensions, orientation, or content."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-5.png",
+          "public_path": "/images/articles/a7480c1f-6359-4ae8-903c-5aa9d40da15d-5.png",
+          "source_page": 11,
+          "role": "congregation diagram",
+          "alt": "Three diagrams comparing nominalism, revivalism, and koinonia in a congregation",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The meaningful vector/font-based three-part graph was rendered and cropped once from the 300 dpi page image as a 2290×930 RGB/sRGB PNG, retaining its complete border, headings, labels, and explanatory line while excluding surrounding article prose and page furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "continuation_note": "The ordered source-page list preserves the article’s boxed continuation on printed page 16 after printed page 13.",
+        "inventory_note": "The substantive signed poem on printed page 7 was indexed separately; unique textual callouts and the page-12 graph explanation were retained semantically, while a duplicated page-5 pull quote was omitted.",
+        "source_oddities_note": "Printed forms including “north Ireland,” “he was later was baptized,” “incidence,” “impetuses,” and footnote 5’s “but is goes to show” were preserved.",
+        "image_decode_note": "All five final images fully decoded without warnings in Pillow and FFmpeg and were visually compared with printed pages 4, 9, 10, and 11."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Missions",
+            "slug": "missions"
+          },
+          "additional": [
+            {
+              "name": "Home histories",
+              "slug": "home-histories"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Missions",
+          "Christian Community",
+          "Fellowship",
+          "Christian Commitment"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "71982f2f-ff34-437e-a043-19da0b8b8589",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 3,
+      "title": null,
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Amy Carmichael",
+        "authors": [
+          {
+            "name": "Amy Carmichael",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "7605b2af-879b-50f5-b279-028f0aa4b71e",
+        "bf6aa1d7-d4cc-5eb8-8e5a-23fb2055f914",
+        "7cbeb8b9-7135-5056-a214-12c171f77b8e",
+        "ec427e9b-466a-536c-9fdf-d5757d4fdfe3"
+      ],
+      "html": {
+        "repository_path": "content/articles/71982f2f-ff34-437e-a043-19da0b8b8589.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "inventory_note": "This substantive signed, untitled poem is absent from the contents and appears as an independent boxed item within printed page 7; it was not duplicated inside “Going Beyond.”",
+        "lineation_note": "Both eight-line stanzas and the printed author line were preserved; the pale fill and double rule were treated as layout furniture."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          "additional": [
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Cross-bearing",
+          "Christian Commitment",
+          "Endurance",
+          "Self-denial"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "3b40ff28-2ada-4d39-8f37-3fbab5543006",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 5,
+      "title": "Saying “No!” to Mr. Worry",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "By Mike McDaniel",
+        "authors": [
+          {
+            "name": "Mike McDaniel",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 16
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece",
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "ac0ebb93-a3ab-532d-88ef-d911a7fd33c6",
+        "8ada4a0d-a538-532f-a615-13434b3cd997",
+        "4fae0d12-6925-54f3-85f5-4cad0171f98a",
+        "565f773d-5aae-54fd-ad75-4a0f1c196a01"
+      ],
+      "html": {
+        "repository_path": "content/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-1.png",
+          "public_path": "/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-1.png",
+          "source_page": 14,
+          "role": "title illustration",
+          "alt": "A gray prohibition symbol crossing out the word Worry",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The meaningful vector/font-based illustration was rendered and cropped from the 300 dpi page at 900×895 pixels, retaining only the complete gray prohibition symbol and black word “Worry” while excluding the separately painted article title and byline."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-2.jpg",
+          "public_path": "/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-2.jpg",
+          "source_page": 15,
+          "role": "illustration",
+          "alt": "Black-and-white line drawing of a worried man leaning against a wall",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 251×347 one-component Separation JPEG used inverted PDF decode semantics; its samples were inverted and normalized as a baseline three-component sRGB JPEG at 100 ppi. The separate handwritten pull quote was omitted because it duplicates body text."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-3.jpg",
+          "public_path": "/images/articles/3b40ff28-2ada-4d39-8f37-3fbab5543006-3.jpg",
+          "source_page": 16,
+          "role": "illustration",
+          "alt": "Black-and-white line drawing of a group of distressed faces",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 250×290 one-component Separation JPEG used inverted PDF decode semantics; its samples were inverted and normalized as a baseline three-component sRGB JPEG at 100 ppi. The separate handwritten pull quote was omitted because it duplicates body text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "boundary_note": "The article ends on printed page 16; the separate lower-right box on that page is the continuation of “Going Beyond.”",
+        "source_oddities_note": "Printed forms including “Jeremiah 17:5 say this,” “Worry and stress leads,” both capitalization forms of “Mr. Self-pity,” and “every thing” were preserved.",
+        "image_decode_note": "All three final images fully decoded without warnings in Pillow and FFmpeg and were visually compared with printed pages 14–16."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          "additional": [
+            {
+              "name": "Character",
+              "slug": "character"
+            },
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            }
+          ]
+        },
+        "topics": [
+          "Stress",
+          "Trust in God",
+          "Fear",
+          "Joy"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "a8d32739-6115-44d9-b024-d98d5ae9214d",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 6,
+      "title": "Inside and Out",
+      "subtitle": null,
+      "section": "Voices from the Early Church",
+      "byline": {
+        "raw": "Tertullian (c.160 – c.220 AD)",
+        "authors": [
+          {
+            "name": "Tertullian",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": "976a7e08-e662-50b6-a13d-c787f72c7666",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "8b345ddb-8046-5651-b04f-924af67af18b",
+        "6ae93bcb-d17f-581c-9421-01248a6e3178",
+        "4512cfd9-f11a-52c1-8239-b9f0c7ec9274",
+        "494add59-7a1e-504d-ab65-b626610b684d"
+      ],
+      "html": {
+        "repository_path": "content/articles/a8d32739-6115-44d9-b024-d98d5ae9214d.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "Printed wording including “an example and testimony to the evil,” “it joys in being manifested,” “you will be enough adorned,” and “the scarves of martyrdom” was preserved.",
+        "page_decoration_note": "The recurring section banner and duplicated circular pull quote were treated as layout furniture; no article image appears on printed page 17."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Modesty Articles",
+            "slug": "modesty-articles"
+          },
+          "additional": [
+            {
+              "name": "Woman",
+              "slug": "woman"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Modesty",
+          "Adornment",
+          "Early Church",
+          "Martyrdom"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "733add79-a726-4815-8705-3d900e54593c",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 7,
+      "title": "Self—The Monster",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Based on a message preached by Alfred Amstutz",
+        "authors": [
+          {
+            "name": "Alfred Amstutz",
+            "location": "near Huacareta, in the Department of Chuquisaca",
+            "role": "Message preached by"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 23
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [
+        "c09be55d-9b4d-56ff-bde4-5d80920e74da",
+        "ec427e9b-466a-536c-9fdf-d5757d4fdfe3",
+        "1404e2c2-852e-5d57-a2ac-dc54d2d91357",
+        "f0b54656-ce75-5a6c-a712-5ab9f5b44c9d"
+      ],
+      "html": {
+        "repository_path": "content/articles/733add79-a726-4815-8705-3d900e54593c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/733add79-a726-4815-8705-3d900e54593c-1.jpg",
+          "public_path": "/images/articles/733add79-a726-4815-8705-3d900e54593c-1.jpg",
+          "source_page": 18,
+          "role": "opening leviathan fabrication",
+          "alt": "Fabricated leviathan made from an iguana image with added teeth, fire, lightning, smoke, and a doctored eye",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The article itself discloses that the published fabrication uses a real iguana base with teeth, fire, lightning, smoke, and a doctored eye added. Four clean embedded article JPEG tiles were reassembled only at their exact PDF positions as one 905×678 baseline three-component sRGB JPEG at 150 ppi; intrinsic printed white feathering was retained, while separately painted title/byline text was excluded."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/733add79-a726-4815-8705-3d900e54593c-2.jpg",
+          "public_path": "/images/articles/733add79-a726-4815-8705-3d900e54593c-2.jpg",
+          "source_page": 22,
+          "role": "Gustave Doré woodcut",
+          "alt": "Gustave Doré woodcut depicting the Lord confronting leviathan in the sea",
+          "caption": "Right: A woodcut by Gustave Doré (1832-1883) depicting the coming of the Lord to kill the monster that man is incapable of conquering. What a Saviour!",
+          "credit": "Gustave Doré (1832-1883)",
+          "rights_note": "No image-specific licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The creator is identified in the printed caption, but no licence or separate-permission wording appears. The clean embedded 426×536 one-component Separation JPEG used inverted PDF decode semantics; its samples were inverted and normalized as a baseline three-component sRGB JPEG at 100 ppi without changing crop, dimensions, orientation, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "Printed forms including “brothers meetings,” “Self some time,” “such slut,” “you or I,” “protrayal,” and “neesings [sneezings]” were preserved.",
+        "unique_callout_note": "The three substantive sidebars were retained semantically; two pull quotes duplicating nearby body text were omitted.",
+        "image_reconstruction_note": "The four opening-spread tiles form one logical published fabrication and were exported once at exact placement; their intrinsic white feathering was not fabricated or removed.",
+        "image_decode_note": "Both final JPEGs fully decoded without warnings in Pillow and FFmpeg, are baseline three-component sRGB files with nonzero density, and were visually compared with printed pages 18–19 and 22."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            },
+            {
+              "name": "Character",
+              "slug": "character"
+            }
+          ]
+        },
+        "topics": [
+          "Self-life",
+          "Self-denial",
+          "Humility",
+          "Pride"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "d2573265-f5d7-412d-9ee4-5b04a66b55a5",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 8,
+      "title": "Virtuous Girlhood from the Bible",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "By Barbara Ste. Marie",
+        "authors": [
+          {
+            "name": "Barbara Ste. Marie",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 24
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "0648d4df-242a-5815-8d22-08b555d1b542",
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [
+        "a0f330a9-9a11-5cfb-8a7e-cbef22c118a6",
+        "81468553-1f19-5fc5-a56d-910096930064",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae",
+        "102f0529-3552-5cea-aef3-867de018b9d4"
+      ],
+      "html": {
+        "repository_path": "content/articles/d2573265-f5d7-412d-9ee4-5b04a66b55a5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d2573265-f5d7-412d-9ee4-5b04a66b55a5-1.png",
+          "public_path": "/images/articles/d2573265-f5d7-412d-9ee4-5b04a66b55a5-1.png",
+          "source_page": 24,
+          "role": "Sisters’ Corner house illustration",
+          "alt": "Illustration of a house",
+          "caption": "That they may teach the young women ...",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 156×112 raster was normalized as an RGB/sRGB PNG without changing its crop, orientation, dimensions, or content."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "Printed forms including “Ju 11:36,” “nonresistance,” the quoted alternate reading with “Lord’s,” “talk to,” and “nonresistant” were preserved.",
+        "page_decoration_note": "The recurring mother-and-child silhouette and hanging-lamp masthead ornament were treated as section furniture. The established Sisters’ Corner house illustration and its printed caption were retained as the article’s opening figure.",
+        "image_decode_note": "The final PNG fully decoded without warnings in Pillow and FFmpeg and was visually compared with printed page 24."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Woman",
+            "slug": "woman"
+          },
+          "additional": [
+            {
+              "name": "Non-resistance",
+              "slug": "non-resistance"
+            },
+            {
+              "name": "Character",
+              "slug": "character"
+            }
+          ]
+        },
+        "topics": [
+          "Daughters",
+          "Submission",
+          "Obedience",
+          "Nonresistance"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "27d98489-2986-4710-bc1e-590b9ad02133",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 9,
+      "title": "Peter Riedemann’s Confessions",
+      "subtitle": null,
+      "section": "The Book Shelf",
+      "byline": {
+        "raw": "A book review by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 28
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": [
+          "9514e8ea-e431-5806-a5f3-0953a922c074",
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "649d37ab-7011-545e-8f58-c9f374fd3bfe",
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26",
+        "3830db33-6732-5c44-a816-7457fd118c1a",
+        "eae06def-4dfa-58c1-8384-2115509836ba"
+      ],
+      "html": {
+        "repository_path": "content/articles/27d98489-2986-4710-bc1e-590b9ad02133.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/27d98489-2986-4710-bc1e-590b9ad02133-1.png",
+          "public_path": "/images/articles/27d98489-2986-4710-bc1e-590b9ad02133-1.png",
+          "source_page": 25,
+          "role": "book cover",
+          "alt": "Cover of Love is Like Fire: The Confession of an Anabaptist Prisoner by Peter Riedemann",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 201×302 lossless cover raster was normalized as an RGB/sRGB PNG without the printed tilt, gray drop shadow, crop, flip, scaling, or content alteration. Intrinsic cover title and author lettering was retained."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/27d98489-2986-4710-bc1e-590b9ad02133-2.png",
+          "public_path": "/images/articles/27d98489-2986-4710-bc1e-590b9ad02133-2.png",
+          "source_page": 25,
+          "role": "book cover",
+          "alt": "Cover of Confession of Faith by Peter Riedemann",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 162×250 lossless cover raster was normalized as an RGB/sRGB PNG without the printed tilt, gray drop shadow, crop, flip, scaling, or content alteration. Intrinsic cover title and author lettering was retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The source’s inconsistent Gmunden country, Philip/Phillip spellings, “Riedemann was a labeled,” “better that most,” “Pouring through,” “dependent of,” and terminal “Reidemann” spelling were preserved.",
+        "unique_callout_note": "The unique “LOVE IS LIKE FIRE” excerpt was retained semantically; two decorative pull quotes repeating body wording were omitted.",
+        "image_decode_note": "Both final PNGs fully decoded without warnings in Pillow and FFmpeg and were visually compared with printed page 25."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Book reviews",
+            "slug": "book-reviews"
+          },
+          "additional": [
+            {
+              "name": "Home histories",
+              "slug": "home-histories"
+            },
+            {
+              "name": "Church Matters",
+              "slug": "church-matters"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Book review",
+          "Anabaptist history",
+          "Anabaptism",
+          "Confession"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "3bf8f397-f79b-43e0-9394-76b47b29bc6b",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 10,
+      "title": "Questions & Answers and Letters to the Editor",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 32
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "0648d4df-242a-5815-8d22-08b555d1b542",
+          "85b345ae-ce23-56a2-9249-2cfa79293657"
+        ]
+      },
+      "topics": [
+        "3830db33-6732-5c44-a816-7457fd118c1a",
+        "102f0529-3552-5cea-aef3-867de018b9d4",
+        "7605b2af-879b-50f5-b279-028f0aa4b71e",
+        "112f373a-5505-599b-b945-2e35ced472c4"
+      ],
+      "html": {
+        "repository_path": "content/articles/3bf8f397-f79b-43e0-9394-76b47b29bc6b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/3bf8f397-f79b-43e0-9394-76b47b29bc6b-1.png",
+          "public_path": "/images/articles/3bf8f397-f79b-43e0-9394-76b47b29bc6b-1.png",
+          "source_page": 29,
+          "role": "opening pen illustration",
+          "alt": "A black ballpoint pen",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 320×53 RGB/sRGB PNG was copied byte-for-byte without crop, rotation, flip, scaling, overlay removal, or content alteration."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/3bf8f397-f79b-43e0-9394-76b47b29bc6b-2.png",
+          "public_path": "/images/articles/3bf8f397-f79b-43e0-9394-76b47b29bc6b-2.png",
+          "source_page": 31,
+          "role": "sports-ball illustration for “Quit [act] ye like men”",
+          "alt": "A basketball, soccer ball, volleyball, and small ball",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 267×320 raster was normalized as an RGB/sRGB PNG without crop, rotation, flip, scaling, or content alteration. The separate lettering below it was omitted because it repeats the body sentence “If you want to become a man, put the ball down!”"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "Printed forms including “an example from which we can learn from,” “Carrolton,” “with clear and firm grasp,” “the teachings ... is,” “the preaching of cross,” and the bracketed phrase “[to the world looking on]” were preserved.",
+        "pull_quote_note": "Two page-30 pull quotes and the lettering under the ball collage repeat body wording and were not duplicated.",
+        "image_decode_note": "Both final PNGs fully decoded without warnings in Pillow and FFmpeg and were visually compared with printed pages 29 and 31."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Editorial",
+            "slug": "editorial"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            },
+            {
+              "name": "Non-resistance",
+              "slug": "non-resistance"
+            },
+            {
+              "name": "Youth",
+              "slug": "youth"
+            }
+          ]
+        },
+        "topics": [
+          "Anabaptism",
+          "Nonresistance",
+          "Cross-bearing",
+          "Marriage"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "324a6363-d5b3-489c-b3f5-a1ce08c599ed",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 11,
+      "title": "Secret Sin",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Author unknown",
+        "authors": [
+          {
+            "name": "Author unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 32
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece",
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "3594893c-f438-5384-bd6e-499c7ba2e1ea",
+        "d7a404e4-268b-546a-a83a-47097cbfd5aa",
+        "0df6eee6-8cd5-5bf6-a2e4-c440a3a2bccf",
+        "b074afdf-90ed-58c5-b843-3e274c46e17b"
+      ],
+      "html": {
+        "repository_path": "content/articles/324a6363-d5b3-489c-b3f5-a1ce08c599ed.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "lineation_note": "All six four-line stanzas and the closing attribution were preserved; the wavy outline was treated as page-layout furniture."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          "additional": [
+            {
+              "name": "Character",
+              "slug": "character"
+            },
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            }
+          ]
+        },
+        "topics": [
+          "Sin",
+          "Temptation",
+          "Overcoming Sin",
+          "Repentance"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "8bdd92d0-1f0d-4965-a59b-a23edab884e5",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 12,
+      "title": "Untried Faith",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Author unknown",
+        "authors": [
+          {
+            "name": "Author unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 32
+      },
+      "categories": {
+        "primary": "400977eb-3421-51cc-992f-b947d2cda0f4",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "7cbeb8b9-7135-5056-a214-12c171f77b8e",
+        "9d8d1891-ebb8-528c-ae7a-0d1783487f13",
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8"
+      ],
+      "html": {
+        "repository_path": "content/articles/8bdd92d0-1f0d-4965-a59b-a23edab884e5.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "title_note": "The printed contents-page title controls because the page-32 body panel does not repeat a heading.",
+        "source_oddities_note": "Printed forms including “lightnings,” “the waters lift up themselves,” “water-floods,” feminine pronouns for faith and the vessel, and “towards” were preserved.",
+        "page_decoration_note": "The gray panel, border, and enlarged opening letter were represented semantically rather than exported as an image."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Sharpened words",
+            "slug": "sharpened-words"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            },
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            }
+          ]
+        },
+        "topics": [
+          "Faith",
+          "Endurance",
+          "Perseverance",
+          "Suffering"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "15e2b47b-d51f-47fd-a695-a2bb06f56970",
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 13,
+      "title": "The Seditious Sermon",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "E. Stanley Jones",
+        "authors": [
+          {
+            "name": "E. Stanley Jones",
+            "location": null,
+            "role": "missionary to India",
+            "birth_year": 1884,
+            "death_year": 1973
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 35
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+          "0648d4df-242a-5815-8d22-08b555d1b542",
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "topics": [
+        "f17883d4-d170-5dff-b66c-e13eaa0557af",
+        "fcb14cac-5da0-56fe-ac86-f3d0b99d4bfd",
+        "102f0529-3552-5cea-aef3-867de018b9d4",
+        "e076a45a-2014-5d02-b18b-ac6397515f22"
+      ],
+      "html": {
+        "repository_path": "content/articles/15e2b47b-d51f-47fd-a695-a2bb06f56970.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/15e2b47b-d51f-47fd-a695-a2bb06f56970-1.png",
+          "public_path": "/images/articles/15e2b47b-d51f-47fd-a695-a2bb06f56970-1.png",
+          "source_page": 33,
+          "role": "opening sword illustration",
+          "alt": "A curved sword",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The one-component Separation source was decoded to the clean 251×52 RGB/sRGB PNG and copied without crop, rotation, flip, scaling, overlay removal, or other content alteration."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "Printed forms including “there will something work out of it,” “the pattern shown her in the Mount,” “Monophysites of Alexander,” “ascendency,” “denature them,” “[Ghandi],” and “anaemic” were preserved.",
+        "pull_quote_note": "Three boxed pull quotes repeat body wording and were not duplicated; the unique closing source note was retained.",
+        "image_decode_note": "The final PNG fully decoded without warnings in Pillow and FFmpeg and was visually compared with printed page 33."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          "additional": [
+            {
+              "name": "Church Matters",
+              "slug": "church-matters"
+            },
+            {
+              "name": "Non-resistance",
+              "slug": "non-resistance"
+            },
+            {
+              "name": "Discernment",
+              "slug": "discernment"
+            }
+          ]
+        },
+        "topics": [
+          "Christian Discipleship",
+          "Kingdom Christianity",
+          "Nonresistance",
+          "Church and State"
+        ]
+      },
+      "language": "en",
+      "publication_note": "This article is a condensed version of the “Introduction” to the book The Christ of the Mount-A Working Philosophy of Life by E. Stanley Jones (1884-1973), a missionary to India. Some wording was rephrased to aid in readability. The use of this “Introduction” is not an endorsement by The Heartbeat of the Remnant of everything the book may teach."
+    },
+    {
       "id": "e905899f-5f2b-42a4-a2b2-3a0af7f0e0e3",
       "issue_id": "14962b7b-2d94-5b43-a4c6-bbb78f074d1a",
       "sequence": 1,
@@ -39024,6 +40176,22 @@
     }
   ],
   "skipped": [
+    {
+      "issue_id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "sequence": 4,
+      "title": "The Burger King Church",
+      "byline": "~Dean Taylor",
+      "source_pages": {
+        "start": 13,
+        "end": 13
+      },
+      "reason": "An image-specific copyright notice was detected.",
+      "detected_notices": [
+        "©1976 Burger King Corporation"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
     {
       "issue_id": "6e9cf4e6-6ef1-561b-bb76-7115af85e763",
       "sequence": 5,

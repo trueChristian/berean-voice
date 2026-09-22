@@ -1135,6 +1135,35 @@
       "slug": "heartbeat-remnant-2011-03"
     },
     {
+      "id": "741bac3b-c01c-483d-8837-db76602fbe4f",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Ministries",
+      "date": {
+        "label": "January/February 2011",
+        "year": 2011,
+        "months": [
+          1,
+          2
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 17,
+      "issue_number": 1,
+      "source": {
+        "filename": "2011-01-Remnant.pdf",
+        "sha256": "0bffb714a595b5dfa1fccbfff812b5cb1473efe1f0348aa819c76dbf2784a6ae",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      },
+      "source_id": "heartbeat-remnant-2011-01",
+      "slug": "heartbeat-remnant-2011-01"
+    },
+    {
       "id": "14962b7b-2d94-5b43-a4c6-bbb78f074d1a",
       "publication": "The Heartbeat of The Remnant",
       "publisher": "Charity Christian Fellowship",
