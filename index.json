@@ -36265,6 +36265,1527 @@
       "language": "en"
     },
     {
+      "id": "55e4dde8-b528-4ae4-b916-f122c8ff7237",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [
+        "ff6ad80a-580c-5627-ae33-02ab80581a20",
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609",
+        "d3ba019f-e96e-5011-9021-4125316d3d56"
+      ],
+      "html": {
+        "repository_path": "content/articles/55e4dde8-b528-4ae4-b916-f122c8ff7237.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/55e4dde8-b528-4ae4-b916-f122c8ff7237-1.jpg",
+          "public_path": "/images/articles/55e4dde8-b528-4ae4-b916-f122c8ff7237-1.jpg",
+          "source_page": 3,
+          "role": "coffee-packet illustration",
+          "alt": "A Colombian Fair Trade Select coffee packet",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 450×294 sRGB JPEG was re-encoded without crop, flip, rotation, scaling, or content alteration as a baseline three-component sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The printed “Columbian coffee farmers” spelling, the missing article in “coffee with hint of vanilla,” and the source ellipsis characters were preserved exactly.",
+        "image_decode_note": "The final image fully decoded without warnings in Pillow and FFmpeg, is a baseline three-component sRGB JPEG at 150 ppi, and was visually compared with printed page 3."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Editorial",
+            "slug": "editorial"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            },
+            {
+              "name": "Missions",
+              "slug": "missions"
+            }
+          ]
+        },
+        "topics": [
+          "Kingdom of God",
+          "Missions",
+          "Spiritual Responsibility"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "3077c488-50e7-4951-8263-624e529ece4a",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 3,
+      "title": "Come, Holy Spirit, heavenly Dove,",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Isaac Watts (1674-1748)",
+        "authors": [
+          {
+            "name": "Isaac Watts",
+            "location": null,
+            "role": null,
+            "birth_year": 1674,
+            "death_year": 1748
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 5,
+        "end": 5
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "c3153996-8271-5167-b21e-2fa3c0e8df1d",
+        "64af4c5a-115b-50b0-ae07-5d75a56b13aa",
+        "0f3e0ca7-f12e-59d5-8c2c-cb3fead876a5"
+      ],
+      "html": {
+        "repository_path": "content/articles/3077c488-50e7-4951-8263-624e529ece4a.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "inventory_note": "This substantive signed hymn is absent from the table of contents but appears as an independent framed item on printed page 5 and was indexed from the authoritative content page.",
+        "lineation_note": "All five four-line stanzas, the bold first line, and the printed author line were preserved."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          "additional": [
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Hymn",
+          "Holy Spirit",
+          "Love",
+          "Christian devotion"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "c0288b4d-909f-4f35-81cb-5f2518891d54",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 4,
+      "title": "Love Left Behind",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Daniel Beachy",
+        "authors": [
+          {
+            "name": "Daniel Beachy",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 5,
+        "end": 5
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285",
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [
+        "64af4c5a-115b-50b0-ae07-5d75a56b13aa",
+        "bf6aa1d7-d4cc-5eb8-8e5a-23fb2055f914",
+        "16a1b70b-b55c-55ae-a18e-9511dd9ef26f"
+      ],
+      "html": {
+        "repository_path": "content/articles/c0288b4d-909f-4f35-81cb-5f2518891d54.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The printed semicolon in “It’s not lost; but left.” and the parenthetical wording in “Well (he may say)” were preserved."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          "additional": [
+            {
+              "name": "Church",
+              "slug": "church"
+            },
+            {
+              "name": "Character",
+              "slug": "character"
+            }
+          ]
+        },
+        "topics": [
+          "Love",
+          "Christian Commitment",
+          "Spiritual Growth"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "1d58d8bb-729e-4936-a3b4-653b3bb89012",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 5,
+      "title": "The Third Baptism",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 11
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+          "0648d4df-242a-5815-8d22-08b555d1b542"
+        ]
+      },
+      "topics": [
+        "3b83ed3e-5bbe-59d5-86cc-41a401577a6e",
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8",
+        "a034d696-26f6-5bd3-b9b9-6a3a20721ade",
+        "7605b2af-879b-50f5-b279-028f0aa4b71e"
+      ],
+      "html": {
+        "repository_path": "content/articles/1d58d8bb-729e-4936-a3b4-653b3bb89012.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/1d58d8bb-729e-4936-a3b4-653b3bb89012-1.jpg",
+          "public_path": "/images/articles/1d58d8bb-729e-4936-a3b4-653b3bb89012-1.jpg",
+          "source_page": 6,
+          "role": "opening torture-device illustration",
+          "alt": "Historical illustrations of labeled torture and punishment devices",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 750×496 one-component JPEG used inverted PDF decode semantics; its samples were inverted and it was re-encoded as a baseline three-component sRGB JPEG at 150 ppi to match the printed black-on-white appearance."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "unique_callout_note": "The page-9 opt-out callout and the page-10 “Phillipians 3:10” callout were retained because they contain unique text; decorative callouts that repeat body wording were not duplicated.",
+        "source_oddities_note": "Printed forms including “Phillipians,” “His son Jesus,” “screams of pains,” the awkward “It is only after the believer ... does” construction, and doubled opening parentheses in footnotes were preserved.",
+        "image_decode_note": "The final image fully decoded without warnings in Pillow and FFmpeg, is a baseline three-component sRGB JPEG at 150 ppi, and was visually compared with printed page 6."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Christian Living",
+            "slug": "christian-living"
+          },
+          "additional": [
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            },
+            {
+              "name": "Non-resistance",
+              "slug": "non-resistance"
+            }
+          ]
+        },
+        "topics": [
+          "Baptism",
+          "Suffering",
+          "Overcoming evil with good",
+          "Cross-bearing"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "f05f28d0-ef5b-497d-9ac5-d6caf03d68d4",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 6,
+      "title": "Do Something, Lord!!! Do Something!!!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Seeking to serve with you, in HIM,\nA brother on the east coast of Africa",
+        "authors": [
+          {
+            "name": "A brother on the east coast of Africa",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 12
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "5933107a-a052-501e-9826-e25cb5a7e990",
+        "e763b632-f673-547f-afb3-186d486db0cc"
+      ],
+      "html": {
+        "repository_path": "content/articles/f05f28d0-ef5b-497d-9ac5-d6caf03d68d4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f05f28d0-ef5b-497d-9ac5-d6caf03d68d4-1.jpg",
+          "public_path": "/images/articles/f05f28d0-ef5b-497d-9ac5-d6caf03d68d4-1.jpg",
+          "source_page": 12,
+          "role": "full-page background illustration",
+          "alt": "Faded mountain rising beyond water, with an ant near the bottom",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. Five clean embedded JPEG pieces—the four mountain/water tiles and the ant strip—were reassembled once at their exact PDF placements as the single logical 1023×1203 article background, then encoded as a baseline three-component sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "title_note": "The content-page title, including both clauses and all six exclamation marks, controls over the shortened table-of-contents form.",
+        "source_oddities_note": "The capitalization HE, HIM, GOD, GO!, and ALL!, the ellipsis characters, and the lowercase “east coast of Africa” sign-off were preserved.",
+        "image_reconstruction_note": "The mountain, water, and ant pieces form one continuous printed background and were exported once; the separately painted article typography was not baked into the reconstruction.",
+        "image_decode_note": "The final image fully decoded without warnings in Pillow and FFmpeg, is a baseline three-component sRGB JPEG at 150 ppi, and was visually compared with printed page 12."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Missions",
+            "slug": "missions"
+          },
+          "additional": [
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Missions",
+          "Prayer",
+          "Dependence on God",
+          "Christian Service"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "04e692e0-5199-4d0e-8b09-a16e84f80894",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 7,
+      "title": "Legalism",
+      "subtitle": "Its Fruits and the True Grace of God",
+      "section": null,
+      "byline": {
+        "raw": "Based on a message preached by Emanuel Lapp",
+        "authors": [
+          {
+            "name": "Emanuel Lapp",
+            "location": null,
+            "role": "Preacher"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 17
+      },
+      "categories": {
+        "primary": "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "0ef8a490-9ef2-5f8c-8a24-1511e2083f10",
+        "f9ec3edd-a836-5a01-a77e-7c9aa8436eff",
+        "2930d7e0-3f5e-5299-b27e-fa8f21d15595",
+        "3b69fdad-e957-5e8b-a946-db683c653271"
+      ],
+      "html": {
+        "repository_path": "content/articles/04e692e0-5199-4d0e-8b09-a16e84f80894.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/04e692e0-5199-4d0e-8b09-a16e84f80894-1.jpg",
+          "public_path": "/images/articles/04e692e0-5199-4d0e-8b09-a16e84f80894-1.jpg",
+          "source_page": 13,
+          "role": "title illustration",
+          "alt": "A snake descending head-first",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 248×366 sRGB JPEG was re-encoded without crop, flip, rotation, or scaling as a baseline three-component sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/04e692e0-5199-4d0e-8b09-a16e84f80894-2.png",
+          "public_path": "/images/articles/04e692e0-5199-4d0e-8b09-a16e84f80894-2.png",
+          "source_page": 15,
+          "role": "ditch diagram",
+          "alt": "A crossed-out diagram of a person balancing between ditches labelled Legalism and Liberalism",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The meaningful vector/font-based diagram was cropped from the 300 dpi page render; it contains only the exact diagram labels and explanatory wording, with surrounding article prose omitted."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/04e692e0-5199-4d0e-8b09-a16e84f80894-3.jpg",
+          "public_path": "/images/articles/04e692e0-5199-4d0e-8b09-a16e84f80894-3.jpg",
+          "source_page": 17,
+          "role": "Balaam illustration",
+          "alt": "An angel with a drawn sword confronts Balaam riding a donkey",
+          "caption": "Balaam was a “liberal” legalist, who, although he obeyed God in blessing Israel, later accepted money when he thought of a loophole as to how he could curse God’s people. God had not explicitly forbade him from giving advice to Balak about how to trap God’s people into sinning against God. Balaam followed the letter, but not the spirit, of God’s command. This is legalism.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 514×647 one-component JPEG used inverted PDF decode semantics; its samples were inverted and it was re-encoded as a baseline three-component sRGB JPEG at 150 ppi to match the printed appearance."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "Printed forms including “legalism has it fruits,” “consented to the stoning of Stephan,” “without become a wolf,” “God had not explicitly forbade him,” and “achieve to the full righteousness” were preserved.",
+        "pull_quote_note": "Repeated decorative callouts were omitted; the unique David Wilkerson quotation and the unique page-16 definition were retained semantically.",
+        "diagram_note": "The meaningful page-15 ditch diagram and its unique wording were retained as a 300 dpi PNG rather than silently omitted.",
+        "image_decode_note": "All three final images fully decoded without warnings in Pillow and FFmpeg, opened in ImageMagick, and were visually compared with printed pages 13, 15, and 17."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Discernment",
+            "slug": "discernment"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            },
+            {
+              "name": "Church Matters",
+              "slug": "church-matters"
+            }
+          ]
+        },
+        "topics": [
+          "Christian Discernment",
+          "Pharisaism",
+          "Saving grace",
+          "Holiness"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "511de3a8-fcc5-4041-8161-1faf33a20bc7",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 8,
+      "title": "Seeds of the Kingdom",
+      "subtitle": "Seed Sower Award",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 20
+      },
+      "categories": {
+        "primary": "78d8ed5b-bad4-58ae-ae10-a49f738e29d8",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "55fff2dd-3f79-5c7f-a7fa-73e125bfbfec",
+        "ccdcfb82-dfbd-5f30-b4e5-e4b2e94a3081",
+        "e763b632-f673-547f-afb3-186d486db0cc",
+        "cd42f468-6b2c-5f56-abf2-82062af463d1"
+      ],
+      "html": {
+        "repository_path": "content/articles/511de3a8-fcc5-4041-8161-1faf33a20bc7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/511de3a8-fcc5-4041-8161-1faf33a20bc7-1.jpg",
+          "public_path": "/images/articles/511de3a8-fcc5-4041-8161-1faf33a20bc7-1.jpg",
+          "source_page": 18,
+          "role": "series opening illustration",
+          "alt": "A sower scattering seed across a field",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 325×363 one-component JPEG used inverted PDF decode semantics; its samples were inverted and it was re-encoded as a baseline three-component sRGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/511de3a8-fcc5-4041-8161-1faf33a20bc7-2.jpg",
+          "public_path": "/images/articles/511de3a8-fcc5-4041-8161-1faf33a20bc7-2.jpg",
+          "source_page": 20,
+          "role": "school photograph",
+          "alt": "The front of Hillside School with its small bell tower",
+          "caption": "It’s just a common-looking schoolhouse. But the kingdom of God—love—extends itself within those walls!",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 408×390 sRGB JPEG was re-encoded without crop, flip, rotation, or scaling as a baseline three-component sRGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "boundary_note": "The complete titled and attributed cross-gutter poem “The Special Teacher” is indexed separately as sequence 9 and is not duplicated here.",
+        "disclaimer_note": "The recurring-series endorsement disclaimer is substantive editorial text, not a rights restriction, and was retained.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow and FFmpeg, are baseline three-component sRGB JPEGs at 150 ppi, and were visually compared with printed pages 18 and 20."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Children",
+            "slug": "children"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Education",
+          "Children",
+          "Christian Service",
+          "Compassion"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "2e72a049-6de1-4ceb-bc41-5303f8007dc8",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 9,
+      "title": "The Special Teacher",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—Author unknown",
+        "authors": [
+          {
+            "name": "Author unknown",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "78d8ed5b-bad4-58ae-ae10-a49f738e29d8",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "55fff2dd-3f79-5c7f-a7fa-73e125bfbfec",
+        "ccdcfb82-dfbd-5f30-b4e5-e4b2e94a3081",
+        "1a6d8df1-7179-53c8-969e-274ba40d4d4f",
+        "cd42f468-6b2c-5f56-abf2-82062af463d1"
+      ],
+      "html": {
+        "repository_path": "content/articles/2e72a049-6de1-4ceb-bc41-5303f8007dc8.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "inventory_note": "This substantive titled and attributed poem spans a rotated inset across printed pages 18–19 and is absent from the table of contents; archive precedent supports indexing such independent shared-page pieces separately.",
+        "source_oddities_note": "The nested double quotation marks in the opening line and the mismatched single opener/double closer in the line beginning “I’m told” were preserved exactly.",
+        "page_decoration_note": "The gray field, rotation, rounded corners, and drop shadow were omitted as separable print-layout treatment; the poem was preserved semantically with exact lineation."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          "additional": [
+            {
+              "name": "Children",
+              "slug": "children"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Education",
+          "Children",
+          "Service",
+          "Compassion"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "71f78ec6-65bd-40aa-a62e-a6747b1e007b",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 10,
+      "title": "Sweetened by the Tree",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Thomas von Imbroich",
+            "location": null,
+            "role": "Letter author",
+            "birth_year": 1533,
+            "death_year": 1558
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "59e78031-c269-52d1-9b00-08dba0398cb4"
+        ]
+      },
+      "topics": [
+        "ec427e9b-466a-536c-9fdf-d5757d4fdfe3",
+        "7605b2af-879b-50f5-b279-028f0aa4b71e",
+        "494add59-7a1e-504d-ab65-b626610b684d",
+        "3b69fdad-e957-5e8b-a946-db683c653271"
+      ],
+      "html": {
+        "repository_path": "content/articles/71f78ec6-65bd-40aa-a62e-a6747b1e007b.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "authorship_note": "The introductory provenance paragraph identifies Thomas von Imbroich, also known as Thomas the Printer, and the text as a prison letter to his wife; no standalone printed byline was invented.",
+        "source_oddities_note": "The unclosed quotation beginning “Do not live according to the wisdom of the flesh” and the printed “widely-used” form were preserved.",
+        "pull_quote_note": "The page-21 circular pull quote duplicates body wording and was not duplicated in HTML."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            },
+            {
+              "name": "Martyrdom",
+              "slug": "martyrdom"
+            }
+          ]
+        },
+        "topics": [
+          "Self-denial",
+          "Cross-bearing",
+          "Martyrdom",
+          "Holiness"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "ff3b4cdb-d91c-4c75-86b5-f15e1d51c5ce",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 11,
+      "title": "Rise Up, My Love",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Megan I. Neill, age 18",
+        "authors": [
+          {
+            "name": "Megan I. Neill",
+            "location": "near Lancaster, Pennsylvania",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "85b345ae-ce23-56a2-9249-2cfa79293657",
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "7605b2af-879b-50f5-b279-028f0aa4b71e",
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8",
+        "be523b84-148a-5633-9947-03c7c310d50a",
+        "1c8422c8-b487-5a14-801c-b4f0d4842088"
+      ],
+      "html": {
+        "repository_path": "content/articles/ff3b4cdb-d91c-4c75-86b5-f15e1d51c5ce.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/ff3b4cdb-d91c-4c75-86b5-f15e1d51c5ce-1.jpg",
+          "public_path": "/images/articles/ff3b4cdb-d91c-4c75-86b5-f15e1d51c5ce-1.jpg",
+          "source_page": 22,
+          "role": "poem background",
+          "alt": "A waterfall cascading between steep rocky slopes",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. Five embedded JPEG tiles were reassembled once at their exact PDF placements as a 752×1127 baseline three-component sRGB JPEG at 150 ppi. The only-source pale edge feathering is baked into the tiles and was retained; no pixels were invented or inpainted, and all separately painted poem text was excluded."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The italic emphasis on “broken,” the exact stanza lineation, and the three-line italic author biography were preserved.",
+        "image_reconstruction_note": "The five waterfall tiles were reconstructed at exact offsets; the baked source feathering is documented rather than claimed as removable.",
+        "image_decode_note": "The final image fully decoded without warnings in Pillow and FFmpeg, is a baseline three-component sRGB JPEG at 150 ppi, and was visually compared with printed page 22."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          "additional": [
+            {
+              "name": "Youth",
+              "slug": "youth"
+            },
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            }
+          ]
+        },
+        "topics": [
+          "Cross-bearing",
+          "Suffering",
+          "Surrender",
+          "Christian Growth"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "59f45028-8586-43ca-a3a4-a025cb2ec4b1",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 12,
+      "title": "Confess Your Faults",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Stephen Taylor, age 17\nEphrata, Pa",
+        "authors": [
+          {
+            "name": "Stephen Taylor",
+            "location": "Ephrata, Pa",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 23
+      },
+      "categories": {
+        "primary": "85b345ae-ce23-56a2-9249-2cfa79293657",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "eae06def-4dfa-58c1-8384-2115509836ba",
+        "e8455dc3-9ea9-50ad-8b49-ca5277a6a3fd",
+        "e306a951-5cde-59d9-b002-9f39db3e1eae",
+        "aa1cc781-4fa3-5a11-89a3-e94519678778"
+      ],
+      "html": {
+        "repository_path": "content/articles/59f45028-8586-43ca-a3a4-a025cb2ec4b1.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/59f45028-8586-43ca-a3a4-a025cb2ec4b1-1.jpg",
+          "public_path": "/images/articles/59f45028-8586-43ca-a3a4-a025cb2ec4b1-1.jpg",
+          "source_page": 23,
+          "role": "opening silhouette",
+          "alt": "A person kneeling in prayer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 78×107 sRGB JPEG was baseline-normalized at 150 ppi without crop, flip, rotation, or scaling."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/59f45028-8586-43ca-a3a4-a025cb2ec4b1-2.png",
+          "public_path": "/images/articles/59f45028-8586-43ca-a3a4-a025cb2ec4b1-2.png",
+          "source_page": 23,
+          "role": "opening silhouette",
+          "alt": "A standing adult with an arm around a younger person",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 86×178 raster was normalized as an sRGB PNG at 150 ppi without crop, flip, rotation, or scaling; no identities are inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "reading_order_note": "The body was kept in continuous semantic reading order across the shaped page layout, and the repeated paragraph accidentally present in working notes was not duplicated.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow and FFmpeg and were visually compared with printed page 23."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Youth",
+            "slug": "youth"
+          },
+          "additional": [
+            {
+              "name": "Parenting",
+              "slug": "parenting"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Confession",
+          "Parent-child Relationship",
+          "Fatherhood",
+          "Spiritual Discipline"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "61282a41-2a47-4b2e-9b9c-a286575eebbf",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 13,
+      "title": "Eyes on the Prize!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Billy Farlow, TN, age 19",
+        "authors": [
+          {
+            "name": "Billy Farlow",
+            "location": "TN",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 23
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "85b345ae-ce23-56a2-9249-2cfa79293657",
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "4198e6fb-4793-5bd3-afc8-0b75b031cdfd",
+        "9d8d1891-ebb8-528c-ae7a-0d1783487f13",
+        "bf6aa1d7-d4cc-5eb8-8e5a-23fb2055f914"
+      ],
+      "html": {
+        "repository_path": "content/articles/61282a41-2a47-4b2e-9b9c-a286575eebbf.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/61282a41-2a47-4b2e-9b9c-a286575eebbf-1.jpg",
+          "public_path": "/images/articles/61282a41-2a47-4b2e-9b9c-a286575eebbf-1.jpg",
+          "source_page": 23,
+          "role": "background illustration",
+          "alt": "A helmeted classical warrior shown in profile",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 291×376 one-component Separation JPEG was inverted to match the pale dark-on-white printed appearance, converted to RGB/sRGB, and baseline-normalized at 150 ppi; separately painted poem text and border were excluded."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "title_note": "The content-page exclamation mark was retained even though the table of contents omits it.",
+        "lineation_note": "All four four-line stanzas were preserved exactly.",
+        "image_decode_note": "The final image fully decoded without warnings in Pillow and FFmpeg, is a baseline three-component sRGB JPEG at 150 ppi, and was visually compared with printed page 23."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          "additional": [
+            {
+              "name": "Youth",
+              "slug": "youth"
+            },
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            }
+          ]
+        },
+        "topics": [
+          "Spiritual Warfare",
+          "Perseverance",
+          "Christian Commitment"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "bd7bc21c-5e26-46de-af8e-c1b13b47a349",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 14,
+      "title": "Won by Conduct",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "George Muller",
+        "authors": [
+          {
+            "name": "George Muller",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "81468553-1f19-5fc5-a56d-910096930064",
+        "59f215c7-2846-5495-b326-2cfc27843ad3",
+        "660c6413-c65e-547c-8bed-077b85300559"
+      ],
+      "html": {
+        "repository_path": "content/articles/bd7bc21c-5e26-46de-af8e-c1b13b47a349.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bd7bc21c-5e26-46de-af8e-c1b13b47a349-1.png",
+          "public_path": "/images/articles/bd7bc21c-5e26-46de-af8e-c1b13b47a349-1.png",
+          "source_page": 24,
+          "role": "recurring section illustration",
+          "alt": "A small house surrounded by trees and shrubs",
+          "caption": "That they may teach the young women ...",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 256×183 raster was normalized as an sRGB PNG at 150 ppi. The separately painted caption belongs in semantic HTML."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/bd7bc21c-5e26-46de-af8e-c1b13b47a349-2.jpg",
+          "public_path": "/images/articles/bd7bc21c-5e26-46de-af8e-c1b13b47a349-2.jpg",
+          "source_page": 24,
+          "role": "narrative engraving",
+          "alt": "A group of people seated around a dinner table as a woman serves them",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 375×325 one-component Separation JPEG was inverted to match the printed black-on-white rendering, converted to RGB/sRGB, and baseline-normalized at 150 ppi. The recurring curved Sisters’ Corner emblem is separate section furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The printed byline omits the umlaut, the opening quotation uses the semicolon in “reads thus;”, and “After awhile” is one word; all were preserved.",
+        "section_note": "The recurring curved Sisters’ Corner emblem was omitted as section furniture while the house illustration and its exact caption were retained.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow and FFmpeg and were visually compared with printed page 24."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Woman",
+            "slug": "woman"
+          },
+          "additional": [
+            {
+              "name": "Family",
+              "slug": "family"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Marriage",
+          "Submission",
+          "Witness",
+          "Meekness"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "0ac5c487-fc42-4da2-a3b2-8dbb14b5db2a",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 15,
+      "title": "Feb 6, 1736",
+      "subtitle": "At sea, on the way to Georgia ...",
+      "section": "Journal of John Wesley",
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "John Wesley",
+            "location": null,
+            "role": "Journal author"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 25
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "0648d4df-242a-5815-8d22-08b555d1b542"
+        ]
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "2d618de9-d2ad-5342-8b76-5a2dbccd9123",
+        "102f0529-3552-5cea-aef3-867de018b9d4",
+        "1404e2c2-852e-5d57-a2ac-dc54d2d91357"
+      ],
+      "html": {
+        "repository_path": "content/articles/0ac5c487-fc42-4da2-a3b2-8dbb14b5db2a.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "title_note": "The authoritative content-page title has no period after “Feb”; the table of contents form “Feb. 6, 1736” was not substituted.",
+        "authorship_note": "The printed recurring/source label “Journal of John Wesley” supports structured authorship; no standalone byline was invented."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Testimony",
+            "slug": "testimony"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            },
+            {
+              "name": "Non-resistance",
+              "slug": "non-resistance"
+            }
+          ]
+        },
+        "topics": [
+          "Faith",
+          "Storms",
+          "Nonresistance",
+          "Humility"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "3e31e263-0674-4450-b667-797beb52adbb",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 17,
+      "title": "Kingdom-Focused Finances for the Family",
+      "subtitle": null,
+      "section": "The Book Shelf",
+      "byline": {
+        "raw": "A book review by Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 29
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "649d37ab-7011-545e-8f58-c9f374fd3bfe",
+        "e16fa525-448d-504a-8ebc-927c62ec6e8f",
+        "fcb14cac-5da0-56fe-ac86-f3d0b99d4bfd",
+        "ec427e9b-466a-536c-9fdf-d5757d4fdfe3"
+      ],
+      "html": {
+        "repository_path": "content/articles/3e31e263-0674-4450-b667-797beb52adbb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/3e31e263-0674-4450-b667-797beb52adbb-1.jpg",
+          "public_path": "/images/articles/3e31e263-0674-4450-b667-797beb52adbb-1.jpg",
+          "source_page": 27,
+          "role": "book cover",
+          "alt": "Cover of Kingdom-Focused Finances for the Family by Gary Miller",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 375×563 cover was baseline-normalized as a three-component sRGB JPEG at 150 ppi. Intrinsic cover typography was retained and the separate drop-shadow/layout mask was excluded."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/3e31e263-0674-4450-b667-797beb52adbb-2.jpg",
+          "public_path": "/images/articles/3e31e263-0674-4450-b667-797beb52adbb-2.jpg",
+          "source_page": 28,
+          "role": "crossed-out bottle illustration",
+          "alt": "An unlabeled bottle crossed out with a large black X",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The clean embedded 300×641 illustration, including its intrinsic black X, was baseline-normalized as a three-component sRGB JPEG at 150 ppi. The separately painted handwritten quotation repeats body wording and was not baked into the export."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "title_note": "The content page has the recurring section label and no conventional title line; repository precedent and the opening sentence support the full reviewed-book title, while the contents page abbreviates it as “Kingdom-Focused Finances” followed by “Book Review.”",
+        "pull_quote_note": "Decorative pull quotes on pages 28–29 repeat wording already retained in the review and were not duplicated.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow and FFmpeg, are baseline three-component sRGB JPEGs at 150 ppi, and were visually compared with printed pages 27–28."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Book reviews",
+            "slug": "book-reviews"
+          },
+          "additional": [
+            {
+              "name": "Family",
+              "slug": "family"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Book review",
+          "Contentment",
+          "Kingdom Christianity",
+          "Self-denial"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "796e0eb9-9ac4-4126-8c9b-a54386c66cb2",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 19,
+      "title": "The Christian Response to Caring for the Elderly",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Peter Jansz Twisck (1565-1636)",
+        "authors": [
+          {
+            "name": "Peter Jansz Twisck",
+            "location": null,
+            "role": null,
+            "birth_year": 1565,
+            "death_year": 1636
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "e8455dc3-9ea9-50ad-8b49-ca5277a6a3fd",
+        "b4aa9e61-ec48-525e-b668-5ebb9000b91c",
+        "1a6d8df1-7179-53c8-969e-274ba40d4d4f",
+        "1a1d264f-0e01-5b22-bbe4-c8a36c76744a"
+      ],
+      "html": {
+        "repository_path": "content/articles/796e0eb9-9ac4-4126-8c9b-a54386c66cb2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/796e0eb9-9ac4-4126-8c9b-a54386c66cb2-1.jpg",
+          "public_path": "/images/articles/796e0eb9-9ac4-4126-8c9b-a54386c66cb2-1.jpg",
+          "source_page": 32,
+          "role": "opening illustration",
+          "alt": "Children arrive with luggage as an elderly couple stand by a garden gate",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 511×291 one-component Separation JPEG was inverted to match print, converted to RGB/sRGB, and baseline-normalized at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/796e0eb9-9ac4-4126-8c9b-a54386c66cb2-2.jpg",
+          "public_path": "/images/articles/796e0eb9-9ac4-4126-8c9b-a54386c66cb2-2.jpg",
+          "source_page": 33,
+          "role": "continuation illustration",
+          "alt": "Three people mock or gesture at an older woman",
+          "caption": "Never mock the mind weakened by age.",
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, source, copyright mark, or separate-permission wording is printed. The page-2 masthead states generally, “Some images ©2001-2011 / www.clipart.com / www.sxc.hu,” but does not identify which source, if either, applies to this image. The embedded 525×242 one-component Separation JPEG was inverted to match print, converted to RGB/sRGB, and baseline-normalized at 150 ppi. The exact caption is separately painted and retained semantically; the boxed quotation elsewhere on the page is separate typography."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "source_oddities_note": "The source’s unmatched quotation spacing in “Mother doesn’t know what she is doing. “ “They both don’t understand.”” was preserved exactly.",
+        "caption_note": "The exact image-2 caption was retained; the separate boxed quotation that repeats body wording was not duplicated.",
+        "image_decode_note": "Both final images fully decoded without warnings in Pillow and FFmpeg, are baseline three-component sRGB JPEGs at 150 ppi, and were visually compared with printed pages 32–33."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Family",
+            "slug": "family"
+          },
+          "additional": [
+            {
+              "name": "Parenting",
+              "slug": "parenting"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Parent-child Relationship",
+          "Honor",
+          "Service",
+          "Respect"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "78f9f69c-fb93-4e61-847e-b1c74a18aab5",
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 20,
+      "title": "Love is Like a Breath of Heaven",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "Unknown\nUnknown\nHar. Mike Atnip",
+        "authors": [
+          {
+            "name": "Unknown",
+            "location": null,
+            "role": "Words and music"
+          },
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": "Harmonizer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "2c9550e4-1450-557f-8363-1fb690ef5eb8",
+        "64af4c5a-115b-50b0-ae07-5d75a56b13aa",
+        "6cacc347-89dd-528b-89ff-fe7d5e7573f3"
+      ],
+      "html": {
+        "repository_path": "content/articles/78f9f69c-fb93-4e61-847e-b1c74a18aab5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/78f9f69c-fb93-4e61-847e-b1c74a18aab5-1.png",
+          "public_path": "/images/articles/78f9f69c-fb93-4e61-847e-b1c74a18aab5-1.png",
+          "source_page": 34,
+          "role": "rendered sheet music",
+          "alt": "Sheet music and lyrics for Love is Like a Breath of Heaven",
+          "caption": null,
+          "credit": "Unknown\nUnknown\nHar. Mike Atnip",
+          "rights_note": "The score prints two separate “Unknown” credits and “Har. Mike Atnip”; no licence, copyright, or separate-permission notice appears. The meaningful vector/font-based score region was rendered and cropped at 300 dpi as an sRGB PNG, retaining its title, credits, notation, and aligned lyrics while excluding the recurring section banner, commentary, footer, and page number."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "credit_note": "The two printed “Unknown” credits and “Har. Mike Atnip” were preserved; Mike Atnip is structured only as the explicitly identified harmonizer.",
+        "source_oddities_note": "The score’s apparent “pattient” spelling and its straight apostrophe glyphs in the lyrics were preserved without correction.",
+        "lyrics_note": "The six simultaneous verse texts and two closing lines were linearized semantically with exact wording and line structure while the complete score remains available as the 300 dpi figure.",
+        "image_decode_note": "The final PNG fully decoded without warnings in Pillow and FFmpeg and was visually compared with printed page 34."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          "additional": [
+            {
+              "name": "Spiritual exercise",
+              "slug": "spiritual-exercise"
+            },
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Hymn",
+          "Music",
+          "Love",
+          "Christian Conduct"
+        ]
+      },
+      "language": "en"
+    },
+    {
       "id": "e905899f-5f2b-42a4-a2b2-3a0af7f0e0e3",
       "issue_id": "14962b7b-2d94-5b43-a4c6-bbb78f074d1a",
       "sequence": 1,
@@ -38436,6 +39957,59 @@
       "reason": "Article-specific permission notice was detected.",
       "detected_notices": [
         "Reprinted with permission of Keepers At Home magazine."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 2,
+      "title": "The Rich Family in Church",
+      "byline": "By Eddie (Smith) Ogan",
+      "source_pages": {
+        "start": 4,
+        "end": 5
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "This story is used by permission of the author."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 16,
+      "title": "The Peacock Christian",
+      "byline": null,
+      "source_pages": {
+        "start": 26,
+        "end": 26
+      },
+      "reason": "Article-specific permission and copyright notice was detected.",
+      "detected_notices": [
+        "© Blake Coffee. Used by permission. Website: churchwhisperer.com"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "163bdfd6-5586-4f17-9423-c824e92ab992",
+      "sequence": 18,
+      "title": "Helping Students “Get It”",
+      "byline": "John Stonestreet",
+      "source_pages": {
+        "start": 30,
+        "end": 35,
+        "pages": [
+          30,
+          31,
+          35
+        ]
+      },
+      "reason": "Article-specific permission notice was detected.",
+      "detected_notices": [
+        "Originally published in Pulpit Helps magazine, now Disciple magazine, May 2009. www.disciplemagazine.com. Used by permission."
       ],
       "html_exported": false,
       "images_exported": false
