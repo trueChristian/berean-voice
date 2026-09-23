@@ -39,11 +39,17 @@ jobs:
         run: |
           set -euo pipefail
           python3 -m unittest discover -s tests -v 2>&1 | tee .build/validation/tests.txt
-      - name: Verify deterministic committed projections
+      - name: Verify deterministic build-only projections without changing source
         run: |
           set -euo pipefail
           python3 tools/archive.py derive
-          git diff --exit-code -- navigation.json manifest.json
+          cp .build/derived/manifest.json .build/validation/derived-manifest.json
+          cp .build/derived/navigation.json .build/validation/derived-navigation.json
+          python3 tools/archive.py derive
+          cmp .build/derived/manifest.json .build/validation/derived-manifest.json
+          cmp .build/derived/navigation.json .build/validation/derived-navigation.json
+          git diff --exit-code
+          test -z "$(git ls-files -- manifest.json navigation.json)"
       - name: Verify the root-domain display export
         run: |
           set -euo pipefail
@@ -72,7 +78,7 @@ jobs:
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as output:
               output.write('## Archive contract passed\n\n')
               output.write(f"Validated {counts['articles']} articles, {counts['images']} images, {counts['issues']} issues, and {counts['skipped']} skipped audit records.\n\n")
-              output.write('Regression tests, deterministic projections, and both display-only export base paths passed. No source files were committed and no website was deployed.\n')
+              output.write('Regression tests, deterministic build outputs, and both display-only export base paths passed. No source files were committed and no website was deployed.\n')
           PY
       - name: Upload validation evidence only
         if: always()
