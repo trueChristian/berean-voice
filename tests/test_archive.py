@@ -70,9 +70,25 @@ class ArchiveTests(unittest.TestCase):
 
     def test_derive_is_deterministic(self):
         self.migrate()
-        before = [(self.root / name).read_bytes() for name in ("manifest.json", "navigation.json")]
+        before = [(self.root / ".build" / "derived" / name).read_bytes() for name in ("manifest.json", "navigation.json")]
         archive.derive(self.root)
-        self.assertEqual(before, [(self.root / name).read_bytes() for name in ("manifest.json", "navigation.json")])
+        self.assertEqual(before, [(self.root / ".build" / "derived" / name).read_bytes() for name in ("manifest.json", "navigation.json")])
+
+    def test_stale_root_projections_cannot_block_valid_content(self):
+        self.migrate()
+        for name in ("manifest.json", "navigation.json"):
+            (self.root / name).write_text("not valid JSON, obsolete file")
+        archive.validate(self.root)
+        output = Path(self.temp.name) / "no-maintenance-export"
+        archive.export(self.root, output, "/", REVISION)
+        self.assertEqual(archive.load(output / "manifest.json")["counts"]["articles"], 2)
+
+    def test_derive_never_writes_editorial_root(self):
+        self.migrate()
+        archive.derive(self.root)
+        self.assertFalse((self.root / "manifest.json").exists())
+        self.assertFalse((self.root / "navigation.json").exists())
+        self.assertTrue((self.root / ".build/derived/manifest.json").is_file())
 
     def test_registry_ids_survive_label_change(self):
         self.migrate()
@@ -84,12 +100,13 @@ class ArchiveTests(unittest.TestCase):
         archive.derive(self.root)
         self.assertEqual(archive.validate(self.root)[1]["categories"][0]["id"], identity)
 
-    def test_stale_manifest_rejected(self):
+    def test_human_wording_edit_needs_no_generated_file_update(self):
         self.migrate()
         path = self.root / f"{archive.ARTICLE_ROOT}/{A}.html"
         path.write_text(path.read_text().replace("Faith", "Hope"))
-        with self.assertRaisesRegex(archive.ContractError, "stale"):
-            archive.validate(self.root)
+        result = archive.validate(self.root)
+        self.assertEqual(result[2]["counts"]["articles"], 2)
+        self.assertFalse((self.root / "manifest.json").exists())
 
     def test_orphaned_and_missing_images_rejected(self):
         self.migrate()
@@ -138,7 +155,7 @@ class ArchiveTests(unittest.TestCase):
 
     def test_navigation_previous_next_and_shared_groups(self):
         self.migrate()
-        navigation = archive.load(self.root / "navigation.json")
+        navigation = archive.load(self.root / ".build/derived/navigation.json")
         self.assertEqual(navigation["articles"][A]["next_in_issue"], B)
         self.assertEqual(navigation["articles"][B]["previous_in_issue"], A)
         self.assertEqual(list(navigation["categories"].values()), [[A, B]])
@@ -173,7 +190,7 @@ class ArchiveTests(unittest.TestCase):
 
     def test_export_is_blocked_before_output_on_validation_error(self):
         self.migrate()
-        (self.root / "manifest.json").write_text("{}")
+        (self.root / f"{archive.ARTICLE_ROOT}/{A}.html").write_text("<script>invalid</script>")
         destination = Path(self.temp.name) / "blocked"
         with self.assertRaises(archive.ContractError):
             archive.export(self.root, destination, "/", REVISION)

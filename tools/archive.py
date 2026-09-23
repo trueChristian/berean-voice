@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate, fingerprint and export the English archive (Python 3.11+, stdlib only).
+"""Validate and export English content; generated data is build output, not source.
 
 This is not a PDF extractor, translator, HTML renderer or website deployer.
 """
@@ -230,7 +230,7 @@ def category_ids(article: dict[str, Any]) -> list[str]:
     return [article["categories"]["primary"], *article["categories"]["additional"]]
 
 
-def validate(root: Path, derived: bool = True) -> tuple[dict[str, Any], dict[str, Any], dict[str, Any]]:
+def validate(root: Path, derived: bool = False) -> tuple[dict[str, Any], dict[str, Any], dict[str, Any]]:
     root = root.resolve()
     index = load(safe_file(root, "index.json"))
     catalogue = load(safe_file(root, "catalogue.json"))
@@ -366,10 +366,8 @@ def validate(root: Path, derived: bool = True) -> tuple[dict[str, Any], dict[str
         "articles": dict(sorted(fingerprints.items())),
     }
     manifest["content_sha256"] = object_digest(manifest)
-    navigation = build_navigation(index, catalogue, manifest["content_sha256"])
-    if derived:
-        require(safe_file(root, "manifest.json").read_bytes() == json_bytes(manifest), "manifest.json is stale; run tools/archive.py derive")
-        require(safe_file(root, "navigation.json").read_bytes() == json_bytes(navigation), "navigation.json is stale; run tools/archive.py derive")
+    # Validate authoritative inputs only. The legacy derived argument is accepted
+    # for callers, but root-level generated files are neither read nor required.
     return index, catalogue, manifest
 
 
@@ -404,8 +402,12 @@ def build_navigation(index: dict[str, Any], catalogue: dict[str, Any], source_ha
 
 def derive(root: Path) -> dict[str, Any]:
     index, catalogue, manifest = validate(root, derived=False)
-    write_json(root / "manifest.json", manifest)
-    write_json(root / "navigation.json", build_navigation(index, catalogue, manifest["content_sha256"]))
+    destination = root / ".build" / "derived"
+    require(not (root / ".build").is_symlink() and not destination.is_symlink(), "Build output cannot be a symlink")
+    for name in ("manifest.json", "navigation.json"):
+        require(not (destination / name).is_symlink(), "Build output cannot be a symlink")
+    write_json(destination / "manifest.json", manifest)
+    write_json(destination / "navigation.json", build_navigation(index, catalogue, manifest["content_sha256"]))
     return manifest
 
 
@@ -429,7 +431,7 @@ def export(root: Path, destination: Path, base: str, revision: str | None = None
         actual = git(root, "rev-parse", "HEAD").decode().strip()
         require(revision is None or revision == actual, "Explicit revision does not match the checkout")
         revision = actual
-        managed = ["index.json", "catalogue.json", "manifest.json", "navigation.json", ARTICLE_ROOT, IMAGE_ROOT]
+        managed = ["index.json", "catalogue.json", ARTICLE_ROOT, IMAGE_ROOT]
         require(not git(root, "status", "--porcelain", "--untracked-files=all", "--", *managed).strip(), "Archive content is dirty; commit it before exporting")
     require(isinstance(revision, str) and bool(re.fullmatch(r"[0-9a-f]{40}", revision)), "Export requires the exact 40-character source commit SHA")
     destination.parent.mkdir(parents=True, exist_ok=True)
@@ -457,7 +459,7 @@ def export(root: Path, destination: Path, base: str, revision: str | None = None
         output_catalogue.pop("review_candidates", None)
         write_json(stage / "index.json", output_index)
         write_json(stage / "catalogue.json", output_catalogue)
-        shutil.copyfile(root / "navigation.json", stage / "navigation.json")
+        write_json(stage / "navigation.json", build_navigation(index, catalogue, manifest["content_sha256"]))
         output_manifest = {
             "format_version": VERSION,
             "source_repository": "https://github.com/trueChristian/berean-voice",
