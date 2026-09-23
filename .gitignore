@@ -1,3 +1,7 @@
 .build/
 __pycache__/
 *.py[cod]
+
+# Generated consumer metadata is build output, never an editorial input.
+/manifest.json
+/navigation.json

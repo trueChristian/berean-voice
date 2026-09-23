@@ -29,7 +29,7 @@ For each supplied issue, complete all of the following:
 3. Exclude every article carrying an article-specific reuse restriction.
 4. Visually transcribe every eligible article into semantic HTML without changing its text.
 5. Export and associate its images.
-6. Update the authoritative article catalogue `index.json` and canonical grouping registry `catalogue.json`, then regenerate `navigation.json` and `manifest.json`.
+6. Update the authoritative article catalogue `index.json` and canonical grouping registry `catalogue.json`, no hash or navigation regeneration is required.
 7. Validate text, formatting, metadata, files, links, and exclusions.
 8. Create a branch from the latest default branch, commit the finished work, push it, and open a draft pull request.
 9. Report exactly what was included, skipped, verified, and left uncertain.
@@ -46,7 +46,7 @@ Permitted aids include:
 - inspecting the PDF text layer or OCR output to locate possible text;
 - extracting embedded image assets;
 - cropping or rendering a relevant image region;
-- calculating hashes and dimensions; and
+- inspecting image dimensions and calculating the supplied PDF checksum automatically as ingestion provenance (never a maintained article checksum); and
 - using validation tools to parse JSON/HTML and verify IDs, paths, and links.
 
 AI must make and visually verify the decisions about article eligibility, article boundaries, reading order, wording, punctuation, formatting, image ownership, captions, credits, and categories. Never trust mechanically extracted text without checking it against the rendered page.
@@ -170,8 +170,6 @@ AGENTS.md
 README.md
 index.json
 catalogue.json
-navigation.json
-manifest.json
 content/articles/<article-uuid>.html
 public/images/articles/<article-uuid>-1.jpg
 tools/
@@ -182,12 +180,20 @@ docs/downstream-contract.md
 
 - `index.json` is the authoritative article catalogue and skipped-article audit trail.
 - `catalogue.json` is the authoritative registry for issues, categories, topics and series. Issue provenance lives here, not in a second editable issue list.
-- `navigation.json` and `manifest.json` are deterministic generated projections. Never hand-edit them. Run `python3 tools/archive.py derive` after changing content or metadata.
+- Do not commit `navigation.json` or `manifest.json`. They are disposable build outputs, generated automatically when a downstream consumer exports the archive. Translation automation computes and stores its own article fingerprints. Editors and ingestion agents do not calculate or maintain article hashes.
 - Do not create per-article JSON files, category folders, translated article files, website templates, or deployment code.
 - HTML belongs directly under `content/articles/`; image files belong directly under `public/images/articles/`.
 - Do not put dates, titles, authors, or categories in filenames. Do not commit source PDFs or intermediate extraction artifacts.
 - Keep `format_version` at `2.0`; do not redesign the schema or restructure the repository during ordinary ingestion.
 - Website consumers read the index, registry, HTML and assets from the same immutable commit. Do not copy unindexed files into exports.
+
+## Human maintenance and generated data
+
+For a transcription correction, edit the matching HTML. Edit `index.json` only when article metadata changes; edit `catalogue.json` only when issue/grouping metadata changes. Commit those ordinary source changes. There is no hash update, derivation command, or generated-file commit in the editor's workflow. The source-fidelity and rights rules still apply.
+
+Consumers always select current `main`, then internally use one consistent checkout for that run. The translation repository discovers article IDs from `index.json`, computes fingerprints from current English HTML and relevant metadata, and owns all translated/current/changed statuses. Source editing never waits for translations.
+
+When rebasing a pre-change extraction PR, drop its changes to the removed `manifest.json` and `navigation.json`; never reintroduce those files. Preserve the actual article/index/catalogue/image additions. Real competing editorial changes still require review; generated fingerprints must not create such conflicts.
 
 ## UUID and filename rules
 
@@ -271,7 +277,7 @@ All article references use canonical UUIDs: `issue_id`, `categories.primary`, ea
 
 Historical `source_labels` preserve the pre-migration category/topic/series metadata for provenance. They are not a second navigation catalogue and are not a claim that these labels were printed. Never overwrite those historical values merely to rename a navigation label. New articles may retain their actual original assignments here as well; all public grouping uses the canonical IDs.
 
-Every included article has `language: "en"`. Translation statuses and translated bodies belong in the separate translation repository, keyed by the unchanged article UUID and the source fingerprints in `manifest.json`. A metadata or HTML change must not silently approve or overwrite translations.
+Every included article has `language: "en"`. Translation statuses and translated bodies belong in the separate translation repository, keyed by the unchanged article UUID. That repository computes its own source fingerprints automatically from the English content. A metadata or HTML change must not silently approve or overwrite translations.
 
 ### Issue metadata
 
@@ -361,7 +367,7 @@ Complete every applicable check before committing:
 5. Visually compare every included article's text with the PDF page by page.
    Treat any changed, added, omitted, reordered, or silently corrected source text as a blocking copyright failure. Publication may proceed only after the HTML is corrected to match the PDF exactly.
 6. Visually compare meaningful formatting, paragraph order, headings, captions, poetry/lyrics lines, notes, and emphasis.
-7. Parse `index.json` and `catalogue.json` successfully and validate canonical references. Run `python3 tools/archive.py derive` followed by `python3 tools/archive.py validate` and `python3 -m unittest discover -s tests -v`. Generated navigation and fingerprints must match this exact content tree.
+7. Parse `index.json` and `catalogue.json` successfully and validate canonical references. Run `python3 tools/archive.py validate` and `python3 -m unittest discover -s tests -v`. CI performs these structural checks and verifies exports automatically. A normal English edit never requires regeneration or a matching saved manifest.
 8. Validate every UUID and confirm global uniqueness.
 9. Confirm each UUID matches its index record, HTML filename, HTML `data-article-id`, and image filename prefixes.
 10. Confirm every indexed HTML path exists, every HTML file is indexed exactly once, and no HTML file is orphaned.
@@ -385,7 +391,7 @@ An extraction request that invokes this file authorizes the normal repository de
 
 1. Refresh the latest remote default branch and check whether the intended issue is already present.
 2. Resume an existing matching open extraction branch or pull request when one is found. Otherwise create a new branch from the latest default branch using `agent/extract-<issue-date-or-name>`, unless the user explicitly identifies a different existing branch or pull request to update.
-3. Stage only the finished HTML files, image files, `index.json`, changed canonical records in `catalogue.json`, regenerated `navigation.json` and `manifest.json`, and a repository-contract clarification genuinely needed in `README.md` or `AGENTS.md`. Do not edit tools or tests just to bypass a validation failure.
+3. Stage only the finished HTML files, image files, `index.json`, changed canonical records in `catalogue.json`, and a repository-contract clarification genuinely needed in `README.md` or `AGENTS.md`. Do not edit tools or tests just to bypass a validation failure.
 4. Do not edit `README.md` or this file merely to describe one newly ingested issue.
 5. Use a terse commit message describing the issue extraction.
 6. Run the verification gate on the exact committed tree.
