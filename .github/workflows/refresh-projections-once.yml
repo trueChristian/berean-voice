@@ -1,0 +1,54 @@
+name: Repair archive projections once
+
+on:
+  push:
+    branches: [fix/refresh-archive-projections]
+    paths: [.github/workflows/refresh-projections-once.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repair-archive-projections-once
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    if: github.repository == 'trueChristian/berean-voice' && github.ref == 'refs/heads/fix/refresh-archive-projections'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Regenerate only the committed projections and verify source preservation
+        run: |
+          set -euo pipefail
+          mkdir -p .build/repair
+          baseline=e0c7fea116fa926d65fb8c46f9d10f02b03ef33b
+          git diff --exit-code "$baseline" -- AGENTS.md README.md index.json catalogue.json content public tools tests docs
+          python3 tools/archive.py derive | tee .build/repair/derive.json
+          python3 tools/archive.py validate | tee .build/repair/validate.json
+          python3 -m unittest discover -s tests -v 2>&1 | tee .build/repair/tests.txt
+          git diff --exit-code "$baseline" -- AGENTS.md README.md index.json catalogue.json content public tools tests docs
+          git diff --stat > .build/repair/diff-stat.txt
+          git diff -- manifest.json navigation.json > .build/repair/projections.patch
+          git add -- manifest.json navigation.json
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'fix: regenerate stale archive manifest and navigation'
+          python3 tools/archive.py export --output .build/root --base /
+          python3 tools/archive.py export --output .build/project --base /berean-voice/
+          python3 tools/archive.py derive
+          git diff --exit-code
+          git rev-parse HEAD > .build/repair/revision.txt
+          cp manifest.json navigation.json .build/repair/
+          git push origin HEAD:refs/heads/fix/refresh-archive-projections
+          printf '## Archive projection repair verified\n\nOnly generated manifest/navigation changed. Source index, registry, articles, images and instructions are unchanged. Full validation, regression suite and root/project exports passed. No merge or default-branch write.\n' >> "$GITHUB_STEP_SUMMARY"
+      - name: Retain exact repair and test evidence
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: archive-projection-repair
+          path: .build/repair/
+          include-hidden-files: true
+          retention-days: 14
