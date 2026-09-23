@@ -1,0 +1,75 @@
+name: Apply reviewed index-driven maintenance once
+on:
+  push:
+    branches: [agent/extract-2010-11-remnant]
+    paths: [.github/workflows/apply-index-driven-once.yml]
+permissions:
+  contents: write
+jobs:
+  apply:
+    if: github.repository == 'trueChristian/berean-voice' && github.ref == 'refs/heads/agent/extract-2010-11-remnant'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: agent/extract-2010-11-remnant
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Apply exactly reviewed maintenance edits and preserve the issue content
+        env:
+          EXPECTED_HEAD: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$EXPECTED_HEAD"
+          echo '9c273df83b0d2c8ea4ef2375b29b7e47840e35d8f82c6785af5ac741c4b43e82  .maintenance/index-driven-edits.zip' | sha256sum -c -
+          python3 -m zipfile -e .maintenance/index-driven-edits.zip .build/edit-transport
+          python3 .build/edit-transport/apply.py
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --pathspec-from-file=.build/edit-transport/paths.txt
+          git commit -m 'refactor: make source maintenance independent of generated hashes'
+          git fetch origin main
+          test "$(git rev-parse origin/main)" = eb23aab96e0b034bf62890204f19e744aa33517c
+          # Rebase the existing issue PR, resolving ONLY obsolete generated files.
+          # Real source conflicts abort instead of selecting either editor's text.
+          set +e
+          GIT_EDITOR=: git rebase --onto origin/main e0c7fea116fa926d65fb8c46f9d10f02b03ef33b
+          result=$?
+          set -e
+          while [ "$result" -ne 0 ]; do
+            test -d .git/rebase-merge || test -d .git/rebase-apply
+            mapfile -t conflicts < <(git diff --name-only --diff-filter=U)
+            test "${#conflicts[@]}" -gt 0
+            for file in "${conflicts[@]}"; do
+              case "$file" in
+                manifest.json|navigation.json)
+                  if git cat-file -e ":3:$file" 2>/dev/null; then
+                    git checkout --theirs -- "$file"
+                    git add -- "$file"
+                  else
+                    git rm -- "$file"
+                  fi
+                  ;;
+                *) echo "Source conflict requires review: $file" >&2; exit 1 ;;
+              esac
+            done
+            set +e
+            GIT_EDITOR=: git rebase --continue
+            result=$?
+            set -e
+          done
+          git diff --exit-code 3afb907abe811a27a9bba83e98861e75b3a53893 HEAD -- index.json catalogue.json content public
+          test -z "$(git ls-files -- manifest.json navigation.json)"
+          python3 tools/archive.py validate
+          python3 -m unittest discover -s tests -v 2>&1 | tee .build/edit-transport/tests.txt
+          git push --force-with-lease="refs/heads/agent/extract-2010-11-remnant:$EXPECTED_HEAD" origin HEAD:refs/heads/agent/extract-2010-11-remnant
+          git rev-parse HEAD > .build/edit-transport/published-head.txt
+          git log -5 --oneline > .build/edit-transport/commits.txt
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a
+        if: always()
+        with:
+          name: index-driven-maintenance-result
+          path: .build/edit-transport/
+          include-hidden-files: true
+          retention-days: 7
