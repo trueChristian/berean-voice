@@ -1215,6 +1215,35 @@
       },
       "source_id": "heartbeat-remnant-2007-special-edition",
       "slug": "heartbeat-remnant-2007-special-edition"
+    },
+    {
+      "id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Ministries",
+      "date": {
+        "label": "September/October 2010",
+        "year": 2010,
+        "months": [
+          9,
+          10
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 16,
+      "issue_number": 5,
+      "source": {
+        "filename": "2010-09-Remnant.pdf",
+        "sha256": "efe69e6938a33737718572e01b6e7425d288da241c7b57e60735e951f543d5fd",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      },
+      "source_id": "heartbeat-remnant-2010-09",
+      "slug": "heartbeat-remnant-2010-09"
     }
   ],
   "categories": [
