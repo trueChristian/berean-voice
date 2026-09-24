@@ -41847,6 +41847,923 @@
         "score_credit": "Mel. by Timothy Hoover; Arr. & Har. by John David Hoover and Edna Hoover"
       },
       "language": "en"
+    },
+    {
+      "id": "6db27583-d595-4584-b197-549a13143c4b",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Bro. Dean",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/6db27583-d595-4584-b197-549a13143c4b.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "958da9ad-3de2-4e1f-a3dc-c777af6d11ab",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 2,
+      "title": "What is the Gospel?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 33,
+        "pages": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          33
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "2c3d9994-b045-5a59-98dd-613836318f53",
+        "ff6ad80a-580c-5627-ae33-02ab80581a20",
+        "0077042a-c127-5c03-a910-92dc63cb4356"
+      ],
+      "html": {
+        "repository_path": "content/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-1.jpg",
+          "public_path": "/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-1.jpg",
+          "source_page": 4,
+          "role": "Question-mark illustration",
+          "alt": "Question mark illustration",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Invert /Separation grayscale PDF samples to match page, encode baseline RGB JPEG; original pixel dimensions maintained. question-mark illustration; p04 image object 18 is a scaled repetition of object 19 The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-2.jpg",
+          "public_path": "/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-2.jpg",
+          "source_page": 4,
+          "role": "Open Bible illustration",
+          "alt": "Open Bible illustration",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Invert /Separation grayscale PDF samples to match page, encode baseline RGB JPEG; original pixel dimensions maintained. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-3.jpg",
+          "public_path": "/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-3.jpg",
+          "source_page": 5,
+          "role": "Serpent illustration",
+          "alt": "Drawing of a snake’s head",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Invert /Separation grayscale PDF samples to match page, encode baseline RGB JPEG; original pixel dimensions maintained. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-4.jpg",
+          "public_path": "/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-4.jpg",
+          "source_page": 7,
+          "role": "Messenger illustration",
+          "alt": "Drawing of a man holding a heart",
+          "caption": "The Messiah would do a work of pure grace by transplanting his own heart into the heart of men who did nothing to deserve it.",
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-5.jpg",
+          "public_path": "/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-5.jpg",
+          "source_page": 8,
+          "role": "Historical battle illustration",
+          "alt": "Medieval town and battle scene",
+          "caption": "The beauty of the kingdom of God is not that the enemy is totally eradicated, but that Messiah’s kingdom is set up—and continues triumphant—smack in the middle of enemy territory!",
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-6.png",
+          "public_path": "/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-6.png",
+          "source_page": 9,
+          "role": "Voluntary obedience illustration",
+          "alt": "Drawing of rifles pointed toward people",
+          "caption": "Jesus will not set us before a firing squad, demanding obedience. We serve Him willingly or not at all!",
+          "credit": null,
+          "rights_note": "Original embedded source asset copied unchanged. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "public/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-7.png",
+          "public_path": "/images/articles/958da9ad-3de2-4e1f-a3dc-c777af6d11ab-7.png",
+          "source_page": 33,
+          "role": "Pit illustration",
+          "alt": "Small figure at the entrance to a dark pit",
+          "caption": "Man got himself into a pit from which he could not escape.",
+          "credit": null,
+          "rights_note": "Original embedded source asset copied unchanged. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "2e922d22-8801-4686-9c9f-2a123a258f7d",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 3,
+      "title": "Three Stories of Grace",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Kathleen Naylor, Myerstown, PA\nMark Naylor, Bethel, PA\nJoanne Smith, Monett, MO",
+        "authors": [
+          {
+            "name": "Kathleen Naylor",
+            "location": "Myerstown, PA",
+            "role": null
+          },
+          {
+            "name": "Mark Naylor",
+            "location": "Bethel, PA",
+            "role": null
+          },
+          {
+            "name": "Joanne Smith",
+            "location": "Monett, MO",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 33,
+        "pages": [
+          10,
+          11,
+          12,
+          13,
+          32,
+          33
+        ]
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "46c3d0eb-21b7-5812-8b12-335d5badc3d4",
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/2e922d22-8801-4686-9c9f-2a123a258f7d.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "eccdcd73-d0b6-41d3-b1b9-846efb218233",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 4,
+      "title": "Offcasts or Firstfruits?",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "—An Anonymous Firstfruit",
+        "authors": [
+          {
+            "name": "An Anonymous Firstfruit",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 16
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "be5ecbbb-b97b-5534-b066-beb46cabe236",
+        "e16fa525-448d-504a-8ebc-927c62ec6e8f"
+      ],
+      "html": {
+        "repository_path": "content/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233-1.jpg",
+          "public_path": "/images/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233-1.jpg",
+          "source_page": 14,
+          "role": "Spotted apple illustration",
+          "alt": "Spotted apple",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233-2.jpg",
+          "public_path": "/images/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233-2.jpg",
+          "source_page": 14,
+          "role": "Fresh apple illustration",
+          "alt": "Smooth fresh apple",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233-3.jpg",
+          "public_path": "/images/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233-3.jpg",
+          "source_page": 15,
+          "role": "Open Bible photograph",
+          "alt": "Open Bible photographed from a low angle",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233-4.jpg",
+          "public_path": "/images/articles/eccdcd73-d0b6-41d3-b1b9-846efb218233-4.jpg",
+          "source_page": 16,
+          "role": "Fruit photograph",
+          "alt": "Pineapple, pears, and citrus fruit",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "05bb94a7-a629-4c17-b6b2-d05a0e0c9d45",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 5,
+      "title": "Handmaid of the Lord",
+      "subtitle": "Behold the handmaid of the Lord; be it unto me according to thy word. Lu. 1:38",
+      "section": null,
+      "byline": {
+        "raw": "Sarah Raber",
+        "authors": [
+          {
+            "name": "Sarah Raber",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "be5ecbbb-b97b-5534-b066-beb46cabe236"
+      ],
+      "html": {
+        "repository_path": "content/articles/05bb94a7-a629-4c17-b6b2-d05a0e0c9d45.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "c830db53-56e5-4b70-8021-8471740a3aa3",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 6,
+      "title": "Modesty for Men",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 23
+      },
+      "categories": {
+        "primary": "976a7e08-e662-50b6-a13d-c787f72c7666",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "8b345ddb-8046-5651-b04f-924af67af18b",
+        "30d1fd3e-fcf3-5720-b5d2-98c838f94d6d",
+        "660c6413-c65e-547c-8bed-077b85300559"
+      ],
+      "html": {
+        "repository_path": "content/articles/c830db53-56e5-4b70-8021-8471740a3aa3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c830db53-56e5-4b70-8021-8471740a3aa3-1.jpg",
+          "public_path": "/images/articles/c830db53-56e5-4b70-8021-8471740a3aa3-1.jpg",
+          "source_page": 18,
+          "role": "Two-page cartoon",
+          "alt": "Cartoon of two couples: a casually dressed man says, ‘Isn’t it terrible how the Muslims make their women dress conservative while the men look like everyone else?’ A woman replies, ‘Hmmmm ...’",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Joined original RGB image object 74 (page 18) and 78 (page 19) at common edge, no synthesized pixels; baseline RGB JPEG. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/c830db53-56e5-4b70-8021-8471740a3aa3-2.jpg",
+          "public_path": "/images/articles/c830db53-56e5-4b70-8021-8471740a3aa3-2.jpg",
+          "source_page": 21,
+          "role": "Workhorse photograph in article sidebar",
+          "alt": "Team of workhorses standing in a plowed field",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Invert /Separation grayscale PDF samples to match page, encode baseline RGB JPEG; original pixel dimensions maintained. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/c830db53-56e5-4b70-8021-8471740a3aa3-3.jpg",
+          "public_path": "/images/articles/c830db53-56e5-4b70-8021-8471740a3aa3-3.jpg",
+          "source_page": 23,
+          "role": "Two groups of people illustration",
+          "alt": "Illustration of a single figure standing between two separate lines of people",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Invert /Separation grayscale PDF samples to match page, encode baseline RGB JPEG; original pixel dimensions maintained. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "6fb626a6-774a-43be-8268-918f4adcaffc",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 7,
+      "title": "Free Indeed",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Krislyn Shank (age 17) Maryland",
+        "authors": [
+          {
+            "name": "Krislyn Shank",
+            "location": "Maryland",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "f17883d4-d170-5dff-b66c-e13eaa0557af"
+      ],
+      "html": {
+        "repository_path": "content/articles/6fb626a6-774a-43be-8268-918f4adcaffc.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "4cca26f0-52bc-4a15-a6d0-755ed7eb3385",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 8,
+      "title": "Mothers, Sing with Your Children!",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Kyndra Steinmann",
+        "authors": [
+          {
+            "name": "Kyndra Steinmann",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 26
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca"
+        ]
+      },
+      "topics": [
+        "2c9550e4-1450-557f-8363-1fb690ef5eb8",
+        "4f9300ad-a83d-56c6-8aeb-2907c08f2c04",
+        "ccdcfb82-dfbd-5f30-b4e5-e4b2e94a3081"
+      ],
+      "html": {
+        "repository_path": "content/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385-1.png",
+          "public_path": "/images/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385-1.png",
+          "source_page": 24,
+          "role": "Article music-note illustration",
+          "alt": "Musical notes printed above the article title.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source vector crop; no article text or page furniture. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385-2.jpg",
+          "public_path": "/images/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385-2.jpg",
+          "source_page": 25,
+          "role": "Child singing photograph",
+          "alt": "A young child sings while holding an open book.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385-3.jpg",
+          "public_path": "/images/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385-3.jpg",
+          "source_page": 25,
+          "role": "Child singing photograph",
+          "alt": "A young boy sings from an open book.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385-4.jpg",
+          "public_path": "/images/articles/4cca26f0-52bc-4a15-a6d0-755ed7eb3385-4.jpg",
+          "source_page": 26,
+          "role": "Child singing photograph",
+          "alt": "A young child singing.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "5bf8da8e-cd24-40e9-97d0-319b00f6d0af",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 9,
+      "title": "Sober Minded",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Stephen W. Geise\nLadybrand, South Africa",
+        "authors": [
+          {
+            "name": "Stephen W. Geise",
+            "location": "Ladybrand, South Africa",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 26
+      },
+      "categories": {
+        "primary": "64bf1f79-9265-5370-8de2-47084d62cece",
+        "additional": []
+      },
+      "topics": [
+        "7765eef1-b410-528e-bcde-39382c685de1"
+      ],
+      "html": {
+        "repository_path": "content/articles/5bf8da8e-cd24-40e9-97d0-319b00f6d0af.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "1c6bc9f7-00f7-490f-8b4e-97310b31eb9e",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 10,
+      "title": "Ah, That Motley Crew!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—James Troyer\n—Santiago, Costa Rica",
+        "authors": [
+          {
+            "name": "James Troyer",
+            "location": "Santiago, Costa Rica",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 27
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "89c5a9d7-0aa4-5760-bfe6-f868626b6d91",
+        "15fded78-2bae-5612-8e6d-863871109109"
+      ],
+      "html": {
+        "repository_path": "content/articles/1c6bc9f7-00f7-490f-8b4e-97310b31eb9e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/1c6bc9f7-00f7-490f-8b4e-97310b31eb9e-1.jpg",
+          "public_path": "/images/articles/1c6bc9f7-00f7-490f-8b4e-97310b31eb9e-1.jpg",
+          "source_page": 27,
+          "role": "Ship illustration",
+          "alt": "Sailors aboard the rigging and deck of a ship.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Invert /Separation grayscale PDF samples and reassemble retained source pieces with 1px PDF-coordinate overlap; encode baseline RGB JPEG. Reassembled base ship image objects 113 (529x333) and 114 (529x45), ordered top strip above main at PDF coordinates; object 115 is separate dark opacity/colour fade treatment omitted. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "fe1fac5f-5e0c-4074-a84f-c6afe94dc716",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 11,
+      "title": "The Birth, Life, and Death of the Bohemian Revival",
+      "subtitle": null,
+      "section": "The Book Shelf",
+      "byline": {
+        "raw": "Book review by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [
+        "649d37ab-7011-545e-8f58-c9f374fd3bfe",
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26",
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ],
+      "html": {
+        "repository_path": "content/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716-1.jpg",
+          "public_path": "/images/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716-1.jpg",
+          "source_page": 28,
+          "role": "Reviewed book cover",
+          "alt": "Cover of The Birth, Life, and Death of the Bohemian Revival",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716-2.jpg",
+          "public_path": "/images/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716-2.jpg",
+          "source_page": 29,
+          "role": "Peter Waldo statue photograph",
+          "alt": "Statue of Peter Waldo seated with an open book",
+          "caption": "Peter Waldo, pictured above, died in South Bohemia, having been chased there by persecution. For several centuries the Waldensians had held a torch of light in Europe. But it was dying out when the Bohemian revival occurred.",
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716-3.jpg",
+          "public_path": "/images/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716-3.jpg",
+          "source_page": 30,
+          "role": "John Huss historical illustration",
+          "alt": "Historical illustration of John Huss at the site of his execution",
+          "caption": "John Huss’ execution. On the paper cap is written “Haeresiarcha” (arch-heretic)\n\nJohn Huss began church reforms in Bohemia, but was killed before they were totally accomplished. After his death, the Bohemians had to decide whether to fight with the sword or follow Jesus. Sadly, only a small minority chose the latter.\nBut this little faithful group experienced a revival of primitive Christianity.",
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. John Huss execution illustration; white caption lettering intrinsic to the sole source raster The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716-4.jpg",
+          "public_path": "/images/articles/fe1fac5f-5e0c-4074-a84f-c6afe94dc716-4.jpg",
+          "source_page": 31,
+          "role": "Lollard evangelists illustration",
+          "alt": "Historical illustration of Lollard evangelists preparing to travel",
+          "caption": "Lollard evangelists, like those pictured above preparing to go forth, were one of the sparks of the Bohemian revival. Out of the Bohemian revival came the Moravian Brethren, who sent missionaries to many parts of the globe.",
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "publication_note": "The contents calls this a book review; the article page labels its illustrated section ‘The Book Shelf.’"
+    },
+    {
+      "id": "dda47f1b-68c2-491b-b85d-accf7a24f4db",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 12,
+      "title": "Letter from John Esh",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-Dave Esh\n-John Esh",
+        "authors": [
+          {
+            "name": "Dave Esh",
+            "location": null,
+            "role": "Introduction writer"
+          },
+          {
+            "name": "John Esh",
+            "location": null,
+            "role": "Letter writer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": []
+      },
+      "topics": [
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/dda47f1b-68c2-491b-b85d-accf7a24f4db.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/dda47f1b-68c2-491b-b85d-accf7a24f4db-1.jpg",
+          "public_path": "/images/articles/dda47f1b-68c2-491b-b85d-accf7a24f4db-1.jpg",
+          "source_page": 34,
+          "role": "Two-adult photograph",
+          "alt": "Two adults standing together.",
+          "caption": "“Brethren, my heart's desire\nand prayer to God for Israel is ...”",
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. Photograph of two adults standing together in the Letter from John Esh; the photo has no printed identification caption. Bottom white fade intrinsic to sole source raster. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "publication_note": "Title appears in the contents; the article page begins with an enlarged lead. The photo subjects are not identified in a printed caption."
+    },
+    {
+      "id": "0d0d5884-baa0-4a6d-8bd6-e68853060e6e",
+      "issue_id": "e0397047-e2ff-4ec0-bacc-8c286b979f15",
+      "sequence": 13,
+      "title": "Trust in God",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "Jeremiah Stump - 2010 (1994 -     )\nAnon.",
+        "authors": [
+          {
+            "name": "Jeremiah Stump",
+            "location": "near Denver, PA",
+            "role": null
+          },
+          {
+            "name": "Anon.",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "8ada4a0d-a538-532f-a615-13434b3cd997",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/0d0d5884-baa0-4a6d-8bd6-e68853060e6e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/0d0d5884-baa0-4a6d-8bd6-e68853060e6e-1.jpg",
+          "public_path": "/images/articles/0d0d5884-baa0-4a6d-8bd6-e68853060e6e-1.jpg",
+          "source_page": 35,
+          "role": "Printed music score and lyrics",
+          "alt": "Sheet music and five verses of Trust in God by Jeremiah Stump.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF-embedded RGB JPEG normalized to baseline RGB/sRGB, quality 93, 4:4:4, JFIF 150dpi; original dimensions, orientation, crop and image content visually preserved. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/0d0d5884-baa0-4a6d-8bd6-e68853060e6e-2.jpg",
+          "public_path": "/images/articles/0d0d5884-baa0-4a6d-8bd6-e68853060e6e-2.jpg",
+          "source_page": 35,
+          "role": "Songwriter portrait",
+          "alt": "Jeremiah Stump seated in front of a stone wall.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Joined two original RGB raster pieces at PDF coordinates, preserving all source pixels except overlap; baseline RGB JPEG. The masthead says ‘Some images ©2001-2010’ and lists www.clipart.com and www.sxc.hu without associating either source with a particular image. No image-specific licence is stated in the issue."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "publication_note": "Printed score also carries the credit ‘Anon.’"
     }
   ],
   "skipped": [
