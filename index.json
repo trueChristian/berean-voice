@@ -40938,6 +40938,915 @@
         ]
       },
       "language": "en"
+    },
+    {
+      "id": "ead77cbc-fa20-4919-ad5d-a220d48d9f14",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Bro. Dean",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/ead77cbc-fa20-4919-ad5d-a220d48d9f14.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "author_note": "Masthead names Dean Taylor as General Editor; signoff itself prints only Bro. Dean."
+      },
+      "language": "en"
+    },
+    {
+      "id": "34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 2,
+      "title": "The World Hates Humility",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "William Law",
+        "authors": [
+          {
+            "name": "William Law",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 8
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece",
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "1404e2c2-852e-5d57-a2ac-dc54d2d91357",
+        "2b7dcb93-6ed0-5d9c-8730-e901cbc7f860"
+      ],
+      "html": {
+        "repository_path": "content/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 4,
+          "role": "opening illustration",
+          "alt": "Jesus seated among disciples in a landscape illustration",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c-1.jpg",
+          "public_path": "/images/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c-1.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Four native PDF tiles assembled at printed coordinates; upper two grayscale separation JPEGs inverted, lower PNG tiles retained; baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "source_page": 5,
+          "role": "illustration",
+          "alt": "Horse drawn coach travelling along a rural road",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c-2.jpg",
+          "public_path": "/images/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c-2.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Native grayscale separation JPEG inverted to match source; normalized baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 3,
+          "source_page": 6,
+          "role": "illustration",
+          "alt": "Two goats standing on a fallen tree",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c-3.jpg",
+          "public_path": "/images/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c-3.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Native source JPEG normalized to baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 4,
+          "source_page": 7,
+          "role": "photograph with unique printed callout",
+          "alt": "Roadside Trinity Lutheran Church sign saying We Love and Serve the World",
+          "caption": "While the words on this sign were probably meant in a positive way, the reality of many churches is that they love and serve the lust of the flesh, the lust of the eye, and the pride of life.",
+          "credit": null,
+          "repository_path": "public/images/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c-4.png",
+          "public_path": "/images/articles/34f1dbb0-adf7-4ab0-a8b8-efc5b8b8725c-4.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original RGB PNG; the first T of TRINITY on left sign is already absent in the only source image and printed crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "publication_note": "This article is chapter 17 of Law’s book, A Serious Call to a Devout and Holy Life. It has been set to modern English and slightly abridged.",
+        "pull_quote_note": "P5 coach, p6 goats and both p8 gray boxes duplicate body wording and were not duplicated in semantic HTML."
+      },
+      "language": "en"
+    },
+    {
+      "id": "df617a56-01b8-4099-bbcd-137a08cbfb95",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 4,
+      "title": "But Mine Eye Spared Thee",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 15
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece",
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [
+        "cd42f468-6b2c-5f56-abf2-82062af463d1",
+        "9aeecc23-2b8e-5b54-9b5f-6d6b71f294ba"
+      ],
+      "html": {
+        "repository_path": "content/articles/df617a56-01b8-4099-bbcd-137a08cbfb95.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 12,
+          "role": "opening cave illustration",
+          "alt": "David approaches a sleeping Saul in a cave",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/df617a56-01b8-4099-bbcd-137a08cbfb95-1.jpg",
+          "public_path": "/images/articles/df617a56-01b8-4099-bbcd-137a08cbfb95-1.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Two grayscale separation JPEG tiles inverted and reassembled at their native PDF coordinates; normalized baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "source_page": 13,
+          "role": "Isaiah illustration",
+          "alt": "A cloaked figure kneels under a large saw",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/df617a56-01b8-4099-bbcd-137a08cbfb95-2.jpg",
+          "public_path": "/images/articles/df617a56-01b8-4099-bbcd-137a08cbfb95-2.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Small native JPEG saw-blade tile layered over the printed background image at matching PDF coordinates; normalized baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 3,
+          "source_page": 14,
+          "role": "parenting illustration",
+          "alt": "A parent kneels to pray with two children",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/df617a56-01b8-4099-bbcd-137a08cbfb95-3.png",
+          "public_path": "/images/articles/df617a56-01b8-4099-bbcd-137a08cbfb95-3.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original RGB PNG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Rendered and visually reviewed each of pp12–15 and compared wording against decoded text-layer aid. P15 independent titled box “Compassion defined!” transcribed in associated aside in full. Decorative pull quotes “Imagine Isaiah…,” “We tend…,” and “The time and place…” duplicate the body idea and were omitted to avoid duplicated text. Scripture citation is 1 Sa. 24:10. The source final line ends with a tilde sign-off. Images have stable insertion positions before verse, Isaiah discussion and parenting section. Images visually matched rendered source pages and clean embedded/reconstructed assets; full raster decode passed with Pillow and ImageMagick."
+      },
+      "language": "en"
+    },
+    {
+      "id": "0ee58c4e-995f-41e9-8811-45bc7e9412a6",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 5,
+      "title": "My Obituary",
+      "subtitle": null,
+      "section": "The Sister’s Corner",
+      "byline": {
+        "raw": "Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [
+        "88a2e3d1-aff7-5289-b0b9-4fad51772b76",
+        "10340eb3-62f2-5d38-8c0e-36ca3bd2503d"
+      ],
+      "html": {
+        "repository_path": "content/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 16,
+          "role": "recurring-column silhouette",
+          "alt": "Silhouette of a seated woman and child",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-1.png",
+          "public_path": "/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-1.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Vector silhouette rendered from page region at 300 ppi, cropped to the artwork only."
+        },
+        {
+          "sequence": 2,
+          "source_page": 16,
+          "role": "opening cottage illustration",
+          "alt": "Illustration of a cottage",
+          "caption": "That they may teach the young women ...",
+          "credit": null,
+          "repository_path": "public/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-2.png",
+          "public_path": "/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-2.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original RGB PNG."
+        },
+        {
+          "sequence": 3,
+          "source_page": 16,
+          "role": "fruit illustration",
+          "alt": "Illustration of a basket of fruit",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-3.jpg",
+          "public_path": "/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-3.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Grayscale separation JPEG inverted to match source; normalized baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 4,
+          "source_page": 17,
+          "role": "thorn illustration",
+          "alt": "Thorny branch illustration",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-4.png",
+          "public_path": "/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-4.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original RGB PNG."
+        },
+        {
+          "sequence": 5,
+          "source_page": 17,
+          "role": "mock obituary clipping",
+          "alt": "Mock obituary newspaper clipping for Mrs. Mary Christian",
+          "caption": "How would your obituary read?",
+          "credit": null,
+          "repository_path": "public/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-5.jpg",
+          "public_path": "/images/articles/0ee58c4e-995f-41e9-8811-45bc7e9412a6-5.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Complete grayscale separation base image inverted to match source, normalized baseline RGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Rendered and visually reviewed pp16–17 including italic Galatians quotation, two 14/18-item asterisk lists, bold Isaiah quotations, column tagline and faux newspaper clipping. Source text in the newspaper graphic remains visible inside the canonical image. Page 17 right text logically joins page 17 left at “I can visualize.” The final printed sign-off is a tilde. Source list asterisks preserved as text with meaningful line breaks, not converted to CSS bullets. Images visually matched rendered source pages and clean embedded/reconstructed assets; full raster decode passed with Pillow and ImageMagick."
+      },
+      "language": "en"
+    },
+    {
+      "id": "3796aabd-5cfe-4ba9-8950-adb774359f65",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 6,
+      "title": "Key Differences between Evangelicals and Anabaptists",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "By Nolan C. Martin",
+        "authors": [
+          {
+            "name": "Nolan C. Martin",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 20
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "0648d4df-242a-5815-8d22-08b555d1b542",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "3830db33-6732-5c44-a816-7457fd118c1a",
+        "6db2117c-b93c-5cd4-9883-77bea76742be"
+      ],
+      "html": {
+        "repository_path": "content/articles/3796aabd-5cfe-4ba9-8950-adb774359f65.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Rendered and visually reviewed pp18–20 including p18–19 two-page spread title and byline, three lettered interpretation points, numbered sections, bold/italic emphasis, three footnotes and the complete p20 editorial provenance note. The distinct signed binocular inset is sequence 7, separate HTML. No main-article image; all binocular images belong to the inset. Source sign-off is a tilde. P20 note says Nolan C. Martin attends Lichty’s Mennonite Church near Narvon, PA; article originally three-part response to online questions and all footnotes by The Heartbeat of the Remnant. Images visually matched rendered source pages and clean embedded/reconstructed assets; full raster decode passed with Pillow and ImageMagick."
+      },
+      "language": "en"
+    },
+    {
+      "id": "b473ca57-aba0-475d-89d6-32a3a75f7ac3",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 7,
+      "title": null,
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~DT",
+        "authors": [
+          {
+            "name": "DT",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": [
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "topics": [
+        "86676326-e0fe-523f-abd9-06fcd1a1db12",
+        "070854c3-dde7-5efd-a27d-30979196df0e"
+      ],
+      "html": {
+        "repository_path": "content/articles/b473ca57-aba0-475d-89d6-32a3a75f7ac3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 18,
+          "role": "binocular illustration at left of signed inset",
+          "alt": "A pair of black binoculars with small photographic scenes visible in the lenses",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/b473ca57-aba0-475d-89d6-32a3a75f7ac3-1.png",
+          "public_path": "/images/articles/b473ca57-aba0-475d-89d6-32a3a75f7ac3-1.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original RGB PNG."
+        },
+        {
+          "sequence": 2,
+          "source_page": 19,
+          "role": "binocular illustration at right of signed inset",
+          "alt": "A pair of black binoculars with people visible in both lenses",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/b473ca57-aba0-475d-89d6-32a3a75f7ac3-2.jpg",
+          "public_path": "/images/articles/b473ca57-aba0-475d-89d6-32a3a75f7ac3-2.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Native source JPEG normalized to baseline RGB JPEG at 150 ppi. Distinct printed view, not a duplicate of page 18."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Visually reconstructed the continuous text across the two facing pages in reading order; each printed line runs from the right part of page 18 into the left part of page 19. Preserve the ellipsis after 'legalistic' as one printed ellipsis glyph and the final ~DT initials. The inset has no printed heading; do not invent a title. Issue sequence 7 confirmed by the issue coordinator. Opened both final binocular images at original pixels and compared their distinct lens scenes, crops, orientation and colour with the facing printed pages. Inspected center, edges and corners for overlays (none found), checked browser-safe RGB/sRGB and full decode with both Pillow and ImageMagick without warnings."
+      },
+      "language": "en"
+    },
+    {
+      "id": "fdf03bc6-7f2d-403c-8254-462c961621a4",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 8,
+      "title": "An Appeal to American Anabaptists",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Roger Hertzler",
+        "authors": [
+          {
+            "name": "Roger Hertzler",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 21,
+        "end": 23
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0",
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [
+        "707deb0e-c6fb-5352-9320-1b6e01040963",
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e"
+      ],
+      "html": {
+        "repository_path": "content/articles/fdf03bc6-7f2d-403c-8254-462c961621a4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 21,
+          "role": "top-right grayscale illustration",
+          "alt": "Grayscale illustration of a robed figure kneeling in prayer beside a stone building",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/fdf03bc6-7f2d-403c-8254-462c961621a4-1.jpg",
+          "public_path": "/images/articles/fdf03bc6-7f2d-403c-8254-462c961621a4-1.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Grayscale separation JPEG inverted to match source; normalized baseline RGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Compared all three rendered printed pages with the transcription and reconciled word order and punctuation against the text layer as an aid. Preserve the printed wording 'If Satan cannot keep Christians from ignoring...' on page 23. Include all three unique Did you know? sidebars. Page 22 decorative quote 'A man can have many interests, but he can have only one passion!' repeats the body sentence 'A man can have many interests, but he can only have one passion.' with only the position of 'only' and terminal punctuation changed; it adds no substantive information. Page 23 decorative quote 'There waits for us a world to be won, a kingdom to be built, and a God to be glorified!' repeats the identical body words with a different terminal punctuation mark. Both decorative duplicates are omitted under AGENTS.md, preserving the body exactly. Opened final image at original pixels, compared crop, orientation, content and colours with rendered page 21; inspected center, edges and corners for overlays (none found; artist's marking is intrinsic), checked sRGB and full decode with both Pillow and ImageMagick without warnings."
+      },
+      "language": "en"
+    },
+    {
+      "id": "247894af-b04c-471f-8b3a-2cb62064364e",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 9,
+      "title": "Do You “Have to” or “Want to”?",
+      "subtitle": "An early Anabaptist tract on obedience, commonly attributed to Michael Sattler",
+      "section": null,
+      "byline": null,
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/247894af-b04c-471f-8b3a-2cb62064364e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 24,
+          "role": "opening illustration",
+          "alt": "A child and a man working together at a hand turned wheel",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/247894af-b04c-471f-8b3a-2cb62064364e-1.png",
+          "public_path": "/images/articles/247894af-b04c-471f-8b3a-2cb62064364e-1.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original RGB PNG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Footnote markers and all three footnotes are preserved; the p25 inset ‘How to Free Yourself from Legalism’ is a substantive associated sidebar, not a separate indexed article. The printed ‘bicylist’ and ‘ourself’ are preserved. No separate permission notice found through the final inset line.",
+        "attribution_note": "Common attribution to Michael Sattler is printed in the subtitle; no unequivocal byline is printed."
+      },
+      "language": "en"
+    },
+    {
+      "id": "c23035c3-67d1-4f67-a927-273f131952c2",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 10,
+      "title": "Entertainment or Eternity",
+      "subtitle": null,
+      "section": "My Journey",
+      "byline": {
+        "raw": "Ruth Anna Scott",
+        "authors": [
+          {
+            "name": "Ruth Anna Scott",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 27
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "topics": [
+        "d221092b-1c77-59a9-8b08-7c931b177669",
+        "79026687-5f1c-5c05-8305-c63a5d165b2c"
+      ],
+      "html": {
+        "repository_path": "content/articles/c23035c3-67d1-4f67-a927-273f131952c2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 26,
+          "role": "opening television illustration",
+          "alt": "Illustration of a television and audio equipment",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/c23035c3-67d1-4f67-a927-273f131952c2-1.png",
+          "public_path": "/images/articles/c23035c3-67d1-4f67-a927-273f131952c2-1.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original RGB PNG."
+        },
+        {
+          "sequence": 2,
+          "source_page": 26,
+          "role": "opening composite",
+          "alt": "Split image of a stormy sky and flames",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/c23035c3-67d1-4f67-a927-273f131952c2-2.jpg",
+          "public_path": "/images/articles/c23035c3-67d1-4f67-a927-273f131952c2-2.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Native complete foreground collage JPEG normalized to baseline RGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Hebrews epigraph and the extended Philippians quotation are retained with original spelling/case. The p27 star pull quote repeats the third paragraph's words and is not duplicated. No article-specific permission notice found through final ‘Oh Lord, may it be so!’"
+      },
+      "language": "en"
+    },
+    {
+      "id": "7793006e-9b0e-4ad7-a803-59c7b9e16969",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 11,
+      "title": "Given Her for a Covering",
+      "subtitle": "An exposition of 1 Corinthians 11:15",
+      "section": null,
+      "byline": {
+        "raw": "By Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 31
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "544542a5-c0c5-538f-88f9-26c76b329d70",
+        "e2572329-c2f0-54b0-a7b6-f16049983b92",
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c",
+        "b39a977d-c495-5061-b773-971cf4a191ce"
+      ],
+      "html": {
+        "repository_path": "content/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 28,
+          "role": "opening photograph of two women working outdoors",
+          "alt": "Two women in head coverings working outdoors with long-handled tools",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-1.jpg",
+          "public_path": "/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-1.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Grayscale separation JPEG inverted to match source; normalized baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 2,
+          "source_page": 28,
+          "role": "portrait beside discussion of unveiling",
+          "alt": "Portrait of a woman wearing a head covering",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-2.jpg",
+          "public_path": "/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-2.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Grayscale separation JPEG inverted to match source; normalized baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 3,
+          "source_page": 29,
+          "role": "painting of two women in head coverings",
+          "alt": "Painting of two women wearing head coverings",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-3.jpg",
+          "public_path": "/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-3.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Grayscale separation JPEG inverted to match source; normalized baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 4,
+          "source_page": 29,
+          "role": "painting of a seated woman indoors",
+          "alt": "Painting of a woman in a head covering seated indoors",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-4.jpg",
+          "public_path": "/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-4.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Grayscale separation JPEG inverted to match source; normalized baseline RGB JPEG at 150 ppi."
+        },
+        {
+          "sequence": 5,
+          "source_page": 31,
+          "role": "painting beside discussion of context and historical practice",
+          "alt": "Painting of a seated woman wearing a head covering",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-5.png",
+          "public_path": "/images/articles/7793006e-9b0e-4ad7-a803-59c7b9e16969-5.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original 423×519 RGB raster xref157 retained inside exact oval PDF clipping path. Page content stream has 202.8×248.88pt rectangle W n plus four Bézier curves W n, then image paint; an antialiased elliptical alpha mask reproduces that clipping in RGBA PNG. Outside pixels transparent, inside source pixels unchanged; separately painted vector oval border omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Printed ‘other churches begin to see’, ‘simply just don’t mix’, ‘A Greek peribolaiou’, ‘etc. and etc.’, the unusual anti examples, and punctuation are retained. The p30 circular pull quote duplicates body wording on p31 and is not transcribed twice. The four numbered footnotes are retained after the body in semantic order."
+      },
+      "language": "en"
+    },
+    {
+      "id": "e85b8060-dfe6-4e23-b9e2-c23d57a6e2b7",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 12,
+      "title": "Hail to the Lord's Anointed",
+      "subtitle": "PSALM 72",
+      "section": null,
+      "byline": {
+        "raw": "James Montgomery, 1821",
+        "authors": [
+          {
+            "name": "James Montgomery",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 32
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff"
+      ],
+      "html": {
+        "repository_path": "content/articles/e85b8060-dfe6-4e23-b9e2-c23d57a6e2b7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 32,
+          "role": "musical score of eight verse hymn",
+          "alt": "Musical score for Hail to the Lord's Anointed with eight verses",
+          "caption": null,
+          "credit": "James Montgomery, 1821; Lawrence W. Watson, 1909",
+          "repository_path": "public/images/articles/e85b8060-dfe6-4e23-b9e2-c23d57a6e2b7-1.png",
+          "public_path": "/images/articles/e85b8060-dfe6-4e23-b9e2-c23d57a6e2b7-1.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Native 800×1316 RGB image re-extracted losslessly as a complete PNG with PyMuPDF; `pdfimages -all` produced a truncated PNG and is discarded."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "All eight hymn verses are transcribed in stanza order and original music notation is preserved in the score image; ‘PSALM 72’ is printed below it. The printed unusual spelling ‘Oér’ in verse eight is preserved. Side words ‘Messiah’, ‘Deliverer’, ‘Judge of the Poor’, and ‘PROTEST’ are decorative thematic labels on the page, not separate articles. No reuse restriction found.",
+        "score_credit": "Lawrence W. Watson, 1909"
+      },
+      "language": "en"
+    },
+    {
+      "id": "29de3ed9-7d69-4246-863b-f80e3dd80393",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 13,
+      "title": "My Little Mtungi",
+      "subtitle": "(Mtungi is Swahili for “clay pot.”)",
+      "section": null,
+      "byline": {
+        "raw": "By Matthew Kauffman",
+        "authors": [
+          {
+            "name": "Matthew Kauffman",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/29de3ed9-7d69-4246-863b-f80e3dd80393.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 33,
+          "role": "poem background image",
+          "alt": "An earthen clay pot",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/29de3ed9-7d69-4246-863b-f80e3dd80393-1.jpg",
+          "public_path": "/images/articles/29de3ed9-7d69-4246-863b-f80e3dd80393-1.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Native JPEG normalized to baseline RGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Both printed poem columns have been linearized in order, with each four line stanza preserved. The source prints ‘Our l’il mtungi’ in the left column and ‘My li’l mtungi’ in the right; both forms are preserved, as is ‘for a while’ as two words. The italic paragraph about Matthew and Melissa Kauffman at bottom is included. No separate permission notice found."
+      },
+      "language": "en"
+    },
+    {
+      "id": "c802cb5c-a80a-4f32-bd6b-5ec2d5be3670",
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 14,
+      "title": "Living Water",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "Timothy Hoover",
+        "authors": [
+          {
+            "name": "Timothy Hoover",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "a90cf148-a3d8-5e37-82fc-f56d05f17fbc"
+      ],
+      "html": {
+        "repository_path": "content/articles/c802cb5c-a80a-4f32-bd6b-5ec2d5be3670.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 34,
+          "role": "musical score with five verses",
+          "alt": "Musical score and lyrics for Living Water",
+          "caption": null,
+          "credit": "Mel. by Timothy Hoover; Arr. & Har. by John David Hoover and Edna Hoover",
+          "repository_path": "public/images/articles/c802cb5c-a80a-4f32-bd6b-5ec2d5be3670-1.png",
+          "public_path": "/images/articles/c802cb5c-a80a-4f32-bd6b-5ec2d5be3670-1.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Original RGB PNG; raster itself contains score, title, lyrics, and music credits. The separate printed “Not to be copyrighted.” line belongs in article HTML."
+        },
+        {
+          "sequence": 2,
+          "source_page": 35,
+          "role": "family photograph with song history",
+          "alt": "The Hoover family gathered outdoors",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/c802cb5c-a80a-4f32-bd6b-5ec2d5be3670-2.jpg",
+          "public_path": "/images/articles/c802cb5c-a80a-4f32-bd6b-5ec2d5be3670-2.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed. The masthead names general art sources (www.clipart.com and www.sxc.hu) without mapping them to this asset; no licence is inferred. Two adjacent source JPEG tiles joined at PDF coordinates with one-pixel overlap. Original 603×446 composite cropped to 582×426 to exclude rightmost 21-pixel grey bevel and bottom 20-pixel dark band baked into source; no pixels synthesized. Normalized baseline RGB JPEG at 150 ppi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "Five song verses and two printed refrain variants are retained, together with the p35 explanatory hymn history and photograph. The score literally prints ‘blood fl’ at the end of one music system and ‘flows free’ at the start of the next; both are preserved. The p34 note ‘Not to be copyrighted.’ is preserved and is not an article-specific separate-permission restriction. The p35 financial report, logos and report thumbnails are a separate issue-inventory exclusion.",
+        "score_credit": "Mel. by Timothy Hoover; Arr. & Har. by John David Hoover and Edna Hoover"
+      },
+      "language": "en"
     }
   ],
   "skipped": [
@@ -41959,6 +42868,22 @@
       "reason": "Article-specific copyright and permission notice was detected.",
       "detected_notices": [
         "This story and others will appear in Pablo’s upcoming book, The Price of Rejection. This article contains copyrighted content, used by permission."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "e93ed6b9-d721-4065-80db-4c8d22a5cbbd",
+      "sequence": 3,
+      "title": "As in the Day of Slaughter",
+      "byline": "Clifford Fox",
+      "source_pages": {
+        "start": 9,
+        "end": 11
+      },
+      "reason": "The page 9 opening illustration has an intrinsic copyright indication. The printed issue policy excepts copyright-indicated material; the rest of the tiny mark cannot be read confidently at source resolution.",
+      "detected_notices": [
+        "COPYRIGHT"
       ],
       "html_exported": false,
       "images_exported": false
