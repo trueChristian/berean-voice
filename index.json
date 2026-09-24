@@ -42764,6 +42764,679 @@
       },
       "language": "en",
       "publication_note": "Printed score also carries the credit ‘Anon.’"
+    },
+    {
+      "id": "acb415d4-2d68-4cc5-a06c-06b06ad2735c",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Brother Dean",
+        "authors": [
+          {
+            "name": "Brother Dean",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [
+        "3a099ef5-76ef-5702-9290-65292d850d21",
+        "c8f99447-f3d3-5eb1-986f-f30a50b12929"
+      ],
+      "html": {
+        "repository_path": "content/articles/acb415d4-2d68-4cc5-a06c-06b06ad2735c.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "author_note": "Printed signoff is ~Brother Dean; the p2 masthead identifies Dean Taylor as General Editor."
+      },
+      "language": "en"
+    },
+    {
+      "id": "d76a8fb5-e163-463a-b9ae-6a8d93f25e67",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 2,
+      "title": "Afraid to Tell Eli",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Michael McDaniel",
+        "authors": [
+          {
+            "name": "Michael McDaniel",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 10
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [
+        "2bfbf6bd-ac0b-5405-b424-2a5add9a77f3",
+        "5e2e41f3-9d40-5ef1-bd0c-592f38e1578c",
+        "4fae0d12-6925-54f3-85f5-4cad0171f98a"
+      ],
+      "html": {
+        "repository_path": "content/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 4,
+          "role": "opening illustration",
+          "alt": "A seated Eli speaks with the young Samuel",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-1.jpg",
+          "public_path": "/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-1.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed; the masthead lists general art sources without mapping them to this asset. Native grayscale separation JPEG (PDF object 15); sample values inverted according to the PDF decode and normalized as baseline RGB JPEG. The faint edges are intrinsic to the recovered base image."
+        },
+        {
+          "sequence": 2,
+          "source_page": 5,
+          "role": "illustration",
+          "alt": "Illustration of a roaring lion",
+          "caption": "If I confront him with his sin,\nhe will bite my head off!",
+          "credit": null,
+          "repository_path": "public/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-2.png",
+          "public_path": "/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-2.png",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed; the masthead lists general art sources without mapping them to this asset. Native RGB PNG (PDF object 19) retained without recompression; the separate printed caption is semantic HTML."
+        },
+        {
+          "sequence": 3,
+          "source_page": 8,
+          "role": "illustration",
+          "alt": "Biblical illustration showing a group of people, livestock and supplies",
+          "caption": "Had Nabal been more approachable, Abigail may have felt more like appealing to him, rather than stepping out from under his authority and appealing to David.",
+          "credit": null,
+          "repository_path": "public/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-3.jpg",
+          "public_path": "/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-3.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed; the masthead lists general art sources without mapping them to this asset. Native grayscale separation JPEG (PDF object 29); inverted per PDF decode and normalized as baseline RGB JPEG. The publisher fade/rounded page treatment was omitted."
+        },
+        {
+          "sequence": 4,
+          "source_page": 10,
+          "role": "illustration",
+          "alt": "An illustrated man attending another man who lies on the ground",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-4.jpg",
+          "public_path": "/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-4.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed; the masthead lists general art sources without mapping them to this asset. Native grayscale separation JPEG (PDF object 119); inverted per PDF decode and normalized as baseline RGB JPEG. The separate pull quote duplicates article body and was omitted."
+        },
+        {
+          "sequence": 5,
+          "source_page": 10,
+          "role": "illustration",
+          "alt": "An illustrated man helping another man who lies on a bed",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-5.jpg",
+          "public_path": "/images/articles/d76a8fb5-e163-463a-b9ae-6a8d93f25e67-5.jpg",
+          "rights_note": "No image-specific credit, licence, or separate reuse restriction is printed; the masthead lists general art sources without mapping them to this asset. Native grayscale separation JPEG (PDF object 120); inverted per PDF decode and normalized as baseline RGB JPEG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_census_note": "P4, p5 and p8 one illustration each; p10 two; p6, p7 and p9 decorative duplicate pull quotes omitted. No article-specific restriction was printed."
+      },
+      "language": "en"
+    },
+    {
+      "id": "ae906c68-56e9-404e-801e-bb21d54682f0",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 4,
+      "title": "Origen",
+      "subtitle": "Writing against Celsus, a Greek Philosopher, concerning political involvement",
+      "section": "Voices from the Early Church",
+      "byline": {
+        "raw": "Origen (A.D. 185-254)",
+        "authors": [
+          {
+            "name": "Origen",
+            "location": null,
+            "role": null,
+            "birth_year": 185,
+            "death_year": 254
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 16
+      },
+      "categories": {
+        "primary": "0648d4df-242a-5815-8d22-08b555d1b542",
+        "additional": []
+      },
+      "topics": [
+        "4512cfd9-f11a-52c1-8239-b9f0c7ec9274",
+        "c21da7f2-4b42-5a75-b300-f9788977eea8",
+        "c8f99447-f3d3-5eb1-986f-f30a50b12929",
+        "e076a45a-2014-5d02-b18b-ac6397515f22"
+      ],
+      "html": {
+        "repository_path": "content/articles/ae906c68-56e9-404e-801e-bb21d54682f0.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "e6efda80-883a-45b9-b615-efc270f09f1d",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 5,
+      "title": "Of Wading Ducks and Emotional Women",
+      "subtitle": null,
+      "section": "The Sister’s Corner",
+      "byline": {
+        "raw": "Sarah Raber",
+        "authors": [
+          {
+            "name": "Sarah Raber",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 33,
+        "pages": [
+          17,
+          32,
+          33
+        ]
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": []
+      },
+      "topics": [
+        "67713d66-ee88-59a8-987a-23109f8cc075",
+        "e16fa525-448d-504a-8ebc-927c62ec6e8f",
+        "8ada4a0d-a538-532f-a615-13434b3cd997",
+        "ac0ebb93-a3ab-532d-88ef-d911a7fd33c6",
+        "efe9fa60-497a-580c-9aa2-c1aac7027cdf"
+      ],
+      "html": {
+        "repository_path": "content/articles/e6efda80-883a-45b9-b615-efc270f09f1d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e6efda80-883a-45b9-b615-efc270f09f1d-1.png",
+          "public_path": "/images/articles/e6efda80-883a-45b9-b615-efc270f09f1d-1.png",
+          "source_page": 17,
+          "role": "Opening duck family illustration",
+          "alt": "A duck and several ducklings walking through rain.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded RGB raster preserved as the original lossless RGB PNG at 360×137. Page 17 Sister’s Corner silhouette and house/verse emblem are recurring section masthead furniture (also appearing on page 23), excluded from this article; pages 32–33 contain only repeated grey text pull quotes, which remain once in the body. The issue masthead says some images ©2001-2010 and lists www.clipart.com and www.sxc.hu without identifying most individual images. No image-specific licence is stated."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "bcd844a2-09d7-4e8f-8b22-139fb2e8cdf5",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 6,
+      "title": "The Spiritual Resurrection",
+      "subtitle": "Part 2",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 22,
+        "pages": [
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [
+        "f6f99110-040b-52df-ae00-56df469d87cc",
+        "6db2117c-b93c-5cd4-9883-77bea76742be",
+        "1b0db828-35fe-5219-8706-6bfbf0e7f371",
+        "c3153996-8271-5167-b21e-2fa3c0e8df1d"
+      ],
+      "html": {
+        "repository_path": "content/articles/bcd844a2-09d7-4e8f-8b22-139fb2e8cdf5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bcd844a2-09d7-4e8f-8b22-139fb2e8cdf5-1.png",
+          "public_path": "/images/articles/bcd844a2-09d7-4e8f-8b22-139fb2e8cdf5-1.png",
+          "source_page": 18,
+          "role": "two-page opening illustration",
+          "alt": "Black and white illustration spanning a two-page spread, with a person rising before standing figures",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead lists general image sources ©2001-2010, www.clipart.com and www.sxc.hu but does not assign this image to a source; no image-specific licence or separate permission notice is printed. The six embedded `/Separation /Black` JPEG tiles (PDF objects 163-165 and 169-171) were mirrored and stitched at their printed coordinates; their separation samples were inverted to RGB print tone, and the separable printed heading and white panel were omitted. The resulting sRGB PNG reproduces the underlying two-page artwork across printed pages 18-19."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "f1a3837b-d67f-4956-aca0-f94eecc770fe",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 7,
+      "title": "The Parable of the Pig and the Puddle",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 21,
+        "end": 21
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "78d8ed5b-bad4-58ae-ae10-a49f738e29d8"
+        ]
+      },
+      "topics": [
+        "f6f99110-040b-52df-ae00-56df469d87cc",
+        "1b0db828-35fe-5219-8706-6bfbf0e7f371"
+      ],
+      "html": {
+        "repository_path": "content/articles/f1a3837b-d67f-4956-aca0-f94eecc770fe.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f1a3837b-d67f-4956-aca0-f94eecc770fe-1.jpg",
+          "public_path": "/images/articles/f1a3837b-d67f-4956-aca0-f94eecc770fe-1.jpg",
+          "source_page": 21,
+          "role": "story photograph",
+          "alt": "A boy seated with his knees up",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead lists general image sources ©2001-2010, www.clipart.com and www.sxc.hu but does not assign this image to a source; no image-specific licence or separate permission notice is printed. The embedded sRGB JPEG (PDF object 181) was encoded as standards-normalized baseline sRGB JPEG with 150 dpi to resolve absent JFIF density; no pixels were retouched."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/f1a3837b-d67f-4956-aca0-f94eecc770fe-2.jpg",
+          "public_path": "/images/articles/f1a3837b-d67f-4956-aca0-f94eecc770fe-2.jpg",
+          "source_page": 21,
+          "role": "story photograph",
+          "alt": "A tabby kitten curled up",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead lists general image sources ©2001-2010, www.clipart.com and www.sxc.hu but does not assign this image to a source; no image-specific licence or separate permission notice is printed. The embedded sRGB JPEG (PDF object 180) was encoded as standards-normalized baseline sRGB JPEG with 150 dpi; PDF object 182 is only a narrow repeat sliver of this picture and was not exported again."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/f1a3837b-d67f-4956-aca0-f94eecc770fe-3.jpg",
+          "public_path": "/images/articles/f1a3837b-d67f-4956-aca0-f94eecc770fe-3.jpg",
+          "source_page": 21,
+          "role": "story photograph",
+          "alt": "A pig lying in a muddy area",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead lists general image sources ©2001-2010, www.clipart.com and www.sxc.hu but does not assign this image to a source; no image-specific licence or separate permission notice is printed. The embedded sRGB JPEG (PDF object 179) was encoded as standards-normalized baseline sRGB JPEG with 150 dpi; no pixels were retouched."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "3103df35-fe97-490f-9388-1dca942c0348",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 8,
+      "title": "To Christian Young Ladies",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Your sister in Christ, A. B.",
+        "authors": [
+          {
+            "name": "A. B.",
+            "location": null,
+            "role": "Your sister in Christ"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 26
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "85b345ae-ce23-56a2-9249-2cfa79293657"
+        ]
+      },
+      "topics": [
+        "bad0e42a-5e78-5b7d-bd28-65042ae509d4",
+        "efe9fa60-497a-580c-9aa2-c1aac7027cdf",
+        "79026687-5f1c-5c05-8305-c63a5d165b2c"
+      ],
+      "html": {
+        "repository_path": "content/articles/3103df35-fe97-490f-9388-1dca942c0348.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/3103df35-fe97-490f-9388-1dca942c0348-1.jpg",
+          "public_path": "/images/articles/3103df35-fe97-490f-9388-1dca942c0348-1.jpg",
+          "source_page": 25,
+          "role": "article photograph",
+          "alt": "Hands holding a single rose",
+          "caption": "Discretion is a treasure, hold it close!",
+          "credit": null,
+          "rights_note": "The issue masthead lists general image sources ©2001-2010, www.clipart.com and www.sxc.hu but does not assign this image to a source; no image-specific licence or separate permission notice is printed. The embedded sRGB JPEG (PDF object 196) was encoded as standards-normalized baseline sRGB JPEG with 150 dpi; the separate printed caption is transcribed in HTML, not baked into image."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/3103df35-fe97-490f-9388-1dca942c0348-2.jpg",
+          "public_path": "/images/articles/3103df35-fe97-490f-9388-1dca942c0348-2.jpg",
+          "source_page": 26,
+          "role": "article photograph",
+          "alt": "Pig facing forward, with its snout prominent",
+          "caption": "Care to be a jewel in a pig snout?",
+          "credit": null,
+          "rights_note": "The issue masthead lists general image sources ©2001-2010, www.clipart.com and www.sxc.hu but does not assign this image to a source; no image-specific licence or separate permission notice is printed. The embedded sRGB JPEG (PDF object 200) was encoded as standards-normalized baseline sRGB JPEG with 150 dpi; the separate printed caption is transcribed in HTML, not baked into image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "d6baf3a2-00bd-416a-a19c-78ce422a8bbd",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 9,
+      "title": "Ambrosius Spittelmayr",
+      "subtitle": "The life and methods of a 7/20 Missionary",
+      "section": null,
+      "byline": {
+        "raw": "By Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 35,
+        "pages": [
+          27,
+          28,
+          29,
+          34,
+          35
+        ]
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": [
+          "59e78031-c269-52d1-9b00-08dba0398cb4"
+        ]
+      },
+      "topics": [
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26",
+        "3b83ed3e-5bbe-59d5-86cc-41a401577a6e",
+        "e076a45a-2014-5d02-b18b-ac6397515f22",
+        "494add59-7a1e-504d-ab65-b626610b684d",
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609"
+      ],
+      "html": {
+        "repository_path": "content/articles/d6baf3a2-00bd-416a-a19c-78ce422a8bbd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d6baf3a2-00bd-416a-a19c-78ce422a8bbd-1.jpg",
+          "public_path": "/images/articles/d6baf3a2-00bd-416a-a19c-78ce422a8bbd-1.jpg",
+          "source_page": 27,
+          "role": "opening illustration",
+          "alt": "Sketch of people seated by a fireplace",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, credit, copyright mark, or separate-permission wording is printed. The general issue masthead mentions stock image sources but does not link a source to this image; no licence is inferred. The embedded 595×424 grayscale drawing used inverted PDF decode values; its samples were inverted and saved as a baseline sRGB JPEG, preserving the full published picture without added text."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/d6baf3a2-00bd-416a-a19c-78ce422a8bbd-2.jpg",
+          "public_path": "/images/articles/d6baf3a2-00bd-416a-a19c-78ce422a8bbd-2.jpg",
+          "source_page": 29,
+          "role": "baptism photograph",
+          "alt": "Two men baptizing a person in water",
+          "caption": "Horizontally, baptism meant a commitment to serve his brothers and sisters.",
+          "credit": null,
+          "rights_note": "No image-specific source, licence, credit, copyright mark, or separate-permission wording is printed. The general issue masthead mentions stock image sources but does not link a source to this image; no licence is inferred. The clean 417×285 indexed PDF picture was encoded as baseline sRGB JPEG without change to its crop. Its gray publisher caption panel was omitted from the raster and preserved exactly in the HTML figcaption and image metadata; the same sentence also occurs in body text as printed."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/d6baf3a2-00bd-416a-a19c-78ce422a8bbd-3.jpg",
+          "public_path": "/images/articles/d6baf3a2-00bd-416a-a19c-78ce422a8bbd-3.jpg",
+          "source_page": 34,
+          "role": "Cadolzburg castle photograph",
+          "alt": "Historic castle and buildings in Cadolzburg, Germany",
+          "caption": "It may have been within the walls of this old castle (Cadolzburg, Germany) that the blood of Ambrosius was spilled for preaching “righteousness, peace, and joy in this present world.”",
+          "credit": null,
+          "rights_note": "No image-specific source, licence, credit, copyright mark, or separate-permission wording is printed. The general issue masthead mentions stock image sources but does not link a source to this image; no licence is inferred. The clean 451×295 embedded sRGB JPEG was baseline re-encoded without cropping. The PDF separately paints a shadow frame, which was omitted; the near-identical overlapping JPEG is a duplicate use of the same photograph, represented once."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "spot_checked",
+        "continuation_note": "The story begins on printed pages 27–29 and continues on 34–35; the p.29/p.34 continuation markers are page furniture, not body text. The author’s source note and complete bibliography on p.35 are retained. The distinct financial report below the bibliography is issue inventory exclusion, with its three collage images omitted.",
+        "pull_quote_note": "The p.28 centered hand-lettered statement repeats the p.29 paragraph and is not duplicated in the HTML. The p.29 photograph’s caption is preserved, despite matching the next body sentence, because it is printed as an attached photo caption.",
+        "image_decode_note": "All three final JPEGs fully decoded without warnings through Pillow and FFmpeg, report RGB/sRGB with 150 dpi density, and match the rendered PDF images without remaining overlays."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Missions",
+            "slug": "missions"
+          },
+          "additional": [
+            {
+              "name": "Martyrdom",
+              "slug": "martyrdom"
+            }
+          ]
+        },
+        "topics": [
+          "Anabaptist history",
+          "Baptism",
+          "Church and State",
+          "Martyrdom",
+          "Missions"
+        ]
+      },
+      "language": "en"
+    },
+    {
+      "id": "e14d9ebc-c490-40d0-8d79-1727a9572f6f",
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 10,
+      "title": "Seeds of the Kingdom",
+      "subtitle": "Seed Sower Award",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 31
+      },
+      "categories": {
+        "primary": "78d8ed5b-bad4-58ae-ae10-a49f738e29d8",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "ccdcfb82-dfbd-5f30-b4e5-e4b2e94a3081",
+        "e763b632-f673-547f-afb3-186d486db0cc",
+        "cd42f468-6b2c-5f56-abf2-82062af463d1",
+        "e8455dc3-9ea9-50ad-8b49-ca5277a6a3fd"
+      ],
+      "html": {
+        "repository_path": "content/articles/e14d9ebc-c490-40d0-8d79-1727a9572f6f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e14d9ebc-c490-40d0-8d79-1727a9572f6f-1.jpg",
+          "public_path": "/images/articles/e14d9ebc-c490-40d0-8d79-1727a9572f6f-1.jpg",
+          "source_page": 30,
+          "role": "series opening illustration",
+          "alt": "A sower scattering seeds across a field",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, credit, copyright mark, or separate-permission wording is printed. The general issue masthead mentions stock image sources but does not link a source to this image; no licence is inferred. The embedded 360×417 grayscale drawing used inverted PDF decode values; its samples were inverted and saved as a baseline sRGB JPEG, preserving the complete picture."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/e14d9ebc-c490-40d0-8d79-1727a9572f6f-2.jpg",
+          "public_path": "/images/articles/e14d9ebc-c490-40d0-8d79-1727a9572f6f-2.jpg",
+          "source_page": 31,
+          "role": "family photograph",
+          "alt": "Mary sits with Jeanna and Brendan, looking at a picture book on a sofa",
+          "caption": "Happy moments with Jeanna and Brendan",
+          "credit": null,
+          "rights_note": "No image-specific source, licence, credit, copyright mark, or separate-permission wording is printed. The general issue masthead mentions stock image sources but does not link a source to this image; no licence is inferred. The single printed oval photograph was divided into seven clean embedded JPEG image pieces (center top, center bottom, and five edge strips); these were placed once at their exact 150 dpi PDF coordinates on an sRGB canvas without reconstructing hidden pixels. The separate caption and surrounding article text were omitted from the raster and preserved in HTML."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "spot_checked",
+        "series_note": "The two italic scripture epigraphs, gray-box series statement and full foster-care interview are preserved as text; the gray box itself is only publisher layout. There is no article-level permission requirement.",
+        "image_decode_note": "Both final JPEGs fully decoded without warnings through Pillow and FFmpeg, report RGB/sRGB with 150 dpi density, and match the rendered source without baked article text, caption or panels."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Children",
+            "slug": "children"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          "Children",
+          "Christian Service",
+          "Compassion",
+          "Parent-child Relationship"
+        ]
+      },
+      "language": "en"
     }
   ],
   "skipped": [
@@ -43801,6 +44474,22 @@
       "reason": "The page 9 opening illustration has an intrinsic copyright indication. The printed issue policy excepts copyright-indicated material; the rest of the tiny mark cannot be read confidently at source resolution.",
       "detected_notices": [
         "COPYRIGHT"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "b1525b50-95a6-40db-acf5-74b5a0e682fa",
+      "sequence": 3,
+      "title": "Beware of the Leaven of Herod!",
+      "byline": "By Dean Taylor",
+      "source_pages": {
+        "start": 11,
+        "end": 16
+      },
+      "reason": "The page 13 crusade illustration has an intrinsic image-specific copyright indication; this issue’s printed copying policy excepts material where copyright is indicated.",
+      "detected_notices": [
+        "© Clipart.com"
       ],
       "html_exported": false,
       "images_exported": false
