@@ -44527,6 +44527,823 @@
         "title_note": "No separate title is printed. First line is “Flee, dark night!”."
       },
       "language": "en"
+    },
+    {
+      "id": "f124beed-a37c-436c-8450-f610647beae6",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": "From the Editor",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [
+        "a11ef93c-3a32-5cdc-bad0-ae4c564f5156",
+        "32b4b3c5-89d5-5664-bd1d-7f7c1b718913",
+        "b71d2eed-1b6b-5ca4-84e5-3ea0f3448e82"
+      ],
+      "html": {
+        "repository_path": "content/articles/f124beed-a37c-436c-8450-f610647beae6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 3,
+          "role": "editor portrait",
+          "alt": "Portrait of a smiling bearded man in a light shirt",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/f124beed-a37c-436c-8450-f610647beae6-1.png",
+          "public_path": "/images/articles/f124beed-a37c-436c-8450-f610647beae6-1.png",
+          "rights_note": "The original embedded portrait (PDF image object 8) is clean; no article-specific image permission notice or credit is printed. The page heading's separate gray gradient is decorative page layout and omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_decode_note": "Final RGB PNG fully loaded in Pillow and FFmpeg with no warnings; visually compared to page 3 and raw PDF object 8."
+      },
+      "language": "en"
+    },
+    {
+      "id": "03c6c31a-17f7-492a-b046-270df324c628",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 2,
+      "title": "Broken Clock Salvation",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 21,
+        "pages": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          21
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "729ef2d2-cb45-545b-b9a8-555cc7a423df"
+        ]
+      },
+      "topics": [
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "2930d7e0-3f5e-5299-b27e-fa8f21d15595",
+        "b074afdf-90ed-58c5-b843-3e274c46e17b"
+      ],
+      "html": {
+        "repository_path": "content/articles/03c6c31a-17f7-492a-b046-270df324c628.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 4,
+          "role": "lead clock photograph",
+          "alt": "An old broken clock with a distorted face",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/03c6c31a-17f7-492a-b046-270df324c628-1.jpg",
+          "public_path": "/images/articles/03c6c31a-17f7-492a-b046-270df324c628-1.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. The clean original PDF image object 12 was normalized as a baseline RGB/sRGB JPEG at its original 387×357 pixel size; the separately painted oversized article title was omitted."
+        },
+        {
+          "sequence": 2,
+          "source_page": 7,
+          "role": "three balance-scale diagrams",
+          "alt": "Three balance scales marked A, B, and C comparing Faith and Works",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/03c6c31a-17f7-492a-b046-270df324c628-2.png",
+          "public_path": "/images/articles/03c6c31a-17f7-492a-b046-270df324c628-2.png",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Scale rasters use PDF objects 22 and 23, with meaningful separately painted A/B/C and Faith/Works labels. The PDF page-7 content stream paints an opaque uniform gray layout rectangle (304.501,36.5–575.502,718.5 pt) before the chart. That single separable fill was changed to white in a temporary in-memory page solely for this 300 dpi chart-region export; scales and original vector glyphs were left untouched. Article prose, quiz wording, and the gray panel were omitted."
+        },
+        {
+          "sequence": 3,
+          "source_page": 8,
+          "role": "rowboat faith-and-works diagram",
+          "alt": "A rowboat with its left oar marked Faith and right oar marked Works",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/03c6c31a-17f7-492a-b046-270df324c628-3.png",
+          "public_path": "/images/articles/03c6c31a-17f7-492a-b046-270df324c628-3.png",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Clean boat raster PDF object 189 has separately painted substantive Faith/Works labels. Only the diagram region was rendered at 300 dpi; neighboring prose and panel furniture were excluded. The same boat base image is used in a different labelled diagram on page 9."
+        },
+        {
+          "sequence": 4,
+          "source_page": 8,
+          "role": "faith-and-good-works gauge",
+          "alt": "Gauge labelled Faith/Good Works with E and F markings and needle near F",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/03c6c31a-17f7-492a-b046-270df324c628-4.jpg",
+          "public_path": "/images/articles/03c6c31a-17f7-492a-b046-270df324c628-4.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Original Separation/Black JPEG image object 27 uses inverted samples under PDF color semantics. Its samples were inverted to match the dark printed gauge, then normalized to baseline RGB/sRGB JPEG at the original 375×398 pixel size. Intrinsic lettering was retained; separate article text and gray layout panel were omitted."
+        },
+        {
+          "sequence": 5,
+          "source_page": 9,
+          "role": "faith-propels-good-works rowboat diagram",
+          "alt": "A rowboat labelled Works with both oars labelled Faith",
+          "caption": "Faith propels good works",
+          "credit": null,
+          "repository_path": "public/images/articles/03c6c31a-17f7-492a-b046-270df324c628-5.png",
+          "public_path": "/images/articles/03c6c31a-17f7-492a-b046-270df324c628-5.png",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. The repeated boat base PDF object 189 forms a distinct page-9 diagram with separate substantive Faith/Works/Faith labels, rendered from only the chart region at 300 dpi. Neighboring prose and panel furniture were excluded."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_oddities_note": "The p6 footnote visibly prints literal underscores around _Dr. Martin Luther’s Saemmtliche Schriften_; the p8 footnote prints a standalone two-dot diaeresis after zw as zw¨schenn; p9 uses complimentary; p21 ends with the unusual source punctuation clock!“ ~. All are retained, not silently corrected. The p5 and p6 decorative pull quotes repeat body wording and are omitted as duplicates.",
+        "image_decode_note": "Each of five RGB/sRGB images fully decoded in Pillow and FFmpeg without warnings and was visually compared with its printed region and the raw PDF image object or separate meaningful chart labels.",
+        "image_census_note": "Pages 4, 7, 8, and 9 contain five distinct published article images/charts. Page 7's three scales constitute one chart with reused base scale asset. Pages 8 and 9 use the same bare boat object but distinct substantive labelled diagram composites. Page 8 article gray panel is page layout, and the page-9 paddle bar is decorative divider; both omitted. Pages 5 and 6 have text-only repeated pull quotes, not extra images. Page 21 left continuation has no image; its right-column portrait belongs to a separate Tozer article."
+      },
+      "language": "en"
+    },
+    {
+      "id": "a11d7521-063e-4e4e-a95b-f5a51163737d",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 3,
+      "title": "The (Almost) Lost Art of Letter Writing",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Mika",
+        "authors": [
+          {
+            "name": "Mika",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 13
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "603eb11c-b7d9-5de6-ad61-b9b13770416c"
+      ],
+      "html": {
+        "repository_path": "content/articles/a11d7521-063e-4e4e-a95b-f5a51163737d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 10,
+          "role": "handwritten letter facsimile, page 1 of 4",
+          "alt": "First page of Mika's handwritten letter",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-1.jpg",
+          "public_path": "/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-1.jpg",
+          "rights_note": "No article-specific permission notice or image-specific credit or licence is printed. Clean embedded Separation/Black letter-scan object 35 had inverted extracted JPEG samples; samples were inverted and encoded as baseline RGB/sRGB JPEG at the original 1080 × 1422 dimensions and 150 ppi. Handwriting, corrections, paper rulings, faint show-through, and punch holes are intrinsic to the manuscript; publisher title, footer, and page furniture were omitted."
+        },
+        {
+          "sequence": 2,
+          "source_page": 11,
+          "role": "handwritten letter facsimile, page 2 of 4",
+          "alt": "Second page of Mika's handwritten letter",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-2.jpg",
+          "public_path": "/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-2.jpg",
+          "rights_note": "No article-specific permission notice or image-specific credit or licence is printed. Clean embedded Separation/Black letter-scan object 41 had inverted extracted JPEG samples; samples were inverted and encoded as baseline RGB/sRGB JPEG at the original 1095 × 1392 dimensions and 150 ppi. Handwriting, corrections, paper rulings, faint show-through, and punch holes are intrinsic to the manuscript; publisher title, footer, and page furniture were omitted."
+        },
+        {
+          "sequence": 3,
+          "source_page": 12,
+          "role": "handwritten letter facsimile, page 3 of 4",
+          "alt": "Third page of Mika's handwritten letter",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-3.jpg",
+          "public_path": "/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-3.jpg",
+          "rights_note": "No article-specific permission notice or image-specific credit or licence is printed. Clean embedded Separation/Black letter-scan object 45 had inverted extracted JPEG samples; samples were inverted and encoded as baseline RGB/sRGB JPEG at the original 1127 × 1421 dimensions and 150 ppi. Handwriting, corrections, paper rulings, faint show-through, and punch holes are intrinsic to the manuscript; publisher title, footer, and page furniture were omitted."
+        },
+        {
+          "sequence": 4,
+          "source_page": 13,
+          "role": "handwritten letter facsimile, page 4 of 4",
+          "alt": "Final page of Mika's handwritten letter",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-4.jpg",
+          "public_path": "/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-4.jpg",
+          "rights_note": "No article-specific permission notice or image-specific credit or licence is printed. Clean embedded Separation/Black letter-scan object 50 had inverted extracted JPEG samples; samples were inverted and encoded as baseline RGB/sRGB JPEG at the original 1125 × 1053 dimensions and 150 ppi. Handwriting, corrections, paper rulings, faint show-through, and punch holes are intrinsic to the manuscript; publisher title, footer, and page furniture were omitted."
+        },
+        {
+          "sequence": 5,
+          "source_page": 13,
+          "role": "photograph accompanying the handwritten letter",
+          "alt": "A hand writing with a fountain pen beside a rose",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-5.jpg",
+          "public_path": "/images/articles/a11d7521-063e-4e4e-a95b-f5a51163737d-5.jpg",
+          "rights_note": "No image-specific credit, licence, or separate-permission notice is printed. Clean embedded ICCBased RGB photograph object 53 was encoded as a baseline RGB/sRGB JPEG at its original 551 × 325 dimensions and 150 ppi. Ten-pixel white corner chamfers reproduce the four printed clipped corners; no image content was generated or retouched. The adjacent diagonal pull quote repeats a sentence present in the body and was omitted as separately painted typography."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "Four-page handwritten letter dated 5-25-09 and signed Mika. The published title is separately painted typography; the manuscript date, salutation, greeting and sign-off remain in HTML. Handwritten struck-through corrections are visible in facsimiles; the semantic text follows the final uncrossed writing.",
+        "image_census_note": "Page 10: letter facsimile object 35 exported; separate title typography and shadow objects 36–37 omitted as layout. Page 11: facsimile object 41 exported. Page 12: facsimile object 45 exported. Page 13: facsimile object 50 and photograph object 53 exported; diagonal decorative quote object 49 repeats a body sentence and was omitted, and objects 51–52 are separate shadows/layout strips. All substantive visible images on pages 10–13 are accounted for.",
+        "punctuation_note": "Printed page 12 item 3 reads “not Hallmark's heart(which is maybe $?)”. The compact question mark after the dollar sign was second-read in the 150 ppi embedded facsimile; struck-through manuscript revisions remain visible in the four facsimile images and semantic HTML follows the final uncrossed writing."
+      },
+      "language": "en"
+    },
+    {
+      "id": "5b9e0510-9f8d-4718-8531-8fcd60a4f1d3",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 4,
+      "title": "Christ’s Message to American Christians",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Roger Hertzler",
+        "authors": [
+          {
+            "name": "Roger Hertzler",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 17
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "0648d4df-242a-5815-8d22-08b555d1b542",
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae",
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "9bb25764-72c4-5ffa-98de-ea207fdbe27f",
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ],
+      "html": {
+        "repository_path": "content/articles/5b9e0510-9f8d-4718-8531-8fcd60a4f1d3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 14,
+          "role": "opening illustration",
+          "alt": "Globe showing North America beside an illustration of Jesus teaching a crowd",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/5b9e0510-9f8d-4718-8531-8fcd60a4f1d3-1.jpg",
+          "public_path": "/images/articles/5b9e0510-9f8d-4718-8531-8fcd60a4f1d3-1.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Original clean embedded PDF image object 57, 542 × 354 pixels, re-encoded as standards-normalized baseline sRGB JPEG. The separately printed title and byline are omitted."
+        },
+        {
+          "sequence": 2,
+          "source_page": 17,
+          "role": "illustrative photograph",
+          "alt": "Feet wearing worn sandals on dirt",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/5b9e0510-9f8d-4718-8531-8fcd60a4f1d3-2.jpg",
+          "public_path": "/images/articles/5b9e0510-9f8d-4718-8531-8fcd60a4f1d3-2.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Clean embedded grayscale separation JPEG object 81, inverted to match printed appearance and re-encoded as baseline sRGB JPEG at its original 210 × 206 pixels. The separate foreground framing/object 80 is omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_note": "Page 14 title collage and page 17 sandals photograph are the two unique article images. Decorative p15, p16 and p17 pull quotes paraphrase or repeat body passages without unique substantive content; p15 uses “sayeth” where the verse in the body prints “saith,” and p16 uses “an enemy” where the body says “my enemy.” Their graphic rasters are omitted. Rendered pages 14–17 were checked through the final line; no article-specific notice appears."
+      },
+      "language": "en"
+    },
+    {
+      "id": "d68a5b18-070f-4b4e-a7a6-63072b39e4ca",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 6,
+      "title": "Too Timid to Tell the Truth",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~A. W. Tozer",
+        "authors": [
+          {
+            "name": "A. W. Tozer",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 21,
+        "end": 21
+      },
+      "categories": {
+        "primary": "400977eb-3421-51cc-992f-b947d2cda0f4",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285"
+        ]
+      },
+      "topics": [
+        "7936e75c-ab93-5d91-aa74-c2dd7c6bc2aa",
+        "89fc5b7b-40a6-5c06-a31e-17e796c9e29b",
+        "d55dee41-c357-5c42-9ec4-52352698d8d7"
+      ],
+      "html": {
+        "repository_path": "content/articles/d68a5b18-070f-4b4e-a7a6-63072b39e4ca.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 21,
+          "role": "illustrative photograph",
+          "alt": "Man holding a book in front of his mouth",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/d68a5b18-070f-4b4e-a7a6-63072b39e4ca-1.jpg",
+          "public_path": "/images/articles/d68a5b18-070f-4b4e-a7a6-63072b39e4ca-1.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Original embedded PDF image object 98 uses inverted grayscale separation samples; inverted and re-encoded as baseline sRGB JPEG at its original 239 × 314 pixels. No printed layout overlay is included."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_note": "The page 21 photograph is the only distinct illustration in this article; the left column and its footnote belong to the separate Broken Clock Salvation continuation."
+      },
+      "language": "en"
+    },
+    {
+      "id": "103f9dba-5fc8-4384-9161-226f96d1ff5a",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 7,
+      "title": "The Heart of the Matter",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 35,
+        "pages": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          35
+        ]
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "64af4c5a-115b-50b0-ae07-5d75a56b13aa",
+        "7765eef1-b410-528e-bcde-39382c685de1",
+        "8027dd12-af78-5fb4-b5e2-dfad753ce6a4",
+        "9aeecc23-2b8e-5b54-9b5f-6d6b71f294ba"
+      ],
+      "html": {
+        "repository_path": "content/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 22,
+          "role": "opening flower photograph",
+          "alt": "Flowering hyacinth stalk",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-1.jpg",
+          "public_path": "/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-1.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Original PDF grayscale separation JPEG image object 102, inverted to match page and encoded baseline sRGB JPEG at 544 × 1010 pixels; section heading/title and byline are separate typography excluded from image."
+        },
+        {
+          "sequence": 2,
+          "source_page": 23,
+          "role": "fruit bowl illustration",
+          "alt": "Bowl of fruit with grapes and other fruit",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-2.jpg",
+          "public_path": "/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-2.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Original PDF grayscale separation JPEG image object 107, inverted to match page and encoded baseline sRGB JPEG at 660 × 594 pixels; article text painted around it is omitted."
+        },
+        {
+          "sequence": 3,
+          "source_page": 23,
+          "role": "banana illustration",
+          "alt": "Banana beside the fruit bowl",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-3.jpg",
+          "public_path": "/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-3.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Original PDF indexed image object 106, converted to baseline sRGB JPEG at 308 × 207 pixels with clean white background. A tiny overlapping object 108 is part of the same printed collage and is represented once by the banana export."
+        },
+        {
+          "sequence": 4,
+          "source_page": 25,
+          "role": "kitchen photograph",
+          "alt": "Measuring cup beside a handwritten recipe",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-4.jpg",
+          "public_path": "/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-4.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Original PDF indexed image object 115 contains separable publisher pull-quote typography baked into its lower band. An unobstructed 1050 × 495 pixel top crop preserves the substantive photograph without the pull quote; printed words repeat the following body thought and are not included as pixels."
+        },
+        {
+          "sequence": 5,
+          "source_page": 26,
+          "role": "illustrative photograph",
+          "alt": "Bruised apple with a hole in the side lying on grass",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-5.jpg",
+          "public_path": "/images/articles/103f9dba-5fc8-4384-9161-226f96d1ff5a-5.jpg",
+          "rights_note": "No image-specific permission restriction, credit, or licence is printed. Original clean grayscale separation JPEG image object 119, inverted to match page and encoded baseline sRGB JPEG at 1125 × 632 pixels; the separate p26 pull-quote strip object 120 and line object 121 are omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_note": "Five substantive article images on pp22–26 and p35 continuation visually reconciled. The p24 oval pull quote paraphrases the Kindness excerpt (“is be kind” versus “is to be kind”); the p25 photo banner repeats the p26 body thought (“the ingredient” versus “this ingredient”). They add no unique substantive content and are omitted as publisher typography; p26 and p35 decorative callouts also repeat body passages. Page 35 right Financial Report with logos is a separate administrative exclusion."
+      },
+      "language": "en"
+    },
+    {
+      "id": "a9a438a1-f3f8-4fb7-8567-6a259c32c788",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 8,
+      "title": "On the Mortality",
+      "subtitle": null,
+      "section": "Voices from the Early Church",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 29
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285"
+        ]
+      },
+      "topics": [
+        "4512cfd9-f11a-52c1-8239-b9f0c7ec9274",
+        "220fa5b4-8cd4-53ca-ba1c-e06e36c60b58",
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8"
+      ],
+      "html": {
+        "repository_path": "content/articles/a9a438a1-f3f8-4fb7-8567-6a259c32c788.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 27,
+          "role": "opening historical illustration",
+          "alt": "Historical line drawing of a town with many people and figures in the sky",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/a9a438a1-f3f8-4fb7-8567-6a259c32c788-1.png",
+          "public_path": "/images/articles/a9a438a1-f3f8-4fb7-8567-6a259c32c788-1.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on publisher permission reported by the project owner. Clean original PDF image object 125; the separate article heading and page typography were omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "pull_quote_note": "The large pull quotes on pages 28 and 29 repeat prose already in the article body and are not duplicated.",
+        "attribution_note": "No byline is printed under the title. Cyprian is named in the italic introduction and in the three-line bibliographic attribution retained at the end."
+      },
+      "language": "en"
+    },
+    {
+      "id": "013b7fff-5d04-48a6-bd8e-e1c5d54c7b30",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 9,
+      "title": "Seeds of the Kingdom",
+      "subtitle": "Seed Sower Award",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 32,
+        "pages": [
+          30,
+          31,
+          32
+        ]
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609",
+        "d7a5df6e-661e-5089-a9bb-9a979b04a6f6",
+        "280f7e50-0dcd-51d6-a13f-3b69f197f4b7"
+      ],
+      "html": {
+        "repository_path": "content/articles/013b7fff-5d04-48a6-bd8e-e1c5d54c7b30.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 30,
+          "role": "opening illustration",
+          "alt": "Illustration of a man scattering seed across a field",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/013b7fff-5d04-48a6-bd8e-e1c5d54c7b30-1.jpg",
+          "public_path": "/images/articles/013b7fff-5d04-48a6-bd8e-e1c5d54c7b30-1.jpg",
+          "rights_note": "Clean grayscale separation image object 135, inverted from its PDF sample encoding and saved as baseline sRGB/RGB JPEG at native 402 × 395 pixels. No article-specific image permission or licence is printed; publisher permission reported by the project owner."
+        },
+        {
+          "sequence": 2,
+          "source_page": 31,
+          "role": "two-photograph collage",
+          "alt": "Two views of people browsing and discussing books at a convention",
+          "caption": "Spreading seeds of the kingdom at an education convention in Saltillo, Mexico",
+          "credit": null,
+          "repository_path": "public/images/articles/013b7fff-5d04-48a6-bd8e-e1c5d54c7b30-2.jpg",
+          "public_path": "/images/articles/013b7fff-5d04-48a6-bd8e-e1c5d54c7b30-2.jpg",
+          "rights_note": "Clean embedded collage image object 139 contains two distinct convention photographs. Inverted from its PDF sample encoding and saved as baseline sRGB/RGB JPEG at native 433 × 590 pixels. The separable decorative frame and caption shadow image were omitted. No article-specific image permission or licence is printed; publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_census_note": "Page 31 contains two visible photo constituents in one clean source collage; both are represented by the single ordered collage export. The decorative diamond frame and caption shadow are separable page furniture."
+      },
+      "language": "en"
+    },
+    {
+      "id": "c522e017-97ab-419f-90cc-ea0f1c4741e8",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 10,
+      "title": "BLOOD IS THE COLOR OF OUR BAND!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Anthoni Erfordter",
+            "location": "Klagenfurt, Karnten, Austria",
+            "role": "song author"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 32
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "59e78031-c269-52d1-9b00-08dba0398cb4"
+        ]
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "a90cf148-a3d8-5e37-82fc-f56d05f17fbc",
+        "13607865-d967-50a5-ae9a-024549fcf142"
+      ],
+      "html": {
+        "repository_path": "content/articles/c522e017-97ab-419f-90cc-ea0f1c4741e8.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "16b51668-067e-45fe-b0dd-4357620150eb",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 11,
+      "title": "When Things go Wrong",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Ralph Acosta",
+        "authors": [
+          {
+            "name": "Ralph Acosta",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "9d8d1891-ebb8-528c-ae7a-0d1783487f13",
+        "4896beb5-d08b-51cf-a626-d8cef3c1b2ec"
+      ],
+      "html": {
+        "repository_path": "content/articles/16b51668-067e-45fe-b0dd-4357620150eb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 33,
+          "role": "poem background illustration",
+          "alt": "A traveler carrying a bundle and reading a book",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/16b51668-067e-45fe-b0dd-4357620150eb-1.jpg",
+          "public_path": "/images/articles/16b51668-067e-45fe-b0dd-4357620150eb-1.jpg",
+          "rights_note": "Text-free grayscale separation image object 147, inverted from the PDF sample encoding into baseline sRGB/RGB JPEG at native 540 × 685 pixels. The pale source image is preserved without the separately painted poem typography or footer. No article-specific image permission or licence is printed; publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "title_note": "The poem page has no printed heading; the issue contents names it “When Things go Wrong.”"
+      },
+      "language": "en"
+    },
+    {
+      "id": "fa4115d9-abd6-497b-a0c8-1aa049f80b5b",
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 12,
+      "title": "STONES OF MEMORIAL",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "Darletta F. Martin, 2005\nMyron K. Sauder, 2005",
+        "authors": [
+          {
+            "name": "Darletta F. Martin",
+            "location": "Bedford, Pennsylvania",
+            "role": "author"
+          },
+          {
+            "name": "Myron K. Sauder",
+            "location": "Lancaster, Pennsylvania",
+            "role": "music"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "2c9550e4-1450-557f-8363-1fb690ef5eb8",
+        "c477861f-c67f-529a-a8f0-8efa036eca44"
+      ],
+      "html": {
+        "repository_path": "content/articles/fa4115d9-abd6-497b-a0c8-1aa049f80b5b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 34,
+          "role": "sheet music",
+          "alt": "Printed score and three verses of Stones of Memorial",
+          "caption": null,
+          "credit": "Darletta F. Martin, 2005; Myron K. Sauder, 2005",
+          "repository_path": "public/images/articles/fa4115d9-abd6-497b-a0c8-1aa049f80b5b-1.png",
+          "public_path": "/images/articles/fa4115d9-abd6-497b-a0c8-1aa049f80b5b-1.png",
+          "rights_note": "Native 2522 × 3004 CCITT stencil image object 151, inverted to black score on white as printed, with no page header or footer. It contains the source title, credits, notation and lyrics. No article-specific image permission or licence is printed; publisher permission reported by the project owner."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
     }
   ],
   "skipped": [
@@ -45596,6 +46413,38 @@
       "reason": "The inset’s hemoglobin diagram carries an intrinsic copyright mark; the issue copying policy excepts copyright-indicated material.",
       "detected_notices": [
         "©ADAM"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 5,
+      "title": "Coals of Fire in Siuna",
+      "byline": "~ Pablo Yoder",
+      "source_pages": {
+        "start": 18,
+        "end": 20
+      },
+      "reason": "The article-specific note on page 20 states that separate permission is required to reproduce this copyrighted article. The whole article and both associated images are excluded.",
+      "detected_notices": [
+        "This article is under copyright by TGS International, and permission is needed to reproduce it."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "7427bc1a-c95b-4939-8616-74f3fc00d881",
+      "sequence": 13,
+      "title": null,
+      "byline": "-Wilbur Rees",
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "reason": "The poem ends with an article-specific notice stating that it is used by permission; exclude the poem and all associated images.",
+      "detected_notices": [
+        "© by Wilbur Rees. Used by permission."
       ],
       "html_exported": false,
       "images_exported": false
