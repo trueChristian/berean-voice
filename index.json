@@ -43437,6 +43437,1096 @@
         ]
       },
       "language": "en"
+    },
+    {
+      "id": "dee169a7-ef99-43fe-a45f-72e02184a475",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 1,
+      "title": "From the Editor",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "a11ef93c-3a32-5cdc-bad0-ae4c564f5156",
+        "98831891-d3af-59bf-9c95-821ac504dd26",
+        "bb05b712-abe4-5cce-99f8-8e5e7ba58dc1"
+      ],
+      "html": {
+        "repository_path": "content/articles/dee169a7-ef99-43fe-a45f-72e02184a475.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 3,
+          "role": null,
+          "alt": "portrait of a smiling bearded man",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/dee169a7-ef99-43fe-a45f-72e02184a475-1.png",
+          "public_path": "/images/articles/dee169a7-ef99-43fe-a45f-72e02184a475-1.png",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #2; none; clean embedded image. Exported as web-compatible RGB/sRGB PNG; JPEG normalized at 150 dpi where applicable."
+        },
+        {
+          "sequence": 2,
+          "source_page": 3,
+          "role": null,
+          "alt": "portrait of a bearded man seated at a desk",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/dee169a7-ef99-43fe-a45f-72e02184a475-2.png",
+          "public_path": "/images/articles/dee169a7-ef99-43fe-a45f-72e02184a475-2.png",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #3; none; clean embedded image. Exported as web-compatible RGB/sRGB PNG; JPEG normalized at 150 dpi where applicable."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "c0b4ca5f-79e2-4dd2-9528-437467095383",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 2,
+      "title": "A Blessing or a Curse?",
+      "subtitle": null,
+      "section": "Social Networking:",
+      "byline": {
+        "raw": "Aaron Hurst",
+        "authors": [
+          {
+            "name": "Aaron Hurst",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 9
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "topics": [
+        "92851eaf-551e-562f-9a60-8efff905ed54",
+        "b43eaaa6-ba48-5bc1-b5bb-4c86e586adf4",
+        "4f8e92de-9740-5a2b-8710-dc4584da68da"
+      ],
+      "html": {
+        "repository_path": "content/articles/c0b4ca5f-79e2-4dd2-9528-437467095383.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 4,
+          "role": null,
+          "alt": "illustration of a net",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-1.jpg",
+          "public_path": "/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-1.jpg",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. The clean PDF net image object 13 and three separately painted rope pieces (objects 14–16) were reconstructed at their exact page coordinates from the source raster pixels at 150 dpi. Separately painted article headline typography was omitted. Baseline RGB/sRGB JPEG at 150 dpi."
+        },
+        {
+          "sequence": 2,
+          "source_page": 5,
+          "role": null,
+          "alt": "Drawing of a wild cat crouching in a tree",
+          "caption": null,
+          "credit": "B.H.",
+          "repository_path": "public/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-2.jpg",
+          "public_path": "/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-2.jpg",
+          "rights_note": "The source illustration has an intrinsic artist signature “B.H.”; this is a creator credit, not a separate-permission or copyright notice. Embedded Adobe grayscale image samples were inverted to reproduce the printed lynx-on-white appearance, then encoded as a baseline RGB/sRGB JPEG at 150 dpi. No publisher text overlay is baked into the export."
+        },
+        {
+          "sequence": 3,
+          "source_page": 6,
+          "role": null,
+          "alt": "WWW letters over a gray spider web",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-3.png",
+          "public_path": "/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-3.png",
+          "rights_note": "No image-specific permission notice or credit is printed. The center vector/font-based WWW and web art was rendered only from PDF p.6 rectangle (205,180,408,390) at 300 dpi into RGB PNG; no surrounding article text or decorative pull quote is included."
+        },
+        {
+          "sequence": 4,
+          "source_page": 7,
+          "role": null,
+          "alt": "old engraving of a serpent in a garden beside two people",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-4.jpg",
+          "public_path": "/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-4.jpg",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #9; Adobe grayscale sample inversion to reproduce printed image. Exported as web-compatible RGB/sRGB JPG; JPEG normalized at 150 dpi where applicable."
+        },
+        {
+          "sequence": 5,
+          "source_page": 8,
+          "role": null,
+          "alt": "silhouette of a revolver",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-5.jpg",
+          "public_path": "/images/articles/c0b4ca5f-79e2-4dd2-9528-437467095383-5.jpg",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #10; none; clean embedded image. Exported as web-compatible RGB/sRGB JPG; JPEG normalized at 150 dpi where applicable."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_census_note": "P4 net with three separate rope pieces, p5 lynx, p6 vector WWW web, p7 serpent engraving, p8 revolver; decorative duplicate pull quotes were not exported, except p8 variant wording retained semantically."
+      },
+      "language": "en"
+    },
+    {
+      "id": "33bbaaa4-dcf7-4f93-83a8-12baf57017d5",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 3,
+      "title": "Tool? Or Toy?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 9
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "9aeecc23-2b8e-5b54-9b5f-6d6b71f294ba",
+        "92851eaf-551e-562f-9a60-8efff905ed54",
+        "79026687-5f1c-5c05-8305-c63a5d165b2c"
+      ],
+      "html": {
+        "repository_path": "content/articles/33bbaaa4-dcf7-4f93-83a8-12baf57017d5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 9,
+          "role": null,
+          "alt": "oval photograph of a boy beside a large chainsaw and cut timber",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/33bbaaa4-dcf7-4f93-83a8-12baf57017d5-1.png",
+          "public_path": "/images/articles/33bbaaa4-dcf7-4f93-83a8-12baf57017d5-1.png",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #11; none; clean embedded image. Exported as web-compatible RGB/sRGB PNG; JPEG normalized at 150 dpi where applicable."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "90100e26-9fe9-40a7-bfed-8a44154b0d27",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 4,
+      "title": "Bondage in Freedom",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Rick Hess",
+        "authors": [
+          {
+            "name": "Rick Hess",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 13
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "0648d4df-242a-5815-8d22-08b555d1b542"
+        ]
+      },
+      "topics": [
+        "de33f557-edc2-55c4-abce-92d355702cd7",
+        "bb05b712-abe4-5cce-99f8-8e5e7ba58dc1",
+        "ff6ad80a-580c-5627-ae33-02ab80581a20",
+        "c8f99447-f3d3-5eb1-986f-f30a50b12929"
+      ],
+      "html": {
+        "repository_path": "content/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 10,
+          "role": null,
+          "alt": "left forearm and hand wearing a shackle",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-1.jpg",
+          "public_path": "/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-1.jpg",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #12; Adobe grayscale sample inversion; publisher title omitted. Exported as web-compatible RGB/sRGB JPG; JPEG normalized at 150 dpi where applicable."
+        },
+        {
+          "sequence": 2,
+          "source_page": 10,
+          "role": null,
+          "alt": "right forearm and hand wearing a shackle",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-2.jpg",
+          "public_path": "/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-2.jpg",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #13; Adobe grayscale sample inversion; publisher title omitted. Exported as web-compatible RGB/sRGB JPG; JPEG normalized at 150 dpi where applicable."
+        },
+        {
+          "sequence": 3,
+          "source_page": 11,
+          "role": null,
+          "alt": "mountain fortress at Masada",
+          "caption": "Masada, pictured above, was a Zealot fort near the Dead Sea. The name Masada comes from a Hebrew word meaning “stronghold.” Are we building strongholds upon false conceptions of God, strongholds that will some day fall like Masada did?",
+          "credit": null,
+          "repository_path": "public/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-3.png",
+          "public_path": "/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-3.png",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #14; none; clean embedded image; separate caption omitted. Exported as web-compatible RGB/sRGB PNG; JPEG normalized at 150 dpi where applicable."
+        },
+        {
+          "sequence": 4,
+          "source_page": 12,
+          "role": null,
+          "alt": "historical illustration of a crowd before Jesus",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-4.jpg",
+          "public_path": "/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-4.jpg",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #15; none; clean embedded image; separate caption omitted. Exported as web-compatible RGB/sRGB JPG; JPEG normalized at 150 dpi where applicable."
+        },
+        {
+          "sequence": 5,
+          "source_page": 13,
+          "role": null,
+          "alt": "oval family group photograph",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-5.png",
+          "public_path": "/images/articles/90100e26-9fe9-40a7-bfed-8a44154b0d27-5.png",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #17; none; clean embedded image; separate author biography retained as body. Exported as web-compatible RGB/sRGB PNG; JPEG normalized at 150 dpi where applicable."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "b30729af-eb81-4460-ac31-f6f917fe2dc8",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 5,
+      "title": "The Christian’s Bill of Rights",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 13
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "de33f557-edc2-55c4-abce-92d355702cd7",
+        "ff6ad80a-580c-5627-ae33-02ab80581a20",
+        "e763b632-f673-547f-afb3-186d486db0cc"
+      ],
+      "html": {
+        "repository_path": "content/articles/b30729af-eb81-4460-ac31-f6f917fe2dc8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 13,
+          "role": null,
+          "alt": "silhouette of a standing person above a cluster of hands",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/b30729af-eb81-4460-ac31-f6f917fe2dc8-1.png",
+          "public_path": "/images/articles/b30729af-eb81-4460-ac31-f6f917fe2dc8-1.png",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #16; none; clean embedded image. Exported as web-compatible RGB/sRGB PNG; JPEG normalized at 150 dpi where applicable."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "594e6de0-71ae-4367-8d81-2ae37c93b98b",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 6,
+      "title": "As Jesus Loved",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Viola J. Berg",
+        "authors": [
+          {
+            "name": "Viola J. Berg",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 14
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "64af4c5a-115b-50b0-ae07-5d75a56b13aa",
+        "e763b632-f673-547f-afb3-186d486db0cc",
+        "4f8e92de-9740-5a2b-8710-dc4584da68da"
+      ],
+      "html": {
+        "repository_path": "content/articles/594e6de0-71ae-4367-8d81-2ae37c93b98b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 14,
+          "role": null,
+          "alt": "line illustration of an adult and child",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/594e6de0-71ae-4367-8d81-2ae37c93b98b-1.jpg",
+          "public_path": "/images/articles/594e6de0-71ae-4367-8d81-2ae37c93b98b-1.jpg",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #18; Adobe grayscale sample inversion to reproduce printed image. Exported as web-compatible RGB/sRGB JPG; JPEG normalized at 150 dpi where applicable."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "53f0f887-3196-4d27-b314-9d7edbb37f78",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 7,
+      "title": "A Letter on True Patriotism",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "John Newton",
+        "authors": [
+          {
+            "name": "John Newton",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 15
+      },
+      "categories": {
+        "primary": "0648d4df-242a-5815-8d22-08b555d1b542",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "bb05b712-abe4-5cce-99f8-8e5e7ba58dc1",
+        "c8f99447-f3d3-5eb1-986f-f30a50b12929",
+        "3a6d55c6-a8e1-51f6-a35b-8924add5ec2d"
+      ],
+      "html": {
+        "repository_path": "content/articles/53f0f887-3196-4d27-b314-9d7edbb37f78.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "d99bad0b-419b-4758-974f-3dfd642a1e2f",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 8,
+      "title": "Face the Battle Singing!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Lewis Beachey",
+        "authors": [
+          {
+            "name": "Lewis Beachey",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 22,
+        "pages": [
+          16,
+          17,
+          22
+        ]
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "4198e6fb-4793-5bd3-afc8-0b75b031cdfd",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/d99bad0b-419b-4758-974f-3dfd642a1e2f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 16,
+          "role": null,
+          "alt": "horsemen moving across a battlefield",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/d99bad0b-419b-4758-974f-3dfd642a1e2f-1.jpg",
+          "public_path": "/images/articles/d99bad0b-419b-4758-974f-3dfd642a1e2f-1.jpg",
+          "rights_note": "No image-specific permission notice or credit is printed. The clean source image object 66 was exported; two narrow gray edge treatment strips (objects 64 and 65) were omitted. Baseline RGB/sRGB JPEG at 150 dpi."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "ae9c006d-0577-4fc9-acfa-868a4a7960f2",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 9,
+      "title": "Made alive by the Blood!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 22
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [
+        "87d9ba46-bf4d-5d45-a7c6-ce37e88c60be",
+        "9ea02874-7a57-5114-8360-1268f7f792d1",
+        "2f6f3b98-879e-51ad-bd65-fa180b219ff9"
+      ],
+      "html": {
+        "repository_path": "content/articles/ae9c006d-0577-4fc9-acfa-868a4a7960f2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 18,
+          "role": null,
+          "alt": "oval illustration of people and a biblical scene",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/ae9c006d-0577-4fc9-acfa-868a4a7960f2-1.jpg",
+          "public_path": "/images/articles/ae9c006d-0577-4fc9-acfa-868a4a7960f2-1.jpg",
+          "rights_note": "No image-specific separate-permission notice or credit is printed. Clean embedded PDF image #22; Adobe grayscale sample inversion to reproduce printed image. Exported as web-compatible RGB/sRGB JPG; JPEG normalized at 150 dpi where applicable."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 11,
+      "title": "A Servant’s Role",
+      "subtitle": null,
+      "section": "The Sisters’ Corner",
+      "byline": {
+        "raw": "Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 27
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "be5ecbbb-b97b-5534-b066-beb46cabe236",
+        "e763b632-f673-547f-afb3-186d486db0cc",
+        "81468553-1f19-5fc5-a56d-910096930064"
+      ],
+      "html": {
+        "repository_path": "content/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 23,
+          "role": "section illustration",
+          "alt": "A seated woman holding a child",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-1.png",
+          "public_path": "/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-1.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean isolated vector illustration rendered at 300 dpi; separate section typography and page furniture omitted."
+        },
+        {
+          "sequence": 2,
+          "source_page": 23,
+          "role": "section illustration",
+          "alt": "Illustration of a house",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-2.png",
+          "public_path": "/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-2.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean original embedded PDF image object 91; separate section typography and tagline omitted."
+        },
+        {
+          "sequence": 3,
+          "source_page": 24,
+          "role": "illustration",
+          "alt": "Hands washing a person’s feet",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-3.png",
+          "public_path": "/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-3.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean original embedded PDF image object 95."
+        },
+        {
+          "sequence": 4,
+          "source_page": 25,
+          "role": "illustration",
+          "alt": "Silhouette of a woman watering flowers",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-4.png",
+          "public_path": "/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-4.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean isolated vector illustration rendered at 300 dpi; separate printed pull quote duplicates article body and was omitted."
+        },
+        {
+          "sequence": 5,
+          "source_page": 26,
+          "role": "illustration",
+          "alt": "Woodcut scene of a woman serving food at a table",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-5.jpg",
+          "public_path": "/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-5.jpg",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Original embedded grayscale separation PDF image object 102; inverted according to source page appearance and encoded as baseline RGB JPEG at native 301 × 472 pixels."
+        },
+        {
+          "sequence": 6,
+          "source_page": 27,
+          "role": "illustration",
+          "alt": "Illustration of people near a brick oven",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-6.png",
+          "public_path": "/images/articles/be0fa2a0-cbfc-4cf8-9c12-1f06e3f75e04-6.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean original embedded PDF image object 106."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "9eeae65c-9e43-4059-aea3-dc57633a3e8d",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 12,
+      "title": "“You won’t find those here ...”",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 29
+      },
+      "categories": {
+        "primary": "0648d4df-242a-5815-8d22-08b555d1b542",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "102f0529-3552-5cea-aef3-867de018b9d4",
+        "3a6d55c6-a8e1-51f6-a35b-8924add5ec2d",
+        "bb05b712-abe4-5cce-99f8-8e5e7ba58dc1"
+      ],
+      "html": {
+        "repository_path": "content/articles/9eeae65c-9e43-4059-aea3-dc57633a3e8d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 28,
+          "role": "opening photograph",
+          "alt": "Good’s Store building, people and parking area",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/9eeae65c-9e43-4059-aea3-dc57633a3e8d-1.jpg",
+          "public_path": "/images/articles/9eeae65c-9e43-4059-aea3-dc57633a3e8d-1.jpg",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. All five original PDF photo tiles (objects 110–114) reassembled at their exact print coordinates. The pale bottom/right opacity fade was irreversibly baked into the source tiles, so it remains as a documented exception; no missing pixels were synthesized."
+        },
+        {
+          "sequence": 2,
+          "source_page": 29,
+          "role": "photograph",
+          "alt": "Roadside Good’s Store sign",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/9eeae65c-9e43-4059-aea3-dc57633a3e8d-2.jpg",
+          "public_path": "/images/articles/9eeae65c-9e43-4059-aea3-dc57633a3e8d-2.jpg",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean adjacent original PDF image tiles 118 and 119 reassembled at their print coordinates, omitting the one-pixel overlap."
+        },
+        {
+          "sequence": 3,
+          "source_page": 29,
+          "role": "photograph",
+          "alt": "People meeting around a conference table",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/9eeae65c-9e43-4059-aea3-dc57633a3e8d-3.jpg",
+          "public_path": "/images/articles/9eeae65c-9e43-4059-aea3-dc57633a3e8d-3.jpg",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Original embedded PDF image object 120, re-encoded as standards-normalized baseline sRGB JPEG with nonzero 150 dpi JFIF density; crop and dimensions preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "ff13d17f-351a-448e-a0ee-252d039d4186",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 13,
+      "title": "Seeds of the Kingdom",
+      "subtitle": "Seed Sower Award",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 35,
+        "pages": [
+          30,
+          31,
+          32,
+          35
+        ]
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609",
+        "cd42f468-6b2c-5f56-abf2-82062af463d1",
+        "ff6ad80a-580c-5627-ae33-02ab80581a20"
+      ],
+      "html": {
+        "repository_path": "content/articles/ff13d17f-351a-448e-a0ee-252d039d4186.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 30,
+          "role": "opening illustration",
+          "alt": "A sower scattering seed in a field",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/ff13d17f-351a-448e-a0ee-252d039d4186-1.jpg",
+          "public_path": "/images/articles/ff13d17f-351a-448e-a0ee-252d039d4186-1.jpg",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Original grayscale separation PDF image object 124; inverted to match the rendered source, then encoded as baseline RGB JPEG at native dimensions. The faint edge fade is intrinsic to this base image."
+        },
+        {
+          "sequence": 2,
+          "source_page": 31,
+          "role": "photograph",
+          "alt": "Roof of a clinic being repaired",
+          "caption": "While the Society of the Good Shepherd focuses on microloans, they do not pass by opportunities to bless in other ways, such as fixing this needy roof on a clinic.",
+          "credit": null,
+          "repository_path": "public/images/articles/ff13d17f-351a-448e-a0ee-252d039d4186-2.png",
+          "public_path": "/images/articles/ff13d17f-351a-448e-a0ee-252d039d4186-2.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean original embedded PDF image object 128."
+        },
+        {
+          "sequence": 3,
+          "source_page": 31,
+          "role": "photograph",
+          "alt": "Damaged ceiling inside a clinic",
+          "caption": "While the Society of the Good Shepherd focuses on microloans, they do not pass by opportunities to bless in other ways, such as fixing this needy roof on a clinic.",
+          "credit": null,
+          "repository_path": "public/images/articles/ff13d17f-351a-448e-a0ee-252d039d4186-3.png",
+          "public_path": "/images/articles/ff13d17f-351a-448e-a0ee-252d039d4186-3.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean original embedded PDF image object 129."
+        },
+        {
+          "sequence": 4,
+          "source_page": 32,
+          "role": "illustration",
+          "alt": "Illustration of a seated person in worn clothing",
+          "caption": "You think you are helping some poor person, but Jesus is saying \"That’s me!\"",
+          "credit": null,
+          "repository_path": "public/images/articles/ff13d17f-351a-448e-a0ee-252d039d4186-4.jpg",
+          "public_path": "/images/articles/ff13d17f-351a-448e-a0ee-252d039d4186-4.jpg",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Original grayscale separation PDF image object 133; inverted to match rendered source and encoded as baseline RGB JPEG at native dimensions."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "b0a422aa-0bcd-4fa5-9c6f-bc9ae5c12817",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 14,
+      "title": "Only a Servant",
+      "subtitle": null,
+      "section": "The Book Shelf",
+      "byline": {
+        "raw": "A book review by David Markwood\nLittle Flock of Christ, Randolph Center, VT",
+        "authors": [
+          {
+            "name": "David Markwood",
+            "location": "Randolph Center, VT",
+            "role": "book review"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "649d37ab-7011-545e-8f58-c9f374fd3bfe",
+        "e763b632-f673-547f-afb3-186d486db0cc",
+        "ec427e9b-466a-536c-9fdf-d5757d4fdfe3"
+      ],
+      "html": {
+        "repository_path": "content/articles/b0a422aa-0bcd-4fa5-9c6f-bc9ae5c12817.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 33,
+          "role": "section illustration",
+          "alt": "Books on a shelf with the words The Book Shelf",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/b0a422aa-0bcd-4fa5-9c6f-bc9ae5c12817-1.png",
+          "public_path": "/images/articles/b0a422aa-0bcd-4fa5-9c6f-bc9ae5c12817-1.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Meaningful vector and typography section artwork rendered as only its printed region at 300 dpi; article text and page furniture excluded."
+        },
+        {
+          "sequence": 2,
+          "source_page": 33,
+          "role": "book cover",
+          "alt": "Book cover reading Only a Servant",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/b0a422aa-0bcd-4fa5-9c6f-bc9ae5c12817-2.png",
+          "public_path": "/images/articles/b0a422aa-0bcd-4fa5-9c6f-bc9ae5c12817-2.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Clean original embedded PDF image object 160, preserved without the separate page-layout shadow/rotation. Intrinsic title lettering retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "title_note": "Only a Servant is printed on the reviewed book cover and named in the prose, not as a separate heading above the review."
+      },
+      "language": "en"
+    },
+    {
+      "id": "517181c6-32a6-4645-8ecf-09b94b173f61",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 15,
+      "title": "Ode to the King",
+      "subtitle": null,
+      "section": "God’s People Keep Singing",
+      "byline": {
+        "raw": "M. A., 2005\nMike Atnip, 2005; arr.",
+        "authors": [
+          {
+            "name": "M. A.",
+            "location": null
+          },
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": "arr."
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "2c9550e4-1450-557f-8363-1fb690ef5eb8",
+        "95eff650-0776-5994-8697-9cbbf2f83c73"
+      ],
+      "html": {
+        "repository_path": "content/articles/517181c6-32a6-4645-8ecf-09b94b173f61.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 34,
+          "role": "sheet music",
+          "alt": "Printed musical notation and lyrics for Ode to the King",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/517181c6-32a6-4645-8ecf-09b94b173f61-1.png",
+          "public_path": "/images/articles/517181c6-32a6-4645-8ecf-09b94b173f61-1.png",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Full native 2292 × 1614 PDF CCITT stencil image object 164, inverted to printed black-on-white at its intrinsic 303 dpi; the separate solicitation artwork beneath it was excluded. Printed score states PUBLIC DOMAIN."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en"
+    },
+    {
+      "id": "ab6f2bb9-4dbc-4030-84e5-2068dc9c5518",
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 16,
+      "title": null,
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-Wolfgang Sailer, ca. 1500-1550\n-Songbook of the Hutterian Brethren, #283",
+        "authors": [
+          {
+            "name": "Wolfgang Sailer",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "2c9550e4-1450-557f-8363-1fb690ef5eb8",
+        "6a3e7d22-888c-5e67-b5bc-d631d5871987"
+      ],
+      "html": {
+        "repository_path": "content/articles/ab6f2bb9-4dbc-4030-84e5-2068dc9c5518.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 36,
+          "role": "poem background photograph",
+          "alt": "Sunlight streaming through trees in mist",
+          "caption": null,
+          "credit": null,
+          "repository_path": "public/images/articles/ab6f2bb9-4dbc-4030-84e5-2068dc9c5518-1.jpg",
+          "public_path": "/images/articles/ab6f2bb9-4dbc-4030-84e5-2068dc9c5518-1.jpg",
+          "rights_note": "No image-specific permission restriction or licence is printed. The masthead lists general art sources without assigning one to this asset; rely on the publisher permission reported by the project owner. Original embedded full-page PDF image object 183, re-encoded as standards-normalized baseline sRGB JPEG with nonzero 150 dpi JFIF density. The separable mailing panel and poem lettering were omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "title_note": "No separate title is printed. First line is “Flee, dark night!”."
+      },
+      "language": "en"
     }
   ],
   "skipped": [
@@ -44490,6 +45580,22 @@
       "reason": "The page 13 crusade illustration has an intrinsic image-specific copyright indication; this issue’s printed copying policy excepts material where copyright is indicated.",
       "detected_notices": [
         "© Clipart.com"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "445343a4-be17-4610-a1af-e3e197cb048d",
+      "sequence": 10,
+      "title": "Did you know?",
+      "byline": "~Dean Taylor",
+      "source_pages": {
+        "start": 21,
+        "end": 21
+      },
+      "reason": "The inset’s hemoglobin diagram carries an intrinsic copyright mark; the issue copying policy excepts copyright-indicated material.",
+      "detected_notices": [
+        "©ADAM"
       ],
       "html_exported": false,
       "images_exported": false
