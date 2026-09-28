@@ -1362,6 +1362,36 @@
       },
       "source_id": "heartbeat-remnant-2009-07",
       "slug": "heartbeat-remnant-2009-07"
+    },
+    {
+      "id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "April/May/June 2009",
+        "year": 2009,
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 15,
+      "issue_number": 2,
+      "source": {
+        "filename": "2009-2Q-Remnant.pdf",
+        "sha256": "e18122c969a9ebe87068ced66fa48b0a673429d1ba1a4b80e79ff87caba180c3",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      },
+      "source_id": "heartbeat-remnant-2009-04",
+      "slug": "heartbeat-remnant-2009-04"
     }
   ],
   "categories": [

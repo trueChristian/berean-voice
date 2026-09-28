@@ -45344,6 +45344,1078 @@
         "images_against_pdf": "verified_by_ai"
       },
       "language": "en"
+    },
+    {
+      "id": "61aa4c29-5dd3-4787-b358-03a85a7501cd",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 1,
+      "title": "FROM THE EDITOR...",
+      "subtitle": null,
+      "section": "FROM THE EDITOR...",
+      "byline": {
+        "raw": "~Bro. Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/61aa4c29-5dd3-4787-b358-03a85a7501cd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/61aa4c29-5dd3-4787-b358-03a85a7501cd-1.jpg",
+          "public_path": "/images/articles/61aa4c29-5dd3-4787-b358-03a85a7501cd-1.jpg",
+          "source_page": 3,
+          "role": "article photograph",
+          "alt": "Man beside a caution sign",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Crop (25,24)–(393,354) removes only the baked publisher photo frame and shadow."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/61aa4c29-5dd3-4787-b358-03a85a7501cd-2.jpg",
+          "public_path": "/images/articles/61aa4c29-5dd3-4787-b358-03a85a7501cd-2.jpg",
+          "source_page": 3,
+          "role": "article photograph",
+          "alt": "Fellowship building with people and bicycles",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Crop (21,21)–(462,236) removes only the baked publisher photo frame and shadow."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "a11ef93c-3a32-5cdc-bad0-ae4c564f5156",
+        "b71d2eed-1b6b-5ca4-84e5-3ea0f3448e82"
+      ]
+    },
+    {
+      "id": "9e00796d-c208-41a6-afd0-4873b7ac1393",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 2,
+      "title": "Will The Real Pagan Please Stand Up?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 35,
+        "pages": [
+          4,
+          5,
+          6,
+          7,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/9e00796d-c208-41a6-afd0-4873b7ac1393.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-1.jpg",
+          "public_path": "/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-1.jpg",
+          "source_page": 4,
+          "role": "book cover",
+          "alt": "The Open Church book cover",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. The book lettering is intrinsic to the photographed cover."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-2.png",
+          "public_path": "/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-2.png",
+          "source_page": 5,
+          "role": "historical illustration",
+          "alt": "People gathered around a table with vessels",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Lossless decoded PNG from source PDF image data."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-3.png",
+          "public_path": "/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-3.png",
+          "source_page": 6,
+          "role": "historical illustration",
+          "alt": "Village with a large meeting house",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Lossless decoded PNG from source PDF image data."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-4.jpg",
+          "public_path": "/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-4.jpg",
+          "source_page": 30,
+          "role": "article photograph",
+          "alt": "Infant held in a small bathtub",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-5.jpg",
+          "public_path": "/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-5.jpg",
+          "source_page": 31,
+          "role": "book cover",
+          "alt": "Pagan Christianity? book cover",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. The book lettering is intrinsic to the photographed cover."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-6.jpg",
+          "public_path": "/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-6.jpg",
+          "source_page": 32,
+          "role": "historical map",
+          "alt": "Antique map illustration",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Map markings are intrinsic source content."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "public/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-7.jpg",
+          "public_path": "/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-7.jpg",
+          "source_page": 33,
+          "role": "historical illustration",
+          "alt": "Burning at a stake in a historical engraving",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        },
+        {
+          "sequence": 8,
+          "repository_path": "public/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-8.jpg",
+          "public_path": "/images/articles/9e00796d-c208-41a6-afd0-4873b7ac1393-8.jpg",
+          "source_page": 34,
+          "role": "historical illustration",
+          "alt": "Arched interior of a church",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "89fc5b7b-40a6-5c06-a31e-17e796c9e29b",
+        "6f1faacc-364c-5a75-a598-9f5063ae32c4",
+        "4512cfd9-f11a-52c1-8239-b9f0c7ec9274",
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c"
+      ]
+    },
+    {
+      "id": "c20a471f-7bb3-4641-a7c0-283742fc6b25",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 3,
+      "title": "Do ALL to the Lord Jesus",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Edward Bouverie Pusey (1800-1882)",
+        "authors": [
+          {
+            "name": "Edward Bouverie Pusey",
+            "location": null,
+            "life_dates": "1800-1882"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 9
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/c20a471f-7bb3-4641-a7c0-283742fc6b25.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c20a471f-7bb3-4641-a7c0-283742fc6b25-1.jpg",
+          "public_path": "/images/articles/c20a471f-7bb3-4641-a7c0-283742fc6b25-1.jpg",
+          "source_page": 8,
+          "role": "historical illustration",
+          "alt": "A person holding a book and standing near a doorway",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "989903d8-24d4-5c2c-8b36-4891d0e91f87",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ]
+    },
+    {
+      "id": "a7d3ddeb-882c-4e95-90eb-f2254a9a2737",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 4,
+      "title": "The Secret of Power and the Enjoyment of the Lord",
+      "subtitle": "The Need for Both Purity and Love in the Christian Life",
+      "section": null,
+      "byline": {
+        "raw": "by Francis A. Schaeffer",
+        "authors": [
+          {
+            "name": "Francis A. Schaeffer",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 13
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-1.png",
+          "public_path": "/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-1.png",
+          "source_page": 10,
+          "role": "article diagram",
+          "alt": "Triangle labelled Power, Enjoyment, Purity, and Love",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Lossless decoded PNG from source PDF image data. First of five distinct printed diagram states."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-2.png",
+          "public_path": "/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-2.png",
+          "source_page": 11,
+          "role": "article diagram",
+          "alt": "Triangle labelled Power, Enjoyment, Purity, and Love",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Lossless decoded PNG from source PDF image data. Second distinct state; lower labels differ from the first."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-3.png",
+          "public_path": "/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-3.png",
+          "source_page": 11,
+          "role": "article diagram",
+          "alt": "Triangle with one directional arrow from Purity to Love",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Lossless decoded PNG from source PDF image data. Third distinct printed diagram state."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-4.png",
+          "public_path": "/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-4.png",
+          "source_page": 13,
+          "role": "article diagram",
+          "alt": "Triangle with arrows between Purity and Love",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Lossless decoded PNG from source PDF image data. Fourth distinct printed diagram state."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-5.jpg",
+          "public_path": "/images/articles/a7d3ddeb-882c-4e95-90eb-f2254a9a2737-5.jpg",
+          "source_page": 13,
+          "role": "article diagram",
+          "alt": "Triangle with arrows along all three sides and its base",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Fifth distinct printed diagram state."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "f9835ab9-889a-5558-8ebe-d601e3b4cbcc",
+        "64af4c5a-115b-50b0-ae07-5d75a56b13aa",
+        "f396833d-db0d-5879-8fc7-0b9e43bd718d"
+      ]
+    },
+    {
+      "id": "769d1c67-27cb-42b4-8d3b-abee10277e7f",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 5,
+      "title": "Preaching with Passion",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by G. Campbell Morgan",
+        "authors": [
+          {
+            "name": "G. Campbell Morgan",
+            "location": null,
+            "life_dates": "1863-1945"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 14
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/769d1c67-27cb-42b4-8d3b-abee10277e7f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/769d1c67-27cb-42b4-8d3b-abee10277e7f-1.jpg",
+          "public_path": "/images/articles/769d1c67-27cb-42b4-8d3b-abee10277e7f-1.jpg",
+          "source_page": 14,
+          "role": "portrait",
+          "alt": "G. Campbell Morgan portrait",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Clean portrait object (xref 85); omitted separate frame/shadow and publisher Passion title lettering. The life dates and biographical paragraph below the article are part of the text transcription; do not duplicate them as a figcaption."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/769d1c67-27cb-42b4-8d3b-abee10277e7f-2.jpg",
+          "public_path": "/images/articles/769d1c67-27cb-42b4-8d3b-abee10277e7f-2.jpg",
+          "source_page": 14,
+          "role": "article background",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Full-page flame raster is the PDF base image (xref 83). The pale gray tonal wash is intrinsic to its pixels; a blurred text banner, framing and soft rectangular photo panel are separate publisher treatments omitted from this export."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "7f8e6e3c-322b-5d2d-b390-05235f99a977",
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ]
+    },
+    {
+      "id": "68a52dbc-b796-4f32-931a-bd26a29f5cbb",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 6,
+      "title": "The Beauty of Little Things",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Claudia Esh",
+        "authors": [
+          {
+            "name": "Claudia Esh",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 15
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/68a52dbc-b796-4f32-931a-bd26a29f5cbb.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "7765eef1-b410-528e-bcde-39382c685de1",
+        "d98d2776-11d0-5852-be8d-67a88feaeb5e"
+      ]
+    },
+    {
+      "id": "a8e6d89c-8fa0-4141-9634-ba26d1696457",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 7,
+      "title": "Broken Pieces",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 21,
+        "pages": [
+          16,
+          17,
+          21
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/a8e6d89c-8fa0-4141-9634-ba26d1696457.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a8e6d89c-8fa0-4141-9634-ba26d1696457-1.jpg",
+          "public_path": "/images/articles/a8e6d89c-8fa0-4141-9634-ba26d1696457-1.jpg",
+          "source_page": 16,
+          "role": "article illustration",
+          "alt": "Shattered glass and fragments",
+          "caption": null,
+          "credit": "© Adrian Costea - Fotolia.com",
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Source composite contains title/byline in same raster. A meaningful unobstructed crop (0,0)–(323,296) keeps the photographed glass and omits that typography; the outer tip of one loose fragment near the right edge is cropped. Page 2 credits the page 16 photo."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "153c2fbc-8d13-5ee8-8cba-3b29351f9e68",
+        "8ada4a0d-a538-532f-a615-13434b3cd997"
+      ]
+    },
+    {
+      "id": "bd0b23ac-be3e-45b5-8782-83679a911aba",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 8,
+      "title": "From Africa",
+      "subtitle": null,
+      "section": "THE BLESSING CORNER",
+      "byline": {
+        "raw": "by Llewellyn van der Merwe",
+        "authors": [
+          {
+            "name": "Llewellyn van der Merwe",
+            "location": "Namibia"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 21
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000",
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/bd0b23ac-be3e-45b5-8782-83679a911aba.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-1.jpg",
+          "public_path": "/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-1.jpg",
+          "source_page": 18,
+          "role": "article photograph",
+          "alt": "Four children in a small cart",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. One of 2 visible constituents in a single flattened PDF collage xref 101; crop (105, 55, 420, 332) selects only original visible pixels, removing baked backing/shadows and caption panels. Some photo corners/outer margins are lost because the source collage flattens overlaps; no hidden pixels were synthesized."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-2.jpg",
+          "public_path": "/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-2.jpg",
+          "source_page": 18,
+          "role": "article photograph",
+          "alt": "Seated van der Merwe family with children",
+          "caption": "The van der Merwe family",
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. One of 2 visible constituents in a single flattened PDF collage xref 101; crop (620, 75, 950, 334) selects only original visible pixels, removing baked backing/shadows and caption panels. Some photo corners/outer margins are lost because the source collage flattens overlaps; no hidden pixels were synthesized."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-3.jpg",
+          "public_path": "/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-3.jpg",
+          "source_page": 19,
+          "role": "article photograph",
+          "alt": "Jaco van der Merwe seated indoors",
+          "caption": "Jaco van der Merwe",
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. One of 3 visible constituents in a single flattened PDF collage xref 106; crop (50, 50, 240, 301) selects only original visible pixels, removing baked backing/shadows and caption panels. Some photo corners/outer margins are lost because the source collage flattens overlaps; no hidden pixels were synthesized."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-4.jpg",
+          "public_path": "/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-4.jpg",
+          "source_page": 19,
+          "role": "article photograph",
+          "alt": "Van der Merwe family standing beneath a tree",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. One of 3 visible constituents in a single flattened PDF collage xref 106; crop (265, 55, 615, 320) selects only original visible pixels, removing baked backing/shadows and caption panels. Some photo corners/outer margins are lost because the source collage flattens overlaps; no hidden pixels were synthesized."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-5.jpg",
+          "public_path": "/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-5.jpg",
+          "source_page": 19,
+          "role": "article photograph",
+          "alt": "Woman and small child indoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. One of 3 visible constituents in a single flattened PDF collage xref 106; crop (675, 47, 975, 310) selects only original visible pixels, removing baked backing/shadows and caption panels. Some photo corners/outer margins are lost because the source collage flattens overlaps; no hidden pixels were synthesized."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-6.jpg",
+          "public_path": "/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-6.jpg",
+          "source_page": 20,
+          "role": "article photograph",
+          "alt": "Group of children outside a children’s home",
+          "caption": "Children’s home in Windhoek",
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. One of 3 visible constituents in a single flattened PDF collage xref 110; crop (55, 55, 355, 298) selects only original visible pixels, removing baked backing/shadows and caption panels. Some photo corners/outer margins are lost because the source collage flattens overlaps; no hidden pixels were synthesized."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "public/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-7.jpg",
+          "public_path": "/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-7.jpg",
+          "source_page": 20,
+          "role": "article photograph",
+          "alt": "Church family standing together",
+          "caption": "Our Church family",
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. One of 3 visible constituents in a single flattened PDF collage xref 110; crop (390, 48, 645, 305) selects only original visible pixels, removing baked backing/shadows and caption panels. Some photo corners/outer margins are lost because the source collage flattens overlaps; no hidden pixels were synthesized."
+        },
+        {
+          "sequence": 8,
+          "repository_path": "public/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-8.jpg",
+          "public_path": "/images/articles/bd0b23ac-be3e-45b5-8782-83679a911aba-8.jpg",
+          "source_page": 20,
+          "role": "article photograph",
+          "alt": "Congregation at a church service",
+          "caption": "Grootfontein Church Service",
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. One of 3 visible constituents in a single flattened PDF collage xref 110; crop (700, 103, 995, 323) selects only original visible pixels, removing baked backing/shadows and caption panels. Some photo corners/outer margins are lost because the source collage flattens overlaps; no hidden pixels were synthesized."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "image_census_note": "Page 18 has two visible family photos, page 19 three, and page 20 three. The source collages are flattened; eight meaningful original-pixel crops remove baked labels and decorative backing without synthesizing hidden content. Captions appear once in semantic figure markup."
+      },
+      "language": "en",
+      "topics": [
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609",
+        "46c3d0eb-21b7-5812-8b12-335d5badc3d4",
+        "b71d2eed-1b6b-5ca4-84e5-3ea0f3448e82"
+      ],
+      "publication_note": "For He that is mighty hath done to me great things; and Holy is His name. Luke 1:49"
+    },
+    {
+      "id": "373da2b4-06f9-4195-9a00-050c1dc0b727",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 9,
+      "title": "Sitting in the Gates of Sodom",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Roger Hertzler",
+        "authors": [
+          {
+            "name": "Roger Hertzler",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 23
+      },
+      "categories": {
+        "primary": "0648d4df-242a-5815-8d22-08b555d1b542",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/373da2b4-06f9-4195-9a00-050c1dc0b727.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/373da2b4-06f9-4195-9a00-050c1dc0b727-1.jpg",
+          "public_path": "/images/articles/373da2b4-06f9-4195-9a00-050c1dc0b727-1.jpg",
+          "source_page": 22,
+          "role": "historical illustration",
+          "alt": "Gathering of people around a table",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "24330de2-1856-584c-bf6e-155d7dcd3011",
+        "e076a45a-2014-5d02-b18b-ac6397515f22",
+        "c8f99447-f3d3-5eb1-986f-f30a50b12929"
+      ]
+    },
+    {
+      "id": "fc994277-4fe3-4d4c-867e-3d6afbb90995",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 10,
+      "title": "The Hammer",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 24
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "400977eb-3421-51cc-992f-b947d2cda0f4"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/fc994277-4fe3-4d4c-867e-3d6afbb90995.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fc994277-4fe3-4d4c-867e-3d6afbb90995-1.jpg",
+          "public_path": "/images/articles/fc994277-4fe3-4d4c-867e-3d6afbb90995-1.jpg",
+          "source_page": 24,
+          "role": "article photograph",
+          "alt": "Large hammer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/fc994277-4fe3-4d4c-867e-3d6afbb90995-2.jpg",
+          "public_path": "/images/articles/fc994277-4fe3-4d4c-867e-3d6afbb90995-2.jpg",
+          "source_page": 24,
+          "role": "article photograph",
+          "alt": "Repent or Perish roadside sign",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. The words Repent or Perish are intrinsic to the photographed sign."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "b074afdf-90ed-58c5-b843-3e274c46e17b",
+        "71ed5d17-92f3-5075-9fe0-6c2605d6c813"
+      ]
+    },
+    {
+      "id": "49f566f1-6dd8-4fad-a3a4-443d429354a9",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 11,
+      "title": "Dry-Eyed Teaching",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Greg Gordon",
+        "authors": [
+          {
+            "name": "Greg Gordon",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 25
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/49f566f1-6dd8-4fad-a3a4-443d429354a9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/49f566f1-6dd8-4fad-a3a4-443d429354a9-1.jpg",
+          "public_path": "/images/articles/49f566f1-6dd8-4fad-a3a4-443d429354a9-1.jpg",
+          "source_page": 25,
+          "role": "historical illustration",
+          "alt": "A preacher addressing an assembled group",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/49f566f1-6dd8-4fad-a3a4-443d429354a9-2.jpg",
+          "public_path": "/images/articles/49f566f1-6dd8-4fad-a3a4-443d429354a9-2.jpg",
+          "source_page": 25,
+          "role": "portrait",
+          "alt": "Portrait of Greg Gordon in front of bookshelves",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. The printed `Greg Gordon - www.sermonindex.net` line is a body/footer attribution, not an image caption; retain it in the article text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "7f8e6e3c-322b-5d2d-b390-05235f99a977",
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ]
+    },
+    {
+      "id": "48a3edd1-dbec-4445-bb79-9cf8d8dfe565",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 12,
+      "title": "My Zeal for the LORD!",
+      "subtitle": null,
+      "section": "COME SEE",
+      "byline": {
+        "raw": "by Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 28
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/48a3edd1-dbec-4445-bb79-9cf8d8dfe565.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/48a3edd1-dbec-4445-bb79-9cf8d8dfe565-1.jpg",
+          "public_path": "/images/articles/48a3edd1-dbec-4445-bb79-9cf8d8dfe565-1.jpg",
+          "source_page": 26,
+          "role": "historical illustration",
+          "alt": "Jehu beside horses and a chariot",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/48a3edd1-dbec-4445-bb79-9cf8d8dfe565-2.jpg",
+          "public_path": "/images/articles/48a3edd1-dbec-4445-bb79-9cf8d8dfe565-2.jpg",
+          "source_page": 28,
+          "role": "historical illustration",
+          "alt": "Person surveying a landscape from a parapet",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "79026687-5f1c-5c05-8305-c63a5d165b2c",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae",
+        "64af4c5a-115b-50b0-ae07-5d75a56b13aa"
+      ]
+    },
+    {
+      "id": "4d346a56-cc11-4d40-99b8-6983743bef15",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 13,
+      "title": "The Window and the Mirror",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 29
+      },
+      "categories": {
+        "primary": "400977eb-3421-51cc-992f-b947d2cda0f4",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/4d346a56-cc11-4d40-99b8-6983743bef15.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/4d346a56-cc11-4d40-99b8-6983743bef15-1.jpg",
+          "public_path": "/images/articles/4d346a56-cc11-4d40-99b8-6983743bef15-1.jpg",
+          "source_page": 29,
+          "role": "historical illustration",
+          "alt": "A man and his reflection in a mirror, with another figure seated nearby",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Clean source illustration xref 174; the separately painted frame and shadow are omitted."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/4d346a56-cc11-4d40-99b8-6983743bef15-2.jpg",
+          "public_path": "/images/articles/4d346a56-cc11-4d40-99b8-6983743bef15-2.jpg",
+          "source_page": 29,
+          "role": "article background",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Decode semantics applied; baseline RGB/sRGB JPEG with nonzero density. Reconstructed only five PDF base raster tiles xrefs 167, 166, 165, 170, 171 at their exact 150-ppi page coordinates; thin border strips, blurred title banner and translucent reading panel omitted. The pale fade is intrinsic to the base tile pixels; no cleaner source or exact reversible blend is present."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "79026687-5f1c-5c05-8305-c63a5d165b2c",
+        "c09be55d-9b4d-56ff-bde4-5d80920e74da"
+      ]
+    },
+    {
+      "id": "bddf62b1-cf16-40ec-b5e9-6bd42a5127b7",
+      "issue_id": "80908504-b3e7-43ef-9dde-1ac6cf22a040",
+      "sequence": 14,
+      "title": "...Ready for either or both!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Poem by Matthew Kauffman",
+        "authors": [
+          {
+            "name": "Matthew Kauffman",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/bddf62b1-cf16-40ec-b5e9-6bd42a5127b7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bddf62b1-cf16-40ec-b5e9-6bd42a5127b7-1.jpg",
+          "public_path": "/images/articles/bddf62b1-cf16-40ec-b5e9-6bd42a5127b7-1.jpg",
+          "source_page": 36,
+          "role": "poem illustration",
+          "alt": "A cow beside stones and wood beneath three columns of printed verse",
+          "caption": null,
+          "credit": "Picture by Dorothy Calhoun",
+          "rights_note": "Source embedded RGB/sRGB image xref 201 was fully decoded and encoded as a standards-normalized baseline RGB/sRGB JPEG with nonzero JFIF density because its original container lacked JFIF density. The published pixels, dimensions, crop and orientation were retained. Mailing masthead, address and postage markings are separate PDF furniture absent from this image. All three poem columns, attribution and handwritten “...Ready for either or both!” are inseparably baked into the only colour raster; the full source image is retained rather than synthesizing pixels. This credit is a creator credit, with no separate permission wording."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "The unnumbered back page contains the illustrated poem beneath separate mailing furniture. The source raster irreversibly includes the poem lettering, credits, and handwritten closing title; semantic HTML transcribes the same text. At source resolution line four appears as the joined spelling e’ensated."
+      },
+      "language": "en",
+      "topics": [
+        "8feb4eca-5b0b-512b-8ef0-a76783fdb626",
+        "1a6d8df1-7179-53c8-969e-274ba40d4d4f",
+        "be523b84-148a-5633-9947-03c7c310d50a"
+      ]
     }
   ],
   "skipped": [
