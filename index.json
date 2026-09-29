@@ -46416,6 +46416,927 @@
         "1a6d8df1-7179-53c8-969e-274ba40d4d4f",
         "be523b84-148a-5633-9947-03c7c310d50a"
       ]
+    },
+    {
+      "id": "f7ba4c67-7685-441e-ac39-867a12200eea",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 1,
+      "title": "From the Editor...",
+      "subtitle": null,
+      "section": "From the Editor...",
+      "byline": {
+        "raw": "~Bro. Dean",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "General Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/f7ba4c67-7685-441e-ac39-867a12200eea.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f7ba4c67-7685-441e-ac39-867a12200eea-1.jpg",
+          "public_path": "/images/articles/f7ba4c67-7685-441e-ac39-867a12200eea-1.jpg",
+          "source_page": 3,
+          "role": "article photograph",
+          "alt": "Photograph of a man and child standing outside Moriah Chapel",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 56, image ordinal 36, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/f7ba4c67-7685-441e-ac39-867a12200eea-2.jpg",
+          "public_path": "/images/articles/f7ba4c67-7685-441e-ac39-867a12200eea-2.jpg",
+          "source_page": 3,
+          "role": "article photograph",
+          "alt": "Photograph of a chapel interior seen from the upper gallery",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 60, image ordinal 38, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7",
+        "3071fe03-5111-5c92-b54a-c774d84dfac2"
+      ]
+    },
+    {
+      "id": "817a4322-2b8b-4c6d-ad51-81fab9a21d98",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 2,
+      "title": "WHY REVIVAL LEAVES",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 9
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-1.jpg",
+          "public_path": "/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-1.jpg",
+          "source_page": 4,
+          "role": "article opening photograph",
+          "alt": "Sunlight falls through a chapel window onto wooden pews",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Embedded image xref 69, image ordinal 42, contained article-title typography baked into the upper part of the raster. Cropped the exact clean, unobstructed chapel-window and pew region at pixels (0, 385, 324, 912); no source pixels were synthesized or retouched. Inverse grayscale samples were converted to baseline sRGB JPEG; upper title artwork and texture are excluded."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-2.jpg",
+          "public_path": "/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-2.jpg",
+          "source_page": 5,
+          "role": "historical illustration",
+          "alt": "Engraving of armed men confronting one another in a room",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 76, image ordinal 47, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-3.jpg",
+          "public_path": "/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-3.jpg",
+          "source_page": 5,
+          "role": "portrait",
+          "alt": "Small portrait of an older man",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 75, image ordinal 46, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-4.jpg",
+          "public_path": "/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-4.jpg",
+          "source_page": 6,
+          "role": "historical illustration",
+          "alt": "Engraving of three men in period clothing",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 78, image ordinal 48, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-5.jpg",
+          "public_path": "/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-5.jpg",
+          "source_page": 6,
+          "role": "portrait",
+          "alt": "Portrait of Richard Baxter",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 79, image ordinal 49, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-6.jpg",
+          "public_path": "/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-6.jpg",
+          "source_page": 8,
+          "role": "historical photograph",
+          "alt": "Crowd gathered at an outdoor religious meeting",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 82, image ordinal 50, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "public/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-7.jpg",
+          "public_path": "/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-7.jpg",
+          "source_page": 8,
+          "role": "historical photograph",
+          "alt": "Large group gathered outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 83, image ordinal 51, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 8,
+          "repository_path": "public/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-8.jpg",
+          "public_path": "/images/articles/817a4322-2b8b-4c6d-ad51-81fab9a21d98-8.jpg",
+          "source_page": 9,
+          "role": "historical photograph",
+          "alt": "Group of people standing outside a small rural building",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 85, image ordinal 52, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7",
+        "3071fe03-5111-5c92-b54a-c774d84dfac2",
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c"
+      ]
+    },
+    {
+      "id": "b9cf0d1d-8101-434f-af60-e2a5029df50e",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 3,
+      "title": "Some Lessons of the Revival",
+      "subtitle": "A transcribed sermon from the Keswick convention of 1905",
+      "section": null,
+      "byline": {
+        "raw": "by A. T. Pierson",
+        "authors": [
+          {
+            "name": "A. T. Pierson",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 14
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-1.jpg",
+          "public_path": "/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-1.jpg",
+          "source_page": 10,
+          "role": "portrait",
+          "alt": "Oval portrait of an older bearded man",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 87, image ordinal 53, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-2.jpg",
+          "public_path": "/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-2.jpg",
+          "source_page": 10,
+          "role": "quote-box illustration",
+          "alt": "Small illustration of a man reading at a desk",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF RGB JPEG xref 88, image ordinal 54, re-encoded as baseline sRGB JPEG at original pixel dimensions; no separable layout overlay."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-3.jpg",
+          "public_path": "/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-3.jpg",
+          "source_page": 11,
+          "role": "map",
+          "alt": "Historic map of Wales and western England",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF RGB JPEG xref 90, image ordinal 55, re-encoded as baseline sRGB JPEG at original pixel dimensions; no separable layout overlay."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-4.jpg",
+          "public_path": "/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-4.jpg",
+          "source_page": 12,
+          "role": "historical illustration",
+          "alt": "Engraving of a preacher addressing people in a church",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF RGB JPEG xref 92, image ordinal 56, re-encoded as baseline sRGB JPEG at original pixel dimensions; no separable layout overlay."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-5.jpg",
+          "public_path": "/images/articles/b9cf0d1d-8101-434f-af60-e2a5029df50e-5.jpg",
+          "source_page": 13,
+          "role": "historical illustration",
+          "alt": "Illustration of three men greeting one another",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF RGB JPEG xref 94, image ordinal 57, re-encoded as baseline sRGB JPEG at original pixel dimensions; no separable layout overlay."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7",
+        "c3153996-8271-5167-b21e-2fa3c0e8df1d",
+        "eae06def-4dfa-58c1-8384-2115509836ba"
+      ]
+    },
+    {
+      "id": "02259ee6-5e05-42b5-9759-b43f14a0f2b8",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 4,
+      "title": "PRIDE",
+      "subtitle": "The Sly and Subtle Insinuating Enemy",
+      "section": null,
+      "byline": {
+        "raw": "by Richard Baxter (1615-1691)",
+        "authors": [
+          {
+            "name": "Richard Baxter",
+            "location": null,
+            "life_dates": "1615-1691"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 18
+      },
+      "categories": {
+        "primary": "64bf1f79-9265-5370-8de2-47084d62cece",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-1.jpg",
+          "public_path": "/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-1.jpg",
+          "source_page": 15,
+          "role": "article opening illustration",
+          "alt": "Faint illustration of a stooping man in a hat",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded base illustration xref 100, image ordinal 58, used without the separately painted PRIDE title, blurred title duplicate, gradient bars and composite fragments on printed page 15. Inverse grayscale samples converted to baseline sRGB JPEG at original pixel dimensions. No source pixels synthesized."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-2.jpg",
+          "public_path": "/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-2.jpg",
+          "source_page": 15,
+          "role": "historical illustration",
+          "alt": "Engraving of a preacher speaking to a congregation",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 101, image ordinal 60, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the engraving and its ornamental border are intrinsic to one raster; no separable layout overlay is baked into the export."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-3.jpg",
+          "public_path": "/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-3.jpg",
+          "source_page": 16,
+          "role": "historical illustration",
+          "alt": "Engraving of a man bent under labels of sin and temptation",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 117, image ordinal 69, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-4.jpg",
+          "public_path": "/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-4.jpg",
+          "source_page": 17,
+          "role": "historical illustration",
+          "alt": "Illustration of Jesus washing the feet of his followers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 119, image ordinal 70, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the printed article photo/illustration contains no separable layout overlay."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-5.jpg",
+          "public_path": "/images/articles/02259ee6-5e05-42b5-9759-b43f14a0f2b8-5.jpg",
+          "source_page": 18,
+          "role": "historical illustration",
+          "alt": "Engraving of a preacher addressing a crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded PDF image xref 121, image ordinal 71, converted from inverse grayscale samples to baseline sRGB JPEG at original pixel dimensions; the engraving and its ornamental border are intrinsic to one raster; no separable layout overlay is baked into the export."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "The Richard Baxter portrait on page 15 repeats the identical PDF source image already represented in Why Revival Leaves, page 6; no second copy was exported."
+      },
+      "language": "en",
+      "topics": [
+        "f0b54656-ce75-5a6c-a712-5ab9f5b44c9d",
+        "2b7dcb93-6ed0-5d9c-8730-e901cbc7f860"
+      ]
+    },
+    {
+      "id": "999e275c-30d5-41f0-9c70-08e43ef2aae5",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 5,
+      "title": "A Pen or A Sword",
+      "subtitle": "Which Will You Choose?",
+      "section": null,
+      "byline": {
+        "raw": "by Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 19,
+        "end": 20
+      },
+      "categories": {
+        "primary": "0648d4df-242a-5815-8d22-08b555d1b542",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5-1.jpg",
+          "public_path": "/images/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5-1.jpg",
+          "source_page": 19,
+          "role": "illustration",
+          "alt": "An engraved hand holds a pen.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 19; image-specific creator and license are not stated."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5-2.jpg",
+          "public_path": "/images/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5-2.jpg",
+          "source_page": 19,
+          "role": "illustration",
+          "alt": "A sword and a pitchfork cross diagonally.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 19; image-specific creator and license are not stated."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5-3.jpg",
+          "public_path": "/images/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5-3.jpg",
+          "source_page": 19,
+          "role": "photograph",
+          "alt": "Two carved reliefs of armed men on a Czech monument.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 19; image-specific creator and license are not stated."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5-4.jpg",
+          "public_path": "/images/articles/999e275c-30d5-41f0-9c70-08e43ef2aae5-4.jpg",
+          "source_page": 20,
+          "role": "repeated decorative illustration",
+          "alt": "Pale drawing of a hand holding a pen.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 20; image-specific creator and license are not stated. This same PDF object appears five times on page 20; exported once."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "The small pen illustration on page 20 is the same PDF object repeated five times as a watermark; represented once."
+      },
+      "language": "en",
+      "topics": [
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26",
+        "e076a45a-2014-5d02-b18b-ac6397515f22",
+        "c8f99447-f3d3-5eb1-986f-f30a50b12929"
+      ]
+    },
+    {
+      "id": "fcc474e0-f60e-4e2e-9610-fa8515d4bb53",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 6,
+      "title": "A Very Important Ingredient",
+      "subtitle": "Godly insights on what happens when we don’t allow for one of the “primary ingredients” in our witnessing, child raising, and other aspects of the Christian life",
+      "section": null,
+      "byline": {
+        "raw": "by Elmo Stoll",
+        "authors": [
+          {
+            "name": "Elmo Stoll",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 21,
+        "end": 26,
+        "pages": [
+          21,
+          26
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "html": {
+        "repository_path": "content/articles/fcc474e0-f60e-4e2e-9610-fa8515d4bb53.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fcc474e0-f60e-4e2e-9610-fa8515d4bb53-1.jpg",
+          "public_path": "/images/articles/fcc474e0-f60e-4e2e-9610-fa8515d4bb53-1.jpg",
+          "source_page": 21,
+          "role": "photographic article header",
+          "alt": "Potatoes beneath the article title and introductory words.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 21; image-specific creator and license are not stated. Title, byline, and introductory words are baked into the only usable potato photograph; no substantial clean crop is available."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "The opening potato photograph irreversibly contains printed title/byline/deck lettering in its only source raster; no source pixels were synthesized."
+      },
+      "language": "en",
+      "topics": [
+        "6f4620ec-2564-5e34-b0b4-afc73904c311",
+        "9d8d1891-ebb8-528c-ae7a-0d1783487f13"
+      ]
+    },
+    {
+      "id": "6497a93f-bea4-44dd-bbe5-da90318f3d48",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 7,
+      "title": "Day by Day",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 26
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "html": {
+        "repository_path": "content/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "source_page": 22,
+          "role": "article background photograph",
+          "alt": "Sunlight breaks through clouds above the sea.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 22; image-specific creator and license are not stated. Cropped to remove title and byline baked into the top of the photograph; the source has an intrinsic pale fade toward the bottom.",
+          "repository_path": "public/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-1.jpg",
+          "public_path": "/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-1.jpg"
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-2.png",
+          "public_path": "/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-2.png",
+          "source_page": 22,
+          "role": "hymn panel",
+          "alt": "The printed three-stanza Day by Day hymn in a gray panel, credited to Lina Sandell.",
+          "caption": null,
+          "credit": "Lina Sandell",
+          "rights_note": "The hymn is credited “~Lina Sandell” in the printed panel on page 22. The complete panel is rendered from the source PDF at 300 dpi; no separate image-specific permission notice is printed."
+        },
+        {
+          "sequence": 3,
+          "source_page": 23,
+          "role": "illustration",
+          "alt": "Decorative foliage and flowers around a small rural scene.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 23; image-specific creator and license are not stated.",
+          "repository_path": "public/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-3.jpg",
+          "public_path": "/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-3.jpg"
+        },
+        {
+          "sequence": 4,
+          "source_page": 24,
+          "role": "illustration",
+          "alt": "A basket of flowers.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 24; image-specific creator and license are not stated.",
+          "repository_path": "public/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-4.jpg",
+          "public_path": "/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-4.jpg"
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-5.jpg",
+          "public_path": "/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-5.jpg",
+          "source_page": 25,
+          "role": "illustration",
+          "alt": "A bouquet made from bare, thorny stems.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 25; image-specific creator and license are not stated."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-6.jpg",
+          "public_path": "/images/articles/6497a93f-bea4-44dd-bbe5-da90318f3d48-6.jpg",
+          "source_page": 26,
+          "role": "illustration",
+          "alt": "Three long thorny stems.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 26; image-specific creator and license are not stated."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "The hymn on page 22 is reproduced as a faithful 300 dpi panel crop with printed Lina Sandell credit. The Thorn Story by George Matheson is a signed inset on pages 24–26 and is included at its printed position before Rachel Weaver’s closing paragraphs. The decorative pull quote on page 23 repeats the prose and is not duplicated."
+      },
+      "language": "en",
+      "topics": [
+        "10340eb3-62f2-5d38-8c0e-36ca3bd2503d",
+        "6c7b3485-0894-5c43-9ca5-dfb913e45c90",
+        "8ada4a0d-a538-532f-a615-13434b3cd997"
+      ]
+    },
+    {
+      "id": "aec53018-3515-40c2-9347-8276571177cf",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 8,
+      "title": "Through the Eye of a Needle",
+      "subtitle": null,
+      "section": "A Book Review",
+      "byline": {
+        "raw": "A BOOK REVIEW BY DEAN TAYLOR",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 28
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": []
+      },
+      "html": {
+        "repository_path": "content/articles/aec53018-3515-40c2-9347-8276571177cf.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/aec53018-3515-40c2-9347-8276571177cf-1.jpg",
+          "public_path": "/images/articles/aec53018-3515-40c2-9347-8276571177cf-1.jpg",
+          "source_page": 27,
+          "role": "book cover",
+          "alt": "Cover of Through the Eye of a Needle, showing a camel.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 27; image-specific creator and license are not stated."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/aec53018-3515-40c2-9347-8276571177cf-2.jpg",
+          "public_path": "/images/articles/aec53018-3515-40c2-9347-8276571177cf-2.jpg",
+          "source_page": 27,
+          "role": "decorative book illustration",
+          "alt": "Books standing in a row, including leaning volumes.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 27; image-specific creator and license are not stated. Left book group cropped from the two groups flanking baked review-header typography."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/aec53018-3515-40c2-9347-8276571177cf-3.jpg",
+          "public_path": "/images/articles/aec53018-3515-40c2-9347-8276571177cf-3.jpg",
+          "source_page": 27,
+          "role": "decorative book illustration",
+          "alt": "A second row of standing and leaning books.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 27; image-specific creator and license are not stated. Right book group cropped from the same header, omitting baked review-header typography."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "The reviewed book is by Roger Hertzler; the reviewer and article author is Dean Taylor."
+      },
+      "language": "en",
+      "topics": [
+        "649d37ab-7011-545e-8f58-c9f374fd3bfe",
+        "e16fa525-448d-504a-8ebc-927c62ec6e8f",
+        "ff6ad80a-580c-5627-ae33-02ab80581a20"
+      ]
+    },
+    {
+      "id": "36a38c92-5594-4643-8796-a737718af599",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 9,
+      "title": "Youth Bible School 2008",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Paul Lamicela",
+        "authors": [
+          {
+            "name": "Paul Lamicela",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 32
+      },
+      "categories": {
+        "primary": "85b345ae-ce23-56a2-9249-2cfa79293657",
+        "additional": []
+      },
+      "html": {
+        "repository_path": "content/articles/36a38c92-5594-4643-8796-a737718af599.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/36a38c92-5594-4643-8796-a737718af599-1.jpg",
+          "public_path": "/images/articles/36a38c92-5594-4643-8796-a737718af599-1.jpg",
+          "source_page": 29,
+          "role": "group photograph",
+          "alt": "A panoramic group portrait of Youth Bible School students and staff.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 29; image-specific creator and license are not stated. Cropped below the panorama to remove title/byline and away from decorative frame and pushpins; cutout silhouette is intrinsic to the source."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/36a38c92-5594-4643-8796-a737718af599-2.jpg",
+          "public_path": "/images/articles/36a38c92-5594-4643-8796-a737718af599-2.jpg",
+          "source_page": 29,
+          "role": "photograph",
+          "alt": "People gather on the steps of Ephrata Christian Fellowship.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 29; image-specific creator and license are not stated. Cropped away the separate white frame, shadow, and pushpins baked around the photograph."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/36a38c92-5594-4643-8796-a737718af599-3.jpg",
+          "public_path": "/images/articles/36a38c92-5594-4643-8796-a737718af599-3.jpg",
+          "source_page": 30,
+          "role": "photograph",
+          "alt": "Youth Bible School participants meet around tables in a large hall.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 30; image-specific creator and license are not stated. Cropped away the white frame, shadow, and pushpins."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/36a38c92-5594-4643-8796-a737718af599-4.jpg",
+          "public_path": "/images/articles/36a38c92-5594-4643-8796-a737718af599-4.jpg",
+          "source_page": 31,
+          "role": "photograph",
+          "alt": "A crowd of participants stands together at an indoor gathering.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 31; image-specific creator and license are not stated. Cropped away the white frame, shadow, and pushpins."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/36a38c92-5594-4643-8796-a737718af599-5.jpg",
+          "public_path": "/images/articles/36a38c92-5594-4643-8796-a737718af599-5.jpg",
+          "source_page": 31,
+          "role": "illustration",
+          "alt": "A man reclines with his feet propped on another chair.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 31; image-specific creator and license are not stated."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/36a38c92-5594-4643-8796-a737718af599-6.jpg",
+          "public_path": "/images/articles/36a38c92-5594-4643-8796-a737718af599-6.jpg",
+          "source_page": 32,
+          "role": "photograph",
+          "alt": "Students gather around a speaker indoors.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 32; image-specific creator and license are not stated. Cropped away the white frame, shadow, and pushpins."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "19d37772-1cdc-55b8-8b79-3d5105a1c2ab",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "f17883d4-d170-5dff-b66c-e13eaa0557af"
+      ]
+    },
+    {
+      "id": "979c2b5f-8c6a-41f8-9ef5-bb4d894ed85d",
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 10,
+      "title": "The Anti-Church",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Roger Hertzler",
+        "authors": [
+          {
+            "name": "Roger Hertzler",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 34
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/979c2b5f-8c6a-41f8-9ef5-bb4d894ed85d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/979c2b5f-8c6a-41f8-9ef5-bb4d894ed85d-1.jpg",
+          "public_path": "/images/articles/979c2b5f-8c6a-41f8-9ef5-bb4d894ed85d-1.jpg",
+          "source_page": 33,
+          "role": "illustration",
+          "alt": "A preacher speaks to a crowd beneath a large tree.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Published in The Heartbeat of the Remnant, January/February/March 2009, page 33; image-specific creator and license are not stated."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "b1967c86-e604-5461-ae26-5d0702131447",
+        "fcb14cac-5da0-56fe-ac86-f3d0b99d4bfd",
+        "b490f423-a9ab-52e1-a166-b3461ee0801d"
+      ]
     }
   ],
   "skipped": [
@@ -47517,6 +48438,23 @@
       "reason": "The poem ends with an article-specific notice stating that it is used by permission; exclude the poem and all associated images.",
       "detected_notices": [
         "© by Wilbur Rees. Used by permission."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "623177b3-f944-481e-a029-64fb487e70b6",
+      "sequence": 11,
+      "title": null,
+      "byline": "A.T. Pierson from “The New Acts of the Apostles”",
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "reason": "The attributed back-cover excerpt is printed over a photograph specifically marked ©; the issue reprint policy excludes copyright-indicated material. Exclude the complete excerpt and photograph.",
+      "detected_notices": [
+        "Photo on back cover © Pefkos - Fotolia.com",
+        "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address."
       ],
       "html_exported": false,
       "images_exported": false
