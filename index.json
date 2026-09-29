@@ -50086,6 +50086,1025 @@
         "inventory_note": "Poem on the back cover; the unrelated mailing panel and publisher logo are omitted. Date and signed name remain after the poem."
       },
       "language": "en"
+    },
+    {
+      "id": "6e5f1b2d-ac02-4271-bde1-5a8e375801a8",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 1,
+      "title": "A Revival in Schleitheim",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Glendon Fox",
+        "authors": [
+          {
+            "name": "Glendon Fox",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 6
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285",
+          "59e78031-c269-52d1-9b00-08dba0398cb4"
+        ]
+      },
+      "topics": [
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26",
+        "f22af402-4835-56ba-987e-9a90f071d93d",
+        "e35443e0-667e-5814-aa6f-707ce1665bb3"
+      ],
+      "html": {
+        "repository_path": "content/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8-1.jpg",
+          "public_path": "/images/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8-1.jpg",
+          "source_page": 3,
+          "role": "Engraving in the article title panel",
+          "alt": "Historical engraving of a town beside a lake",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean independent source object 52 (617×386). The separately painted title, shading and frame are omitted. Embedded image converted to baseline RGB/sRGB JPEG. No article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8-2.jpg",
+          "public_path": "/images/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8-2.jpg",
+          "source_page": 4,
+          "role": "Historical portrait of Zwingli",
+          "alt": "Historical portrait of Zwingli holding a book",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Separation JPEG object 57 (317×353): inverted samples to match the rendered page and encoded baseline RGB/sRGB. Latin inscription is intrinsic to the source portrait. No article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8-3.jpg",
+          "public_path": "/images/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8-3.jpg",
+          "source_page": 5,
+          "role": "Historical town engraving",
+          "alt": "Historical engraving of people gathered on a town street",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Separation JPEG object 61 (500×335): inverted samples to match the rendered page and encoded baseline RGB/sRGB. The neighboring decorative pull quote repeats the article body and is omitted. No article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8-4.jpg",
+          "public_path": "/images/articles/6e5f1b2d-ac02-4271-bde1-5a8e375801a8-4.jpg",
+          "source_page": 6,
+          "role": "Historical crowd engraving accompanying the martyrdom account",
+          "alt": "Historical engraving of a crowd gathered before a building",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Separation JPEG object 66 (397×316): inverted samples to match the rendered page and encoded baseline RGB/sRGB. The neighboring decorative pull quote repeats the article body and is omitted. No article-specific credit or licence statement is printed."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Page 3: one clean engraving from the layered title panel; separate title/shadow/frame objects omitted as layout. Page 4: one portrait; pull quote repeats body wording. Page 5: one town engraving; pull quote repeats body wording. Page 6 upper portion: one martyrdom engraving; pull quote repeats body wording. Page 6 lower portion begins the next article. No article-specific permission notice occurs through the final line."
+      },
+      "language": "en"
+    },
+    {
+      "id": "55214f9d-c56b-440d-b932-2e067a22dd9a",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 2,
+      "title": "Sacred Picklocks",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Charles Spurgeon",
+        "authors": [
+          {
+            "name": "Charles Spurgeon",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 6
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": []
+      },
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "b39a977d-c495-5061-b773-971cf4a191ce"
+      ],
+      "html": {
+        "repository_path": "content/articles/55214f9d-c56b-440d-b932-2e067a22dd9a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/55214f9d-c56b-440d-b932-2e067a22dd9a-1.jpg",
+          "public_path": "/images/articles/55214f9d-c56b-440d-b932-2e067a22dd9a-1.jpg",
+          "source_page": 6,
+          "role": "Illustration beside the heading",
+          "alt": "A person reaching toward a large wooden door while others look on",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Separation JPEG object 65 (501×389): inverted samples to match the rendered page and encoded baseline RGB/sRGB. The shaded article panel and heading are publisher layout, not part of the image. No article-specific credit or licence statement is printed."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Page 6 lower half: one engraving beside the heading. Shaded panel is omitted as layout. All four paragraphs and the final line were visually checked; no article-specific permission notice."
+      },
+      "language": "en"
+    },
+    {
+      "id": "67bceb61-cb79-40a3-851f-a9e4de0a2269",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 3,
+      "title": "I Know My Sheep",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Thomas Watson",
+        "authors": [
+          {
+            "name": "Thomas Watson",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": []
+      },
+      "topics": [
+        "070854c3-dde7-5efd-a27d-30979196df0e",
+        "dce1b08d-f0a4-5f1c-8295-0a44aab49b23"
+      ],
+      "html": {
+        "repository_path": "content/articles/67bceb61-cb79-40a3-851f-a9e4de0a2269.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/67bceb61-cb79-40a3-851f-a9e4de0a2269-1.jpg",
+          "public_path": "/images/articles/67bceb61-cb79-40a3-851f-a9e4de0a2269-1.jpg",
+          "source_page": 7,
+          "role": "Sheep photograph behind the article text",
+          "alt": "Sheep and lambs in a field",
+          "caption": null,
+          "credit": "© landsendphotography.com - Fotolia.com",
+          "rights_note": "PDF Separation JPEG object 72 (970×1344): inverted samples to match the rendered page and encoded baseline RGB/sRGB. This is the only overlay-free sheep raster; its pale tonal fade is irreversibly baked into its raw pixels and retained without retouching. Later object 90 visibly bakes the article text into a lower-resolution copy and is omitted; separately painted page frame/shadows and lettering are omitted. Credit is printed vertically on page 7; it is a source credit, not a licence or separate-permission instruction."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Page 7: one full-height sheep photograph represented by clean-text object 72. The second sheep-bearing object 90 has article text baked in and is omitted as a duplicate/overlay. The four decorative corners, frame and shadows are omitted as layout. Raw object 72 itself has an unavoidable pale fade. Text and meaningful bold/italic emphasis were checked visually; no article-specific permission notice."
+      },
+      "language": "en"
+    },
+    {
+      "id": "d924433c-ad65-4b5d-84ab-7cb3a3cba5d2",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 4,
+      "title": "Governing Your Family",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Robert Murray M’Cheyne\n(1813-1843)",
+        "authors": [
+          {
+            "name": "Robert Murray M’Cheyne",
+            "location": null,
+            "life_dates": "1813-1843"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 10
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "8ed108f9-3ccb-5850-af9d-7b0b089bf935",
+        "cf32dd06-aad0-521c-aae0-b43d8348fd54",
+        "4325fdd8-4363-524b-9445-2a2c86de1cf1"
+      ],
+      "html": {
+        "repository_path": "content/articles/d924433c-ad65-4b5d-84ab-7cb3a3cba5d2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d924433c-ad65-4b5d-84ab-7cb3a3cba5d2-1.jpg",
+          "public_path": "/images/articles/d924433c-ad65-4b5d-84ab-7cb3a3cba5d2-1.jpg",
+          "source_page": 8,
+          "role": "Photograph in the title banner",
+          "alt": "Family members seated around a dining table",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Separation JPEG object 103 (1050×599) has the title and byline irreversibly baked over the family photo. Inverted samples to match the page and used a meaningful unobstructed source-pixel crop (x0,y0,x1,y1)=(375,280,940,565), encoded baseline RGB/sRGB. The crop omits the baked title/byline and necessarily loses upper heads/background obscured by lettering; original vignette/fade remains. No pixels were invented or retouched. No article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/d924433c-ad65-4b5d-84ab-7cb3a3cba5d2-2.jpg",
+          "public_path": "/images/articles/d924433c-ad65-4b5d-84ab-7cb3a3cba5d2-2.jpg",
+          "source_page": 8,
+          "role": "Biblical scene illustration at foot of page",
+          "alt": "Biblical scene of a group gathered outdoors with children",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Separation JPEG object 104 (375×246): inverted samples to match the rendered page and encoded baseline RGB/sRGB. Neighboring pull quote repeats body wording and is omitted. No article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/d924433c-ad65-4b5d-84ab-7cb3a3cba5d2-3.jpg",
+          "public_path": "/images/articles/d924433c-ad65-4b5d-84ab-7cb3a3cba5d2-3.jpg",
+          "source_page": 9,
+          "role": "Family illustration beside the first numbered point",
+          "alt": "Engraving of a family gathered in a home",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Separation JPEG object 108 (358×302): inverted samples to match the rendered page and encoded baseline RGB/sRGB. Neighboring pull quote repeats body wording and is omitted. No article-specific credit or licence statement is printed."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Page 8: one flattened family title banner represented by an unobstructed crop and one distinct Biblical group illustration; lower pull quote repeats article text. Page 9: one family illustration; adjacent pull quote repeats body wording. Page 10: no standalone image; oversized pull quote repeats the final paragraph (its uppercase Mother differs from lowercase mother in the body and is excluded as print furniture). The article is titled “Governing Your Family” on its own page, while the contents list calls it “Governing Your Children.” No article-specific permission notice through page 10."
+      },
+      "language": "en",
+      "publication_notes": "The contents page lists “GOVERNING YOUR CHILDREN”; the article heading reads “Governing Your Family”. The author dates (1813-1843) are printed below the byline."
+    },
+    {
+      "id": "43153834-8298-4c82-b7f2-b003c96499da",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 5,
+      "title": "The First Book They Read",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by John A. James, 1828",
+        "authors": [
+          {
+            "name": "John A. James",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 11
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "55fff2dd-3f79-5c7f-a7fa-73e125bfbfec",
+        "67fc0cbd-74dd-5540-be14-7e3badd4dd56"
+      ],
+      "html": {
+        "repository_path": "content/articles/43153834-8298-4c82-b7f2-b003c96499da.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/43153834-8298-4c82-b7f2-b003c96499da-1.jpg",
+          "public_path": "/images/articles/43153834-8298-4c82-b7f2-b003c96499da-1.jpg",
+          "source_page": 11,
+          "role": "Family illustration above the title",
+          "alt": "An older woman seated with a mother and children, one child holding a book",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF Separation JPEG object 117 (750×363): inverted samples to match the rendered page and encoded baseline RGB/sRGB. The title, byline, ornamental page border/shadow and article text are separate publisher layout and omitted from this image. No article-specific credit or licence statement is printed."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Page 11: one clean family illustration; border/shadow and article typography are omitted as layout. Source byline includes 1828, retained verbatim. No article-specific permission notice."
+      },
+      "language": "en",
+      "publication_notes": "The year 1828 is printed in the byline, without a stated full publication date."
+    },
+    {
+      "id": "a34a82e6-f649-44af-9469-966424ab3766",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 6,
+      "title": "Satan’s Weapons of MASS DESTRUCTION",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "BY DAVE ESH",
+        "authors": [
+          {
+            "name": "Dave Esh",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 15
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "4198e6fb-4793-5bd3-afc8-0b75b031cdfd",
+        "0ef8a490-9ef2-5f8c-8a24-1511e2083f10"
+      ],
+      "html": {
+        "repository_path": "content/articles/a34a82e6-f649-44af-9469-966424ab3766.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a34a82e6-f649-44af-9469-966424ab3766-1.jpg",
+          "public_path": "/images/articles/a34a82e6-f649-44af-9469-966424ab3766-1.jpg",
+          "source_page": 12,
+          "role": "Photograph of burning vehicle and damaged building",
+          "alt": "Burning vehicle and damaged building amid rubble",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 121. The article title and byline are baked into the top of the source raster. Exported an unobstructed 506 × 600 pixel crop from original y=825 to y=1425, omitting the baked title, byline, background texture and banner. The PDF Separation JPEG has inverse grayscale samples; samples were inverted and encoded as a baseline RGB/sRGB JPEG with 150 dpi density. The generic masthead image-source notice does not identify this individual asset; no article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/a34a82e6-f649-44af-9469-966424ab3766-2.jpg",
+          "public_path": "/images/articles/a34a82e6-f649-44af-9469-966424ab3766-2.jpg",
+          "source_page": 13,
+          "role": "Chart of major religious groups",
+          "alt": "Chart of major religious groups by world population in 2005",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 125. Chart text and labels are intrinsic to the image and retained. The PDF Separation JPEG has inverse grayscale samples; samples were inverted and encoded as a baseline RGB/sRGB JPEG with 150 dpi density. The generic masthead image-source notice does not identify this individual asset; no article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/a34a82e6-f649-44af-9469-966424ab3766-3.jpg",
+          "public_path": "/images/articles/a34a82e6-f649-44af-9469-966424ab3766-3.jpg",
+          "source_page": 13,
+          "role": "Diagram of a chemical bomb",
+          "alt": "Diagram identifying parts of a chemical bomb",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 127. Diagram labels are intrinsic and retained. The PDF Separation JPEG has inverse grayscale samples; samples were inverted and encoded as a baseline RGB/sRGB JPEG with 150 dpi density. The generic masthead image-source notice does not identify this individual asset; no article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/a34a82e6-f649-44af-9469-966424ab3766-4.jpg",
+          "public_path": "/images/articles/a34a82e6-f649-44af-9469-966424ab3766-4.jpg",
+          "source_page": 13,
+          "role": "Photograph of person wearing a gas mask",
+          "alt": "Person wearing a gas mask",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 126. Clean embedded source photograph, including its intrinsic black border. The PDF Separation JPEG has inverse grayscale samples; samples were inverted and encoded as a baseline RGB/sRGB JPEG with 150 dpi density. The generic masthead image-source notice does not identify this individual asset; no article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/a34a82e6-f649-44af-9469-966424ab3766-5.jpg",
+          "public_path": "/images/articles/a34a82e6-f649-44af-9469-966424ab3766-5.jpg",
+          "source_page": 13,
+          "role": "Photograph of mushroom cloud",
+          "alt": "Mushroom cloud rising over a landscape",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 128. Clean embedded photograph. The PDF Separation JPEG has inverse grayscale samples; samples were inverted and encoded as a baseline RGB/sRGB JPEG with 150 dpi density. The generic masthead image-source notice does not identify this individual asset; no article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/a34a82e6-f649-44af-9469-966424ab3766-6.jpg",
+          "public_path": "/images/articles/a34a82e6-f649-44af-9469-966424ab3766-6.jpg",
+          "source_page": 14,
+          "role": "Photograph of stacked bombs",
+          "alt": "Workers beside a stack of large bombs",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 132. Clean embedded photograph; the adjacent oversized text repeats the article body and was omitted as a layout pull quote. The PDF Separation JPEG has inverse grayscale samples; samples were inverted and encoded as a baseline RGB/sRGB JPEG with 150 dpi density. The generic masthead image-source notice does not identify this individual asset; no article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "public/images/articles/a34a82e6-f649-44af-9469-966424ab3766-7.jpg",
+          "public_path": "/images/articles/a34a82e6-f649-44af-9469-966424ab3766-7.jpg",
+          "source_page": 15,
+          "role": "Photograph of bomb-damaged street",
+          "alt": "People walking through a bomb-damaged street",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 136. Clean embedded photograph. The PDF Separation JPEG has inverse grayscale samples; samples were inverted and encoded as a baseline RGB/sRGB JPEG with 150 dpi density. The generic masthead image-source notice does not identify this individual asset; no article-specific credit or licence statement is printed."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All text visually checked against PDF pages 12–15. Repeated decorative pull quotes on pages 12–14 omitted. Seven visible article images are each represented once. The title-page graphic contains the title/byline baked into raster; an unobstructed photograph crop was used."
+      },
+      "language": "en"
+    },
+    {
+      "id": "d32c37bf-1c0d-4643-8377-dddd2a7a0820",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 7,
+      "title": "The Exception Clause",
+      "subtitle": "Marriage, Divorce, and Remarriage (Part 3)",
+      "section": null,
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 22
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "4512cfd9-f11a-52c1-8239-b9f0c7ec9274"
+      ],
+      "series": {
+        "id": "4b9ed8e5-59f0-4e7e-b279-f5e1be2a1d8f",
+        "part": 3,
+        "total_parts": null
+      },
+      "html": {
+        "repository_path": "content/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-1.jpg",
+          "public_path": "/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-1.jpg",
+          "source_page": 16,
+          "role": "Engraving of riverside buildings and landscape",
+          "alt": "Engraving of buildings beside a river and wooded landscape",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 140. Clean base engraving, omitting the separate article title and gray panel. The PDF Separation JPEG has inverse grayscale samples; samples were inverted and encoded as a baseline RGB/sRGB JPEG with 150 dpi density. The generic masthead image-source notice does not identify this individual asset; no article-specific credit or licence statement is printed."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-2.png",
+          "public_path": "/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-2.png",
+          "source_page": 17,
+          "role": "Illustration of arched doorway",
+          "alt": "Line drawing of an arched doorway in a damaged building",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 146. Preserved the clean embedded sRGB PNG with its published crop. The nearby enlarged quotation repeats article text and was omitted; heading bars and page footer are layout."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-3.jpg",
+          "public_path": "/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-3.jpg",
+          "source_page": 18,
+          "role": "Engraving of a furnished sitting room",
+          "alt": "Engraving of a furnished sitting room with chairs, couches, and a round table",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 150, a clean base engraving. The PDF Separation JPEG has inverse grayscale samples; inverted and encoded as baseline RGB/sRGB JPEG with 150 dpi density to match the printed page. No article-specific image credit or licence statement is printed. The nearby large pull quote repeats body text and was omitted."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-4.jpg",
+          "public_path": "/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-4.jpg",
+          "source_page": 19,
+          "role": "Engraving of a writing desk and lamp",
+          "alt": "Engraving of a writing desk, lamp, books, and papers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 154, a clean base engraving. Inverted inverse grayscale Separation samples and encoded baseline RGB/sRGB JPEG with 150 dpi density. No article-specific image credit or licence statement is printed. The nearby large pull quote repeats body text and was omitted."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-5.jpg",
+          "public_path": "/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-5.jpg",
+          "source_page": 21,
+          "role": "Engraving of papers and books on a writing table",
+          "alt": "Engraving of papers and books beside a vessel on a writing table",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 161, a clean base engraving. Inverted inverse grayscale Separation samples and encoded baseline RGB/sRGB JPEG with 150 dpi density. No article-specific image credit or licence statement is printed. The prominent pull quote repeats the Historical Consideration paragraph and was omitted."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-6.jpg",
+          "public_path": "/images/articles/d32c37bf-1c0d-4643-8377-dddd2a7a0820-6.jpg",
+          "source_page": 22,
+          "role": "Engraving of a room with a fireplace",
+          "alt": "Engraving of a room with a fireplace, chairs, a table, and a cat",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 165, clean base engraving. Inverted inverse grayscale Separation samples and encoded baseline RGB/sRGB JPEG with 150 dpi density. Cropped raw object from 589 × 486 to 589 × 458 pixels to match the published crop and omit an unprinted bottom source-art title, while retaining the artist's intrinsic signature. No article-specific image credit or licence statement is printed. The nearby large pull quote repeats the conclusion and was omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Pages 16–22 visually checked. The percentage chart is native text represented as an HTML table. Six visible illustrations are exported; enlarged decorative pull quotes repeating article text are omitted."
+      },
+      "language": "en"
+    },
+    {
+      "id": "cf4457c7-ae5f-4825-9279-dc30f3169818",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 8,
+      "title": "Your Picture or Your Life?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Ian Thomas",
+        "authors": [
+          {
+            "name": "Ian Thomas",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 23
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "5933107a-a052-501e-9826-e25cb5a7e990",
+        "c09be55d-9b4d-56ff-bde4-5d80920e74da"
+      ],
+      "html": {
+        "repository_path": "content/articles/cf4457c7-ae5f-4825-9279-dc30f3169818.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/cf4457c7-ae5f-4825-9279-dc30f3169818-1.jpg",
+          "public_path": "/images/articles/cf4457c7-ae5f-4825-9279-dc30f3169818-1.jpg",
+          "source_page": 23,
+          "role": "Illustration of three figures beside a wall",
+          "alt": "Illustration of three figures beside a wall, including a seated person reaching toward a child",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 171, a clean base illustration. Inverted inverse grayscale Separation JPEG samples and encoded baseline RGB/sRGB JPEG with 150 dpi density. The separate page panel (object 169), image drop shadow (object 170), and small decorative element (object 172) are layout treatments and were omitted. No article-specific image credit or licence statement is printed."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "One complete article on p23. Embedded clean illustration retained; separate shaded page panel, drop shadow and decorative title treatment omitted."
+      },
+      "language": "en"
+    },
+    {
+      "id": "c294de2a-4d87-4ed2-abdc-ac69f2c65cd5",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 9,
+      "title": "The Schleitheim Confession",
+      "subtitle": "AD 1527",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 27
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "9514e8ea-e431-5806-a5f3-0953a922c074"
+        ]
+      },
+      "topics": [
+        "e35443e0-667e-5814-aa6f-707ce1665bb3",
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26",
+        "3830db33-6732-5c44-a816-7457fd118c1a"
+      ],
+      "html": {
+        "repository_path": "content/articles/c294de2a-4d87-4ed2-abdc-ac69f2c65cd5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c294de2a-4d87-4ed2-abdc-ac69f2c65cd5-1.jpg",
+          "public_path": "/images/articles/c294de2a-4d87-4ed2-abdc-ac69f2c65cd5-1.jpg",
+          "source_page": 24,
+          "role": "historical engraving",
+          "alt": "Historical engraving of people in a boat approaching a town",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 176. The PDF image uses a /Separation /Black tint-transform table descending from 255 to 0; original extracted grayscale JPEG samples were inverted to match the rendered page and saved as baseline RGB/sRGB JPEG with 72 dpi density. The clean embedded image was retained without layout overlays. No image-specific creator, licence, or permission notice is printed; page 2 has only a general unattributed “Some images ©2001-2007 clipart.com / photos.com” credit."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/c294de2a-4d87-4ed2-abdc-ac69f2c65cd5-2.jpg",
+          "public_path": "/images/articles/c294de2a-4d87-4ed2-abdc-ac69f2c65cd5-2.jpg",
+          "source_page": 25,
+          "role": "historical engraving",
+          "alt": "Historical engraving of Anabaptist martyrs in flames before a crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 180. The PDF image uses a /Separation /Black tint-transform table descending from 255 to 0; original extracted grayscale JPEG samples were inverted to match the rendered page and saved as baseline RGB/sRGB JPEG with 72 dpi density. The clean embedded image was retained without layout overlays. No image-specific creator, licence, or permission notice is printed; page 2 has only a general unattributed “Some images ©2001-2007 clipart.com / photos.com” credit."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/c294de2a-4d87-4ed2-abdc-ac69f2c65cd5-3.jpg",
+          "public_path": "/images/articles/c294de2a-4d87-4ed2-abdc-ac69f2c65cd5-3.jpg",
+          "source_page": 26,
+          "role": "historical engraving",
+          "alt": "Engraving of Dirk Willems rescuing a man from icy water",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 184. The PDF image uses a /Separation /Black tint-transform table descending from 255 to 0; original extracted grayscale JPEG samples were inverted to match the rendered page and saved as baseline RGB/sRGB JPEG with 72 dpi density. The clean embedded image was retained without layout overlays. No image-specific creator, licence, or permission notice is printed; page 2 has only a general unattributed “Some images ©2001-2007 clipart.com / photos.com” credit. The historical Dirk Willemsz label and year are intrinsic to the clean engraved image, not a separable publisher caption; retained in the image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Three historical engravings on pages 24, 25 and 26. The page 26 engraving retains its intrinsic historical label; page 27 has no image. Dean Taylor’s signed introductory note remains in the body rather than being misrepresented as a byline for the historical confession. No article-specific permission wording appears through the final line.",
+        "source_oddities_note": "Source wording and capitalization, including the open Wenger quotation, “nichts schweren”, and apparent historical-text oddities, retained."
+      },
+      "language": "en"
+    },
+    {
+      "id": "249fe212-4e44-4dc4-876c-78eba4d21315",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 10,
+      "title": "Highlights, Blessings, and Challenges from YOUTH BIBLE SCHOOL 2007",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Paul W. Lamicela",
+        "authors": [
+          {
+            "name": "Paul W. Lamicela",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 33
+      },
+      "categories": {
+        "primary": "85b345ae-ce23-56a2-9249-2cfa79293657",
+        "additional": []
+      },
+      "topics": [
+        "19d37772-1cdc-55b8-8b79-3d5105a1c2ab",
+        "16a1b70b-b55c-55ae-a18e-9511dd9ef26f",
+        "3b69fdad-e957-5e8b-a946-db683c653271"
+      ],
+      "html": {
+        "repository_path": "content/articles/249fe212-4e44-4dc4-876c-78eba4d21315.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-1.jpg",
+          "public_path": "/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-1.jpg",
+          "source_page": 28,
+          "role": "panoramic group photograph",
+          "alt": "Panoramic photograph of Youth Bible School attendees in a hall",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 191. Clean embedded ICC RGB JPEG re-encoded as baseline RGB/sRGB JPEG with nonzero density; no title, byline, frame, or other page overlay retained. No image-specific creator, licence, or permission notice is printed; page 2 has only a general unattributed image-source notice."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-2.jpg",
+          "public_path": "/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-2.jpg",
+          "source_page": 29,
+          "role": "teachers and preachers group photograph",
+          "alt": "Six teachers and preachers at Charity Youth Bible School",
+          "caption": "Charity Youth Bible School 2007 • Teachers & Preachers",
+          "credit": null,
+          "rights_note": "PDF image object 195. Grayscale inversion through the PDF /Separation /Black tint transform, then crop of 42 source-pixel rows from the top to remove older intrinsic “Charity Bible School 07 - Teachers & Preachers” lettering. This matches the published photograph below the separately painted replacement caption bar; the printed caption is preserved in HTML and metadata. Baseline RGB/sRGB JPEG, 72 dpi. No image-specific creator, licence, or permission notice is printed."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-3.jpg",
+          "public_path": "/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-3.jpg",
+          "source_page": 30,
+          "role": "principals and matrons group photograph",
+          "alt": "Principals and matrons of Charity Youth Bible School",
+          "caption": "Charity Youth Bible School 2007 • Principals & Matrons",
+          "credit": null,
+          "rights_note": "PDF image object 199. Grayscale inversion through the PDF /Separation /Black tint transform, then crop of 42 source-pixel rows from the top to remove older intrinsic “Charity Bible School 07 - Teachers & Matrons” lettering. This matches the published photograph below the separately painted replacement caption bar; the printed caption is preserved in HTML and metadata. Baseline RGB/sRGB JPEG, 72 dpi. No image-specific creator, licence, or permission notice is printed."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-4.jpg",
+          "public_path": "/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-4.jpg",
+          "source_page": 32,
+          "role": "audience photograph",
+          "alt": "A large audience seated in a hall at Youth Bible School",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 206. Clean embedded photograph. The PDF /Separation /Black tint transform reverses grayscale samples, so the extracted JPEG was inverted and saved as baseline RGB/sRGB JPEG with 72 dpi density. No image-specific creator, licence, or permission notice is printed; page 2 has only a general unattributed “Some images ©2001-2007 clipart.com / photos.com” credit."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-5.jpg",
+          "public_path": "/images/articles/249fe212-4e44-4dc4-876c-78eba4d21315-5.jpg",
+          "source_page": 33,
+          "role": "audience photograph",
+          "alt": "Youth Bible School audience facing a speaker at the front of the hall",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 210. Clean embedded photograph. The PDF /Separation /Black tint transform reverses grayscale samples, so the extracted JPEG was inverted and saved as baseline RGB/sRGB JPEG with 72 dpi density. No image-specific creator, licence, or permission notice is printed; page 2 has only a general unattributed “Some images ©2001-2007 clipart.com / photos.com” credit."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "One opening panorama and four photographs on pages 29, 30, 32 and 33. Pages 31 has no image. Decorative oversized pull quotes on pages 29, 30, 32 and 33 repeat the body wording and are represented once in body paragraphs. The two printed photo-caption bars are represented exactly as figcaptions. No article-specific permission wording appears through the final line.",
+        "image_decode_note": "All five baseline RGB/sRGB JPEGs fully decoded without warnings in Pillow and FFmpeg and were visually compared with printed pages."
+      },
+      "language": "en"
+    },
+    {
+      "id": "200fe7c6-0f3b-4e3a-82d0-47962413f574",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 11,
+      "title": "Tape Ministry Report and 2007 Financial Report",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Charity Gospel Tape Ministry\nand The Heartbeat of the Remnant Magazine",
+        "authors": [
+          {
+            "name": "Charity Gospel Tape Ministry",
+            "location": null
+          },
+          {
+            "name": "The Heartbeat of the Remnant Magazine",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "9e94ac9c-a808-540e-9c71-be0d8731d5a1"
+        ]
+      },
+      "topics": [
+        "b71d2eed-1b6b-5ca4-84e5-3ea0f3448e82",
+        "0ade9728-d895-5710-84b2-09af80abdc84"
+      ],
+      "html": {
+        "repository_path": "content/articles/200fe7c6-0f3b-4e3a-82d0-47962413f574.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Narrative, signed conclusion, and every financial table row and value preserved as semantic HTML. Three images in the title-area masthead (Tape Ministry logo, Charity Ministries branding, Remnant magazine cover), the heartbeat mark, tiny ornamental elements and page frame are separable branding/decorative matter excluded under issue-inventory rules; no article-owned photograph remains. No article-specific permission wording appears."
+      },
+      "language": "en"
+    },
+    {
+      "id": "c07ac821-a121-4328-8c8c-00a7575ef082",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 12,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": null,
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/c07ac821-a121-4328-8c8c-00a7575ef082.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c07ac821-a121-4328-8c8c-00a7575ef082-1.jpg",
+          "public_path": "/images/articles/c07ac821-a121-4328-8c8c-00a7575ef082-1.jpg",
+          "source_page": 35,
+          "role": "article opening illustration and printed graphic heading",
+          "alt": "Roadside mailbox and grass beneath the printed Precious Letters from Our Readers heading",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source image xref 222 is the only 1050x522 embedded raster and already contains the mailbox address, headline and pale right-side wash baked into its pixels. A clean unobstructed crop would lose the mailbox/header subject; retained full published raster as an unavoidable overlay exception. Inverse grayscale samples converted to baseline sRGB JPEG at source dimensions, without synthesized pixels."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "Four signed or located letters are ordered by their columns and continuations. The publisher invitation above them is included once. Decorative dotted letter separators were omitted as standalone decoration. Source image has the documented baked headline/address and wash."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        }
+      },
+      "language": "en"
+    },
+    {
+      "id": "c267120e-7b49-4a5a-8267-9aeda224aa3a",
+      "issue_id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "sequence": 13,
+      "title": "Pride",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by J. C. Ryle, 1857",
+        "authors": [
+          {
+            "name": "J. C. Ryle",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "64bf1f79-9265-5370-8de2-47084d62cece",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "f0b54656-ce75-5a6c-a712-5ab9f5b44c9d",
+        "2b7dcb93-6ed0-5d9c-8730-e901cbc7f860"
+      ],
+      "html": {
+        "repository_path": "content/articles/c267120e-7b49-4a5a-8267-9aeda224aa3a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c267120e-7b49-4a5a-8267-9aeda224aa3a-1.jpg",
+          "public_path": "/images/articles/c267120e-7b49-4a5a-8267-9aeda224aa3a-1.jpg",
+          "source_page": 36,
+          "role": "article background photograph",
+          "alt": "Two young lions standing in grass",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean original PDF base photograph xref 226 (902x1150 RGB JPEG), cropped 25 pixels from left/top to an 850x1100 frame to match the page-boundary clipping of its PDF placement at 100 dpi. Separately painted article text, translucent reading panel, publication logo, postal markings and composite text fragments were omitted. Original orientation retained; no source pixels synthesized."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "source_note": "The epigraph and seven following paragraphs preserve source order. Mailing-panel matter and publication office typography on the back cover are excluded."
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Character",
+            "slug": "character"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        },
+        "topics": [
+          {
+            "name": "Pride",
+            "slug": "pride"
+          },
+          {
+            "name": "Christian humility",
+            "slug": "christian-humility"
+          }
+        ]
+      },
+      "language": "en"
     }
   ],
   "skipped": [

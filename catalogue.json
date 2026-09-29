@@ -1507,6 +1507,36 @@
       },
       "source_id": "heartbeat-remnant-2008-04",
       "slug": "heartbeat-remnant-2008-04"
+    },
+    {
+      "id": "be47161b-1ae5-4222-a7e3-09b140f57c22",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "January/February/March 2008",
+        "year": 2008,
+        "months": [
+          1,
+          2,
+          3
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 14,
+      "issue_number": 1,
+      "source": {
+        "filename": "2008-1Q-Remnant.pdf",
+        "sha256": "cabc0bc3946f2af687cb91b92acc0fc105c300d6451eaba680b8816a58a27d85",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copywright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      },
+      "source_id": "heartbeat-remnant-2008-01",
+      "slug": "heartbeat-remnant-2008-01"
     }
   ],
   "categories": [
