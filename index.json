@@ -48275,6 +48275,973 @@
         "3071fe03-5111-5c92-b54a-c774d84dfac2",
         "83aa35f7-eafc-5468-a36d-196ceb1d875c"
       ]
+    },
+    {
+      "id": "88676814-72c8-40fd-a02c-463f3fe8a77a",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 1,
+      "title": "ARE YOU Asleep?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by J. C. Ryle",
+        "authors": [
+          {
+            "name": "J. C. Ryle",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 22,
+        "pages": [
+          3,
+          4,
+          5,
+          22
+        ]
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/88676814-72c8-40fd-a02c-463f3fe8a77a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/88676814-72c8-40fd-a02c-463f3fe8a77a-1.jpg",
+          "public_path": "/images/articles/88676814-72c8-40fd-a02c-463f3fe8a77a-1.jpg",
+          "source_page": 3,
+          "role": "opening illustration",
+          "alt": "An engraving of a man awake among sleeping people",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead gives only a general image source credit, without attributing this particular illustration or specifying separate permission. The embedded 375 × 307 grayscale JPEG had inverse PDF sample values; samples were inverted and exported as a baseline RGB/sRGB JPEG, matching the published rendering."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/88676814-72c8-40fd-a02c-463f3fe8a77a-2.jpg",
+          "public_path": "/images/articles/88676814-72c8-40fd-a02c-463f3fe8a77a-2.jpg",
+          "source_page": 4,
+          "role": "interior illustration",
+          "alt": "An engraving of a resting man beneath a tree",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead gives only a general image source credit, without attributing this particular illustration or specifying separate permission. The clean embedded 340 × 257 PPM image was baseline encoded as an RGB/sRGB JPEG without changing its crop or content."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/88676814-72c8-40fd-a02c-463f3fe8a77a-3.jpg",
+          "public_path": "/images/articles/88676814-72c8-40fd-a02c-463f3fe8a77a-3.jpg",
+          "source_page": 5,
+          "role": "interior illustration",
+          "alt": "An engraving of a group of people gathered around a low table",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead gives only a general image source credit, without attributing this particular illustration or specifying separate permission. The embedded 500 × 322 grayscale JPEG had inverse PDF sample values; samples were inverted and exported as a baseline RGB/sRGB JPEG, matching the published rendering."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/88676814-72c8-40fd-a02c-463f3fe8a77a-4.jpg",
+          "public_path": "/images/articles/88676814-72c8-40fd-a02c-463f3fe8a77a-4.jpg",
+          "source_page": 22,
+          "role": "continuation illustration",
+          "alt": "A dark engraving of a seated figure reaching toward a person lying down",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead gives only a general image source credit, without attributing this particular illustration or specifying separate permission. The embedded 375 × 243 grayscale JPEG had inverse PDF sample values; samples were inverted and exported as a baseline RGB/sRGB JPEG, matching the published rendering."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Spiritual exercise",
+            "slug": "spiritual-exercise"
+          },
+          "additional": [
+            {
+              "name": "Revival",
+              "slug": "revival"
+            }
+          ]
+        }
+      },
+      "language": "en",
+      "topics": []
+    },
+    {
+      "id": "630e8881-4270-4204-8694-ba2353ac6ada",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 2,
+      "title": "AUTHORITY",
+      "subtitle": "In The Body Of Christ",
+      "section": null,
+      "byline": {
+        "raw": "by Clifford Fox",
+        "authors": [
+          {
+            "name": "Clifford Fox",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 10
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/630e8881-4270-4204-8694-ba2353ac6ada.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/630e8881-4270-4204-8694-ba2353ac6ada-1.jpg",
+          "public_path": "/images/articles/630e8881-4270-4204-8694-ba2353ac6ada-1.jpg",
+          "source_page": 6,
+          "role": "opening illustration",
+          "alt": "An illustration of two men standing and speaking",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead gives only a general image source credit, without attributing this particular illustration or specifying separate permission. The embedded 518 × 750 grayscale JPEG had inverse PDF sample values; samples were inverted and exported as a baseline RGB/sRGB JPEG, matching the published rendering."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/630e8881-4270-4204-8694-ba2353ac6ada-2.jpg",
+          "public_path": "/images/articles/630e8881-4270-4204-8694-ba2353ac6ada-2.jpg",
+          "source_page": 7,
+          "role": "interior illustration",
+          "alt": "An illustration of two empty wooden chairs",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead gives only a general image source credit, without attributing this particular illustration or specifying separate permission. The embedded 311 × 306 grayscale JPEG had inverse PDF sample values; samples were inverted and exported as a baseline RGB/sRGB JPEG, matching the published rendering."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/630e8881-4270-4204-8694-ba2353ac6ada-3.jpg",
+          "public_path": "/images/articles/630e8881-4270-4204-8694-ba2353ac6ada-3.jpg",
+          "source_page": 8,
+          "role": "interior illustration",
+          "alt": "An engraving showing figures in a wooded scene",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead gives only a general image source credit, without attributing this particular illustration or specifying separate permission. The embedded 300 × 365 grayscale JPEG had inverse PDF sample values; samples were inverted and exported as a baseline RGB/sRGB JPEG, matching the published rendering."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Church Matters",
+            "slug": "church-matters"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        }
+      },
+      "language": "en",
+      "topics": []
+    },
+    {
+      "id": "2c1b0b8f-a276-4b44-b84d-53c0641fc121",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 3,
+      "title": "The Beauty of “We”",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Claudia Esh",
+        "authors": [
+          {
+            "name": "Claudia Esh",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 11
+      },
+      "categories": {
+        "primary": "8d7646c9-072b-51ea-a1ef-cff3f7f50285",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/2c1b0b8f-a276-4b44-b84d-53c0641fc121.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/2c1b0b8f-a276-4b44-b84d-53c0641fc121-1.jpg",
+          "public_path": "/images/articles/2c1b0b8f-a276-4b44-b84d-53c0641fc121-1.jpg",
+          "source_page": 11,
+          "role": "opening illustration",
+          "alt": "A group gathered in a mountain valley around a speaker",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The page-2 masthead gives only a general image source credit, without attributing this particular illustration or specifying separate permission. The embedded 467 × 343 grayscale JPEG had inverse PDF sample values; samples were inverted and exported as a baseline RGB/sRGB JPEG, matching the published rendering. A separate blurred title raster and publisher gray panel are layout treatments and were omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "source_labels": {
+        "categories": {
+          "primary": {
+            "name": "Church",
+            "slug": "church"
+          },
+          "additional": [
+            {
+              "name": "Christian Living",
+              "slug": "christian-living"
+            }
+          ]
+        }
+      },
+      "language": "en",
+      "topics": []
+    },
+    {
+      "id": "f9795c71-c546-4d6e-8128-58312e400794",
+      "language": "en",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 4,
+      "title": "A Singing Heart",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 16
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca",
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "2c9550e4-1450-557f-8363-1fb690ef5eb8",
+        "95eff650-0776-5994-8697-9cbbf2f83c73",
+        "8ed108f9-3ccb-5850-af9d-7b0b089bf935"
+      ],
+      "html": {
+        "repository_path": "content/articles/f9795c71-c546-4d6e-8128-58312e400794.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f9795c71-c546-4d6e-8128-58312e400794-1.jpg",
+          "public_path": "/images/articles/f9795c71-c546-4d6e-8128-58312e400794-1.jpg",
+          "source_page": 12,
+          "role": "opening family-singing engraving",
+          "alt": "A family gathered around singing from books",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF object 52 is a flattened 506×1425 grayscale title panel. Inverted its /Separation /Black samples and cropped original raster at x=70, y=1026, width=368, height=334 to retain only the clean engraving; omitted baked title, byline, Psalm quotation, music background, black frame and shadow. The unique Psalm 104:33 quotation is transcribed in the HTML. No pixels synthesized. Encoded baseline sRGB JPEG at 150 dpi. No printed image credit or article-specific reuse restriction observed; no separate licence inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/f9795c71-c546-4d6e-8128-58312e400794-2.jpg",
+          "public_path": "/images/articles/f9795c71-c546-4d6e-8128-58312e400794-2.jpg",
+          "source_page": 13,
+          "role": "wintry landscape illustration",
+          "alt": "People in a wintry landscape near a horse and cart",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF object 56; inverted grayscale /Separation /Black samples to match the rendered page, retained full 500×399 artwork, and encoded baseline sRGB JPEG at 150 dpi. No printed image credit or article-specific reuse restriction observed; no separate licence inferred."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/f9795c71-c546-4d6e-8128-58312e400794-3.png",
+          "public_path": "/images/articles/f9795c71-c546-4d6e-8128-58312e400794-3.png",
+          "source_page": 14,
+          "role": "illustration",
+          "alt": "Two children carrying baskets among large plants",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF object 60 preserved as clean sRGB PNG at 461×351; no publisher typography, border, or reading panel baked into the exported artwork. No printed image credit or article-specific reuse restriction observed; no separate licence inferred."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/f9795c71-c546-4d6e-8128-58312e400794-4.jpg",
+          "public_path": "/images/articles/f9795c71-c546-4d6e-8128-58312e400794-4.jpg",
+          "source_page": 15,
+          "role": "illustration",
+          "alt": "A group of people raising their hands together",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF object 64; inverted grayscale /Separation /Black samples to match the rendered page, retained full 500×398 artwork, and encoded baseline sRGB JPEG at 150 dpi. No printed image credit or article-specific reuse restriction observed; no separate licence inferred."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/f9795c71-c546-4d6e-8128-58312e400794-5.jpg",
+          "public_path": "/images/articles/f9795c71-c546-4d6e-8128-58312e400794-5.jpg",
+          "source_page": 16,
+          "role": "illustration",
+          "alt": "Five figures singing from a long open book",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF object 68; inverted grayscale /Separation /Black samples to match the rendered page, retained full 314×487 artwork, and encoded baseline sRGB JPEG at 150 dpi. No printed image credit or article-specific reuse restriction observed; no separate licence inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_visual_proofread": "passed",
+        "decorative_pull_quotes_duplicated_in_pdf": true,
+        "decorative_pull_quotes_duplicated_in_html": false,
+        "source_oddities_note": "The page-12 flattened title panel prints Psalm 104:33; the closing quotation on page 16 prints Psalm 14:33. Both printed citations are preserved as they appear. The p14 internal poem The Power Of Christian Song, including its ~ Author Unknown attribution, is retained in source order. The p13–16 large pull quotes merely repeat body text and are omitted as decorative duplicates. The final square mark on p16 is decorative furniture."
+      }
+    },
+    {
+      "id": "491f78d6-ae99-4029-bd7e-193248398514",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 5,
+      "title": "Feeding Sheep or Amusing Goats?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Charles Spurgeon 1834-1892",
+        "authors": [
+          {
+            "name": "Charles Spurgeon",
+            "life_dates": "1834-1892"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/491f78d6-ae99-4029-bd7e-193248398514.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "7f8e6e3c-322b-5d2d-b390-05235f99a977",
+        "71b4f992-d7ff-5b6a-b1d5-2f08160b4dfa"
+      ]
+    },
+    {
+      "id": "12b8818b-ec0b-4b20-83a2-17fc74f174b0",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 6,
+      "title": "Divorce and also Remarriage in the Early Church",
+      "subtitle": "Marriage, Divorce, and Remarriage (Part 5)",
+      "section": null,
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 22
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0-1.jpg",
+          "public_path": "/images/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0-1.jpg",
+          "source_page": 18,
+          "role": "opening illustration",
+          "alt": "Engraving of an early Christian speaker addressing a gathered crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The masthead states that some images are ©2001-2008 clipart.com / fotolia.com but does not identify this specific image. PDF Separation/JPEG samples decode inverted outside the PDF; the embedded artwork was inverted and encoded as a baseline sRGB JPEG at its original pixel dimensions. Separable title typography, shadow, panel and rules were omitted."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0-2.jpg",
+          "public_path": "/images/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0-2.jpg",
+          "source_page": 19,
+          "role": "article illustration",
+          "alt": "Engraving of an ancient robed figure",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The masthead states that some images are ©2001-2008 clipart.com / fotolia.com but does not identify this specific image. PDF Separation/JPEG samples decode inverted outside the PDF; the embedded artwork was inverted and encoded as a baseline sRGB JPEG at its original pixel dimensions. Separable title typography, shadow, panel and rules were omitted."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0-3.jpg",
+          "public_path": "/images/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0-3.jpg",
+          "source_page": 20,
+          "role": "article illustration",
+          "alt": "Engraving of a round stone tower and ruins",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The masthead states that some images are ©2001-2008 clipart.com / fotolia.com but does not identify this specific image. PDF Separation/JPEG samples decode inverted outside the PDF; the embedded artwork was inverted and encoded as a baseline sRGB JPEG at its original pixel dimensions. Separable title typography, shadow, panel and rules were omitted."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0-4.jpg",
+          "public_path": "/images/articles/12b8818b-ec0b-4b20-83a2-17fc74f174b0-4.jpg",
+          "source_page": 21,
+          "role": "article illustration",
+          "alt": "Engraving of a castle beside a path",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The masthead states that some images are ©2001-2008 clipart.com / fotolia.com but does not identify this specific image. PDF Separation/JPEG samples decode inverted outside the PDF; the embedded artwork was inverted and encoded as a baseline sRGB JPEG at its original pixel dimensions. Separable title typography, shadow, panel and rules were omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "4512cfd9-f11a-52c1-8239-b9f0c7ec9274"
+      ],
+      "series": {
+        "id": "4b9ed8e5-59f0-4e7e-b279-f5e1be2a1d8f",
+        "part": 5,
+        "total_parts": null
+      }
+    },
+    {
+      "id": "a819756d-e719-4429-95f6-1d6057113d57",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 7,
+      "title": "Monsters of Cruelty",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by James Meikle (1730-1799)",
+        "authors": [
+          {
+            "name": "James Meikle",
+            "life_dates": "1730-1799"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 23
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/a819756d-e719-4429-95f6-1d6057113d57.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a819756d-e719-4429-95f6-1d6057113d57-1.jpg",
+          "public_path": "/images/articles/a819756d-e719-4429-95f6-1d6057113d57-1.jpg",
+          "source_page": 23,
+          "role": "opening illustration",
+          "alt": "Engraving of a house among trees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The masthead states that some images are ©2001-2008 clipart.com / fotolia.com but does not identify this specific image. PDF Separation/JPEG samples decode inverted outside the PDF; the embedded artwork was inverted and encoded as a baseline sRGB JPEG at its original pixel dimensions. Separable title typography, shadow, panel and rules were omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "9aeecc23-2b8e-5b54-9b5f-6d6b71f294ba",
+        "e306a951-5cde-59d9-b002-9f39db3e1eae"
+      ]
+    },
+    {
+      "id": "f2811887-ac86-4e08-a9fb-1660f668ea6b",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 8,
+      "title": "When God Complained",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Don Kistler",
+        "authors": [
+          {
+            "name": "Don Kistler",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 27,
+        "pages": [
+          24,
+          25,
+          27
+        ]
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "400977eb-3421-51cc-992f-b947d2cda0f4"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/f2811887-ac86-4e08-a9fb-1660f668ea6b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f2811887-ac86-4e08-a9fb-1660f668ea6b-1.png",
+          "public_path": "/images/articles/f2811887-ac86-4e08-a9fb-1660f668ea6b-1.png",
+          "source_page": 24,
+          "role": "biblical engraving",
+          "alt": "Woodcut of travelers on a rocky path",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. Clean embedded sRGB PNG; original published image and crop preserved."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/f2811887-ac86-4e08-a9fb-1660f668ea6b-2.jpg",
+          "public_path": "/images/articles/f2811887-ac86-4e08-a9fb-1660f668ea6b-2.jpg",
+          "source_page": 25,
+          "role": "biblical illustration",
+          "alt": "Jesus teaching a gathered group of people",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. The embedded Separation/Black JPEG was decoded with sample inversion and saved as baseline three-channel sRGB, preserving the published image, dimensions and crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "0735a42c-48fe-559e-a962-489ce8f5f335"
+      ]
+    },
+    {
+      "id": "30637e28-4fcf-487a-a24d-49906c2810b9",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 9,
+      "title": "BEWARE OF THE SCRIBES AND THE PHARISEES!",
+      "subtitle": "Faith and works as seen by early Anabaptist martyr, Michael Sattler, in 1527",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Michael Sattler",
+            "location": null,
+            "role": "early Anabaptist martyr"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 27
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+          "9514e8ea-e431-5806-a5f3-0953a922c074"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/30637e28-4fcf-487a-a24d-49906c2810b9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/30637e28-4fcf-487a-a24d-49906c2810b9-1.jpg",
+          "public_path": "/images/articles/30637e28-4fcf-487a-a24d-49906c2810b9-1.jpg",
+          "source_page": 26,
+          "role": "Pharisees illustration",
+          "alt": "Jesus speaking with a group of religious leaders",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. Embedded Separation/Black JPEG decoded with sample inversion to baseline three-channel sRGB, retaining the published art and useful resolution."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/30637e28-4fcf-487a-a24d-49906c2810b9-2.jpg",
+          "public_path": "/images/articles/30637e28-4fcf-487a-a24d-49906c2810b9-2.jpg",
+          "source_page": 27,
+          "role": "Scribes illustration",
+          "alt": "A group of scribes standing together",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. Embedded Separation/Black JPEG decoded with sample inversion to baseline three-channel sRGB, retaining the published art and useful resolution."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "f22af402-4835-56ba-987e-9a90f071d93d",
+        "6db2117c-b93c-5cd4-9883-77bea76742be",
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26"
+      ]
+    },
+    {
+      "id": "a7f3e452-fec8-4dc4-967f-8efb7e99d6cc",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 10,
+      "title": "Plain Speaking",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "A BOOK REVIEW BY DEAN TAYLOR",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 29
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/a7f3e452-fec8-4dc4-967f-8efb7e99d6cc.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a7f3e452-fec8-4dc4-967f-8efb7e99d6cc-1.jpg",
+          "public_path": "/images/articles/a7f3e452-fec8-4dc4-967f-8efb7e99d6cc-1.jpg",
+          "source_page": 28,
+          "role": "book cover",
+          "alt": "Cover of David Bercot’s book Plain Speaking: How to Preach and Teach Effectively",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. Embedded Separation/Black JPEG decoded with sample inversion and stored as baseline three-channel sRGB; image dimensions and cover text retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "649d37ab-7011-545e-8f58-c9f374fd3bfe",
+        "7f8e6e3c-322b-5d2d-b390-05235f99a977"
+      ]
+    },
+    {
+      "id": "79ca2fbb-e8b9-49ad-a5b8-24a461cf1a8b",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 11,
+      "title": "THE PRAYER MEETING IS DEAD!",
+      "subtitle": "A Call For Renewed Dependence Upon Apostolic Prayer",
+      "section": null,
+      "byline": {
+        "raw": "by Greg Gordon",
+        "authors": [
+          {
+            "name": "Greg Gordon",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 32
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/79ca2fbb-e8b9-49ad-a5b8-24a461cf1a8b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/79ca2fbb-e8b9-49ad-a5b8-24a461cf1a8b-1.jpg",
+          "public_path": "/images/articles/79ca2fbb-e8b9-49ad-a5b8-24a461cf1a8b-1.jpg",
+          "source_page": 30,
+          "role": "prayer illustration",
+          "alt": "A figure kneeling in prayer with others nearby",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. The p30 title and subtitle are flattened into the embedded graphic. A meaningful unobstructed crop at x318–732, y267–509 of its Separation/Black base was retained, omitting the publisher title and subtitle typography; samples inverted and baseline sRGB encoded. The full scene behind the title cannot be recovered without synthesizing pixels."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/79ca2fbb-e8b9-49ad-a5b8-24a461cf1a8b-2.jpg",
+          "public_path": "/images/articles/79ca2fbb-e8b9-49ad-a5b8-24a461cf1a8b-2.jpg",
+          "source_page": 31,
+          "role": "prayer photograph",
+          "alt": "Two people bowing in prayer beside a field",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. Embedded Separation/Black JPEG decoded with sample inversion to baseline three-channel sRGB, preserving published image, dimensions, and crop."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/79ca2fbb-e8b9-49ad-a5b8-24a461cf1a8b-3.png",
+          "public_path": "/images/articles/79ca2fbb-e8b9-49ad-a5b8-24a461cf1a8b-3.png",
+          "source_page": 32,
+          "role": "prayer engraving",
+          "alt": "Woodcut of several people praying on their knees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. Clean embedded sRGB PNG preserves published illustration and crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "5933107a-a052-501e-9826-e25cb5a7e990"
+      ]
+    },
+    {
+      "id": "368c54b9-580c-40b5-8647-15f991207bdb",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 12,
+      "title": "Zwingli—Reformer",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Glendon Fox",
+        "authors": [
+          {
+            "name": "Glendon Fox",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285",
+          "0648d4df-242a-5815-8d22-08b555d1b542"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/368c54b9-580c-40b5-8647-15f991207bdb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/368c54b9-580c-40b5-8647-15f991207bdb-1.jpg",
+          "public_path": "/images/articles/368c54b9-580c-40b5-8647-15f991207bdb-1.jpg",
+          "source_page": 33,
+          "role": "historical reformers illustration",
+          "alt": "Historical engraving of reformers debating around a table",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific source, licence, or separate permission notice is printed. The page-2 masthead says “Some images ©2001-2008 clipart.com / fotolia.com” but does not attribute this individual asset. Embedded Separation/Black JPEG decoded with sample inversion and encoded as baseline three-channel sRGB, retaining the published image, dimensions, and crop."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "58dddcaf-69d9-5668-b018-f33e6d6b4264",
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26",
+        "e076a45a-2014-5d02-b18b-ac6397515f22"
+      ]
+    },
+    {
+      "id": "fee24365-2464-4f49-977e-ef36ac95c530",
+      "issue_id": "82d9c013-5a75-453c-9193-1270033b393d",
+      "sequence": 13,
+      "title": null,
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "be523b84-148a-5633-9947-03c7c310d50a",
+        "42f1a8d5-21c5-5868-a31a-3dff109a9e96"
+      ],
+      "html": {
+        "repository_path": "content/articles/fee24365-2464-4f49-977e-ef36ac95c530.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fee24365-2464-4f49-977e-ef36ac95c530-1.jpg",
+          "public_path": "/images/articles/fee24365-2464-4f49-977e-ef36ac95c530-1.jpg",
+          "source_page": 36,
+          "role": "hymn background photograph",
+          "alt": "A potter’s hand shapes a clay vessel on a wheel",
+          "caption": null,
+          "credit": "Back cover photo: © Ewa Nowosielska - Fotolia.com",
+          "rights_note": "The printed masthead credits the back cover photograph exactly as recorded; no image licence is inferred. Clean original embedded RGB image xref 188, 900×1152 pixels. Re-encoded as baseline sRGB JPEG with nonzero JFIF density to normalize the Adobe APP14-only container and trailing byte. Separate mailing typography, poem lettering, postage box, and translucent reading panel are omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "title_note": "No separate hymn title or author is printed on the back cover; the first line begins “Have Thine own way, Lord!”",
+        "inventory_note": "Substantive four-stanza hymn on unnumbered back cover; unrelated mailing furniture and postage markings are omitted."
+      },
+      "language": "en"
     }
   ],
   "skipped": [
