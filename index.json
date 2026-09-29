@@ -47337,6 +47337,944 @@
         "fcb14cac-5da0-56fe-ac86-f3d0b99d4bfd",
         "b490f423-a9ab-52e1-a166-b3461ee0801d"
       ]
+    },
+    {
+      "id": "74ee3fe8-f36a-40fc-8729-172a298c86a9",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 2,
+      "title": "LANCASTER REVIVAL OF 1951",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 15
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-1.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-1.jpg",
+          "source_page": 4,
+          "role": "article image",
+          "alt": "Historic revival crowd photographed from the tent platform",
+          "caption": "Lancaster Crusade, 1951.",
+          "credit": null,
+          "rights_note": "Title collage constituent. The publisher tape, caption strip, page border and title panel are baked into source object 59; only unobstructed center of the historic crowd photograph is recoverable. Exact printed caption is retained separately. invert Black separation sample values to match PDF rendering; crop extracted raster to (232, 216, 471, 420); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-2.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-2.jpg",
+          "source_page": 4,
+          "role": "article image",
+          "alt": "Large revival tent seen from outside",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Second constituent of the title collage, source object 59. Crop excludes the overlapping crowd photo, tape, title panel and border. Original raster has an irreversibly baked muted tonal wash; no unobstructed, untinted base object is present. invert Black separation sample values to match PDF rendering; crop extracted raster to (630, 113, 1080, 486); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-3.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-3.jpg",
+          "source_page": 5,
+          "role": "article image",
+          "alt": "Congregation kneeling inside a revival tent",
+          "caption": "Entire revival tent praying on their knees",
+          "credit": null,
+          "rights_note": "Source object 63 contains publisher tape corners and white canvas baked in; cropped to an unobstructed central photograph. invert Black separation sample values to match PDF rendering; crop extracted raster to (88, 57, 413, 232); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-4.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-4.jpg",
+          "source_page": 6,
+          "role": "article image",
+          "alt": "Two men beside a revival vehicle",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 67 contains publisher tape corners; cropped to unobstructed photograph. invert Black separation sample values to match PDF rendering; crop extracted raster to (85, 87, 300, 392); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-5.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-5.jpg",
+          "source_page": 7,
+          "role": "article image",
+          "alt": "Revival meeting crowd inside a large tent",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 71 contains publisher tape corners; cropped to unobstructed central photograph. Adjacent bold text is a duplicated pull quote rather than a caption. invert Black separation sample values to match PDF rendering; crop extracted raster to (93, 87, 423, 413); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-6.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-6.jpg",
+          "source_page": 7,
+          "role": "article image",
+          "alt": "George R. Brunk II reading",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 72 has publisher tape corners baked into the only raster. An unobstructed rectangle large enough to include both his head and body cannot be recovered without cutting the subject; retain exact source and explicitly document this unavoidable overlay. invert Black separation sample values to match PDF rendering; encode in sRGB/RGB."
+        },
+        {
+          "sequence": 7,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-7.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-7.jpg",
+          "source_page": 8,
+          "role": "article image",
+          "alt": "Preacher addressing a revival gathering",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 77 contains publisher tape corners; cropped to unobstructed central photograph. invert Black separation sample values to match PDF rendering; crop extracted raster to (72, 94, 248, 340); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 8,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-8.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-8.jpg",
+          "source_page": 8,
+          "role": "article image",
+          "alt": "Overflow crowd at a revival meeting",
+          "caption": "Overflow Crowd",
+          "credit": null,
+          "rights_note": "Source object 76 contains publisher tape corners; cropped to unobstructed central photograph. invert Black separation sample values to match PDF rendering; crop extracted raster to (88, 78, 386, 284); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 9,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-9.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-9.jpg",
+          "source_page": 9,
+          "role": "article image",
+          "alt": "Banner reading Lose your sins and find your Saviour",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 82 is itself a narrow photograph of a revival banner. Printed wording is intrinsic, not a separable layout overlay. invert Black separation sample values to match PDF rendering; encode in sRGB/RGB."
+        },
+        {
+          "sequence": 10,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-10.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-10.jpg",
+          "source_page": 9,
+          "role": "article image",
+          "alt": "Revival tents viewed from above",
+          "caption": "The two tents to the right were purchased before the first campaign began and were used at Lancaster. During the campaign at Souderton, in August 1951, the large tent to the left was purchased and also set up. This tent can seat 5,000 people.",
+          "credit": null,
+          "rights_note": "Source object 81 contains publisher tape corners; cropped to unobstructed central photograph. invert Black separation sample values to match PDF rendering; crop extracted raster to (91, 80, 442, 305); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 11,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-11.png",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-11.png",
+          "source_page": 10,
+          "role": "article image",
+          "alt": "Aerial view of the revival tents and overflow parking",
+          "caption": "Overflow Crowd",
+          "credit": null,
+          "rights_note": "Source object 86 is a lossless raster with publisher tape corners baked in; cropped to unobstructed central aerial photograph. Pixel values already match PDF rendering; no inversion. crop extracted raster to (70, 62, 913, 577); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 12,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-12.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-12.jpg",
+          "source_page": 10,
+          "role": "article image",
+          "alt": "Revival banner about the gospel for the whole world",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 87 is a narrow photograph of a banner; printed wording is intrinsic to the source image. invert Black separation sample values to match PDF rendering; encode in sRGB/RGB."
+        },
+        {
+          "sequence": 13,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-13.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-13.jpg",
+          "source_page": 11,
+          "role": "article image",
+          "alt": "Revival campaign trucks parked together",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 92 contains publisher tape corners; cropped to unobstructed central photograph. invert Black separation sample values to match PDF rendering; crop extracted raster to (99, 87, 538, 352); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 14,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-14.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-14.jpg",
+          "source_page": 11,
+          "role": "article image",
+          "alt": "Brunk Tent Campaign roadside billboard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 91 contains publisher tape corners; cropped to unobstructed central photograph. invert Black separation sample values to match PDF rendering; crop extracted raster to (83, 76, 437, 312); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 15,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-15.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-15.jpg",
+          "source_page": 12,
+          "role": "article image",
+          "alt": "Revival gathering at Waterloo, Ontario",
+          "caption": "Revival at Waterloo, Ontario, Canada in 1952",
+          "credit": null,
+          "rights_note": "Source object 96 contains tape corners and a baked caption strip. Crop excludes both; exact caption retained separately. invert Black separation sample values to match PDF rendering; crop extracted raster to (103, 93, 352, 303); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 16,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-16.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-16.jpg",
+          "source_page": 12,
+          "role": "article image",
+          "alt": "Revival campaign trailer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 97 contains publisher tape corners and frame lines; cropped to unobstructed central photograph. Soft focus is intrinsic to source. invert Black separation sample values to match PDF rendering; crop extracted raster to (103, 57, 280, 159); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 17,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-17.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-17.jpg",
+          "source_page": 13,
+          "role": "article image",
+          "alt": "Brunk Revival Campaign sign",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 101 contains publisher tape corners; cropped to unobstructed central photograph. Sign lettering is intrinsic to photograph. invert Black separation sample values to match PDF rendering; crop extracted raster to (107, 86, 421, 273); encode in sRGB/RGB."
+        },
+        {
+          "sequence": 18,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-18.png",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-18.png",
+          "source_page": 14,
+          "role": "article image",
+          "alt": "Newspaper clipping about a boy confessing a barn fire",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 105 is the newspaper clipping itself; text is intrinsic to the facsimile and must not be stripped. Pixel values match PDF rendering; no inversion. encode in sRGB/RGB."
+        },
+        {
+          "sequence": 19,
+          "repository_path": "public/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-19.jpg",
+          "public_path": "/images/articles/74ee3fe8-f36a-40fc-8729-172a298c86a9-19.jpg",
+          "source_page": 15,
+          "role": "article image",
+          "alt": "Crowd seen across the interior of a revival tent",
+          "caption": "At Orrville, Ohio, 6,000 people filled the tent on most of the nights of the campaign. It was estimated that about half of the people came a distance of 25 miles or more to attend the meetings. One result of this campaign was the launching of a similar movement by laymen in Ohio.",
+          "credit": null,
+          "rights_note": "Source object 109 has publisher tape corners and a tiny narrative caption baked into the only raster. Crop removes those publisher overlays from the photo and the exact printed wording is retained separately in figcaption. A same-photo historical source corroborated softened middle words; issue PDF visually ends at 'in Ohio' and omits the historical source's extra final word. No licence inferred from that corroborating source. invert Black separation sample values to match PDF rendering; crop extracted raster to (103, 140, 510, 374); encode in sRGB/RGB."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "3071fe03-5111-5c92-b54a-c774d84dfac2",
+        "c3dea1f2-ddb1-5637-8b22-1678503b5673"
+      ]
+    },
+    {
+      "id": "7323f3a0-75b1-4692-bfc1-372a9af298a1",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 3,
+      "title": "A DIFFERENT KIND OF WAR",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 21,
+        "pages": [
+          16,
+          17,
+          18,
+          19,
+          21
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "0648d4df-242a-5815-8d22-08b555d1b542"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/7323f3a0-75b1-4692-bfc1-372a9af298a1.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7323f3a0-75b1-4692-bfc1-372a9af298a1-1.jpg",
+          "public_path": "/images/articles/7323f3a0-75b1-4692-bfc1-372a9af298a1-1.jpg",
+          "source_page": 16,
+          "role": "article image",
+          "alt": "Armored figure kneeling with sword",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 115 is the clean substantive illustration positioned by the p16 headline; inverted from Black separation samples to match PDF. invert Black separation sample values to match PDF rendering; encode in sRGB/RGB."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/7323f3a0-75b1-4692-bfc1-372a9af298a1-2.jpg",
+          "public_path": "/images/articles/7323f3a0-75b1-4692-bfc1-372a9af298a1-2.jpg",
+          "source_page": 16,
+          "role": "article image",
+          "alt": "Family seated together on a porch",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 114 is a clean portrait positioned lower on p16; inverted from Black separation samples to match PDF. invert Black separation sample values to match PDF rendering; encode in sRGB/RGB."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/7323f3a0-75b1-4692-bfc1-372a9af298a1-3.png",
+          "public_path": "/images/articles/7323f3a0-75b1-4692-bfc1-372a9af298a1-3.png",
+          "source_page": 19,
+          "role": "article image",
+          "alt": "Armored figure kneeling in a rocky landscape",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 125 is a clean black-ink illustration, already matching the PDF; no inversion. encode in sRGB/RGB."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "4198e6fb-4793-5bd3-afc8-0b75b031cdfd",
+        "102a0a40-2eb0-5006-a1af-ad40faa62fdc"
+      ]
+    },
+    {
+      "id": "4d5189ec-c866-4cdc-8ba1-749ec3c1afa4",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 4,
+      "title": "A Change of Allegiance",
+      "subtitle": "by Dean Taylor",
+      "section": "A Book Review",
+      "byline": {
+        "raw": "A Book Review by David Bercot",
+        "authors": [
+          {
+            "name": "David Bercot",
+            "location": null,
+            "role": "Reviewer"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": [
+          "0648d4df-242a-5815-8d22-08b555d1b542"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/4d5189ec-c866-4cdc-8ba1-749ec3c1afa4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/4d5189ec-c866-4cdc-8ba1-749ec3c1afa4-1.jpg",
+          "public_path": "/images/articles/4d5189ec-c866-4cdc-8ba1-749ec3c1afa4-1.jpg",
+          "source_page": 20,
+          "role": "article image",
+          "alt": "Cover of A Change of Allegiance",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 130 is the book cover, including intrinsic title and photograph; inverted from Black separation samples to match PDF. invert Black separation sample values to match PDF rendering; encode in sRGB/RGB."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/4d5189ec-c866-4cdc-8ba1-749ec3c1afa4-2.jpg",
+          "public_path": "/images/articles/4d5189ec-c866-4cdc-8ba1-749ec3c1afa4-2.jpg",
+          "source_page": 20,
+          "role": "article image",
+          "alt": "Dean and Tania Taylor in military uniform",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Source object 132 is a clean photograph; inverted from Black separation samples to match PDF. invert Black separation sample values to match PDF rendering; encode in sRGB/RGB."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/4d5189ec-c866-4cdc-8ba1-749ec3c1afa4-3.jpg",
+          "public_path": "/images/articles/4d5189ec-c866-4cdc-8ba1-749ec3c1afa4-3.jpg",
+          "source_page": 20,
+          "role": "article image",
+          "alt": "Rick and a companion hammering on the Berlin Wall",
+          "caption": "Rick and I hammering on the Berlin Wall",
+          "credit": null,
+          "rights_note": "Source object 131 includes a baked white-on-black caption along its bottom. Crop removes the caption strip; exact caption retained separately. invert Black separation sample values to match PDF rendering; crop extracted raster to (0, 0, 327, 355); encode in sRGB/RGB."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "649d37ab-7011-545e-8f58-c9f374fd3bfe",
+        "102a0a40-2eb0-5006-a1af-ad40faa62fdc"
+      ]
+    },
+    {
+      "id": "fa645853-bb79-4915-af58-761974c70e6f",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 5,
+      "title": "DANGERS IN REVIVAL",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by George R. Brunk II (1951)",
+        "authors": [
+          {
+            "name": "George R. Brunk II",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/fa645853-bb79-4915-af58-761974c70e6f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fa645853-bb79-4915-af58-761974c70e6f-1.jpg",
+          "public_path": "/images/articles/fa645853-bb79-4915-af58-761974c70e6f-1.jpg",
+          "source_page": 22,
+          "role": "St. Mary’s storefront revival notice",
+          "alt": "A revival notice painted on a storefront window",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ]
+    },
+    {
+      "id": "10ab493e-ad51-47fe-8199-0f8ebd0eef4e",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 6,
+      "title": "Desperation and Revival",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Vance Havner (1948)",
+        "authors": [
+          {
+            "name": "Vance Havner",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 23
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/10ab493e-ad51-47fe-8199-0f8ebd0eef4e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/10ab493e-ad51-47fe-8199-0f8ebd0eef4e-1.jpg",
+          "public_path": "/images/articles/10ab493e-ad51-47fe-8199-0f8ebd0eef4e-1.jpg",
+          "source_page": 23,
+          "role": "opening illustration",
+          "alt": "A figure bows with head in hands",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/10ab493e-ad51-47fe-8199-0f8ebd0eef4e-2.jpg",
+          "public_path": "/images/articles/10ab493e-ad51-47fe-8199-0f8ebd0eef4e-2.jpg",
+          "source_page": 23,
+          "role": "author portrait",
+          "alt": "Portrait of an older man wearing glasses",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e"
+      ]
+    },
+    {
+      "id": "639e07b3-9b8a-4370-aa90-ac2def767907",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 7,
+      "title": "REVIVAL PRAYER",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Jonathan Edwards (1703-1758)",
+        "authors": [
+          {
+            "name": "Jonathan Edwards",
+            "location": null,
+            "life_dates": "1703-1758"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 28
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/639e07b3-9b8a-4370-aa90-ac2def767907.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-1.jpg",
+          "public_path": "/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-1.jpg",
+          "source_page": 24,
+          "role": "author portrait",
+          "alt": "Portrait of a man in clerical clothing seated at a desk",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-2.jpg",
+          "public_path": "/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-2.jpg",
+          "source_page": 25,
+          "role": "illustration",
+          "alt": "A group of people gathers in a dim interior",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-3.jpg",
+          "public_path": "/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-3.jpg",
+          "source_page": 25,
+          "role": "illustration",
+          "alt": "People and animals in a peaceful pastoral scene",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-4.jpg",
+          "public_path": "/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-4.jpg",
+          "source_page": 26,
+          "role": "illustration",
+          "alt": "A man kneels with raised hands in prayer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-5.jpg",
+          "public_path": "/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-5.jpg",
+          "source_page": 27,
+          "role": "two-scene illustration",
+          "alt": "Two biblical worship scenes shown side by side",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones. Trimmed 3-pixel black page-art frame without trimming illustrated figures."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-6.jpg",
+          "public_path": "/images/articles/639e07b3-9b8a-4370-aa90-ac2def767907-6.jpg",
+          "source_page": 28,
+          "role": "illustration",
+          "alt": "A congregation kneels in prayer",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e"
+      ]
+    },
+    {
+      "id": "40a4893a-d3b2-466b-8b7f-14c55257524f",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 8,
+      "title": "Satan Hates Revival",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Ira Martin",
+        "authors": [
+          {
+            "name": "Ira Martin",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 29
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/40a4893a-d3b2-466b-8b7f-14c55257524f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/40a4893a-d3b2-466b-8b7f-14c55257524f-1.jpg",
+          "public_path": "/images/articles/40a4893a-d3b2-466b-8b7f-14c55257524f-1.jpg",
+          "source_page": 29,
+          "role": "illustration",
+          "alt": "People gathered closely in prayer inside a church",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ],
+      "publication_note": "Originally printed in the Gospel Herald, June 17, 1952"
+    },
+    {
+      "id": "7e2345a3-49ad-487a-80eb-0d10969c75a3",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 10,
+      "title": "A DESPERATE APPEAL FOR MODESTY",
+      "subtitle": "From the Perspective of the Missionary Pioneer:",
+      "section": null,
+      "byline": {
+        "raw": "Adoniram Judson",
+        "authors": [
+          {
+            "name": "Adoniram Judson",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 39
+      },
+      "categories": {
+        "primary": "976a7e08-e662-50b6-a13d-c787f72c7666",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-1.jpg",
+          "public_path": "/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-1.jpg",
+          "source_page": 34,
+          "role": "author portrait",
+          "alt": "Portrait of Adoniram Judson",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-2.jpg",
+          "public_path": "/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-2.jpg",
+          "source_page": 35,
+          "role": "photograph",
+          "alt": "Tall pagoda with people at its base",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-3.jpg",
+          "public_path": "/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-3.jpg",
+          "source_page": 36,
+          "role": "illustration",
+          "alt": "A man wearing a hat speaks to a seated group outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-4.jpg",
+          "public_path": "/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-4.jpg",
+          "source_page": 37,
+          "role": "illustration",
+          "alt": "Two women and a man converse in an interior",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-5.jpg",
+          "public_path": "/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-5.jpg",
+          "source_page": 38,
+          "role": "illustration",
+          "alt": "Jewelry and ornaments laid out on a table",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones. Trimmed 2-pixel image frame."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-6.png",
+          "public_path": "/images/articles/7e2345a3-49ad-487a-80eb-0d10969c75a3-6.png",
+          "source_page": 39,
+          "role": "illustration",
+          "alt": "People gathered under trees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "8b345ddb-8046-5651-b04f-924af67af18b"
+      ]
+    },
+    {
+      "id": "6f61a1ae-d1cc-4748-abea-a8e44a891dc4",
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 11,
+      "title": "The Circuit Rider VS. The Televangelist",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Michael Edds",
+        "authors": [
+          {
+            "name": "Michael Edds",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 40,
+        "end": 42
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0",
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "html": {
+        "repository_path": "content/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-1.jpg",
+          "public_path": "/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-1.jpg",
+          "source_page": 40,
+          "role": "opening collage constituent",
+          "alt": "Circuit rider on a horse carrying an umbrella",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No printed reuse restriction or creator credit detected. Cropped source collage constituent to omit title text, vs. typography, textured publisher background, and dark panel; no pixels synthesized. Inverted grayscale /Separation /Black samples to match rendered PDF. Crop raw image pixel box (80, 151, 363, 451)."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-2.jpg",
+          "public_path": "/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-2.jpg",
+          "source_page": 40,
+          "role": "opening collage constituent",
+          "alt": "Luxury car grille with a cross on the hood",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No printed reuse restriction or creator credit detected. Cropped source collage constituent to omit title text, vs. typography, textured publisher background, and dark panel; no pixels synthesized. Inverted grayscale /Separation /Black samples to match rendered PDF. Crop raw image pixel box (689, 151, 975, 452)."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-3.jpg",
+          "public_path": "/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-3.jpg",
+          "source_page": 40,
+          "role": "illustration",
+          "alt": "A circuit rider sits on his horse outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-4.jpg",
+          "public_path": "/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-4.jpg",
+          "source_page": 41,
+          "role": "illustration",
+          "alt": "A mounted circuit rider travels through a forest",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-5.jpg",
+          "public_path": "/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-5.jpg",
+          "source_page": 42,
+          "role": "illustration",
+          "alt": "A mounted circuit rider crosses water",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-6.jpg",
+          "public_path": "/images/articles/6f61a1ae-d1cc-4748-abea-a8e44a891dc4-6.jpg",
+          "source_page": 42,
+          "role": "photograph",
+          "alt": "A large mansion beside the water",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific reuse restriction or printed image credit observed. No image license inferred. Inverted grayscale samples from PDF /Separation /Black colorspace; rendered page confirms source-positive tones."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai"
+      },
+      "language": "en",
+      "topics": [
+        "3071fe03-5111-5c92-b54a-c774d84dfac2",
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c"
+      ]
     }
   ],
   "skipped": [
@@ -48455,6 +49393,40 @@
       "detected_notices": [
         "Photo on back cover © Pefkos - Fotolia.com",
         "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 1,
+      "title": "From the editor...",
+      "byline": "~Bro. Dean Taylor",
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "reason": "The article includes a map with explicit copyright notices; the printed issue policy excludes copyright-indicated material. Exclude the complete editorial and both associated images.",
+      "detected_notices": [
+        "©2008 Google",
+        "Map data ©2008 Tele Atlas",
+        "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copywright is indicated. Please include our full name and address."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "ef088180-22ec-4bbe-a4d2-36bf1e2b5cdd",
+      "sequence": 9,
+      "title": "Heirs Together",
+      "byline": "by Rachel Weaver",
+      "source_pages": {
+        "start": 30,
+        "end": 33
+      },
+      "reason": "The article explicitly says that the embedded ideas were reprinted by permission; exclude the entire article and its images.",
+      "detected_notices": [
+        "I reprinted the ideas by permission from Val Yoder."
       ],
       "html_exported": false,
       "images_exported": false
