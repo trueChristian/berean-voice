@@ -1537,6 +1537,40 @@
       },
       "source_id": "heartbeat-remnant-2008-01",
       "slug": "heartbeat-remnant-2008-01"
+    },
+    {
+      "id": "c9a9c184-9c75-4029-a839-f6082d61542d",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "July/August/September 2007",
+        "year": 2007,
+        "months": [
+          7,
+          8,
+          9
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 13,
+      "issue_number": 3,
+      "source": {
+        "filename": "2007-07-09-remnant.pdf",
+        "sha256": "0d725da2123dc4a0dba37b2e496da80e6e32630c70dc7055463e061f051eeca9",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2007-07",
+      "slug": "heartbeat-remnant-2007-07",
+      "verification": {
+        "inventory_note": "All 36 PDF pages visually inspected. The nine table-of-contents entries plus the separate signed poem on page 17, the editor letter/report on page 35, and Dying to Self on the back cover yield twelve eligible pieces and zero restricted pieces. Page 1 cover, page 2 contents/masthead and thumbnails, page 35 general ministry masthead logos/cover miniature, and page 36 mailing furniture are excluded. All content-page image dispositions are documented in article verification and image rights notes. Pages 9, 14, 16 and 17 have no associated pictorial assets. No new category, topic or series is needed."
+      }
     }
   ],
   "categories": [
