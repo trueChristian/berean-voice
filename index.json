@@ -53878,6 +53878,955 @@
         "image_encoding_note": "All 36 exports opened at useful resolution and visually compared with the rendered PDF and source image objects. Pillow and FFmpeg full-raster decoding and Chromium decoding/rendering checks completed without image-decoder failures. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density; PNGs are lossless RGB. Source-pixel crops and unavoidable baked overlays are documented per image. No source CMYK assets or sample inversion were involved."
       },
       "language": "en"
+    },
+    {
+      "id": "b251228e-5824-4b83-9236-8184391222d9",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 1,
+      "title": "Waiting",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8",
+        "8ada4a0d-a538-532f-a615-13434b3cd997"
+      ],
+      "html": {
+        "repository_path": "content/articles/b251228e-5824-4b83-9236-8184391222d9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/b251228e-5824-4b83-9236-8184391222d9-1.png",
+          "public_path": "/images/articles/b251228e-5824-4b83-9236-8184391222d9-1.png",
+          "source_page": 3,
+          "role": "article illustration",
+          "alt": "A hand holding an open pocket watch",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 4. The clean 122×113 grayscale image object 4 from the contents thumbnail is the same signed pocket-watch drawing repeated at larger size twice on page 3. It is exported once without upscaling. Page-3 object 14 irreversibly combines the heading, frame, gray panel and enlarged pale repeat; choosing the clean thumbnail avoids these overlays. The signature is retained in the image; no uncertain signature transcription is invented. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete page-3 editorial. The pocket-watch drawing and its pale background repetition are represented once by the clean page-2 thumbnail of the same artwork.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "fc8d4654-6505-42cc-8f75-5f2fbb55c346",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 2,
+      "title": "How to Trust God",
+      "subtitle": "Without Being a Calvinist",
+      "section": null,
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 8
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "cb9398c9-9fd9-5fe7-88ab-e50e5cbc9ea3",
+        "7a017f8e-787a-57f2-bcf0-4a25f3da11cf",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-1.png",
+          "public_path": "/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-1.png",
+          "source_page": 4,
+          "role": "article illustration",
+          "alt": "Two hands clasped together",
+          "caption": null,
+          "credit": "McELROY",
+          "rights_note": "PDF image object 18. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG. The lower-right “McELROY” artist signature remains intact in the artwork."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-2.jpg",
+          "public_path": "/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-2.jpg",
+          "source_page": 5,
+          "role": "article illustration",
+          "alt": "A man addressing a crowded assembly",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 22. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-3.jpg",
+          "public_path": "/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-3.jpg",
+          "source_page": 5,
+          "role": "article illustration",
+          "alt": "People outside a wooden cabin",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 23. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-4.jpg",
+          "public_path": "/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-4.jpg",
+          "source_page": 6,
+          "role": "article illustration",
+          "alt": "A man standing beside a large wall clock",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 27. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-5.png",
+          "public_path": "/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-5.png",
+          "source_page": 7,
+          "role": "article illustration",
+          "alt": "People ascending a steep stairway toward a city above the clouds",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 31. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-6.jpg",
+          "public_path": "/images/articles/fc8d4654-6505-42cc-8f75-5f2fbb55c346-6.jpg",
+          "source_page": 8,
+          "role": "article illustration",
+          "alt": "Illustrated stages of metalworking, including casting, hammering and polishing",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 35. All constituent metalworking scenes, finished vessel and their printed labels are retained together in this single original graphic. Its small frame and labels are intrinsic to the source illustration. The separate repeated pull quote is omitted. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete five-page article. Column/page continuations joined, intentional compound hyphens retained, and duplicated decorative pull quotes omitted. Six logical illustrations, including the complete metalworking collage, are preserved.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "d65a26eb-df2a-4ae5-8dbf-425d54a76418",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 3,
+      "title": "From the Editor’s Desk:",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Sincerely, Bro. Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": "Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 9
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [
+        "8ada4a0d-a538-532f-a615-13434b3cd997",
+        "e16fa525-448d-504a-8ebc-927c62ec6e8f",
+        "32b4b3c5-89d5-5664-bd1d-7f7c1b718913"
+      ],
+      "html": {
+        "repository_path": "content/articles/d65a26eb-df2a-4ae5-8dbf-425d54a76418.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d65a26eb-df2a-4ae5-8dbf-425d54a76418-1.jpg",
+          "public_path": "/images/articles/d65a26eb-df2a-4ae5-8dbf-425d54a76418-1.jpg",
+          "source_page": 9,
+          "role": "author family photograph",
+          "alt": "Dean Taylor and his family standing outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 41. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete signed editor letter and Taylor family photograph. The body sign-off remains where printed. The adjacent unsigned general financial statement and ministry marks are administrative issue furniture and are excluded.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "e8a034e0-cb99-41bd-84d2-d3afa6ed88ee",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 4,
+      "title": "A Mother’s Heart Cry",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 12
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "4f9300ad-a83d-56c6-8aeb-2907c08f2c04",
+        "e16fa525-448d-504a-8ebc-927c62ec6e8f",
+        "565f773d-5aae-54fd-ad75-4a0f1c196a01"
+      ],
+      "html": {
+        "repository_path": "content/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee-1.jpg",
+          "public_path": "/images/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee-1.jpg",
+          "source_page": 10,
+          "role": "article illustration",
+          "alt": "A seated mother holding a baby",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 45. Useful source-pixel crop [625, 110, 1095, 725] of object 45 retains the mother and baby and removes the baked heading, byline and introductory text, which are transcribed separately. Gray background toning and the lower fade are irreversibly baked into this sole high-resolution raster and are retained as an explicit unavoidable exception. No image pixels reconstructed. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee-2.png",
+          "public_path": "/images/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee-2.png",
+          "source_page": 10,
+          "role": "article illustration",
+          "alt": "Flowers arranged in an ornamental vase",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 46. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee-3.png",
+          "public_path": "/images/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee-3.png",
+          "source_page": 11,
+          "role": "article illustration",
+          "alt": "Two birds among flowering branches",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 50. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee-4.png",
+          "public_path": "/images/articles/e8a034e0-cb99-41bd-84d2-d3afa6ed88ee-4.png",
+          "source_page": 12,
+          "role": "article illustration",
+          "alt": "A house beside a stream and a small bridge",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 54. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All eleven introductory When/If lines read from the flattened heading graphic and transcribed, followed by the complete three-page article and the embedded Joyce Weaver poem. The printed “bursting form every seam” is retained. Repeated pull quotes omitted. Italics, bold closing lines, underlining and poem lineation preserved.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "fd37840c-ff6e-4c0d-a748-bee22ece0a2a",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 5,
+      "title": "An Open Heaven!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Testimony by Mary Yoder",
+        "authors": [
+          {
+            "name": "Mary Yoder",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 15
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": []
+      },
+      "topics": [
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "eaf5d08b-c212-52ed-88d7-9c629b0f7262"
+      ],
+      "html": {
+        "repository_path": "content/articles/fd37840c-ff6e-4c0d-a748-bee22ece0a2a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fd37840c-ff6e-4c0d-a748-bee22ece0a2a-1.jpg",
+          "public_path": "/images/articles/fd37840c-ff6e-4c0d-a748-bee22ece0a2a-1.jpg",
+          "source_page": 13,
+          "role": "article illustration",
+          "alt": "Portrait of Mary Yoder over a lakeside sunrise, with the printed article heading",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 58. The sole page-13 image object 58 is a flattened collage containing the portrait, lake sunrise, heading, byline, oval portrait frame/shadow and lower opacity fade. There are no clean component objects, soft masks or transparency groups. A crop cannot retain the full portrait and lake composition without the baked treatments, so the exact complete source raster is retained as the documented unavoidable-overlay exception. No pixels synthesized. No separate duplicate portrait or background export. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete introduction, testimony, and concluding Revelation 5:12 quotation. All three pages reviewed through the final line; no article-specific reuse restriction. The single flattened portrait/background collage is preserved with its unavoidable baked treatments documented.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 6,
+      "title": "Tribulation Worketh",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "A Transcribed Sermon by Dean Stump",
+        "authors": [
+          {
+            "name": "Dean Stump",
+            "location": "Ephrata, PA",
+            "role": "deacon at Ephrata Christian Fellowship"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 21
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8",
+        "9d8d1891-ebb8-528c-ae7a-0d1783487f13"
+      ],
+      "html": {
+        "repository_path": "content/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-1.png",
+          "public_path": "/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-1.png",
+          "source_page": 16,
+          "role": "article illustration",
+          "alt": "A wide view of workers gathering grain",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 69. Original wide image object 69, with its exact curved published clipping path reproduced as alpha. Separate heading typography, gray title panel and black border omitted. This wide crop contains scenery beyond the separate vertical crop in image 2. The repeated narrow running-header crops on pages 17, 19 and 21 are represented once by this export. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-2.jpg",
+          "public_path": "/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-2.jpg",
+          "source_page": 16,
+          "role": "article illustration",
+          "alt": "Workers gathering grain in a field",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 68. Original object 68 cropped to [0, 0, 427, 491] to match the rectangular printed clipping bounds at source-pixel precision. The separate gray panel and repeated pull quote are omitted. This vertical view contains foreground figures and grain beyond the distinct wide header crop. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-3.jpg",
+          "public_path": "/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-3.jpg",
+          "source_page": 18,
+          "role": "article illustration",
+          "alt": "A seated man beside a woman holding a baby, with broken pottery nearby",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 76. The white vignette at the upper and left edge is irreversibly baked into object 76; no clean uncropped base object or soft mask exists. Retained as the documented unavoidable-fade exception. The separate gray pull-quote panel is omitted. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-4.jpg",
+          "public_path": "/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-4.jpg",
+          "source_page": 19,
+          "role": "article illustration",
+          "alt": "A boy with his arm supported in a sling",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 80. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-5.jpg",
+          "public_path": "/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-5.jpg",
+          "source_page": 20,
+          "role": "article illustration",
+          "alt": "A person separating grain from chaff",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 84. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-6.jpg",
+          "public_path": "/images/articles/a94bdd52-efcf-40e1-bbfd-33758f2b782e-6.jpg",
+          "source_page": 21,
+          "role": "author family photograph",
+          "alt": "Dean Stump and his family",
+          "caption": "Dean Stump is a deacon at Ephrata Christian Fellowship, Ephrata, PA. This message was preached at Living Hope Christian Fellowship, Terre Hill, PA",
+          "credit": null,
+          "rights_note": "PDF image object 88. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete six-page sermon, including headings, six-item list, four numbered subheadings, scripture quotations and the exact italic family-photo caption. Duplicate pull quotes and repeated harvest headers represented only once; distinct wide and vertical harvest crops retain different scene content.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "122ba2bd-98ba-4d46-a1d7-dfc0ff76690d",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 7,
+      "title": "Counsel Upon Parental Duty and Responsibility",
+      "subtitle": "Severity and Over-Indulgence",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 25
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "b834013d-7b5e-59cd-9cf6-3cedee692313"
+      ],
+      "html": {
+        "repository_path": "content/articles/122ba2bd-98ba-4d46-a1d7-dfc0ff76690d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/122ba2bd-98ba-4d46-a1d7-dfc0ff76690d-1.png",
+          "public_path": "/images/articles/122ba2bd-98ba-4d46-a1d7-dfc0ff76690d-1.png",
+          "source_page": 22,
+          "role": "article illustration",
+          "alt": "A family gathered around an older man outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 92. Original object 92 with the exact published oval clipping path reproduced as alpha; the separate surrounding gray title panel and outline are omitted. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/122ba2bd-98ba-4d46-a1d7-dfc0ff76690d-2.png",
+          "public_path": "/images/articles/122ba2bd-98ba-4d46-a1d7-dfc0ff76690d-2.png",
+          "source_page": 23,
+          "role": "article illustration",
+          "alt": "A woman watching children playing with a doll",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 96. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/122ba2bd-98ba-4d46-a1d7-dfc0ff76690d-3.png",
+          "public_path": "/images/articles/122ba2bd-98ba-4d46-a1d7-dfc0ff76690d-3.png",
+          "source_page": 24,
+          "role": "article illustration",
+          "alt": "Children playing in snow with a sled",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 100. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete page-22–25 article with subtitle and internal headings, ending before The Salt of the Earth. Three illustrations; decorative layout panels omitted.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "094d0bb6-2b7d-4a86-9de4-116f1b95fcbe",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 8,
+      "title": "The Salt of the Earth",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 25
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "3a6d55c6-a8e1-51f6-a35b-8924add5ec2d",
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8"
+      ],
+      "html": {
+        "repository_path": "content/articles/094d0bb6-2b7d-4a86-9de4-116f1b95fcbe.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/094d0bb6-2b7d-4a86-9de4-116f1b95fcbe-1.png",
+          "public_path": "/images/articles/094d0bb6-2b7d-4a86-9de4-116f1b95fcbe-1.png",
+          "source_page": 25,
+          "role": "article illustration",
+          "alt": "An illustrated salt shaker",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 104. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete separate page-25 article after the parental-duty article, with its salt-shaker illustration.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "261c3e2b-d940-4175-acbe-77f3a5feffac",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 9,
+      "title": "The Age of Television in an Age of Grace",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Alex Marini",
+        "authors": [
+          {
+            "name": "Alex Marini",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 32
+      },
+      "categories": {
+        "primary": "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "d221092b-1c77-59a9-8b08-7c931b177669",
+        "b43eaaa6-ba48-5bc1-b5bb-4c86e586adf4",
+        "e299dccf-417c-549a-940d-796c4ccded56"
+      ],
+      "html": {
+        "repository_path": "content/articles/261c3e2b-d940-4175-acbe-77f3a5feffac.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-1.jpg",
+          "public_path": "/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-1.jpg",
+          "source_page": 26,
+          "role": "article illustration",
+          "alt": "A television displaying the printed article title",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 108. The television drawing and title are irreversibly combined in the only source raster, object 108. No clean television asset or removable text layer exists. Retained as the documented unavoidable-heading exception; no pixels synthesized. The byline is visible in the contents list; the page-26 text-layer byline lies behind the image and is not duplicated in the body. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-2.jpg",
+          "public_path": "/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-2.jpg",
+          "source_page": 28,
+          "role": "article illustration",
+          "alt": "A large Bible held above an outstretched crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 115. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-3.jpg",
+          "public_path": "/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-3.jpg",
+          "source_page": 29,
+          "role": "article illustration",
+          "alt": "Moths around a candle marked TELEVISION",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 119. The word TELEVISION on the candle is substantive to this standalone graphic and remains in the source raster. The separate pull quote and gray reading panel are omitted. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-4.png",
+          "public_path": "/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-4.png",
+          "source_page": 30,
+          "role": "article illustration",
+          "alt": "A hand holding a dagger over printed papers",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 123. The uniform gray paper ground is baked into the source line-art raster; the separate pull-quote panel is omitted. Original graphic markings are retained; no speculative tonal reconstruction or invented licence. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-5.png",
+          "public_path": "/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-5.png",
+          "source_page": 31,
+          "role": "article illustration",
+          "alt": "Silhouettes of a child reading and a child watching television",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 127. The uniform gray ground is baked into the source silhouette raster; the separate pull-quote panel is omitted. Both constituent scenes are preserved in one canonical export. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-6.jpg",
+          "public_path": "/images/articles/261c3e2b-d940-4175-acbe-77f3a5feffac-6.jpg",
+          "source_page": 32,
+          "role": "article illustration",
+          "alt": "A seated person watching a television",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 131. The uniform gray ground is baked into the source silhouette raster; the separate pull-quote panel is omitted. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete seven-page article and all internal headings. Author taken from the visible page-2 contents credit; obscured page-26 byline is not inserted into the body. Six illustrations; repeated decorative pull quotes omitted.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en",
+      "publication_note": "Author credited in the page-2 contents as “by Alex Marini”; page-26 byline text is obscured by the printed image."
+    },
+    {
+      "id": "9bdfd597-b36d-4e35-a833-394d117d41d7",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 10,
+      "title": "Rejoice!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Ebenezer Manting, 1890",
+        "authors": [
+          {
+            "name": "Ebenezer Manting",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "565f773d-5aae-54fd-ad75-4a0f1c196a01",
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8"
+      ],
+      "html": {
+        "repository_path": "content/articles/9bdfd597-b36d-4e35-a833-394d117d41d7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/9bdfd597-b36d-4e35-a833-394d117d41d7-1.jpg",
+          "public_path": "/images/articles/9bdfd597-b36d-4e35-a833-394d117d41d7-1.jpg",
+          "source_page": 33,
+          "role": "article illustration",
+          "alt": "A sailing ship in a breaking wave",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 135. Original source asset; separate page typography, rules, frames and pull-quote panels omitted. No crop, flip or rotation. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete page-33 article. Printed phrases including “Job let loose his first heroism” and “inspiration and a disregard” preserved without correction. Byline year 1890 retained without inferring life dates.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en",
+      "publication_note": "The byline prints 1890; this is retained without inferring life dates."
+    },
+    {
+      "id": "91cb0bd5-f0e9-4b37-98ad-8517bb6b6f38",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 11,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [
+        "99e30c2e-a1a4-5da7-9ca7-8587269a4246"
+      ],
+      "html": {
+        "repository_path": "content/articles/91cb0bd5-f0e9-4b37-98ad-8517bb6b6f38.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/91cb0bd5-f0e9-4b37-98ad-8517bb6b6f38-1.jpg",
+          "public_path": "/images/articles/91cb0bd5-f0e9-4b37-98ad-8517bb6b6f38-1.jpg",
+          "source_page": 34,
+          "role": "article illustration",
+          "alt": "A roadside mailbox bearing the magazine’s mailing and email address",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 139. Useful source-pixel crop [0, 0, 510, 244] of object 139 retains the mailbox and adjoining scenery while omitting the baked article heading and lower translucent reading panel. The magazine address printed on the mailbox is irreversibly baked into the sole source raster and is retained; no pixels synthesized. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete introduction and every reader letter on pages 34–35, including the editor’s reply to Ben and all body signatures. Reader separators retained semantically. No header byline inferred from contributors.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "79753481-7330-4a01-ae62-eda1cfc9f32c",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 12,
+      "title": "Tenting Time",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8",
+        "3b367b8d-fd25-5fc1-a992-9c1d0bdac1ac"
+      ],
+      "html": {
+        "repository_path": "content/articles/79753481-7330-4a01-ae62-eda1cfc9f32c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/79753481-7330-4a01-ae62-eda1cfc9f32c-1.png",
+          "public_path": "/images/articles/79753481-7330-4a01-ae62-eda1cfc9f32c-1.png",
+          "source_page": 35,
+          "role": "article illustration",
+          "alt": "A man sitting beside a tent in a wooded camp",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 143. Original object 143 with its exact published rounded-rectangle clipping path reproduced as alpha. The surrounding decorative frame, gray panel and heading are omitted. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source gray/RGB samples preserved in RGB/RGBA PNG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete separate page-35 article below the letters, with its camp illustration and closing sentence.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en"
+    },
+    {
+      "id": "359ea7ff-10b8-4512-9ee5-3a4c515b3e27",
+      "issue_id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "sequence": 13,
+      "title": "The Untrodden Way",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Ernest Little, 1907",
+        "authors": [
+          {
+            "name": "Ernest Little",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "8ada4a0d-a538-532f-a615-13434b3cd997",
+        "c987aaa5-9902-5dc1-abf1-1d58331a330f"
+      ],
+      "html": {
+        "repository_path": "content/articles/359ea7ff-10b8-4512-9ee5-3a4c515b3e27.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/359ea7ff-10b8-4512-9ee5-3a4c515b3e27-1.jpg",
+          "public_path": "/images/articles/359ea7ff-10b8-4512-9ee5-3a4c515b3e27-1.jpg",
+          "source_page": 36,
+          "role": "article illustration",
+          "alt": "A sunlit path through trees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "PDF image object 147. Useful unobstructed source-pixel crop [37, 990, 1313, 1688] of object 147 retains the woodland path below the baked poem. The crop remains inside the printed page bounds, excludes all poem typography, and omits the separately painted mailing panel. No pixels synthesized. No image-specific permission restriction is printed. The issue-level credit reads “Some images © 2001-2006 clipart.com / photos.com” without identifying individual assets; no individual source or licence is inferred. Source grayscale converted to RGB (or source RGB preserved) and normalized as baseline sRGB JPEG with nonzero 72 dpi density; output dimensions match the retained source-pixel region. No CMYK source or sample inversion."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete poem on unnumbered PDF page 36, with three six-line bold stanzas. Printed “Through darkness compass me,” retained without correction. One unobstructed woodland-path crop; mailing panel excluded.",
+        "image_encoding_note": "All 33 exports opened and visually compared with rendered PDF pages and source objects, including edges, corners, crops and documented baked treatments. Full raster decoding passed in Pillow and FFmpeg; Chromium 151 decoded all 33 images in their 13 HTML fragments with no page errors. JPEGs are baseline RGB/sRGB with nonzero 72 dpi density and terminal EOI; PNGs are RGB/RGBA. No source CMYK assets or sample inversion. Exact PDF clipping paths applied as alpha where documented; no synthesized pixels."
+      },
+      "language": "en",
+      "publication_note": "The byline prints 1907; this is retained without inferring life dates."
     }
   ],
   "skipped": [

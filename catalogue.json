@@ -2035,6 +2035,443 @@
           }
         ]
       }
+    },
+    {
+      "id": "6a9666b3-39d0-45d8-ad23-bd030566986e",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "October/November/December 2006",
+        "year": 2006,
+        "months": [
+          10,
+          11,
+          12
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 12,
+      "issue_number": 4,
+      "source": {
+        "filename": "2006-10-12-Remnant.pdf",
+        "sha256": "bb0dcd036d8946145809c3853c3632f807ba6f0b24ad12da387ae85623e21e26",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2006-10",
+      "slug": "heartbeat-remnant-2006-10",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "All 36 PDF pages visually reviewed in reading order. Eleven table-of-contents entries plus the signed editor letter and back-cover poem yield 13 included pieces and 33 exported images. No article-specific reuse restriction detected through any final line, continuation, graphic, note or credit; no skipped rights records added. Cover, contents/masthead/thumbnails, the unsigned general financial statement and ministry marks on page 9, and the page-36 mailing panel are issue-inventory exclusions. Duplicate text pull quotes, headings and page furniture are not separate images. All existing category and topic IDs reused; no series or new grouping entities added. Individual stock-image sources are not identified by the general issue credit. The clean watch drawing is limited to its native 122×113 thumbnail; no upscaling. Crops, clipping paths, repeated uses, and unavoidable baked treatments are documented per image.",
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "images": [],
+            "note": "All cover imagery omitted under the cover exclusion."
+          },
+          {
+            "pdf_page": 2,
+            "images": [],
+            "note": "Contents thumbnails and masthead matter omitted under the contents/masthead exclusion. The clean pocket-watch thumbnail is reused as the canonical representation of the same page-3 artwork."
+          },
+          {
+            "pdf_page": 3,
+            "images": [
+              {
+                "article_id": "b251228e-5824-4b83-9236-8184391222d9",
+                "image_sequence": 1,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "b251228e-5824-4b83-9236-8184391222d9",
+                "image_sequence": 1,
+                "disposition": "represented_once",
+                "note": "Repeated source artwork; canonical export referenced above."
+              }
+            ],
+            "note": "Foreground watch and pale enlarged background repeat represented once by the clean source thumbnail. Baked heading, panel and frame in the large page-3 raster omitted."
+          },
+          {
+            "pdf_page": 4,
+            "images": [
+              {
+                "article_id": "fc8d4654-6505-42cc-8f75-5f2fbb55c346",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 5,
+            "images": [
+              {
+                "article_id": "fc8d4654-6505-42cc-8f75-5f2fbb55c346",
+                "image_sequence": 2,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "fc8d4654-6505-42cc-8f75-5f2fbb55c346",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 6,
+            "images": [
+              {
+                "article_id": "fc8d4654-6505-42cc-8f75-5f2fbb55c346",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 7,
+            "images": [
+              {
+                "article_id": "fc8d4654-6505-42cc-8f75-5f2fbb55c346",
+                "image_sequence": 5,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 8,
+            "images": [
+              {
+                "article_id": "fc8d4654-6505-42cc-8f75-5f2fbb55c346",
+                "image_sequence": 6,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All metalworking collage constituents, including the process scenes, finished vessel and intrinsic labels, retained in one canonical export. The repeated text pull quote is typography."
+          },
+          {
+            "pdf_page": 9,
+            "images": [
+              {
+                "article_id": "d65a26eb-df2a-4ae5-8dbf-425d54a76418",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Taylor family photograph belongs to the signed editor letter. Adjacent unsigned general financial statement and ministry/magazine marks omitted as administrative matter."
+          },
+          {
+            "pdf_page": 10,
+            "images": [
+              {
+                "article_id": "e8a034e0-cb99-41bd-84d2-d3afa6ed88ee",
+                "image_sequence": 1,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "e8a034e0-cb99-41bd-84d2-d3afa6ed88ee",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Mother-and-baby illustration and ornamental flower vase exported. The eleven introductory text lines baked into the heading raster are transcribed into the article body, not discarded. Crop and unavoidable toning/fade documented."
+          },
+          {
+            "pdf_page": 11,
+            "images": [
+              {
+                "article_id": "e8a034e0-cb99-41bd-84d2-d3afa6ed88ee",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 12,
+            "images": [
+              {
+                "article_id": "e8a034e0-cb99-41bd-84d2-d3afa6ed88ee",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 13,
+            "images": [
+              {
+                "article_id": "fd37840c-ff6e-4c0d-a748-bee22ece0a2a",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Portrait and lake-sunrise background are constituents of a single flattened raster, exported once. Baked heading, byline, portrait frame/shadow and lower fade are the documented unavoidable exception."
+          },
+          {
+            "pdf_page": 14,
+            "images": [],
+            "note": "No article image. Page headers, footer and repeated text pull quote are typography/layout."
+          },
+          {
+            "pdf_page": 15,
+            "images": [],
+            "note": "No article image. Page headers and footer are typography/layout."
+          },
+          {
+            "pdf_page": 16,
+            "images": [
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 1,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Wide curved harvest view and vertical harvest view both exported because they contain distinct scene content. Exact clipping retained; separate title/pull-quote panels omitted."
+          },
+          {
+            "pdf_page": 17,
+            "images": [
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 1,
+                "disposition": "represented_once",
+                "note": "Repeated source artwork; canonical export referenced above."
+              }
+            ],
+            "note": "Narrow harvest running-header image is represented once by the wide page-16 harvest export; no duplicate asset."
+          },
+          {
+            "pdf_page": 18,
+            "images": [
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Sorrowing-family illustration exported. The baked white vignette is documented. The repeated pull quote and gray panel are typography/layout; no separately visible harvest header."
+          },
+          {
+            "pdf_page": 19,
+            "images": [
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 4,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 1,
+                "disposition": "represented_once",
+                "note": "Repeated source artwork; canonical export referenced above."
+              }
+            ],
+            "note": "Boy with arm sling exported; repeated harvest header represented once by the wide page-16 export."
+          },
+          {
+            "pdf_page": 20,
+            "images": [
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 5,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Grain-winnowing photograph exported; no separately visible harvest header. Repeated text pull quote and panel omitted."
+          },
+          {
+            "pdf_page": 21,
+            "images": [
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 6,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "a94bdd52-efcf-40e1-bbfd-33758f2b782e",
+                "image_sequence": 1,
+                "disposition": "represented_once",
+                "note": "Repeated source artwork; canonical export referenced above."
+              }
+            ],
+            "note": "Stump family photograph and exact caption exported; repeated harvest header represented once by the wide page-16 export."
+          },
+          {
+            "pdf_page": 22,
+            "images": [
+              {
+                "article_id": "122ba2bd-98ba-4d46-a1d7-dfc0ff76690d",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Family illustration exported with the exact oval published clip; separate gray panel, heading and outline omitted."
+          },
+          {
+            "pdf_page": 23,
+            "images": [
+              {
+                "article_id": "122ba2bd-98ba-4d46-a1d7-dfc0ff76690d",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 24,
+            "images": [
+              {
+                "article_id": "122ba2bd-98ba-4d46-a1d7-dfc0ff76690d",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 25,
+            "images": [
+              {
+                "article_id": "094d0bb6-2b7d-4a86-9de4-116f1b95fcbe",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Salt shaker belongs to The Salt of the Earth, not the preceding parental-duty continuation."
+          },
+          {
+            "pdf_page": 26,
+            "images": [
+              {
+                "article_id": "261c3e2b-d940-4175-acbe-77f3a5feffac",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Television graphic includes an irreversibly baked heading in the only raster, retained as a documented exception. No clean source base exists."
+          },
+          {
+            "pdf_page": 27,
+            "images": [],
+            "note": "No article image. Repeated text pull quote and panel are typography/layout."
+          },
+          {
+            "pdf_page": 28,
+            "images": [
+              {
+                "article_id": "261c3e2b-d940-4175-acbe-77f3a5feffac",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 29,
+            "images": [
+              {
+                "article_id": "261c3e2b-d940-4175-acbe-77f3a5feffac",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Moths and TELEVISION candle retained in one graphic; the candle marking is substantive image content. Separate text pull quote and panel omitted."
+          },
+          {
+            "pdf_page": 30,
+            "images": [
+              {
+                "article_id": "261c3e2b-d940-4175-acbe-77f3a5feffac",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Dagger and printed papers retained as one source illustration; intrinsic markings and baked gray ground retained. Separate pull-quote panel omitted."
+          },
+          {
+            "pdf_page": 31,
+            "images": [
+              {
+                "article_id": "261c3e2b-d940-4175-acbe-77f3a5feffac",
+                "image_sequence": 5,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Reading-child and television-viewing-child silhouette scenes retained together in their single source raster. Baked gray ground documented."
+          },
+          {
+            "pdf_page": 32,
+            "images": [
+              {
+                "article_id": "261c3e2b-d940-4175-acbe-77f3a5feffac",
+                "image_sequence": 6,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Television-viewer silhouette retained; baked gray ground documented."
+          },
+          {
+            "pdf_page": 33,
+            "images": [
+              {
+                "article_id": "9bdfd597-b36d-4e35-a833-394d117d41d7",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article illustrations listed. Separate page typography, rules and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 34,
+            "images": [
+              {
+                "article_id": "91cb0bd5-f0e9-4b37-98ad-8517bb6b6f38",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Mailbox scenery exported with a useful crop omitting the baked article heading and reading panel. Baked address on mailbox retained and documented."
+          },
+          {
+            "pdf_page": 35,
+            "images": [
+              {
+                "article_id": "79753481-7330-4a01-ae62-eda1cfc9f32c",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "The camp illustration belongs to Tenting Time below the reader letters. Exact rounded published clip retained; surrounding decorative frame, gray panel and heading omitted. Letter-divider glyphs are semantic separators."
+          },
+          {
+            "pdf_page": 36,
+            "images": [
+              {
+                "article_id": "359ea7ff-10b8-4512-9ee5-3a4c515b3e27",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Back-cover poem included; woodland-path background exported as one useful unobstructed source-pixel crop below the baked poem. Separate postal/mail panel omitted under mailing-panel exclusion."
+          }
+        ]
+      }
     }
   ],
   "categories": [
