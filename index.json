@@ -51996,6 +51996,866 @@
         "image_encoding_note": "Every final image was visually compared with the source. Pillow and FFmpeg fully decoded all 29 exports without warnings. All JPEGs are baseline RGB/sRGB with nonzero 72 dpi density. Chromium loaded and rendered every final image successfully."
       },
       "language": "en"
+    },
+    {
+      "id": "a2a3e213-f5ad-48b2-9784-d2824814d767",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 2,
+      "title": "Lost in the Church!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by J. L. Stauffer\nFrom the Gospel Herald, 1933",
+        "authors": [
+          {
+            "name": "J. L. Stauffer",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 8,
+        "pages": [
+          9,
+          8
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "9fdb6e89-2588-51fc-925f-9dc761c8074d"
+      ],
+      "html": {
+        "repository_path": "content/articles/a2a3e213-f5ad-48b2-9784-d2824814d767.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a2a3e213-f5ad-48b2-9784-d2824814d767-1.jpeg",
+          "public_path": "/images/articles/a2a3e213-f5ad-48b2-9784-d2824814d767-1.jpeg",
+          "source_page": 9,
+          "role": "illustration",
+          "alt": "Men seated in church pews",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 40. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The article begins on page 9 and concludes in the lower portion of page 8. Ordered pages [9, 8] preserve that reverse continuation. The church illustration on page 9 is exported once. Apparent source omissions, references and quotation punctuation are retained.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en",
+      "publication_note": "From the Gospel Herald, 1933"
+    },
+    {
+      "id": "337e797a-3d3c-4bcd-a6ea-c73f79ac6d33",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 3,
+      "title": "Family Duty",
+      "subtitle": "A Father’s Duty to His Family",
+      "section": null,
+      "byline": {
+        "raw": "by John Bunyan\nAuthor of Pilgrim’s Progress",
+        "authors": [
+          {
+            "name": "John Bunyan",
+            "location": null,
+            "role": "Author of Pilgrim’s Progress"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 14
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [
+        "e306a951-5cde-59d9-b002-9f39db3e1eae",
+        "8ed108f9-3ccb-5850-af9d-7b0b089bf935"
+      ],
+      "html": {
+        "repository_path": "content/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33-1.jpeg",
+          "public_path": "/images/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33-1.jpeg",
+          "source_page": 10,
+          "role": "family photograph",
+          "alt": "A man reading to children gathered around him",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 44. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33-2.jpeg",
+          "public_path": "/images/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33-2.jpeg",
+          "source_page": 11,
+          "role": "family photograph",
+          "alt": "A couple with an infant reading an open book",
+          "caption": "“For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD....” Gen 18:19a\n“...but as for me and my house, we will serve the LORD.” Josh 24:15",
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 49. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. This grayscale printed rendition has a different crop from the color photograph on page 36; both distinct published renditions are retained. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33-3.jpeg",
+          "public_path": "/images/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33-3.jpeg",
+          "source_page": 12,
+          "role": "family photograph",
+          "alt": "A man sitting with a young child",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 53. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33-4.jpeg",
+          "public_path": "/images/articles/337e797a-3d3c-4bcd-a6ea-c73f79ac6d33-4.jpeg",
+          "source_page": 14,
+          "role": "family photograph",
+          "alt": "Adults and children gathered in a sitting room",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 60. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Pages 10–14 visually compared. Four photographs exported in source order. The page 11 Scripture captions contain unique wording and are retained exactly. Repeated body-text pull quotes on pages 10, 12 and 14 are represented by the body once. Page 13 has no pictorial asset. The title raster on page 10 contains typography only and is omitted as layout.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en"
+    },
+    {
+      "id": "ecfb477d-6699-41f3-a6d9-bc1442a3bcf9",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 4,
+      "title": "“I Make You Captain of My Guard!”",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 15
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/ecfb477d-6699-41f3-a6d9-bc1442a3bcf9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/ecfb477d-6699-41f3-a6d9-bc1442a3bcf9-1.jpeg",
+          "public_path": "/images/articles/ecfb477d-6699-41f3-a6d9-bc1442a3bcf9-1.jpeg",
+          "source_page": 15,
+          "role": "illustration",
+          "alt": "Mounted soldiers and troops passing a house",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 64. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source-pixel crop (0, 660, 1050, 1417). The sole source raster includes a flattened pale fade behind the separately painted article text. Cropped away the blank upper layout area; retained a useful lower illustration crop and its unavoidable baked fade. No clean underlying object, mask, or exact inverse blend is available. Separate title, body text, and page furniture are omitted. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The complete two-paragraph story is retained. The sole lower illustration is exported with the source fade exception documented in its rights note.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en"
+    },
+    {
+      "id": "fe244fd0-890a-4e96-a428-1e1aa1b2b53f",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 5,
+      "title": "The Way of Holiness",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Jonathan Edwards (1703-1758)",
+        "authors": [
+          {
+            "name": "Jonathan Edwards",
+            "location": null,
+            "life_dates": "1703-1758"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 33,
+        "pages": [
+          16,
+          17,
+          33
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [
+        "3b69fdad-e957-5e8b-a946-db683c653271",
+        "0077042a-c127-5c03-a910-92dc63cb4356"
+      ],
+      "html": {
+        "repository_path": "content/articles/fe244fd0-890a-4e96-a428-1e1aa1b2b53f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fe244fd0-890a-4e96-a428-1e1aa1b2b53f-1.png",
+          "public_path": "/images/articles/fe244fd0-890a-4e96-a428-1e1aa1b2b53f-1.png",
+          "source_page": 16,
+          "role": "illustration",
+          "alt": "People gathering beside a church",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 68. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. The surrounding gray header rectangle and typography are separate PDF layout and are omitted. Original PNG encoding preserved. The thin outline at the engraving edge is part of the only source raster and retained; it is not claimed to be a removable clean-base layer."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The three-point article continues from page 17 to page 33 below the other article. Ordered pages [16, 17, 33] preserve the continuation. The italic editorial introduction is retained. One church illustration appears on page 16; pages 17 and 33 contain no associated images. Printed scripture-reference and wording anomalies are preserved.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en"
+    },
+    {
+      "id": "7d372133-f453-4bdd-954f-7c361882f915",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 6,
+      "title": "Instructions for Avoiding Dissension in the Home",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Richard Baxter (1615-1691)",
+        "authors": [
+          {
+            "name": "Richard Baxter",
+            "location": null,
+            "life_dates": "1615-1691"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "4e2d77ad-ddae-52f7-a098-873bba6b0e88"
+      ],
+      "html": {
+        "repository_path": "content/articles/7d372133-f453-4bdd-954f-7c361882f915.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7d372133-f453-4bdd-954f-7c361882f915-1.jpeg",
+          "public_path": "/images/articles/7d372133-f453-4bdd-954f-7c361882f915-1.jpeg",
+          "source_page": 18,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 75. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. The only raster already has a pale gray ground and faded ink values. These flattened tones are retained as an unavoidable exception; no clean underlying object, soft mask, or exact inverse blend is available. The separate gray header rectangle and typography are omitted. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/7d372133-f453-4bdd-954f-7c361882f915-2.jpeg",
+          "public_path": "/images/articles/7d372133-f453-4bdd-954f-7c361882f915-2.jpeg",
+          "source_page": 19,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 79. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. The strawberry plant and farming scene are one flattened illustration. Its pale ink values are already present in the only source raster and are retained as an unavoidable fade exception; no clean base, soft mask, or exact inverse blend is available. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Two six-point lists, the intervening bold direction, and both illustrations on pages 18–19 are retained. Flattened pale tones are documented as image exceptions.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en"
+    },
+    {
+      "id": "bef29533-fe77-4dc1-90c2-f32bdb8d8a1c",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 7,
+      "title": "Overheard in the Nursery",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 25
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca"
+        ]
+      },
+      "topics": [
+        "4f9300ad-a83d-56c6-8aeb-2907c08f2c04",
+        "b834013d-7b5e-59cd-9cf6-3cedee692313"
+      ],
+      "html": {
+        "repository_path": "content/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-1.jpeg",
+          "public_path": "/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-1.jpeg",
+          "source_page": 20,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 83. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-2.jpeg",
+          "public_path": "/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-2.jpeg",
+          "source_page": 21,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 87. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-3.jpeg",
+          "public_path": "/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-3.jpeg",
+          "source_page": 22,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 91. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-4.jpeg",
+          "public_path": "/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-4.jpeg",
+          "source_page": 23,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 95. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-5.png",
+          "public_path": "/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-5.png",
+          "source_page": 24,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 99. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Original PNG encoding preserved."
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-6.png",
+          "public_path": "/images/articles/bef29533-fe77-4dc1-90c2-f32bdb8d8a1c-6.png",
+          "source_page": 25,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 103. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Original PNG encoding preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All six pages and six bird illustrations are retained. Repeated pull quotes are represented only in the body. The introduction, five named-mother headings, italic emphases, missing punctuation, inconsistent names and apparent errors are preserved as printed; the introduction’s claim of six mothers is not corrected.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en"
+    },
+    {
+      "id": "31a32215-85bd-44d1-a1b1-f5e6141aad51",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 8,
+      "title": "SOAP IN THE WATER TANK",
+      "subtitle": "Why a Christian’s Testimony is Often Powerless",
+      "section": null,
+      "byline": {
+        "raw": "Taken from “The Travelers Guide”, 1900",
+        "authors": []
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 26
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "e763b632-f673-547f-afb3-186d486db0cc",
+        "f9835ab9-889a-5558-8ebe-d601e3b4cbcc"
+      ],
+      "html": {
+        "repository_path": "content/articles/31a32215-85bd-44d1-a1b1-f5e6141aad51.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/31a32215-85bd-44d1-a1b1-f5e6141aad51-1.jpeg",
+          "public_path": "/images/articles/31a32215-85bd-44d1-a1b1-f5e6141aad51-1.jpeg",
+          "source_page": 26,
+          "role": "illustration",
+          "alt": "A steam locomotive and tender",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 108. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. The gray ground is already baked into the source raster and is retained as an unavoidable layout-treatment exception. Separate title art, page panel, and text are omitted; no clean base or exact inverse blend is available. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The complete three-paragraph text and locomotive illustration are retained. The separate title raster is typography only and is represented in metadata.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en",
+      "publication_note": "Taken from “The Travelers Guide”, 1900"
+    },
+    {
+      "id": "4882c593-6c5b-46ec-8757-fcdd3ec40bb7",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 9,
+      "title": "Augustine the Baker (1556)",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "From The Martyrs Mirror\nSubmitted by Clifford Fox",
+        "authors": [
+          {
+            "name": "Clifford Fox",
+            "location": null,
+            "role": "Submitted by"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 27
+      },
+      "categories": {
+        "primary": "59e78031-c269-52d1-9b00-08dba0398cb4",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "494add59-7a1e-504d-ab65-b626610b684d",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/4882c593-6c5b-46ec-8757-fcdd3ec40bb7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/4882c593-6c5b-46ec-8757-fcdd3ec40bb7-1.jpeg",
+          "public_path": "/images/articles/4882c593-6c5b-46ec-8757-fcdd3ec40bb7-1.jpeg",
+          "source_page": 27,
+          "role": "illustration",
+          "alt": "Armed men leading a prisoner",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 112. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. The separately painted frame and shadow are omitted. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The full account and its illustration are retained. Clifford Fox is credited only as submitter; no author is inferred from the source-book title.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en",
+      "publication_note": "From The Martyrs Mirror"
+    },
+    {
+      "id": "841aca82-8f8a-41cf-aa4c-e85889c446f5",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 10,
+      "title": "One Flesh One Covenant",
+      "subtitle": "Marriage, Divorce, and Remarriage",
+      "section": null,
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 33
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "7d842abe-8275-5a65-bbb0-6b0387285daa"
+      ],
+      "html": {
+        "repository_path": "content/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-1.jpeg",
+          "public_path": "/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-1.jpeg",
+          "source_page": 28,
+          "role": "illustration",
+          "alt": "A cottage among trees with people outside",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 116. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. The gray ground is baked into the only source raster and retained as an unavoidable layout-treatment exception. The separate gradient title panel and typography are omitted; no clean underlying object or exact inverse blend is available. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-2.jpeg",
+          "public_path": "/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-2.jpeg",
+          "source_page": 29,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 120. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-3.jpeg",
+          "public_path": "/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-3.jpeg",
+          "source_page": 30,
+          "role": "illustration",
+          "alt": "A person seated beneath tall trees",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 124. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained. The thin edge outline is present in the only source raster and is retained; there is no separate frame object within this asset."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-4.png",
+          "public_path": "/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-4.png",
+          "source_page": 31,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 128. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Original PNG encoding preserved."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-5.png",
+          "public_path": "/images/articles/841aca82-8f8a-41cf-aa4c-e85889c446f5-5.png",
+          "source_page": 32,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 132. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Original PNG encoding preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All six pages are retained as printed Part 1 of Marriage, Divorce, and Remarriage, reusing the canonical series already used by Part 2. The five illustrations on pages 28–32 are exported; page 33 has no associated image. Repeated pull quotes are represented once in the article body. Emphasized citations, lists, quotations, apparent wording errors and scripture references are preserved.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en",
+      "series": {
+        "id": "4b9ed8e5-59f0-4e7e-b279-f5e1be2a1d8f",
+        "part": 1
+      }
+    },
+    {
+      "id": "1d59cd59-7b38-4c1e-84bd-30f9e66de33a",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 11,
+      "title": "Letter from the Editor and 1st Quarter 2007 Financial Report",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "--Your brother, Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [
+        "b71d2eed-1b6b-5ca4-84e5-3ea0f3448e82",
+        "0ade9728-d895-5710-84b2-09af80abdc84"
+      ],
+      "html": {
+        "repository_path": "content/articles/1d59cd59-7b38-4c1e-84bd-30f9e66de33a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/1d59cd59-7b38-4c1e-84bd-30f9e66de33a-1.jpeg",
+          "public_path": "/images/articles/1d59cd59-7b38-4c1e-84bd-30f9e66de33a-1.jpeg",
+          "source_page": 34,
+          "role": "editor photograph",
+          "alt": "A man seated at a desk beside a window",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 142. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The complete substantive editor letter and accompanying financial report are retained. One editor portrait is exported. The miniature cover and two ministry logos at the top are excluded as general masthead furniture. Printed financial figures are not recomputed.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en"
+    },
+    {
+      "id": "f49d5932-689a-4c85-b17f-3db59ffe61fc",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 12,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "f396833d-db0d-5879-8fc7-0b9e43bd718d",
+        "fcaa8e3f-d0bd-5591-8638-314cf1c87857"
+      ],
+      "html": {
+        "repository_path": "content/articles/f49d5932-689a-4c85-b17f-3db59ffe61fc.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f49d5932-689a-4c85-b17f-3db59ffe61fc-1.jpeg",
+          "public_path": "/images/articles/f49d5932-689a-4c85-b17f-3db59ffe61fc-1.jpeg",
+          "source_page": 35,
+          "role": "header illustration",
+          "alt": "A mailbox bearing the publication name and contact information",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 146. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source-pixel crop (0, 0, 510, 245). The sole header raster has baked title lettering, publication contact lettering, and a translucent reading panel. A useful mailbox crop removes the title and reading panel; the unavoidable publication contact lettering on the mailbox is retained exactly. Separate introductory text and page furniture are omitted. No clean underlying image or mask exists. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The full bold introduction and three reader letters are retained with their printed origin/sign-off lines. The mailbox illustration is exported once with its baked-lettering exception. Repeated flower-glyph dividers are rendered as semantic separators rather than duplicate decorative images.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en"
+    },
+    {
+      "id": "a95a8fdd-8aa8-44b6-a9f9-fd83772d1706",
+      "issue_id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "sequence": 13,
+      "title": "Home Song",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-Henry Wadsworth Longfellow",
+        "authors": [
+          {
+            "name": "Henry Wadsworth Longfellow",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "76b8f216-8c11-5378-90f6-37fe3f41d329",
+        "3e9611a8-f79d-544b-901f-4e8227b39b80"
+      ],
+      "html": {
+        "repository_path": "content/articles/a95a8fdd-8aa8-44b6-a9f9-fd83772d1706.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a95a8fdd-8aa8-44b6-a9f9-fd83772d1706-1.jpeg",
+          "public_path": "/images/articles/a95a8fdd-8aa8-44b6-a9f9-fd83772d1706-1.jpeg",
+          "source_page": 36,
+          "role": "article background texture",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 150. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source-pixel crop (38, 1060, 1312, 1687). The sole full-page raster combines pink texture, photograph, and baked poem typography/frame/shadow. This unobstructed source-pixel texture crop retains a useful representative region without baked typography, frame, or shadow. Separate mailing furniture is omitted. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/a95a8fdd-8aa8-44b6-a9f9-fd83772d1706-2.jpeg",
+          "public_path": "/images/articles/a95a8fdd-8aa8-44b6-a9f9-fd83772d1706-2.jpeg",
+          "source_page": 36,
+          "role": "family photograph",
+          "alt": "A couple with an infant reading an open book",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object xref 150. No separate image-specific permission notice is printed. The issue masthead states “Some images © 2001-2007 clipart.com / photos.com” without identifying the assets; no individual licence is inferred. Source-pixel crop (119, 363, 726, 976). The family photograph is cropped from the sole flattened page raster, just inside the baked frame, excluding its border, shadow, surrounding texture and poem typography. This color published rendition has a distinct crop from the grayscale photograph on page 11 and is retained separately. No replacement or hidden pixels were generated. Source decoded and encoded as baseline RGB/sRGB JPEG at nonzero 72 dpi density; useful resolution and orientation retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The three five-line stanzas, bold text, and italic author sign-off are preserved. Two useful crops preserve the photograph and the background texture from the only flattened source raster. Baked poem typography and photo frame/shadow are removed by cropping, with separate mailing furniture omitted. No clean full-page base exists.",
+        "image_encoding_note": "All 26 prepared exports were opened at useful resolution and visually compared with the source pages and original PDF objects. Pillow and FFmpeg fully decoded every export without image-decoder warnings. Every JPEG is baseline RGB/sRGB with nonzero 72 dpi density; original PNGs are retained. Chromium decoded and rendered all 26 final images successfully. Irreversible flattened treatments and useful source-pixel crops are explicitly documented per affected image."
+      },
+      "language": "en"
     }
   ],
   "skipped": [
