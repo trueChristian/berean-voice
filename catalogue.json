@@ -1571,6 +1571,41 @@
       "verification": {
         "inventory_note": "All 36 PDF pages visually inspected. The nine table-of-contents entries plus the separate signed poem on page 17, the editor letter/report on page 35, and Dying to Self on the back cover yield twelve eligible pieces and zero restricted pieces. Page 1 cover, page 2 contents/masthead and thumbnails, page 35 general ministry masthead logos/cover miniature, and page 36 mailing furniture are excluded. All content-page image dispositions are documented in article verification and image rights notes. Pages 9, 14, 16 and 17 have no associated pictorial assets. No new category, topic or series is needed."
       }
+    },
+    {
+      "id": "80483f58-63d9-4e25-ac7a-6dffabdec46a",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "April/May/June 2007",
+        "year": 2007,
+        "months": [
+          4,
+          5,
+          6
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 13,
+      "issue_number": 2,
+      "source": {
+        "filename": "2007-04-06-remnant.pdf",
+        "sha256": "838b458e1883134b4a99503a63acb2d0b2bb29d8eb092939483c506ca89ce939",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2007-04",
+      "slug": "heartbeat-remnant-2007-04",
+      "verification": {
+        "completion_status": "partial_authorized",
+        "inventory_note": "All 36 PDF pages visually inspected. Thirteen substantive pieces were identified. Twelve pieces (sequences 2–13) are included. Sequence 1, Baptism of the Holy Ghost & New Testament Reality, pages 3–8, was blocked by an automated content filter and is not transcribed, indexed or exported; this is a processing limitation, not an article-specific reuse restriction. No article-specific restriction notices were found. The issue must not be published as complete. The user explicitly authorized this partial draft-PR delivery on 2026-09-30 after being informed of the blocked article. Page 1 cover and page 2 contents/masthead/thumbnails are excluded; page 34 general ministry logos/miniature cover and page 36 mailing furniture are excluded. Article image dispositions are documented per article; the eight images on pages 3–8 belong to the blocked piece and have no archive exports. Page 8 contains no image belonging to the continuation of Lost in the Church! Pages 13, 17 and 33 have no article images. Header/title rasters on pages 10 and 26 are typography-only layout. Page 35 flower-glyph dividers are semantic separators. No category, topic or series is added."
+      }
     }
   ],
   "categories": [
