@@ -1606,6 +1606,435 @@
         "completion_status": "partial_authorized",
         "inventory_note": "All 36 PDF pages visually inspected. Thirteen substantive pieces were identified. Twelve pieces (sequences 2–13) are included. Sequence 1, Baptism of the Holy Ghost & New Testament Reality, pages 3–8, was blocked by an automated content filter and is not transcribed, indexed or exported; this is a processing limitation, not an article-specific reuse restriction. No article-specific restriction notices were found. The issue must not be published as complete. The user explicitly authorized this partial draft-PR delivery on 2026-09-30 after being informed of the blocked article. Page 1 cover and page 2 contents/masthead/thumbnails are excluded; page 34 general ministry logos/miniature cover and page 36 mailing furniture are excluded. Article image dispositions are documented per article; the eight images on pages 3–8 belong to the blocked piece and have no archive exports. Page 8 contains no image belonging to the continuation of Lost in the Church! Pages 13, 17 and 33 have no article images. Header/title rasters on pages 10 and 26 are typography-only layout. Page 35 flower-glyph dividers are semantic separators. No category, topic or series is added."
       }
+    },
+    {
+      "id": "e782e138-2ae7-4159-adcb-8df536c52447",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "January/February/March 2007",
+        "year": 2007,
+        "months": [
+          1,
+          2,
+          3
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 13,
+      "issue_number": 1,
+      "source": {
+        "filename": "2007-01-03-remnant.pdf",
+        "sha256": "75533c2b65a3f87368bcb6890bdd85ef9cac5724c0ff90459c4748093441574b",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2007-01",
+      "slug": "heartbeat-remnant-2007-01",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "All 36 PDF pages visually inspected in reading order. Thirteen substantive pieces included, with 36 images. No article-specific permission restriction was detected through the final lines, graphics, notes or credits of any article; no skipped rights records are added. Page 1 cover, page 2 contents/masthead/thumbnails, page 34 unsigned general ministry financial statement, and page 36 mailing panel are issue-inventory exclusions. Article headings, repeated page furniture, text pull quotes and divider glyphs are not additional images. The issue-level stock-source credit does not identify individual assets and is preserved in each image rights note. No categories or topics added; one source-established Part 1 series added.",
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "images": [],
+            "note": "All cover imagery omitted under the cover exclusion."
+          },
+          {
+            "pdf_page": 2,
+            "images": [],
+            "note": "Contents thumbnails and masthead matter omitted under the contents/masthead exclusion."
+          },
+          {
+            "pdf_page": 3,
+            "images": [
+              {
+                "article_id": "33eddcb3-60ad-4f27-bdd7-c0920599dde8",
+                "image_sequence": 1,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "33eddcb3-60ad-4f27-bdd7-c0920599dde8",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 4,
+            "images": [
+              {
+                "article_id": "33eddcb3-60ad-4f27-bdd7-c0920599dde8",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 5,
+            "images": [
+              {
+                "article_id": "33eddcb3-60ad-4f27-bdd7-c0920599dde8",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 6,
+            "images": [
+              {
+                "article_id": "bfff16aa-7646-43a4-b51a-e96de425fc88",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 7,
+            "images": [
+              {
+                "article_id": "86198738-8767-4cc9-859e-fe5597538286",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 8,
+            "images": [
+              {
+                "article_id": "ebf169d9-f7a8-4534-bc0d-4a9c6c956117",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 9,
+            "images": [
+              {
+                "article_id": "ebf169d9-f7a8-4534-bc0d-4a9c6c956117",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 10,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 11,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 12,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 3,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 13,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 5,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 14,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 6,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 15,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 7,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 16,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 8,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 17,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 9,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 10,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 18,
+            "images": [
+              {
+                "article_id": "1bae0eee-b104-4df8-b428-cf4822ed67a9",
+                "image_sequence": 11,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 19,
+            "images": [
+              {
+                "article_id": "47fc224f-59d6-491f-83f9-bfd6a435bfe1",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 20,
+            "images": [
+              {
+                "article_id": "6dc8b6bd-0d37-462e-9c0a-f8f735b56a0b",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 21,
+            "images": [
+              {
+                "article_id": "6dc8b6bd-0d37-462e-9c0a-f8f735b56a0b",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 22,
+            "images": [
+              {
+                "article_id": "f7fad5cf-0f28-4c60-9a03-c352c34aa848",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Typography-only Working the Fields raster and section rules omitted as heading/layout."
+          },
+          {
+            "pdf_page": 23,
+            "images": [
+              {
+                "article_id": "f7fad5cf-0f28-4c60-9a03-c352c34aa848",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 24,
+            "images": [
+              {
+                "article_id": "f7fad5cf-0f28-4c60-9a03-c352c34aa848",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 25,
+            "images": [
+              {
+                "article_id": "b0a77b5a-bb21-41df-a1f9-1f3feba16a5a",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 26,
+            "images": [
+              {
+                "article_id": "216f3f3f-af90-4920-88cb-5e950f320ecc",
+                "image_sequence": 1,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "216f3f3f-af90-4920-88cb-5e950f320ecc",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 27,
+            "images": [
+              {
+                "article_id": "216f3f3f-af90-4920-88cb-5e950f320ecc",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 28,
+            "images": [],
+            "note": "No article image on this page."
+          },
+          {
+            "pdf_page": 29,
+            "images": [
+              {
+                "article_id": "216f3f3f-af90-4920-88cb-5e950f320ecc",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 30,
+            "images": [
+              {
+                "article_id": "fda998bc-fda9-4449-ac28-27e932f956ee",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 31,
+            "images": [
+              {
+                "article_id": "fda998bc-fda9-4449-ac28-27e932f956ee",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 32,
+            "images": [
+              {
+                "article_id": "fda998bc-fda9-4449-ac28-27e932f956ee",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 33,
+            "images": [
+              {
+                "article_id": "fda998bc-fda9-4449-ac28-27e932f956ee",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All article photographs, illustrations and background images listed; repeated pull quotes and page furniture are typography/layout."
+          },
+          {
+            "pdf_page": 34,
+            "images": [],
+            "note": "Unsigned general financial statement and its ministry/magazine marks omitted as administrative matter."
+          },
+          {
+            "pdf_page": 35,
+            "images": [
+              {
+                "article_id": "ec686fd0-dfca-42b0-b9fa-78fe12a438db",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Flower-glyph dividers represented semantically as separators; header photograph exported."
+          },
+          {
+            "pdf_page": 36,
+            "images": [
+              {
+                "article_id": "7a286672-8be3-4e14-a9ca-f1780d9845b6",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Back-cover poem illustration exported; separate mailing typography and postal panel omitted under mailing-panel exclusion."
+          }
+        ]
+      }
     }
   ],
   "categories": [
@@ -4370,6 +4799,12 @@
       "id": "4b9ed8e5-59f0-4e7e-b279-f5e1be2a1d8f",
       "name": "Marriage, Divorce, and Remarriage",
       "slug": "marriage-divorce-and-remarriage",
+      "aliases": []
+    },
+    {
+      "id": "aedd8c12-7ba7-4a54-ab4d-5c4c8b7b4eb6",
+      "name": "Baptism of the Holy Ghost & New Testament Reality",
+      "slug": "baptism-of-the-holy-ghost-and-new-testament-reality",
       "aliases": []
     }
   ],
