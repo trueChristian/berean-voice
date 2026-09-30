@@ -56,3 +56,10 @@ Output must be absent or empty; existing data is never erased. The exporter gene
 `python3 tools/archive.py derive` is an optional developer utility that writes only to ignored `.build/derived/`. It is not part of ingestion or everyday editing. Root `manifest.json` and `navigation.json` are no longer tracked or consumed. Do not restore them from older extraction branches. The website builds complete pages and deploys separately.
 
 See [the downstream contract](docs/downstream-contract.md) and [AGENTS.md](AGENTS.md).
+
+## Remnant rebuild notifications
+
+An optional, disabled-by-default source-publication hook can request a rebuild of
+`remnant.truechristian.church` after validated display output changes. See
+[notification setup and recovery](docs/remnant-notifications.md) for the trusted
+publishing path, destination-scoped credential requirements, and offline tests.
