@@ -32749,9 +32749,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "continuation_note": "The article begins on printed page 3, whose final line directs readers to page 5. It resumes in the right column of printed page 5 beneath the continuation label ‘Editorial, Cont. from p. 3’ and ends there.",
         "signoff_note": "The terminal sign-off ‘~Bro. Dean’ is preserved inline and italicized exactly where it appears at the end of the final paragraph. The page-2 masthead identifies Dean Taylor as General Editor."
       },
@@ -32833,9 +32833,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "decorative_pull_quotes_duplicated_in_pdf": true,
         "decorative_pull_quotes_duplicated_in_html": false,
         "pull_quote_note": "Two decorative pull-quote renditions were omitted because they repeat body wording. The first decorative rendition adds a comma after ‘commanding’ that is absent from the authoritative body sentence; the exact body punctuation was preserved and the decorative rendition was not duplicated, following the explicit extraction instruction.",
@@ -32908,9 +32908,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "callout_note": "The unique framed callout was transcribed as a semantic two-paragraph blockquote. Its calligraphic emphasis, blank paragraph break, final exclamation mark, and immediately adjacent tilde were preserved.",
         "quotation_note": "Both indented passages introduced as readings from Martyrs Mirror were preserved as prose blockquotes. The second ‘all’ in ‘all—all—for Him’ is the only emphasized word in that phrase and is preserved with emphasis."
       },
@@ -33007,9 +33007,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "pull_quote_note": "Two decorative pull quotes were omitted because they repeat wording preserved in the body; the unique handwritten wording attached to the battleship was retained as its exact figcaption because its bracketed text does not occur in the body.",
         "image_decode_note": "Both final images fully decoded without warnings in Pillow, ImageMagick, and FFmpeg; both are baseline three-component sRGB JPEGs at 150 ppi and were visually compared with the printed pages.",
         "rights_review_note": "The complete article, notes, footnotes, captions, and images contain no wording requiring separate permission."
@@ -33105,9 +33105,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "image_order_note": "The paired illustrations follow published top-to-bottom order rather than PDF object order; the single printed caption applies jointly to both images and is stored once on the first image.",
         "image_decode_note": "Both final images fully decoded without warnings in Pillow, ImageMagick, and FFmpeg; both are baseline three-component sRGB JPEGs at 150 ppi and were visually compared with the printed page.",
         "rights_review_note": "The complete article, caption, and images contain no wording requiring separate permission."
@@ -33237,9 +33237,9 @@
         "provenance_note": "The page-14 source-transition parenthetical and page-17 line ‘Adapted from Words to Winners of Souls by Horatius Bonar.’ are source/provenance statements only. Neither states or implies that separate reuse permission is required. No article-specific restriction occurs from the opening heading through the final attribution."
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "pages_visually_checked": [
           11,
           12,
@@ -33421,9 +33421,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "pages_checked_visually_at_300_dpi": [
           18,
           19,
@@ -33581,15 +33581,15 @@
         "note": "The complete article, quoted letter, poem attribution, final scripture, image areas, and final line were visually checked. No wording requires separate permission to copy, reproduce, use, or reprint the article or any image."
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
         "text_pages": {
           "28": "Every article character and paragraph was visually compared with the 1530×1980 rendered page; column-end hyphenation was removed only where it split one word.",
           "29": "Every article character, quoted-letter paragraph, punctuation mark, parenthetical, and column continuation was visually compared with the 1530×1980 rendered page.",
           "30": "Every article character, end of the quoted letter, main-text continuation, Horatius Bonar verse, attribution formatting, and final scripture was visually compared with the 1530×1980 rendered page."
         },
-        "formatting_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "@malachivdm",
         "formatting_note": "The long letter is represented as one block quotation with source paragraph boundaries; all five images occur in published reading order; the Bonar verse retains its four lines and italic author attribution; only the final scripture wording, not its surrounding quotation marks or reference, is italicized as printed.",
-        "images_against_pdf": "verified_by_ai",
+        "images_against_pdf": "@malachivdm",
         "image_visual_check": "All five final images were opened and visually compared with pages 28–30 for subject, crop, aspect ratio, orientation, polarity, and grayscale appearance. The reconstructed vegetable still life was also checked at full resolution for tile order and seams.",
         "image_colour_check": "All five final JPEGs report sRGB and RGB raster mode, 8 bits per channel, and 150×150 pixels per inch; none is CMYK or grayscale-only.",
         "image_decode_check": {
@@ -33683,9 +33683,9 @@
         "editorial_note": "The closing parenthetical attribution to The Sword and Trumpet is an ordinary source/provenance note and contains no wording that requires separate permission or prohibits reprinting."
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "independent_visual_proofread": "passed",
         "continuation_note": "The article begins on printed page 31, continues across the page break into the upper-left portion of printed page 32, and ends with the bold scripture callout ‘And if thine eye offend thee, pluck it out ...’. The page seam was joined without changing article text.",
         "list_note": "The numbered list contains 22 items. Item 22 contains nine subordinate bullet points whose printed bold labels, punctuation, and order are preserved. Both printed instances of ‘20th’ retain superscript ‘th’ in semantic HTML.",
@@ -33778,9 +33778,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "independent_visual_proofread": "passed",
         "dialogue_note": "All twelve dialogue paragraphs, including the four question marks in ‘Mother????’, and the terminal ‘—Author Unknown’ attribution were verified character-for-character against the 400 dpi page render.",
         "image_placement_note": "The illustration is placed after the fifth dialogue paragraph, corresponding to its published logical position. Its decorative enclosing border is print layout and was not reproduced as article content."
@@ -33866,9 +33866,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "independent_visual_proofread": "passed",
         "continuation_note": "The article runs continuously from printed page 33 through printed page 35. Both page seams—‘contrary’ into ‘to the decrees...’ and ‘twisting and’ into ‘manipulating Scripture...’—were joined without changing text. It ends in the left column of page 35 at ‘Re. 19:16 ~’; the adjacent financial report is not part of the article.",
         "subheading_note": "All three printed subheads are preserved in order: ‘Israel rejected God as their king’, ‘Christ is King of the church’, and ‘Christ will come as King of kings’.",
