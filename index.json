@@ -71620,45 +71620,56 @@
           "public_path": "/images/articles/50c05c9f-af87-40d0-9255-f59b01b4985c-2.jpg",
           "source_page": 12,
           "role": "article background illustration",
-          "alt": "The lower part of a chalkboard with chalk stars and letters above a wooden ledge.",
+          "alt": "A full chalkboard with chalk stars, letters and numbers around its edges and a wooden ledge along the bottom.",
           "caption": null,
           "credit": "© Adobe Stock Images",
-          "rights_note": "Page 2 credits © Adobe Stock Images for page 12. Title, byline, section lettering and icon are irreversibly baked into the only scanned-page raster; a meaningful lower chalkboard crop beneath the byline preserves the wooden ledge and original ABC/star design while omitting the entire title/byline region. Upper numbers and stars fall outside this documented crop. The chalk letters/stars are intrinsic to the illustrated chalkboard and remain. No hidden pixels are synthesized. No article-specific permission requirement is printed; no separate licence is inferred. Inspected the sole base object, resources, paint order and page render: a single scanned RGB raster plus invisible OCR (/ca 0), with no alternate clean asset, tiles, masks or transparency groups. All lettering/layout outside the crop is excluded; no source pixels are retouched. The crop is vertically resampled only to reproduce the PDF placement aspect, and encoded as a baseline RGB JPEG with embedded source sRGB profile and nonzero 96 dpi density. No CMYK conversion or inversion was needed.",
+          "rights_note": "Page 2 credits © Adobe Stock Images for page 12; no separate licence is inferred. The sole source is flattened scanned-page object 56 with invisible OCR and no clean background beneath the publisher overlays. At the user’s explicit request on 2026-10-01, the complete chalkboard composition replaces the previous lower crop. The user authorized AI editing to remove the title and approved the displayed edited version. Built-in image generation removed the article title and underline, author/location, and top-left publisher section overlay; the separate child/tree icon remains represented once in image 1. Original full framing, decorative ABC/123, stars and wooden ledge are visually preserved. This approved reconstruction includes generated background texture and is not claimed to be pixel-identical source photography. It is an asset-specific user-authorized exception to the repository’s default no-inpainting rule. Exported without cropping as a baseline RGB/sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
           "transformation": {
             "source_object": 56,
             "source_dimensions": [
               2076,
               1576
             ],
-            "crop_pixels": [
-              0,
-              1400,
+            "source_orientation": "90 degrees clockwise to match PDF placement",
+            "source_full_frame_dimensions": [
               1576,
-              2076
+              2040
             ],
-            "crop_coordinate_space": "upright source raster after PDF placement rotation",
-            "rotation_degrees": 90,
-            "rotation_direction": "clockwise",
-            "flip": null,
+            "crop_pixels": null,
             "output_dimensions": [
-              1576,
-              664
+              1102,
+              1427
             ],
-            "method": "Original source-pixel crop; vertical Lanczos resampling by 0.9824322792700895 to reproduce PDF placement aspect ratio.",
-            "color_encoding": "sRGB"
+            "method": "User-authorized built-in imagegen overlay removal from the full PDF-aspect-corrected source frame; approved generated image encoded as baseline sRGB JPEG without cropping or resizing.",
+            "color_encoding": "sRGB",
+            "user_authorization": "2026-10-01: requested entire image with title removed; approved the displayed edited version and instructed proceeding.",
+            "removed_overlays": [
+              "Johnny’s Bad Habit title and underline",
+              "Owen Mullet / Warsaw. Ohio byline",
+              "Children’s Corner label and duplicated child/tree section mark"
+            ],
+            "preserved_composition": [
+              "full chalkboard frame",
+              "all intrinsic chalk stars",
+              "partial ABC at lower left",
+              "partial 123 at right",
+              "full wooden bottom ledge"
+            ]
           },
           "verification": {
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "user_visual_approval": "Approved displayed full-image edit on 2026-10-01.",
+            "source_fidelity_note": "Visually faithful approved AI edit; generated background pixels disclosed, no exact-source-pixel claim.",
             "complete_decoders": [
               "Pillow",
               "FFmpeg"
             ],
             "complete_decode": "passed_without_warnings",
-            "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
-            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
-            "container": "baseline RGB JPEG with embedded source sRGB profile, nonzero density and EOI at EOF",
-            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+            "browser_compatible_renderer": "Skia Canvas complete decode, paint and RGBA readback exactly match Pillow.",
+            "container": "baseline RGB JPEG, nonzero 96 dpi density, EOI at EOF and no trailing bytes",
+            "independent_image_review": "Second AI reviewer compared approved full-frame image against source; complete composition, intrinsic ABC/123, stars and wooden ledge preserved, publisher overlays cleanly removed, no obvious reconstruction seams. User approval and AI reconstruction disclosed."
           }
         }
       ],
@@ -71666,9 +71677,9 @@
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
-        "inventory_note": "All title/byline/section and complete story on pages 12–13 visually verified. Location punctuation is printed Warsaw. Ohio and preserved. No distinctive body emphasis is printed. Page-12 child/tree icon and one meaningful lower crop of the chalkboard background are exported once each; article heading/byline text is represented as metadata and omitted from both image crops. Upper numbers/stars are part of the same illustrated background represented by the documented lower crop, not separate omitted images.",
+        "inventory_note": "Complete story, title/byline/section metadata and printed Warsaw. Ohio punctuation are unchanged. Page 12 section icon remains image 1. Image 2 now restores the full illustrated chalkboard (including upper numbers/stars and entire wooden ledge) with user-authorized and user-approved AI removal of publisher title/byline/section overlays. It replaces the previous lower crop in place; no duplicate or superseded image is retained.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
-        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+        "image_encoding_note": "The corrected full-frame image received renewed visual, colour/container and decoder checks before publication; user-approved AI reconstruction is explicitly recorded in its provenance."
       }
     },
     {

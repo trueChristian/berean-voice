@@ -10341,9 +10341,9 @@
       "verification": {
         "completion_status": "complete",
         "inventory_note": "All 36 PDF pages visually inventoried and checked. Eleven eligible articles (the editorial plus ten contents entries), zero article-specific rights exclusions. Cover, contents/masthead and mailing/back-cover matter are inventory exclusions. Page 20 opening photograph belongs to the history article on pages 21–24; page 35 score belongs to the hymn history. No nonconsecutive continuations.",
-        "source_condition": "Photographed/scanned printed pages, each represented by one flattened sRGB image and an invisible text layer. Native source objects, page painting, clipping, rotations, masks and transparency were inspected. Crops preserve source pixels and published orientation/aspect; no image content was generated, healed or inpainted. Paper show-through and scan distortion remain where inherent in the only source raster.",
+        "source_condition": "Photographed/scanned printed pages, each represented by one flattened sRGB image and an invisible text layer. Native source objects, paint order, clipping, rotations, masks and transparency were inspected. Article images preserve source framing and useful resolution. At the user’s explicit request and after visual approval, the page 12 full chalkboard image uses AI reconstruction to remove publisher typography and the duplicated section mark; this one disclosed exception replaces its prior lower crop. Other assets retain the original source pixels apart from documented crop/orientation/aspect/encoding operations. Paper show-through and scan distortion remain where inherent in the source.",
         "image_credit_note": "Printed page-2 credits are preserved per image without inferring unstated individual licences. The exact source label © WikiCommons CC3 is retained; no unprinted licence version or asset URL is supplied.",
-        "remaining_uncertainty": "No unresolved article wording or article-eligibility uncertainty. Unstated individual illustration/signature credits remain unspecified. Palm/pull-quote and beach/quotation composites retain documented unavoidable baked typography and washes; the clean underlying photographs are unavailable in the supplied scan.",
+        "remaining_uncertainty": "No unresolved article wording or eligibility uncertainty. Unstated individual credits remain unspecified. Page 6 palm/pull-quote and page 34 beach/quotation composites retain unavoidable baked typography/washes. The page 12 chalkboard is an explicitly authorized and visually approved AI edit; reconstructed background is not presented as recoverable original pixels.",
         "nonconsecutive_continuations": [],
         "article_inventory": [
           {
@@ -10663,7 +10663,7 @@
                 "disposition": "exported"
               },
               {
-                "description": "article background illustration: The lower part of a chalkboard with chalk stars and letters above a wooden ledge.",
+                "description": "Full chalkboard illustration with original edge letters/numbers/stars and wooden ledge, with user-approved AI removal of publisher title/byline/section overlays.",
                 "owning_article_id": "50c05c9f-af87-40d0-9255-f59b01b4985c",
                 "owner_sequence": 5,
                 "image_sequence": 2,
@@ -10672,7 +10672,7 @@
               }
             ],
             "notes": [
-              "Chalkboard is genuine article-associated Adobe Stock background. Preserve intrinsic chalk drawings; separately printed title/byline/section text are overlays. If baked irreversibly use meaningful source crop or explicitly document unavoidable overlay."
+              "The child/tree mark is represented once by image 1. User-authorized, user-approved AI editing of image 2 restores the entire chalkboard composition while removing publisher typography and its duplicate section mark. The prior lower crop is replaced in place."
             ]
           },
           {
@@ -11027,7 +11027,7 @@
           "2": "© Belle Vie Creative"
         },
         "rights_review": "Every page and complete article beginning, ending, notes, captions, credits and associated graphics visually reviewed. No article-specific permission/reprint restriction found. Page2 policy is general issue policy. Ordinary copyright/source credits do not trigger exclusion.",
-        "image_verification_summary": "All 26 indexed/HTML-referenced exports reconcile to the 36-page visual census. Twenty-five baseline RGB/sRGB JPEGs and one RGB PNG completely decode through Pillow and strict FFmpeg without warnings; Skia Canvas full raster readback exactly matches Pillow. Each final asset passed independent full-resolution source, subject, crop, orientation, colour and overlay review. Four narrow paper-edge crop findings were corrected and independently rechecked; irreversible source treatments are documented per asset."
+        "image_verification_summary": "All 26 indexed and HTML-referenced images reconcile to the 36-page visual census. The corrected full chalkboard image restores the complete composition in its existing canonical path and records user-approved AI overlay removal. All 25 baseline sRGB JPEGs and one RGB PNG fully decoded through Pillow and strict FFmpeg; Skia Canvas full raster readback matched Pillow. Image 2 received renewed independent visual review and decoder checks after replacement."
       }
     }
   ],
