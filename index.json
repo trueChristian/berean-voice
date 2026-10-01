@@ -67217,6 +67217,1137 @@
         "inventory_note": "All five bold prose-prayer paragraphs visually transcribed from baked image typography; the prayer is absent from the PDF text layer. Printed author sign-off retained in body. Paragraph boundaries, semicolons, quotation marks and three-dot punctuation preserved. No article-specific reuse restriction occurs in title, prayer, byline or photograph. Separately painted mailing panel excluded.",
         "independent_text_review": "completed: a second AI reader visually compared the HTML with source page 36; the final attribution was retained after review."
       }
+    },
+    {
+      "id": "b90378a3-1fae-4535-b33f-ccc4edf514ea",
+      "language": "en",
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 1,
+      "title": "From the EDITOR",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Edward Martin",
+        "authors": [
+          {
+            "name": "Edward Martin"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-1.jpg",
+          "public_path": "/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-1.jpg",
+          "source_page": 3,
+          "role": "decorative section illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image creator credit or reuse restriction is printed. Only full-page scanned RGB object 19 exists on PDF page 3, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [677, 35, 898, 312] (left, top, right, bottom) without resizing, rotation or pixel repair. The meaningful feather region is cropped free of the printed section heading and connecting baseline flourish; the original scanned paper is retained. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 19,
+            "crop_pixels": [
+              677,
+              35,
+              898,
+              312
+            ],
+            "output_dimensions": [
+              221,
+              277
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-2.jpg",
+          "public_path": "/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-2.jpg",
+          "source_page": 3,
+          "role": "opening photograph",
+          "alt": "Yellow birdhouse on a frost-covered fence post in a snowy field.",
+          "caption": null,
+          "credit": "© Photography by Laurel",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 19 exists on PDF page 3, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [787, 700, 1576, 2156] (left, top, right, bottom) without resizing, rotation or pixel repair. The unobstructed lower photographic region omits the separate editorial column, heading and most upper fade/show-through; residual source scan texture is unchanged. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 19,
+            "crop_pixels": [
+              787,
+              700,
+              1576,
+              2156
+            ],
+            "output_dimensions": [
+              789,
+              1456
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-3.jpg",
+          "public_path": "/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-3.jpg",
+          "source_page": 3,
+          "role": "author signature",
+          "alt": "Edward Martin’s signature.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image creator credit or reuse restriction is printed. Only full-page scanned RGB object 19 exists on PDF page 3, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [82, 1935, 337, 2044] (left, top, right, bottom) without resizing, rotation or pixel repair. The handwritten signature is cropped separately from the typed author name and body text; scanned paper is retained. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 19,
+            "crop_pixels": [
+              82,
+              1935,
+              337,
+              2044
+            ],
+            "output_dimensions": [
+              255,
+              109
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Visually transcribed and rechecked all four paragraphs through the printed Edward Martin sign-off. Genesis quotation, Warren Wiersbe quotation, and Ecclesiastes quotation preserve printed italics. Printed title capitalization retained. No article-specific notice. Right-column winter birdhouse photograph belongs to editorial; quill header graphic and handwritten signature inventoried separately for image-worker disposition.",
+        "independent_text_review": "A second AI reader visually compared the complete HTML and metadata against pages 3–6, including Scripture references, four internal headings, printed italics, sign-off, and apparent punctuation errors; no discrepancies remained."
+      }
+    },
+    {
+      "id": "968835a0-60ce-4fd2-8ec7-e9373d7a56c5",
+      "language": "en",
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 2,
+      "title": "A Good Heritage",
+      "subtitle": "The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot. The lines are fallen unto me in pleasant places; yea, I have a goodly heritage. Psalm 16:5, 6",
+      "section": null,
+      "byline": {
+        "raw": "Lee Rufener\nAthens, Wisconsin",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, Wisconsin"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [
+        "c477861f-c67f-529a-a8f0-8efa036eca44"
+      ],
+      "html": {
+        "repository_path": "content/articles/968835a0-60ce-4fd2-8ec7-e9373d7a56c5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/968835a0-60ce-4fd2-8ec7-e9373d7a56c5-1.jpg",
+          "public_path": "/images/articles/968835a0-60ce-4fd2-8ec7-e9373d7a56c5-1.jpg",
+          "source_page": 6,
+          "role": "closing photograph",
+          "alt": "Red barn and silo in a snow-covered field.",
+          "caption": null,
+          "credit": "© Photography by Laurel",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 31 exists on PDF page 6, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [0, 1390, 1560, 2048] (left, top, right, bottom) without resizing, rotation or pixel repair. The bottom photograph is cropped below all prose; the irreversibly scanned top fade and faint reverse-page show-through remain unchanged. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 31,
+            "crop_pixels": [
+              0,
+              1390,
+              1560,
+              2048
+            ],
+            "output_dimensions": [
+              1560,
+              658
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Visually read and rechecked all columns on pages 4–6 through final bliss. Subtitle Scripture retained in metadata, not duplicated in body. Four internal headings retained; source quotations are upright, with no added emphasis. Paragraphs across page/column breaks joined without changing text. Preserved apparent source errors and anomalous punctuation including world,” The, had yielded, but, a dying, and quoted “Genesis 48:14-15” without parentheses or terminal punctuation. Snowy barn photograph at bottom of page 6 belongs to article; no photograph or illustration on pages 4–5. Header rectangle, running rules and footer are page furniture.",
+        "independent_text_review": "A second AI reader visually compared the complete HTML and metadata against pages 3–6, including Scripture references, four internal headings, printed italics, sign-off, and apparent punctuation errors; no discrepancies remained."
+      }
+    },
+    {
+      "id": "fe2b9ab5-d770-4400-9bdc-6708d0cc1d01",
+      "language": "en",
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 3,
+      "title": "Evaluating the Fruit of Revival",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Rick Hess\nDornstrife, Pennsylvania",
+        "authors": [
+          {
+            "name": "Rick Hess",
+            "location": "Dornstrife, Pennsylvania"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": []
+      },
+      "topics": [
+        "3071fe03-5111-5c92-b54a-c774d84dfac2",
+        "1adc5bef-6efc-5d8b-821f-01a4bf96ffea"
+      ],
+      "html": {
+        "repository_path": "content/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-1.jpg",
+          "public_path": "/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-1.jpg",
+          "source_page": 7,
+          "role": "portrait",
+          "alt": "Portrait of Hans Martin Boehm.",
+          "caption": "Hans Martin Boehm [1725-1812], Mennonite elder and bishop; son of Jacob Boehm and Barbara Kendig Boehm, who were Mennonites in the Conestoga Valley, Lancaster County, Pennsylvania.",
+          "credit": null,
+          "rights_note": "No separate image creator credit or reuse restriction is printed. Only full-page scanned RGB object 35 exists on PDF page 7, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [144, 1342, 664, 1828] (left, top, right, bottom) without resizing, rotation or pixel repair. The portrait is cropped without its caption or surrounding prose; faint reverse-page scan show-through is intrinsic to the only raster. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 35,
+            "crop_pixels": [
+              144,
+              1342,
+              664,
+              1828
+            ],
+            "output_dimensions": [
+              520,
+              486
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-2.jpg",
+          "public_path": "/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-2.jpg",
+          "source_page": 8,
+          "role": "portrait",
+          "alt": "Portrait of Phillip William Otterbein.",
+          "caption": "Phillip William Otterbein [1726-1813] was born in Dillenburg, Germany. He was sent to America as a missionary to the German-speaking people by the German Reformed Church. He was a large-framed man, well refined and highly educated, quite different from Martin. He was also known as an effective speaker.",
+          "credit": null,
+          "rights_note": "No separate image creator credit or reuse restriction is printed. Only full-page scanned RGB object 39 exists on PDF page 8, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [214, 77, 775, 580] (left, top, right, bottom) without resizing, rotation or pixel repair. The portrait is cropped without its caption or surrounding prose; scanned paper is retained. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 39,
+            "crop_pixels": [
+              214,
+              77,
+              775,
+              580
+            ],
+            "output_dimensions": [
+              561,
+              503
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-3.jpg",
+          "public_path": "/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-3.jpg",
+          "source_page": 8,
+          "role": "historical illustration",
+          "alt": "Illustration of William Otterbein and Martin Boehm with a barn behind them.",
+          "caption": "May 10, 1767, The “Gros Versamling” or Great Meeting at Isaac Long’s Barn, Manheim Township, near Neffsville, Lancaster County, Pennsylvania.",
+          "credit": null,
+          "rights_note": "No separate image creator credit or reuse restriction is printed. Only full-page scanned RGB object 39 exists on PDF page 8, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [138, 1441, 840, 1828] (left, top, right, bottom) without resizing, rotation or pixel repair. This single published composite preserves both painted portraits, the barn background, and the intrinsic name labels William Otterbein and Martin Boehm. Its separate caption is omitted from the crop. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 39,
+            "crop_pixels": [
+              138,
+              1441,
+              840,
+              1828
+            ],
+            "output_dimensions": [
+              702,
+              387
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All text, captions, both numbered lists, and concluding italic asterisk footnote visually verified against pages 7–9 at enlarged resolution. Body paragraphs split by columns/pages joined without changing text. Source wording, punctuation, apparent chronological claims, missing period after own area), title/name spellings and terminal footnote without final period preserved. No article-specific restriction appears in article, captions, or footnote.",
+        "independent_text_review": "A second AI reader visually compared the complete HTML against pages 7–9 and 11, including captions, numbered lists, footnote, punctuation and emphasis; no discrepancies remained."
+      }
+    },
+    {
+      "id": "9a1995a0-dad2-4769-a267-2d05ae256e2b",
+      "language": "en",
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 4,
+      "title": "Slow Down",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Dwayne Stoltzfus\nKillbuck, Ohio",
+        "authors": [
+          {
+            "name": "Dwayne Stoltzfus",
+            "location": "Killbuck, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 11
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "3e9611a8-f79d-544b-901f-4e8227b39b80",
+        "e299dccf-417c-549a-940d-796c4ccded56"
+      ],
+      "html": {
+        "repository_path": "content/articles/9a1995a0-dad2-4769-a267-2d05ae256e2b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/9a1995a0-dad2-4769-a267-2d05ae256e2b-1.jpg",
+          "public_path": "/images/articles/9a1995a0-dad2-4769-a267-2d05ae256e2b-1.jpg",
+          "source_page": 10,
+          "role": "opening landscape photograph",
+          "alt": "Bare trees beside a snow-covered field.",
+          "caption": null,
+          "credit": "© Photography by Laurel",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 48 exists on PDF page 10, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [0, 750, 1568, 2067] (left, top, right, bottom) without resizing, rotation or pixel repair. Pages 10–11 visibly form a continuous panorama. This distinct left-hand source region preserves the full tree landscape; empty upper sky is cropped to reduce severe reverse-page show-through. Remaining show-through is baked into the source and is retained. The masthead explicitly credits page 10. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 48,
+            "crop_pixels": [
+              0,
+              750,
+              1568,
+              2067
+            ],
+            "output_dimensions": [
+              1568,
+              1317
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/9a1995a0-dad2-4769-a267-2d05ae256e2b-2.jpg",
+          "public_path": "/images/articles/9a1995a0-dad2-4769-a267-2d05ae256e2b-2.jpg",
+          "source_page": 11,
+          "role": "closing landscape photograph",
+          "alt": "Snow-covered fields with distant silos and bare trees.",
+          "caption": null,
+          "credit": "© Photography by Laurel",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 52 exists on PDF page 11, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [0, 1340, 1548, 2060] (left, top, right, bottom) without resizing, rotation or pixel repair. Pages 10–11 visibly form a continuous panorama. This distinct right-hand source region contains unique field/silo detail and is cropped below all Slow Down prose. Faint reverse-page show-through and the baked upper fade remain. The masthead credits page 10 of this panorama; no separate page-11 credit is printed. The two page regions are not stitched or resampled. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 52,
+            "crop_pixels": [
+              0,
+              1340,
+              1548,
+              2060
+            ],
+            "output_dimensions": [
+              1548,
+              720
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full article text begins on page 11; page 10 is the left half of its continuous winter panorama and page 11 the right half. Every paragraph, Scripture quotation and the emphasized we visually verified against the enlarged source. Column break within Our high-tech world paragraph joined. No article-specific restriction appears in text or panorama.",
+        "independent_text_review": "A second AI reader visually compared the complete HTML against pages 7–9 and 11, including captions, numbered lists, footnote, punctuation and emphasis; no discrepancies remained."
+      }
+    },
+    {
+      "id": "067c2d18-2dee-4cac-a811-b0e9218a5ba3",
+      "language": "en",
+      "title": "Forgiveness",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "David N. Miller\nWarsaw, Ohio",
+        "authors": [
+          {
+            "name": "David N. Miller",
+            "location": "Warsaw, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 14
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "0340164f-6a52-520d-9306-954c5b73592e"
+      ],
+      "html": {
+        "repository_path": "content/articles/067c2d18-2dee-4cac-a811-b0e9218a5ba3.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All paragraphs, the unique three-paragraph forgiveness sidebar, two headings, italic questions and three dictionary bullets visually compared at high resolution. Source spelling Mathew, missing closing quotation in Matthew 6:14-15 quotation, spaced three-dot punctuation, punctuation and apparent grammatical errors retained. Page/column-split sentences joined. No article-specific restriction through final line. No substantive images on pages 12–14; colored title marker, plain text-sidebar box, rules and running furniture omitted.",
+        "independent_text_review": "completed: a second AI reader visually compared the final HTML wording, punctuation, paragraph order and emphasis against every source page; no discrepancies remained."
+      },
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 5
+    },
+    {
+      "id": "573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb",
+      "language": "en",
+      "title": "CALEB AND ANGELA",
+      "subtitle": "And the Police",
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Sue Coblentz\nHolmesville, Ohio",
+        "authors": [
+          {
+            "name": "Sue Coblentz",
+            "location": "Holmesville, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": "78d8ed5b-bad4-58ae-ae10-a49f738e29d8",
+        "additional": []
+      },
+      "topics": [
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb-1.jpg",
+          "public_path": "/images/articles/573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb-1.jpg",
+          "source_page": 16,
+          "role": "decorative section illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image creator credit or reuse restriction is printed. Only full-page scanned RGB object 72 exists on PDF page 16, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [118, 96, 795, 347] (left, top, right, bottom) without resizing, rotation or pixel repair. The open-book illustration is cropped free of the Children’s Corner words; its green background and lower white boundary are irreversibly scanned with the illustration. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 72,
+            "crop_pixels": [
+              118,
+              96,
+              795,
+              347
+            ],
+            "output_dimensions": [
+              677,
+              251
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb-2.jpg",
+          "public_path": "/images/articles/573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb-2.jpg",
+          "source_page": 16,
+          "role": "story photograph",
+          "alt": "Raindrops running down a window.",
+          "caption": null,
+          "credit": "© Adobe Stock Images",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 72 exists on PDF page 16, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [0, 1290, 1420, 1904] (left, top, right, bottom) without resizing, rotation or pixel repair. The lower photograph is cropped below all prose; the irreversibly scanned light fade at its top is retained. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 72,
+            "crop_pixels": [
+              0,
+              1290,
+              1420,
+              1904
+            ],
+            "output_dimensions": [
+              1420,
+              614
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All story paragraphs and dialogue visually compared at high resolution through the final sentence. Original comma followed by capital She, Then she said. and lowercase mother in the conclusion preserved. Column-split paragraph joined. No article-specific restriction. Page 16 book illustration and rain photograph referenced in source order; image worker supplies final verification and records. Page 17 has no image.",
+        "independent_text_review": "completed: a second AI reader visually compared the final HTML wording, punctuation, paragraph order and emphasis against every source page; no discrepancies remained."
+      },
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 6
+    },
+    {
+      "id": "f0465c03-d737-4201-bfc2-2f452ff5cbca",
+      "language": "en",
+      "title": "A Call to Youth",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Barry Grant\nShelbyville, Indiana",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Shelbyville, Indiana"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": "85b345ae-ce23-56a2-9249-2cfa79293657",
+        "additional": []
+      },
+      "topics": [
+        "4f8e92de-9740-5a2b-8710-dc4584da68da",
+        "be523b84-148a-5633-9947-03c7c310d50a"
+      ],
+      "html": {
+        "repository_path": "content/articles/f0465c03-d737-4201-bfc2-2f452ff5cbca.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All paragraphs and quotations visually compared at high resolution through final Scripture. Page/column-split sentences joined. Repeated page 19 pull quote omitted because identical words remain in article body. No article-specific restriction. No substantive images on pages 18–19; plain title marker, quote box and running furniture omitted.",
+        "independent_text_review": "completed: a second AI reader visually compared the final HTML wording, punctuation, paragraph order and emphasis against every source page; no discrepancies remained."
+      },
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 7
+    },
+    {
+      "id": "c1a59f10-6bd7-43e4-b686-9be8b6cb3145",
+      "language": "en",
+      "title": "A Shoulder to Lean On",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Esther Good\nMyerstown, Pennsylvania",
+        "authors": [
+          {
+            "name": "Esther Good",
+            "location": "Myerstown, Pennsylvania"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "ec263955-265e-5ecf-b7bb-70c1bdbb6c1f"
+      ],
+      "html": {
+        "repository_path": "content/articles/c1a59f10-6bd7-43e4-b686-9be8b6cb3145.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c1a59f10-6bd7-43e4-b686-9be8b6cb3145-1.jpg",
+          "public_path": "/images/articles/c1a59f10-6bd7-43e4-b686-9be8b6cb3145-1.jpg",
+          "source_page": 24,
+          "role": "opening photograph",
+          "alt": "A bride and groom leaning their heads together outside a building.",
+          "caption": null,
+          "credit": "© Brimming Focus Photography",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 105 exists on PDF page 24, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [324, 12, 1588, 701] (left, top, right, bottom) without resizing, rotation or pixel repair. A meaningful unobstructed crop preserves the couple’s faces and upper bodies while excluding Sister to Sister, the article title, byline, and most lower fade. Most of the bouquet and lower bodies are beneath the baked title/fade and are outside this crop. Mild lower fading remains unchanged. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 105,
+            "crop_pixels": [
+              324,
+              12,
+              1588,
+              701
+            ],
+            "output_dimensions": [
+              1264,
+              689
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Visually transcribed and compared against both source pages at 2300-pixel renders. Opening question is part of the drop-cap paragraph. Preserved source anomalies and punctuation including unclosed opening quotation, “It The hum-drum”, “is and endless”, “penny’s”, “Proverbs13-16, 24, 27”, “Ephesians 5:23-23, 33”, unmatched closing quotation after “husbands”, and “so-o”. Preserved italic continuation notice. No article-specific permission notice through final line. Image verification awaits image worker.",
+        "independent_text_review": "A second AI reader visually compared all words, punctuation, paragraphs, headings, questions and meaningful emphasis to the rendered source pages; current HTML passed."
+      },
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 9
+    },
+    {
+      "id": "a7f20743-593b-430c-b00c-a1ff6fa0eeca",
+      "language": "en",
+      "title": "The Christian and His Emotion",
+      "subtitle": "Hope, Joy, & Cheer",
+      "section": null,
+      "byline": {
+        "raw": "Steve Ebersole\nMyerstown, Pennsylvania",
+        "authors": [
+          {
+            "name": "Steve Ebersole",
+            "location": "Myerstown, Pennsylvania"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 29
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "67713d66-ee88-59a8-987a-23109f8cc075",
+        "c987aaa5-9902-5dc1-abf1-1d58331a330f",
+        "565f773d-5aae-54fd-ad75-4a0f1c196a01",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/a7f20743-593b-430c-b00c-a1ff6fa0eeca.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a7f20743-593b-430c-b00c-a1ff6fa0eeca-1.jpg",
+          "public_path": "/images/articles/a7f20743-593b-430c-b00c-a1ff6fa0eeca-1.jpg",
+          "source_page": 29,
+          "role": "closing photograph",
+          "alt": "Snow-covered grasses and branches at the edge of woods.",
+          "caption": null,
+          "credit": "© Brimming Focus Photography",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 126 exists on PDF page 29, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [12, 837, 1660, 2195] (left, top, right, bottom) without resizing, rotation or pixel repair. The lower photograph is cropped below all prose and the John Newton attribution. The irreversibly scanned upper fade and reverse-page show-through remain unchanged. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 126,
+            "crop_pixels": [
+              12,
+              837,
+              1660,
+              2195
+            ],
+            "output_dimensions": [
+              1648,
+              1358
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Visually transcribed and compared against all four source pages at 2300-pixel renders. Exact source title is singular Emotion. Preserved editor’s note, lesson headings, eleven numbered questions, scripture punctuation and omitted final quotation in Romans 8:23-25; preserved different headings SOUL’S ANCHOR and SOUL ANCHOR, retained printed “emotions are not retained”, and John Newton hymn stanza and attribution. Continuations joined across columns/pages. No article-specific permission notice through final line or photo. Image verification awaits image worker.",
+        "independent_text_review": "A second AI reader visually compared all words, punctuation, paragraphs, headings, questions and meaningful emphasis to the rendered source pages; current HTML passed."
+      },
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 10,
+      "series": {
+        "id": "4b2517b5-c766-4fb8-ac45-48e383020ebc",
+        "part": 1,
+        "total_parts": null
+      }
+    },
+    {
+      "id": "3fdf7a9b-95d3-4da4-ae0a-03e44705caab",
+      "language": "en",
+      "title": "The Health Benefits of Gratitude",
+      "subtitle": null,
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Vincent “John” Waldron, MD\nGladys, Virginia",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron, MD",
+            "location": "Gladys, Virginia"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 32
+      },
+      "categories": {
+        "primary": "44a970cf-d23c-5e24-a196-0b08595d01ba",
+        "additional": []
+      },
+      "topics": [
+        "10340eb3-62f2-5d38-8c0e-36ca3bd2503d",
+        "34ff8a1a-9130-5308-9d85-23b6f7f85f34",
+        "e16fa525-448d-504a-8ebc-927c62ec6e8f"
+      ],
+      "html": {
+        "repository_path": "content/articles/3fdf7a9b-95d3-4da4-ae0a-03e44705caab.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/3fdf7a9b-95d3-4da4-ae0a-03e44705caab-1.jpg",
+          "public_path": "/images/articles/3fdf7a9b-95d3-4da4-ae0a-03e44705caab-1.jpg",
+          "source_page": 32,
+          "role": "article photograph",
+          "alt": "A silhouetted person with raised arms against sunlit hills.",
+          "caption": null,
+          "credit": "© Adobe Stock Images",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 138 exists on PDF page 32, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [0, 0, 1540, 412] (left, top, right, bottom) without resizing, rotation or pixel repair. The unobstructed upper photograph is cropped above all prose. The person’s lower torso is beneath the baked text/fade and outside this meaningful crop; mild lower fading remains unchanged. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 138,
+            "crop_pixels": [
+              0,
+              0,
+              1540,
+              412
+            ],
+            "output_dimensions": [
+              1540,
+              412
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Visually read pp30–32 through five concluding italic research-source entries; no article-specific reuse restriction. Footnote markers 1–5 and the five unnumbered source entries preserved. Bold emphasis on “In every thing give thanks:” and “Enter into his gates with thanksgiving,” retained. Image on p32 belongs to article; page furniture on pp30–31 excluded. Printed statements and apparent source imprecision retained without correction.",
+        "independent_text_review": "Root independently visually compared the final HTML against pp30–32 and found no discrepancy."
+      },
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 11
+    },
+    {
+      "id": "e55013ff-71f3-40ad-9211-479be822e625",
+      "language": "en",
+      "title": "When Peace Like a River",
+      "subtitle": null,
+      "section": "HYMN HISTORY",
+      "byline": {
+        "raw": "Joel A. Hostetler\nCoshocton, Ohio",
+        "authors": [
+          {
+            "name": "Joel A. Hostetler",
+            "location": "Coshocton, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 35
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "a90cf148-a3d8-5e37-82fc-f56d05f17fbc",
+        "98831891-d3af-59bf-9c95-821ac504dd26",
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8"
+      ],
+      "html": {
+        "repository_path": "content/articles/e55013ff-71f3-40ad-9211-479be822e625.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e55013ff-71f3-40ad-9211-479be822e625-1.jpg",
+          "public_path": "/images/articles/e55013ff-71f3-40ad-9211-479be822e625-1.jpg",
+          "source_page": 35,
+          "role": "hymn score and background photograph",
+          "alt": "The score for When Peace Like a River over a photograph of a snowy stream.",
+          "caption": null,
+          "credit": "Horatio G Spafford, 1873; Philip P. Bliss, 1876 (score); © Nathan Leinbach (background photograph)",
+          "rights_note": "Only full-page scanned RGB object 152 exists on PDF page 35, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [0, 444, 1812, 2368] (left, top, right, bottom) without resizing, rotation or pixel repair. One composite crop below all prose and source attribution preserves the complete printed score and surrounding snowy-stream photograph. The score, its translucent reading panel, and photograph are irreversibly flattened in the only source raster; they cannot be separated without inventing pixels. This documented exception represents both visible image regions once, with no duplicate background export. The masthead credits the page-35 photograph to Nathan Leinbach; the score prints Horatio G Spafford, 1873 and Philip P. Bliss, 1876. No score-publication source or permission restriction is printed. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "transformation": {
+            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "source_object": 152,
+            "crop_pixels": [
+              0,
+              444,
+              1812,
+              2368
+            ],
+            "output_dimensions": [
+              1812,
+              1924
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "color_encoding": "sRGB",
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "sRGB",
+            "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+          }
+        }
+      ],
+      "publication_notes": "Concludes with “Sources: Hymns.org, and others”. Six italic hymn stanzas and refrain are transcribed in the body. The concluding musical score has its own printed lyric variants and is preserved as an image, with its Scripture and writer/composer credits.",
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All pp33–35 visually read including complete score and final source line; no article-specific reuse restriction. Italic six-stanza hymn and refrain retain original lineation and punctuation. Published wording retained, including statement that Anna Spafford and her daughters perished, and voyage chronology. Musical score and irreversibly baked snowy stream background represented together by one composite crop below final prose; score wording is preserved as graphic rather than duplicated as plain text.",
+        "independent_text_review": "Root independently visually compared the complete final HTML against pp33–35 prose and all p34 italic lyric stanzas/refrain; no discrepancies remained."
+      },
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 12
     }
   ],
   "skipped": [
@@ -68369,6 +69500,23 @@
       "reason": "The article explicitly says that the embedded ideas were reprinted by permission; exclude the entire article and its images.",
       "detected_notices": [
         "I reprinted the ideas by permission from Val Yoder."
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "sequence": 8,
+      "title": "How to Study the Bible",
+      "byline": "By Harold S. Martin",
+      "source_pages": {
+        "start": 20,
+        "end": 23
+      },
+      "reason": "Article-specific permission notices require exclusion of the entire article and its associated image.",
+      "detected_notices": [
+        "Used by permission of Bible Helps",
+        "Please do not reprint without permission of Bible Helps. (see end of article)"
       ],
       "html_exported": false,
       "images_exported": false
