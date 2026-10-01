@@ -4252,6 +4252,849 @@
         "issue_level_image_credit": "Some images © 2001-2006 clipart.com / photos.com",
         "unresolved_text": []
       }
+    },
+    {
+      "id": "e79821c1-b5b2-4e3c-b7e1-2fbddec2a742",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "November / December 2005",
+        "year": 2005,
+        "months": [
+          11,
+          12
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 11,
+      "issue_number": 6,
+      "source": {
+        "filename": "2005-11-12-remnant.pdf",
+        "sha256": "ffe9f7b7e0fbcfe85eca65035f90556bed375aba6661902fdbd309dce87b0cdc",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2005-11",
+      "slug": "heartbeat-remnant-2005-11",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 12,
+        "skipped_article_count": 0,
+        "exported_image_count": 29,
+        "inventory_note": "All 36 PDF pages were visually inspected. All ten contents-listed pieces are included, using authoritative content-page titles and bylines, plus the signed July-September 2005 Financial Report and the back-cover poem Encompassed. Courtship continues from page 19 to page 22; the report continues from page 33 to page 35. No article-specific reuse restriction was found through any final line or associated image.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "21090339-b5d7-437e-9376-c299f8dbada9",
+            "title": "DEFCON 1",
+            "source_pages": {
+              "start": 3,
+              "end": 6
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 2,
+            "article_id": "588b25d4-0ae7-4af7-8aab-e3813fbbcc7d",
+            "title": "It’s Not Black and White, It’s Black + White",
+            "source_pages": {
+              "start": 7,
+              "end": 7
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 3,
+            "article_id": "f529cb8e-693b-46b1-a56a-c25d793ef9b6",
+            "title": "JESUS",
+            "source_pages": {
+              "start": 8,
+              "end": 12
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 4,
+            "article_id": "b820707c-fd83-47f5-b3da-d1e0aac6db2e",
+            "title": "A Self-Examination Test",
+            "source_pages": {
+              "start": 13,
+              "end": 13
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 5,
+            "article_id": "2c368d90-bba6-4edd-94a8-1db446dd4c07",
+            "title": "Our Courtship Testimony",
+            "source_pages": {
+              "start": 14,
+              "end": 22,
+              "pages": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                22
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 6,
+            "article_id": "47d57f17-be5e-4fb0-913c-530c7fc05aa1",
+            "title": "The Cowboy Spirit",
+            "source_pages": {
+              "start": 20,
+              "end": 22
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 7,
+            "article_id": "ff94b6a8-a88a-4175-bfe2-8bbe45d2d49c",
+            "title": "The Fruit of One Single Act of Kindness",
+            "source_pages": {
+              "start": 23,
+              "end": 24
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 8,
+            "article_id": "2f6f678f-cac1-4164-a6ea-7f8616f2bf38",
+            "title": "WASHED in the BLOOD",
+            "source_pages": {
+              "start": 25,
+              "end": 30
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 9,
+            "article_id": "5ceb9812-b69d-435f-8fad-34a0371ac0f3",
+            "title": "The Village That Lived By The Bible",
+            "source_pages": {
+              "start": 31,
+              "end": 32
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 10,
+            "article_id": "2050850e-0ab8-4ca7-9ff2-419a1d45fecd",
+            "title": "July-September 2005 Financial Report",
+            "source_pages": {
+              "start": 33,
+              "end": 35,
+              "pages": [
+                33,
+                35
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 11,
+            "article_id": "45998e60-55d7-45df-b2d8-d42558132407",
+            "title": "Precious Letters from Our Readers",
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 12,
+            "article_id": "c5c62fa7-3024-4d4c-9aa9-de190736188c",
+            "title": "Encompassed",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included"
+          }
+        ],
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visual_inspection": "completed",
+            "article_ids": [],
+            "visible_images": [
+              {
+                "source_object_xref": 240,
+                "description": "Lighthouse and coastal photograph with cover typography",
+                "disposition": "omitted under cover exclusion"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "visual_inspection": "completed",
+            "article_ids": [],
+            "visible_images": [
+              {
+                "source_object_xref": 4,
+                "description": "Table-of-contents article thumbnail",
+                "disposition": "omitted under table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 5,
+                "description": "Table-of-contents article thumbnail",
+                "disposition": "omitted under table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 9,
+                "description": "Table-of-contents article thumbnail",
+                "disposition": "omitted under table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 8,
+                "description": "Table-of-contents article thumbnail",
+                "disposition": "omitted under table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 7,
+                "description": "Table-of-contents article thumbnail",
+                "disposition": "omitted under table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 6,
+                "description": "Table-of-contents article thumbnail",
+                "disposition": "omitted under table-of-contents exclusion"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "General masthead, contents list, reprint/subscription policy and thumbnail images excluded; issue names, permission policy and provenance recorded in the issue metadata."
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "21090339-b5d7-437e-9376-c299f8dbada9"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 13,
+                "description": "Men in a military planning room, with a man pointing to a wall map",
+                "owner": "DEFCON 1",
+                "article_id": "21090339-b5d7-437e-9376-c299f8dbada9",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/21090339-b5d7-437e-9376-c299f8dbada9-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "21090339-b5d7-437e-9376-c299f8dbada9"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 17,
+                "description": "A radar display with bright signals and a numbered circular scale",
+                "owner": "DEFCON 1",
+                "article_id": "21090339-b5d7-437e-9376-c299f8dbada9",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/21090339-b5d7-437e-9376-c299f8dbada9-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "21090339-b5d7-437e-9376-c299f8dbada9"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 21,
+                "description": "Military personnel gathered around a circular plotting table",
+                "owner": "DEFCON 1",
+                "article_id": "21090339-b5d7-437e-9376-c299f8dbada9",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/21090339-b5d7-437e-9376-c299f8dbada9-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "21090339-b5d7-437e-9376-c299f8dbada9"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "588b25d4-0ae7-4af7-8aab-e3813fbbcc7d"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 28,
+                "description": "A hand holding a pair of balance scales beneath dark clouds",
+                "owner": "It’s Not Black and White, It’s Black + White",
+                "article_id": "588b25d4-0ae7-4af7-8aab-e3813fbbcc7d",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/588b25d4-0ae7-4af7-8aab-e3813fbbcc7d-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "f529cb8e-693b-46b1-a56a-c25d793ef9b6"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 32,
+                "description": "A goat standing among steep rocky cliffs",
+                "owner": "JESUS",
+                "article_id": "f529cb8e-693b-46b1-a56a-c25d793ef9b6",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/f529cb8e-693b-46b1-a56a-c25d793ef9b6-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "f529cb8e-693b-46b1-a56a-c25d793ef9b6"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 36,
+                "description": "A robed man places his hands on a goat while other people stand nearby",
+                "owner": "JESUS",
+                "article_id": "f529cb8e-693b-46b1-a56a-c25d793ef9b6",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/f529cb8e-693b-46b1-a56a-c25d793ef9b6-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "f529cb8e-693b-46b1-a56a-c25d793ef9b6"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 40,
+                "description": "A shaggy goat stands in a barren landscape near water and distant mountains",
+                "owner": "JESUS",
+                "article_id": "f529cb8e-693b-46b1-a56a-c25d793ef9b6",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/f529cb8e-693b-46b1-a56a-c25d793ef9b6-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "f529cb8e-693b-46b1-a56a-c25d793ef9b6"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "f529cb8e-693b-46b1-a56a-c25d793ef9b6"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "b820707c-fd83-47f5-b3da-d1e0aac6db2e"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2c368d90-bba6-4edd-94a8-1db446dd4c07"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 54,
+                "description": "Two decorative roses",
+                "owner": "Our Courtship Testimony",
+                "article_id": "2c368d90-bba6-4edd-94a8-1db446dd4c07",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2c368d90-bba6-4edd-94a8-1db446dd4c07-1.jpg"
+              },
+              {
+                "source_object_xref": 53,
+                "description": "A man and woman seated on a wooden bench with open books",
+                "owner": "Our Courtship Testimony",
+                "article_id": "2c368d90-bba6-4edd-94a8-1db446dd4c07",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2c368d90-bba6-4edd-94a8-1db446dd4c07-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Title/byline baked into the header raster transcribed to metadata; complete roses retained in a clean crop. Bench photograph cropped inside the baked frame/shadow."
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2c368d90-bba6-4edd-94a8-1db446dd4c07"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2c368d90-bba6-4edd-94a8-1db446dd4c07"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 61,
+                "description": "A man and woman embracing outdoors",
+                "owner": "Our Courtship Testimony",
+                "article_id": "2c368d90-bba6-4edd-94a8-1db446dd4c07",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2c368d90-bba6-4edd-94a8-1db446dd4c07-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Photograph cropped inside baked frame/shadow; all useful photo content retained."
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2c368d90-bba6-4edd-94a8-1db446dd4c07"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 65,
+                "description": "Hands offering two roses to another pair of hands",
+                "owner": "Our Courtship Testimony",
+                "article_id": "2c368d90-bba6-4edd-94a8-1db446dd4c07",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2c368d90-bba6-4edd-94a8-1db446dd4c07-4.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2c368d90-bba6-4edd-94a8-1db446dd4c07"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2c368d90-bba6-4edd-94a8-1db446dd4c07"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 72,
+                "description": "A man and woman holding two young children",
+                "owner": "Our Courtship Testimony",
+                "article_id": "2c368d90-bba6-4edd-94a8-1db446dd4c07",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2c368d90-bba6-4edd-94a8-1db446dd4c07-5.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Photograph cropped inside baked frame/shadow; all useful photo content retained."
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "47d57f17-be5e-4fb0-913c-530c7fc05aa1"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 76,
+                "description": "A man twirls a lasso among a group of cowboys and horses.",
+                "owner": "The Cowboy Spirit",
+                "article_id": "47d57f17-be5e-4fb0-913c-530c7fc05aa1",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/47d57f17-be5e-4fb0-913c-530c7fc05aa1-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "47d57f17-be5e-4fb0-913c-530c7fc05aa1"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 80,
+                "description": "A man in a cowboy hat sits at a table beside a bottle.",
+                "owner": "The Cowboy Spirit",
+                "article_id": "47d57f17-be5e-4fb0-913c-530c7fc05aa1",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/47d57f17-be5e-4fb0-913c-530c7fc05aa1-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2c368d90-bba6-4edd-94a8-1db446dd4c07",
+              "47d57f17-be5e-4fb0-913c-530c7fc05aa1"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 84,
+                "description": "Two men wearing cowboy hats sit on the ground.",
+                "owner": "The Cowboy Spirit",
+                "article_id": "47d57f17-be5e-4fb0-913c-530c7fc05aa1",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/47d57f17-be5e-4fb0-913c-530c7fc05aa1-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Courtship continuation at foot has no image; cowboy photograph belongs to The Cowboy Spirit."
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "ff94b6a8-a88a-4175-bfe2-8bbe45d2d49c"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 88,
+                "description": "A person lies in bed under a striped blanket.",
+                "owner": "The Fruit of One Single Act of Kindness",
+                "article_id": "ff94b6a8-a88a-4175-bfe2-8bbe45d2d49c",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/ff94b6a8-a88a-4175-bfe2-8bbe45d2d49c-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "ff94b6a8-a88a-4175-bfe2-8bbe45d2d49c"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 92,
+                "description": "A man holding a hat stands beside a patient lying in bed.",
+                "owner": "The Fruit of One Single Act of Kindness",
+                "article_id": "ff94b6a8-a88a-4175-bfe2-8bbe45d2d49c",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/ff94b6a8-a88a-4175-bfe2-8bbe45d2d49c-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2f6f678f-cac1-4164-a6ea-7f8616f2bf38"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 96,
+                "description": "Engraving of a man lying on a cross while several people surround him.",
+                "owner": "WASHED in the BLOOD",
+                "article_id": "2f6f678f-cac1-4164-a6ea-7f8616f2bf38",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2f6f678f-cac1-4164-a6ea-7f8616f2bf38-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2f6f678f-cac1-4164-a6ea-7f8616f2bf38"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 100,
+                "description": "Engraving of a man bound to an X-shaped cross, with people gathered around him.",
+                "owner": "WASHED in the BLOOD",
+                "article_id": "2f6f678f-cac1-4164-a6ea-7f8616f2bf38",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2f6f678f-cac1-4164-a6ea-7f8616f2bf38-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2f6f678f-cac1-4164-a6ea-7f8616f2bf38"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 104,
+                "description": "Engraving of a lamb carrying a banner.",
+                "owner": "WASHED in the BLOOD",
+                "article_id": "2f6f678f-cac1-4164-a6ea-7f8616f2bf38",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2f6f678f-cac1-4164-a6ea-7f8616f2bf38-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2f6f678f-cac1-4164-a6ea-7f8616f2bf38"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 108,
+                "description": "Engraving of a man lying at the edge of water with a crowd standing nearby.",
+                "owner": "WASHED in the BLOOD",
+                "article_id": "2f6f678f-cac1-4164-a6ea-7f8616f2bf38",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2f6f678f-cac1-4164-a6ea-7f8616f2bf38-4.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2f6f678f-cac1-4164-a6ea-7f8616f2bf38"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 112,
+                "description": "Engraving of a shepherd carrying a lamb while a wolf approaches.",
+                "owner": "WASHED in the BLOOD",
+                "article_id": "2f6f678f-cac1-4164-a6ea-7f8616f2bf38",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2f6f678f-cac1-4164-a6ea-7f8616f2bf38-5.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2f6f678f-cac1-4164-a6ea-7f8616f2bf38"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "5ceb9812-b69d-435f-8fad-34a0371ac0f3"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 119,
+                "description": "People and thatched huts among palm trees beside the sea",
+                "owner": "The Village That Lived By The Bible",
+                "article_id": "5ceb9812-b69d-435f-8fad-34a0371ac0f3",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/5ceb9812-b69d-435f-8fad-34a0371ac0f3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "5ceb9812-b69d-435f-8fad-34a0371ac0f3"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 123,
+                "description": "A thatched-roof building with steps and a person standing beside it",
+                "owner": "The Village That Lived By The Bible",
+                "article_id": "5ceb9812-b69d-435f-8fad-34a0371ac0f3",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/5ceb9812-b69d-435f-8fad-34a0371ac0f3-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2050850e-0ab8-4ca7-9ff2-419a1d45fecd"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 128,
+                "description": "Charity Gospel Tape Ministry logo with a world map and cassette",
+                "owner": "July-September 2005 Financial Report",
+                "article_id": "2050850e-0ab8-4ca7-9ff2-419a1d45fecd",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2050850e-0ab8-4ca7-9ff2-419a1d45fecd-1.jpg"
+              },
+              {
+                "source_object_xref": 129,
+                "description": "Charity Ministries logo with its website and fellowship names",
+                "owner": "July-September 2005 Financial Report",
+                "article_id": "2050850e-0ab8-4ca7-9ff2-419a1d45fecd",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2050850e-0ab8-4ca7-9ff2-419a1d45fecd-2.jpg"
+              },
+              {
+                "source_object_xref": 127,
+                "description": "A tilted Remnant magazine cover showing a lighthouse beside the sea",
+                "owner": "July-September 2005 Financial Report",
+                "article_id": "2050850e-0ab8-4ca7-9ff2-419a1d45fecd",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2050850e-0ab8-4ca7-9ff2-419a1d45fecd-3.jpg"
+              },
+              {
+                "description": "Separate vector/font-based The Heartbeat of The Remnant masthead",
+                "disposition": "omitted under general publication masthead exclusion"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Signed substantive ministry update included, with its live-text financial table and appeal transcribed semantically. Two ministry logos and the tilted cover thumbnail belong to the report."
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "45998e60-55d7-45df-b2d8-d42558132407"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 133,
+                "description": "A roadside mailbox bearing the magazine’s mailing address",
+                "owner": "Precious Letters from Our Readers",
+                "article_id": "45998e60-55d7-45df-b2d8-d42558132407",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/45998e60-55d7-45df-b2d8-d42558132407-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Useful complete mailbox crop removes baked section heading and faded reading panel; full separately painted editorial invitation is transcribed in HTML."
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "2050850e-0ab8-4ca7-9ff2-419a1d45fecd",
+              "45998e60-55d7-45df-b2d8-d42558132407"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Letters and nonconsecutive report continuation both included. No article photographs or illustrations; floral separators are publisher layout furniture."
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "c5c62fa7-3024-4d4c-9aa9-de190736188c"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 140,
+                "description": "Sunlight shines through dark clouds, with the poem printed over the sky",
+                "owner": "Encompassed",
+                "article_id": "c5c62fa7-3024-4d4c-9aa9-de190736188c",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/c5c62fa7-3024-4d4c-9aa9-de190736188c-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Substantive titled/signed poem included. Sole background raster retains irreversibly baked poem as an explicit overlay exception; separately painted publication/address/mail/postage furniture omitted."
+          }
+        ],
+        "issue_level_image_credit": "Some images © 2001-2005 arttoday.com / photos.com",
+        "unresolved_text": [],
+        "image_notes": "Individual image creators are not assigned by the PDF; no creator identities or licences are inferred. Small intrinsic engraving/signature inscriptions are retained. Encompassed retains the poem baked into its sole background raster; all separable mailing furniture is omitted. Roses retain intrinsic baked shading. These documented source limitations do not leave unresolved article wording or reuse notices."
+      }
     }
   ],
   "categories": [
