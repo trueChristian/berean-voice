@@ -9735,7 +9735,7 @@
         "inventory_note": "Eleven table-of-contents entries plus the page-3 editorial yield twelve candidate pieces: ten eligible and two excluded by article-specific permission notices. All 36 PDF pages visually inspected. Article content headings are authoritative, including the mixed display-letter casing of ELiZABETH AND THE DiNoSAuRS. All included articles received independent visual text/format review. Cover, contents/masthead, separate page-3 conference-line advertisement and recording catalogue, and back-cover mailing matter are excluded. All grouping identities are reused; no categories, topics or series added.",
         "source_condition": "The supplied PDF consists of scanned printed pages plus invisible OCR text (/ca 0). Exact wording was decided from visible pixels. Each source image is part of a sole full-page RGB raster; no separable original photograph, mask, tile or transparency group was present. Meaningful unobstructed source crops are used where possible, followed by documented vertical resampling to preserve PDF placement aspect ratios. No generated, inpainted or repaired content.",
         "image_credit_note": "Page 2 credits “© Belle Vie Creative | page: 2, 11”; “© Photography by Laurel | pages: front cover, 7, 9, 17,24, back cover”; “© Adobe Stock Images | pages: 4, 22, 23, 33”; “© Pixabay | pagee: 14”; “© Brimming Focus Photography | page: 25”; “© Brandi Enns | page: 31”; “© Nathan Leinbach | page: 35”. Credits do not establish individual licences. No asset-specific credit is printed for the editorial graphics, children’s section icon, emotional diagram or page-32 almonds.",
-        "remaining_uncertainty": "No unresolved transcription or article-eligibility uncertainty. Page-23 credited background is too faint to identify its subject, so its alt text remains neutral; the only source includes inseparable heading/byline/fade. Page-4 fox photograph likewise retains inseparable source title/byline/tab. Paper show-through and scan distortion that cannot be removed without altering source content are documented per image. No unstated image licence is inferred.",
+        "remaining_uncertainty": "No unresolved transcription or article-eligibility uncertainty. User review confirmed that the page-23 header is not image content; it is excluded as typography and layout matter despite the page-2 credit listing page 23. The page-4 photograph is now an unobstructed crop of the left fox with no article typography. Paper show-through and source scan distortion are documented per remaining image; no unstated image licence is inferred.",
         "nonconsecutive_continuations": [],
         "article_inventory": [
           {
@@ -9910,7 +9910,7 @@
             "visually_inspected": true,
             "images": [
               {
-                "description": "article opening photograph: Two young foxes among green grass, with the article title and byline printed above them.",
+                "description": "Unobstructed portrait crop of the left fox from the printed two-fox photograph",
                 "source_objects": [
                   23
                 ],
@@ -9919,6 +9919,9 @@
                 "repository_path": "public/images/articles/b13f8ad8-4af6-41aa-a5a1-2d9a237e1721-1.jpg",
                 "disposition": "exported"
               }
+            ],
+            "notes": [
+              "Crop [120, 715, 810, 2100] excludes the title, byline, location and white tab; the second fox is largely outside the retained portrait crop."
             ]
           },
           {
@@ -10123,17 +10126,9 @@
             "printed_page": 23,
             "pdf_page": 23,
             "visually_inspected": true,
-            "images": [
-              {
-                "description": "Faint printed background behind the article heading.",
-                "source_objects": [
-                  101
-                ],
-                "owning_article_id": "f24b8d7f-e7f8-4d1a-8769-75beff728b5e",
-                "image_sequence": 1,
-                "repository_path": "public/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-1.jpg",
-                "disposition": "exported"
-              }
+            "images": [],
+            "notes": [
+              "User review confirmed this header is typography and layout matter, not an image. Its prior export is removed. The masthead’s page-23 Adobe Stock credit does not establish a visible photograph on this page."
             ]
           },
           {
@@ -10147,8 +10142,8 @@
                   105
                 ],
                 "owning_article_id": "f24b8d7f-e7f8-4d1a-8769-75beff728b5e",
-                "image_sequence": 2,
-                "repository_path": "public/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-2.jpg",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-1.jpg",
                 "disposition": "exported"
               }
             ]
@@ -10316,7 +10311,7 @@
             ]
           }
         ],
-        "image_verification_summary": "Sixteen indexed and HTML-referenced exports reconcile with the complete 36-page visual image census. Independent full-resolution source/overlay/colour/aspect review passed. Pillow and strict FFmpeg full decodes passed without warnings; Skia Canvas pixel readback matched Pillow exactly. All fifteen JPEGs are baseline RGB/sRGB with nonzero density and no trailing data; diagram PNG is RGB/sRGB."
+        "image_verification_summary": "Fifteen indexed and HTML-referenced exports reconcile with the complete 36-page visual image census. Independent full-resolution source/overlay/colour/aspect review passed. Pillow and strict FFmpeg full decodes passed without warnings; Skia Canvas pixel readback matched Pillow exactly. All fourteen JPEGs are baseline RGB/sRGB with nonzero density and no trailing data; diagram PNG is RGB/sRGB."
       }
     }
   ],

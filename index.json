@@ -69909,22 +69909,27 @@
           "public_path": "/images/articles/b13f8ad8-4af6-41aa-a5a1-2d9a237e1721-1.jpg",
           "source_page": 4,
           "role": "article opening photograph",
-          "alt": "Two young foxes among green grass, with the article title and byline printed above them.",
+          "alt": "A young fox standing beside a rock in green grass.",
           "caption": null,
           "credit": "© Adobe Stock Images",
-          "rights_note": "Adobe Stock Images credited to page 4 in the page 2 credits. Explicit unavoidable baked-overlay exception: only source raster includes the title, byline/location and white left tab; no unobstructed rectangular crop preserves both foxes with their complete heads/ears. Retain the exact full source composition and record the typography instead of synthesizing hidden pixels. Natural blurred foreground grass is photograph content. Page resources, paint order and image dictionaries inspected: one full-page RGB scan with zero-opacity OCR text; no soft mask, tiles, clipping reconstruction or transparency-group base image. Source ICC profile is IEC 61966-2.1 sRGB. Final baseline JPEG has sRGB profile and nonzero 96 dpi density; no CMYK conversion or inversion required. No pixels synthesized and no licence inferred from the printed credit. Final output uses vertical-only Lanczos resampling by 1.00614415 to match the source image’s PDF placement aspect ratio; crop content, width, orientation and source sRGB profile are preserved.",
+          "rights_note": "Adobe Stock Images credited to page 4 in the page-2 masthead; no separate licence inferred. The source consists of full-page scanned RGB object 23 and invisible OCR; title, byline, location and white tab are baked into the only raster. Native source-pixel crop [120, 715, 810, 2100] provides an unobstructed portrait of the left fox, preserving its complete head and ears while excluding all article typography and the tab. The second fox is largely outside this narrower crop. No inpainting, generated pixels, cloning, healing or retouching. Vertical-only Lanczos resampling by 1.0061441470321097 matches the PDF placement aspect ratio. Baseline RGB JPEG retains source sRGB IEC61966-2.1 profile and nonzero 96 dpi density.",
           "transformation": {
             "source_object": 23,
             "source_dimensions": [
               1712,
               2202
             ],
-            "crop_pixels": null,
+            "crop_pixels": [
+              120,
+              715,
+              810,
+              2100
+            ],
             "rotation_degrees": 0,
             "flip": null,
             "output_dimensions": [
-              1712,
-              2216
+              690,
+              1394
             ],
             "method": "source raster crop at recorded native-pixel bounds, followed by vertical Lanczos resampling to the exact PDF placement aspect ratio; no generated or repaired content",
             "color_encoding": "sRGB",
@@ -69935,17 +69940,17 @@
             ]
           },
           "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
             "complete_decoders": [
               "Pillow",
               "FFmpeg"
             ],
             "complete_decode": "passed_without_warnings",
-            "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
-            "independent_image_review": "Second AI reader inspected final full-resolution export, source page raster and rendered page, including centre, edges, corners, colours, crop, published aspect and documented unavoidable source overlays; passed.",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero density, EOI at EOF and no trailing bytes",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): complete decode, paint and pixel readback passed; decoded pixels match Pillow exactly.",
-            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero density, EOI at EOF and no trailing bytes"
+            "independent_image_review": "Second AI reader visually confirmed the final crop removes all title/byline/tab pixels and retains the complete left fox head, ears, body and rock; no retouching, generated pixels or cut second fox head."
           }
         }
       ],
@@ -69957,7 +69962,7 @@
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
-        "inventory_note": "Entire article through its final line checked for rights notices; none detected. Page 6 decorative Joshua pull quote repeats the body and is represented only in the body. Preserved bold cause the Christian to sin. and italic would; source wording Balaak, Israelite’s and Simeonites retained. One photograph reconciled to source p4.",
+        "inventory_note": "Entire article through its final line checked for rights notices; none detected. Page 6 decorative Joshua pull quote repeats the body and is represented only in the body. Preserved bold cause the Christian to sin. and italic would; source wording Balaak, Israelite’s and Simeonites retained. One photograph reconciled to source p4. User-requested image correction replaces the full page with a clean, meaningful source crop of the left fox; all title/byline/tab pixels are excluded.",
         "independent_text_review": "A second AI reader visually checked all assigned source pages and final HTML; no wording or paragraph discrepancies found.",
         "independent_metadata_review": "A second AI reader visually checked source title, byline, location, section, source-page span and image credits; all matched after review.",
         "image_encoding_note": "All final assets completely decoded through Pillow and strict FFmpeg without warnings; browser-compatible Skia raster matched Pillow exactly. Each received independent full-resolution visual/source overlay review, and all image-census dispositions reconcile."
@@ -70398,56 +70403,6 @@
           "sequence": 1,
           "repository_path": "public/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-1.jpg",
           "public_path": "/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-1.jpg",
-          "source_page": 23,
-          "role": "article header background",
-          "alt": "Faint printed background behind the article heading.",
-          "caption": null,
-          "credit": "© Adobe Stock Images",
-          "rights_note": "Masthead credits Adobe Stock Images for page 23. The faint blue-gray header background has no confidently identifiable subject. Its printed fade, section label and rule, title, byline and colored title tab are irreversibly baked into the sole scanned source raster. No unobstructed crop usefully represents the background, so the exact header region above the body is retained as an unavoidable baked-overlay exception; no contrast change or speculative reconstruction applied. Page paint-order, image objects and resources inspected: one full-page RGB raster, no clean underlying photo, tiles, masks or transparency groups; subsequent invisible OCR text uses ExtGState /ca 0. Source ICCBased profile is sRGB IEC61966-2.1. Crop retains source crop content before the documented aspect-ratio resampling without rotation, flipping, retouching, enhancement or synthesized content; encoded as baseline sRGB JPEG with a nonzero 96 dpi density. No CMYK inversion was needed. No individual image licence inferred from the printed credit. Final output uses vertical-only Lanczos resampling by 1.02207829 to match the source image’s PDF placement aspect ratio; crop content, width, orientation and source sRGB profile are preserved.",
-          "transformation": {
-            "source_object": 101,
-            "source_dimensions": [
-              1648,
-              2273
-            ],
-            "crop_pixels": [
-              0,
-              0,
-              1648,
-              665
-            ],
-            "rotation_degrees": 0,
-            "flip": null,
-            "output_dimensions": [
-              1648,
-              680
-            ],
-            "method": "source raster crop at recorded native-pixel bounds, followed by vertical Lanczos resampling to the exact PDF placement aspect ratio; no generated or repaired content",
-            "color_encoding": "sRGB",
-            "vertical_scale_to_pdf_placement": 1.0220782870604022,
-            "placed_page_dimensions_points": [
-              598.0,
-              843.0
-            ]
-          },
-          "verification": {
-            "complete_decoders": [
-              "Pillow",
-              "FFmpeg"
-            ],
-            "complete_decode": "passed_without_warnings",
-            "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
-            "independent_image_review": "Second AI reader inspected final full-resolution export, source page raster and rendered page, including centre, edges, corners, colours, crop, published aspect and documented unavoidable source overlays; passed.",
-            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): complete decode, paint and pixel readback passed; decoded pixels match Pillow exactly.",
-            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero density, EOI at EOF and no trailing bytes"
-          }
-        },
-        {
-          "sequence": 2,
-          "repository_path": "public/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-2.jpg",
-          "public_path": "/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-2.jpg",
           "source_page": 24,
           "role": "article photograph",
           "alt": "An open Bible in sunlight with shadows across its pages.",
@@ -70503,7 +70458,7 @@
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
-        "inventory_note": "Both pages visually transcribed and checked to the final line; no article-specific permission restriction. Preserves italic introductory Scripture, two colored subheadings, bold/italic emphasis, lower-case lord, and the source’s reversed closing quote before ”Enter. The Hebrews quotation and paragraph are joined across the page break. The p24 Bible photograph is placed at the next paragraph boundary. P23 credited faint background is retained as a documented exact-source header composite with unavoidable baked typography and fade; its subject cannot be identified confidently.",
+        "inventory_note": "Both pages visually transcribed and checked to the final line; no article-specific permission restriction. Preserves italic introductory Scripture, two colored subheadings, bold/italic emphasis, lower-case lord, and the source’s reversed closing quote before ”Enter. The Hebrews quotation and paragraph are joined across the page break. The p24 Bible photograph is placed at the next paragraph boundary. Page-23 header is typography and layout matter, not a photograph; the mistaken header export was removed following user review. The page-24 Bible photograph is the sole image and is numbered 1.",
         "independent_text_review": "A second AI reader visually compared all source pages, text, punctuation, headings and emphasis with final HTML. Missing italic emphasis on must in Fully Committed? was restored after review.",
         "image_encoding_note": "All final assets completely decoded through Pillow and strict FFmpeg without warnings; browser-compatible Skia raster matched Pillow exactly. Each received independent full-resolution visual/source overlay review, and all image-census dispositions reconcile."
       }
