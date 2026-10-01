@@ -8929,6 +8929,782 @@
         "image_source_audit": "Each page paints one full-page RGB DCT source scan; article text is additionally present as invisible OCR using ExtGState /ca 0. No separate clean photograph assets, soft masks, clipping reconstruction, vector illustration pieces or transparency groups can recover original clean art. Source RGB colour profile is sRGB IEC61966-2.1 in ICC object 11.",
         "image_validation": "All 15 canonical RGB/sRGB JPEGs were reopened at native useful resolution and visually compared with the scanned PDF, including centre, edges and corners. Complete Pillow and FFmpeg decodes succeeded without warnings. Skia (@napi-rs/canvas) browser-compatible rendering succeeded for every file and matched Pillow pixels exactly. Baseline containers, embedded source sRGB ICC profiles, nonzero 72-dpi density and EOI-at-EOF were verified. The page-35 score and snowy photograph are represented by one composite export; pages 10–11 retain two distinct published panorama regions."
       }
+    },
+    {
+      "id": "7e3000e6-c929-4986-9686-cde275f7c685",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "January / February 2005",
+        "year": 2005,
+        "months": [
+          1,
+          2
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 11,
+      "issue_number": 1,
+      "source": {
+        "filename": "2005-01-remnant(1).pdf",
+        "sha256": "cb33230891377389d438b08b030b61936ad515bbfd24701c6cd09c9640a03f1a",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2005-01",
+      "slug": "heartbeat-remnant-2005-01",
+      "verification": {
+        "image_credit_note": "The page 2 masthead credits Lisa Weaver • Kate Rutler as Artists and Matthew Weaver & Roger Weaver • Photography, and states Some images © 2001-2005 www.arttoday.com. These general credits do not identify individual article assets. No asset-specific creator or licence is inferred.",
+        "extraction_status": "complete",
+        "inventory_note": "All 36 PDF pages visually reviewed. Eleven contents entries plus the substantive back-cover hymn What God Hath Promised yield twelve candidate pieces: eleven included and one excluded by its article-specific permission notice. Actual article headings and bylines take precedence over the contents labels. No Compromise continues from page 7 onto page 14; The Saviour’s Tears Over The Lost continues from page 25 onto page 29; Precious Letters from Our Readers starts on page 35 and continues backwards onto page 34. The cover, contents/general masthead, page frames, repeated decorative dividers, and mailing-panel furniture are omitted under the issue-inventory rules. No new categories, topics or series are introduced.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "No Compromise",
+            "source_pages": {
+              "start": 3,
+              "end": 14,
+              "pages": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                14
+              ]
+            },
+            "disposition": "included",
+            "article_id": "fc478caf-f09f-4596-a037-fcad3689be04"
+          },
+          {
+            "sequence": 2,
+            "title": "HOW TO Pray for Your Children",
+            "source_pages": {
+              "start": 8,
+              "end": 9
+            },
+            "disposition": "included",
+            "article_id": "dc778209-927f-4585-954d-9400f1ea40df"
+          },
+          {
+            "sequence": 3,
+            "title": "Missions, Money, and Motives",
+            "source_pages": {
+              "start": 10,
+              "end": 14
+            },
+            "disposition": "included",
+            "article_id": "e4a74ee5-29c5-4a7b-b215-c400bf0f937a"
+          },
+          {
+            "sequence": 4,
+            "title": "A Twelve-Year-Old Missionary",
+            "source_pages": {
+              "start": 15,
+              "end": 15
+            },
+            "disposition": "included",
+            "article_id": "a61b77e0-a9b3-49f7-ae47-8a5253457c01"
+          },
+          {
+            "sequence": 5,
+            "title": "The Beauty of Holiness",
+            "source_pages": {
+              "start": 16,
+              "end": 21
+            },
+            "disposition": "included",
+            "article_id": "b6fdc879-59b0-4443-9e57-5d21026bfa8e"
+          },
+          {
+            "sequence": 6,
+            "title": "The Saviour’s Tears Over The Lost",
+            "source_pages": {
+              "start": 22,
+              "end": 29,
+              "pages": [
+                22,
+                23,
+                24,
+                25,
+                29
+              ]
+            },
+            "disposition": "included",
+            "article_id": "e942af59-8d9c-4044-a7de-1928ccf8ca87"
+          },
+          {
+            "sequence": 7,
+            "title": "God is Faithful",
+            "source_pages": {
+              "start": 26,
+              "end": 29
+            },
+            "disposition": "included",
+            "article_id": "0f79c28e-18c8-43ec-9116-a1aa95619354"
+          },
+          {
+            "sequence": 8,
+            "title": "McChurch",
+            "source_pages": {
+              "start": 30,
+              "end": 30
+            },
+            "disposition": "included",
+            "article_id": "732b141d-2363-436c-80f4-625589e4f12a"
+          },
+          {
+            "sequence": 9,
+            "title": "A Prayer for Quiet Time",
+            "source_pages": {
+              "start": 31,
+              "end": 31
+            },
+            "disposition": "included",
+            "article_id": "834dcbc2-39c5-4942-acc6-234ebca43d1c"
+          },
+          {
+            "sequence": 10,
+            "title": "Oaths and Law Suits",
+            "source_pages": {
+              "start": 32,
+              "end": 34
+            },
+            "disposition": "skipped: article-specific permission restriction; see index.json skipped audit"
+          },
+          {
+            "sequence": 11,
+            "title": "Precious Letters from Our Readers",
+            "source_pages": {
+              "start": 34,
+              "end": 35,
+              "pages": [
+                35,
+                34
+              ]
+            },
+            "disposition": "included",
+            "article_id": "b563e897-4a90-4a37-a974-ec2967207a48"
+          },
+          {
+            "sequence": 12,
+            "title": "What God Hath Promised",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included",
+            "article_id": "a424ee6a-78e6-435b-b6bf-1bff6ae49e6a"
+          }
+        ],
+        "nonconsecutive_continuations": [
+          {
+            "article_id": "fc478caf-f09f-4596-a037-fcad3689be04",
+            "source_pages": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              14
+            ]
+          },
+          {
+            "article_id": "e942af59-8d9c-4044-a7de-1928ccf8ca87",
+            "source_pages": [
+              22,
+              23,
+              24,
+              25,
+              29
+            ]
+          },
+          {
+            "article_id": "b563e897-4a90-4a37-a974-ec2967207a48",
+            "source_pages": [
+              35,
+              34
+            ]
+          }
+        ],
+        "page_image_census": [
+          {
+            "printed_page": 1,
+            "pdf_page": 1,
+            "images": [
+              {
+                "description": "Climber photograph; entire cover excluded.",
+                "source_objects": [
+                  215
+                ],
+                "disposition": "omitted_cover"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 2,
+            "pdf_page": 2,
+            "images": [
+              {
+                "description": "Ten article thumbnail images; table-of-contents furniture excluded.",
+                "source_objects": [
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ],
+                "disposition": "omitted_contents"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 3,
+            "pdf_page": 3,
+            "images": [
+              {
+                "description": "Roman court/martyr engraving.",
+                "source_objects": [
+                  17
+                ],
+                "owning_article_id": "fc478caf-f09f-4596-a037-fcad3689be04",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/fc478caf-f09f-4596-a037-fcad3689be04-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 4,
+            "pdf_page": 4,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 5,
+            "pdf_page": 5,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 6,
+            "pdf_page": 6,
+            "images": [
+              {
+                "description": "Narrow martyr engraving.",
+                "source_objects": [
+                  27
+                ],
+                "owning_article_id": "fc478caf-f09f-4596-a037-fcad3689be04",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/fc478caf-f09f-4596-a037-fcad3689be04-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 7,
+            "pdf_page": 7,
+            "images": [
+              {
+                "description": "Seated prisoner engraving.",
+                "source_objects": [
+                  31
+                ],
+                "owning_article_id": "fc478caf-f09f-4596-a037-fcad3689be04",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/fc478caf-f09f-4596-a037-fcad3689be04-3.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 8,
+            "pdf_page": 8,
+            "images": [
+              {
+                "description": "Kneeling boy illustration; gray horizontal panel baked into sole source raster; separate title/byline omitted. Retain unavoidable panel, no synthesis.",
+                "source_objects": [
+                  35
+                ],
+                "owning_article_id": "dc778209-927f-4585-954d-9400f1ea40df",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/dc778209-927f-4585-954d-9400f1ea40df-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 9,
+            "pdf_page": 9,
+            "images": [
+              {
+                "description": "Kneeling praying child illustration.",
+                "source_objects": [
+                  39
+                ],
+                "owning_article_id": "dc778209-927f-4585-954d-9400f1ea40df",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/dc778209-927f-4585-954d-9400f1ea40df-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 10,
+            "pdf_page": 10,
+            "images": [
+              {
+                "description": "CAM logo stencil mask, rendered source ink on white; omit adjoining page rule.",
+                "source_objects": [
+                  44
+                ],
+                "owning_article_id": "e4a74ee5-29c5-4a7b-b215-c400bf0f937a",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/e4a74ee5-29c5-4a7b-b215-c400bf0f937a-1.png",
+                "disposition": "exported"
+              },
+              {
+                "description": "Three currency notes.",
+                "source_objects": [
+                  43
+                ],
+                "owning_article_id": "e4a74ee5-29c5-4a7b-b215-c400bf0f937a",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/e4a74ee5-29c5-4a7b-b215-c400bf0f937a-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 11,
+            "pdf_page": 11,
+            "images": [
+              {
+                "description": "Paradise/garden illustration.",
+                "source_objects": [
+                  48
+                ],
+                "owning_article_id": "e4a74ee5-29c5-4a7b-b215-c400bf0f937a",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/e4a74ee5-29c5-4a7b-b215-c400bf0f937a-3.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 12,
+            "pdf_page": 12,
+            "images": [
+              {
+                "description": "Currency bundle.",
+                "source_objects": [
+                  52
+                ],
+                "owning_article_id": "e4a74ee5-29c5-4a7b-b215-c400bf0f937a",
+                "image_sequence": 4,
+                "repository_path": "public/images/articles/e4a74ee5-29c5-4a7b-b215-c400bf0f937a-4.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 13,
+            "pdf_page": 13,
+            "images": [
+              {
+                "description": "Man seated on money bag.",
+                "source_objects": [
+                  56
+                ],
+                "owning_article_id": "e4a74ee5-29c5-4a7b-b215-c400bf0f937a",
+                "image_sequence": 5,
+                "repository_path": "public/images/articles/e4a74ee5-29c5-4a7b-b215-c400bf0f937a-5.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 14,
+            "pdf_page": 14,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 15,
+            "pdf_page": 15,
+            "images": [
+              {
+                "description": "Village/huts illustration with gray background integral to source raster.",
+                "source_objects": [
+                  70
+                ],
+                "owning_article_id": "a61b77e0-a9b3-49f7-ae47-8a5253457c01",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/a61b77e0-a9b3-49f7-ae47-8a5253457c01-1.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "Seven tiny 1-bit stencil image resources compose twelve decorative border placements; omit page frame.",
+                "source_objects": [
+                  63,
+                  64,
+                  65,
+                  66,
+                  67,
+                  68,
+                  69
+                ],
+                "disposition": "omitted_layout_overlay"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 16,
+            "pdf_page": 16,
+            "images": [
+              {
+                "description": "Veiled person with sheaf.",
+                "source_objects": [
+                  74
+                ],
+                "owning_article_id": "b6fdc879-59b0-4443-9e57-5d21026bfa8e",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/b6fdc879-59b0-4443-9e57-5d21026bfa8e-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 17,
+            "pdf_page": 17,
+            "images": [
+              {
+                "description": "Worshipper bowing before figure among candlesticks.",
+                "source_objects": [
+                  78
+                ],
+                "owning_article_id": "b6fdc879-59b0-4443-9e57-5d21026bfa8e",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/b6fdc879-59b0-4443-9e57-5d21026bfa8e-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 18,
+            "pdf_page": 18,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 19,
+            "pdf_page": 19,
+            "images": [
+              {
+                "description": "Male/female restroom sign.",
+                "source_objects": [
+                  85
+                ],
+                "owning_article_id": "b6fdc879-59b0-4443-9e57-5d21026bfa8e",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/b6fdc879-59b0-4443-9e57-5d21026bfa8e-3.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 20,
+            "pdf_page": 20,
+            "images": [
+              {
+                "description": "Veiled woman illustration.",
+                "source_objects": [
+                  89
+                ],
+                "owning_article_id": "b6fdc879-59b0-4443-9e57-5d21026bfa8e",
+                "image_sequence": 4,
+                "repository_path": "public/images/articles/b6fdc879-59b0-4443-9e57-5d21026bfa8e-4.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 21,
+            "pdf_page": 21,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 22,
+            "pdf_page": 22,
+            "images": [
+              {
+                "description": "Jesus and disciples overlooking city.",
+                "source_objects": [
+                  97
+                ],
+                "owning_article_id": "e942af59-8d9c-4044-a7de-1928ccf8ca87",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/e942af59-8d9c-4044-a7de-1928ccf8ca87-1.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "Two tear drops form one combined title illustration; both constituent marks preserved.",
+                "source_objects": [
+                  96
+                ],
+                "owning_article_id": "e942af59-8d9c-4044-a7de-1928ccf8ca87",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/e942af59-8d9c-4044-a7de-1928ccf8ca87-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 23,
+            "pdf_page": 23,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 24,
+            "pdf_page": 24,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 25,
+            "pdf_page": 25,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 26,
+            "pdf_page": 26,
+            "images": [
+              {
+                "description": "Photograph of two women; omit separately painted frame.",
+                "source_objects": [
+                  110
+                ],
+                "owning_article_id": "0f79c28e-18c8-43ec-9116-a1aa95619354",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/0f79c28e-18c8-43ec-9116-a1aa95619354-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 27,
+            "pdf_page": 27,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 28,
+            "pdf_page": 28,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 29,
+            "pdf_page": 29,
+            "images": [
+              {
+                "description": "Pale gate illustration under separate body text; tone is flattened in sole source JPEG, preserve without contrast alteration.",
+                "source_objects": [
+                  120
+                ],
+                "owning_article_id": "e942af59-8d9c-4044-a7de-1928ccf8ca87",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/e942af59-8d9c-4044-a7de-1928ccf8ca87-3.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 30,
+            "pdf_page": 30,
+            "images": [
+              {
+                "description": "Drive-through server illustration; intrinsic sign text retained.",
+                "source_objects": [
+                  124
+                ],
+                "owning_article_id": "732b141d-2363-436c-80f4-625589e4f12a",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/732b141d-2363-436c-80f4-625589e4f12a-1.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "Running man illustration; pale tone flattened in sole source JPEG, preserve without contrast alteration.",
+                "source_objects": [
+                  125
+                ],
+                "owning_article_id": "732b141d-2363-436c-80f4-625589e4f12a",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/732b141d-2363-436c-80f4-625589e4f12a-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 31,
+            "pdf_page": 31,
+            "images": [
+              {
+                "description": "Full source prayer/window composite retained; text fills useful photograph, so no useful clean photographic crop. Unavoidable baked-overlay exception explicitly documented; separate page frame omitted.",
+                "source_objects": [
+                  129
+                ],
+                "owning_article_id": "834dcbc2-39c5-4942-acc6-234ebca43d1c",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/834dcbc2-39c5-4942-acc6-234ebca43d1c-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 32,
+            "pdf_page": 32,
+            "images": [
+              {
+                "description": "Courtroom illustration excluded with article-specific permission notice on page34.",
+                "source_objects": [
+                  133
+                ],
+                "article_title": "Oaths and Law Suits from the Early Church",
+                "disposition": "excluded with skipped article"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 33,
+            "pdf_page": 33,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 34,
+            "pdf_page": 34,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "No photographs, illustrations, backgrounds, scores or other article imagery. Text, repeated pull quotes, rules and running furniture are not image assets."
+            ]
+          },
+          {
+            "printed_page": 35,
+            "pdf_page": 35,
+            "images": [
+              {
+                "description": "Mailbox with address painted intrinsically in graphic; preserve baked gray backdrop.",
+                "source_objects": [
+                  143
+                ],
+                "owning_article_id": "b563e897-4a90-4a37-a974-ec2967207a48",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/b563e897-4a90-4a37-a974-ec2967207a48-1.png",
+                "disposition": "exported"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 36,
+            "pdf_page": 36,
+            "images": [
+              {
+                "description": "Useful clean lower road/trees crop [18,475,630,810] excludes upper flattened hymn typography and all separate mailing overlays. Native source pixels, no synthesis.",
+                "source_objects": [
+                  147
+                ],
+                "owning_article_id": "a424ee6a-78e6-435b-b6bf-1bff6ae49e6a",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/a424ee6a-78e6-435b-b6bf-1bff6ae49e6a-1.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "Separate address, postal panel, publisher logo/text are mailing furniture.",
+                "source_objects": [
+                  null
+                ],
+                "disposition": "omitted_mailing_panel"
+              }
+            ],
+            "visually_inspected": true
+          }
+        ],
+        "image_inventory_reconciliation": "Every visible source image is accounted for: 24 canonical article exports, one illustration excluded with the restricted article, ten contents thumbnails and the cover photograph omitted as issue furniture. Page-15 decorative stencil frame, masthead logos and back-cover mailing furniture are excluded layout. All 24 exports are indexed and referenced exactly once in their owning HTML.",
+        "verification_summary": "Every eligible article received page-by-page visual transcription and independent second-reader text/formatting review. All 24 final images were independently compared with rendered pages and native base objects; overlay exceptions and source-pixel crops are explicit. Complete Pillow and FFmpeg decoding passed without warnings; Skia Canvas decoded, painted and read back every final image. All JPEGs are baseline RGB/sRGB with nonzero density. No unresolved text or article-rights uncertainty; absent individual image credits remain unspecified."
+      }
     }
   ],
   "categories": [
