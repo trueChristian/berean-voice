@@ -11029,6 +11029,484 @@
         "rights_review": "Every page and complete article beginning, ending, notes, captions, credits and associated graphics visually reviewed. No article-specific permission/reprint restriction found. Page2 policy is general issue policy. Ordinary copyright/source credits do not trigger exclusion.",
         "image_verification_summary": "All 26 indexed and HTML-referenced images reconcile to the 36-page visual census. The corrected full chalkboard image restores the complete composition in its existing canonical path and records user-approved AI overlay removal. All 25 baseline sRGB JPEGs and one RGB PNG fully decoded through Pillow and strict FFmpeg; Skia Canvas full raster readback matched Pillow. Image 2 received renewed independent visual review and decoder checks after replacement."
       }
+    },
+    {
+      "id": "103c93e0-6e9a-44f6-a6bc-377af8e08e38",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Spring 2025",
+        "year": 2025,
+        "season": "Spring",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Spring-2025-Remnant.pdf",
+        "sha256": "cb54fc9dd3edbff37e47f874ead8e5e67b647a82ce593430d94031333725e93b",
+        "pdf_page_count": 36,
+        "printed_page_range": "3-35; cover, contents/masthead and back cover unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All printed material except that marked “used by permission” may be copied or reprinted in its entirety without changes, with magazine name, date and issue number referenced. Material marked “used by permission” requires special permission from the author or responsible party.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      },
+      "source_id": "heartbeat-remnant-2025-spring",
+      "slug": "heartbeat-remnant-2025-spring",
+      "verification": {
+        "candidate_article_count": 12,
+        "prepared_article_count": 11,
+        "skipped_article_count": 0,
+        "completion_status": "authorized_partial_draft",
+        "rights_review": "All 12 candidate articles were visually inspected through their final lines, including captions, footnotes, sidebars, and graphics. No article-specific permission restriction was found. The general issue reprint policy was distinguished from article-specific notices.",
+        "operational_blockers": [
+          {
+            "issue_id": "103c93e0-6e9a-44f6-a6bc-377af8e08e38",
+            "sequence": 9,
+            "title": "Child, Come Home",
+            "subtitle": "The Cry of a Loving Father",
+            "byline": {
+              "raw": "Lee Rufener\nAthens, Wisconsin",
+              "authors": [
+                {
+                  "name": "Lee Rufener",
+                  "location": "Athens, Wisconsin"
+                }
+              ]
+            },
+            "source_pages": {
+              "start": 20,
+              "end": 22
+            },
+            "status": "content_filter_blocked",
+            "reason": "The full transcription write was blocked by a content filter. No specific policy reason was supplied. An explicit instruction prohibits retrying or working around the block. No HTML was created. This is not an article-specific rights exclusion."
+          }
+        ],
+        "text_verification_summary": "Eleven prepared articles were transcribed by visual reading and independently compared with their complete source pages. Original wording, meaningful punctuation, paragraph boundaries, headings, emphasis, quotations, and poetry lineation were preserved. The twelfth article was not transcribed after an automatic content filter blocked its file-write attempt.",
+        "image_verification_summary": "Sixteen final image files (15 baseline RGB/sRGB JPEGs and one RGB/sRGB PNG score) for the 11 prepared articles were visually inspected against all relevant raw source images and PDF renders, including centre, edges and corners. All16 fully decoded in Pillow and FFmpeg with no warnings, and passed Skia Canvas full decode/paint/pixel readback; every final Skia rendering was opened for visual review. All images retain native horizontal resolution with vertical-only resampling to reproduce PDF placement aspect ratio. The 11 prepared articles’ image census is reconciled, with named cover/masthead/header/decorative/mailing exclusions. Child, Come Home pages20–22 remain pending an operational tool-content-filter blocker and have no export: full-issue image reconciliation and publication readiness are not claimed. Page3 unavoidable flattened signature/footer/fade, other documented source fade/show-through and page17 Unknown credit remain explicit source limitations. Independent final review reopened all 16 repository outputs, checked source correspondence and fully decoded their pixels; no outstanding correction.",
+        "visual_image_census": [
+          {
+            "page": 1,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Full-page cross and trees photograph with publication and publisher logos",
+                "disposition": "omitted",
+                "exclusion": "cover"
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Credit-heading line art (quill and camera), design signature and masthead/contents typography",
+                "disposition": "omitted",
+                "exclusion": "table of contents and general masthead"
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "A pale pink flower and a closed flower bud.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/049f2e7d-675c-4dac-9584-5aefceb9b9c1-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 19; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The only source raster irreversibly includes an opacity fade, Edward Martin’s signature/name and the running footer/rule overlapping the floral region. The complete visible blossom, bud and stems are retained; an unobstructed rectangular crop would cut these subjects. These baked treatments are explicitly retained, not claimed clean. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              },
+              {
+                "description": "Editor quill/heading emblem and autograph",
+                "disposition": "omitted_as_separate_export",
+                "exclusion": "section-heading and sign-off furniture",
+                "note": "The autograph also remains irreversibly baked into the complete exported floral region; the author name is retained as the article sign-off."
+              }
+            ],
+            "owning_article": "From the EDITOR"
+          },
+          {
+            "page": 4,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "A New Creation",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 5,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "An ornate key on an open book beside tulip leaves and buds.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/fac37c80-d157-4543-8b49-8bdf869e9d4a-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 27; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The unobstructed right-hand photo panel is cropped from the page; the left body text and running footer are excluded. Text visible on the book is intrinsic photographic content. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "A New Creation"
+          },
+          {
+            "page": 6,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Trees and a small building beside a pond.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/fac37c80-d157-4543-8b49-8bdf869e9d4a-2.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 32; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. A meaningful unobstructed lower-page landscape crop preserves all trees and the complete building. The text-bearing upper region and bottom running footer are excluded. The pale fade above the treetops and faint reverse-page show-through are irreversible in the source and retained; no inverse blend is justified by the object evidence. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "A New Creation"
+          },
+          {
+            "page": 7,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "An old wooden door beside a weathered wall and blossoming branches.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6c25be17-3343-451b-afeb-ed9c56942fd0-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 36; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The meaningful unobstructed left strip preserves the doorway and visible flowering branches. The poem/title-bearing faded right region and bottom footer are excluded. Source photographic softness, residual pale toning and any scanned-paper show-through remain; hidden pixels were not synthesized. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "Wrestling Jacob"
+          },
+          {
+            "page": 8,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "A Story of Three Men",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 9,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "A Story of Three Men",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 10,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Long leafy branches hanging against a pale background.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/01a0a64f-d629-4e05-b1ec-993f86ef4d68-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 49; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The unobstructed upper-right crop preserves the complete hanging foliage including its lowest tips; the title, byline and scripture panel are excluded. Faint paper show-through is irreversibly present in the source raster. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "He Shall Save His People From Their Sins"
+          },
+          {
+            "page": 11,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "He Shall Save His People From Their Sins",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 12,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "An open Bible and a potted green plant beside a curtained window.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/324b0fa1-c057-471e-8e90-8eb699e8285a-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 57; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The lower photo region preserves the entire visible Bible, pot and plant leaves. The title/byline panel above is omitted by an unobstructed crop. Text printed on the photographed Bible remains intrinsic content. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "Jesus Christ, the Answer to Broken Humanity"
+          },
+          {
+            "page": 13,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "Jesus Christ, the Answer to Broken Humanity",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 14,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Red buds on tree branches against a softly blurred background.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/324b0fa1-c057-471e-8e90-8eb699e8285a-2.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 65; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The complete rectangular photo panel is cropped inside its paper border; adjacent body text is excluded. Background blur and colour are intrinsic and retained. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "Jesus Christ, the Answer to Broken Humanity"
+          },
+          {
+            "page": 15,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "Jesus Christ, the Answer to Broken Humanity",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 16,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Child seated under a tree silhouette accompanying Children’s Corner heading",
+                "disposition": "omitted",
+                "exclusion": "section-heading furniture"
+              }
+            ],
+            "owning_article": "The Power of Kindness"
+          },
+          {
+            "page": 17,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "A uniformed police officer holding a photograph of a person wearing a scarf.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/7750b3b4-3c80-48a5-860c-4958331969d7-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 78; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The unobstructed photo is cropped inside the slanted green layout frame; the head, hands, photograph and visible body are preserved, and the frame and adjacent article text are excluded. The held portrait remains part of this single published image, not a separate duplicate export. The source credit names the creator only as Unknown. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              },
+              {
+                "description": "Portrait held by the police officer within the photograph",
+                "disposition": "represented_once",
+                "repository_path": "public/images/articles/7750b3b4-3c80-48a5-860c-4958331969d7-1.jpg",
+                "note": "Intrinsic component of the same published photograph, not a separate logical image or duplicate export."
+              }
+            ],
+            "owning_article": "The Power of Kindness"
+          },
+          {
+            "page": 18,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Three boys seated on a bench with a baby.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/46f89299-c0a0-407c-9898-01a0c150c453-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 82; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. An unobstructed crop excludes the section label in the far-left background while preserving all four children. The title and article below are excluded. The trimmed left area contains only unused bench/background; no person is removed. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "A Mother’s Worship"
+          },
+          {
+            "page": 19,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "A Mother’s Worship",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 20,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Forest and moon background",
+                "disposition": "pending_operational_blocker",
+                "note": "Article transcription is blocked by a tool content filter. No image exported or indexed; this is not a rights exclusion. No text-bearing substitute image has been created."
+              }
+            ],
+            "owning_article": "Child, Come Home"
+          },
+          {
+            "page": 21,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "Child, Come Home",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 22,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Very faint backdrop under the Dear Child panel, credited to Belle Vie Images",
+                "disposition": "pending_operational_blocker",
+                "note": "No export, reconstruction or substitute text-bearing asset. Exact nature of the faint background remains unconfirmed; this article is pending a tool-content-filter blocker, not rights-excluded."
+              }
+            ],
+            "owning_article": "Child, Come Home"
+          },
+          {
+            "page": 23,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "A couple seated together on a rock facing a waterfall.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/12387934-7e9b-49f7-874a-0e66fa7942d3-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 102; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The photo panel below the title is cropped at its boundaries; both people, waterfall and foreground rock are retained. The right paper edge and header are excluded. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "A Christ-Centered Courtship Process"
+          },
+          {
+            "page": 24,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "A Christ-Centered Courtship Process",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 25,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "A Christ-Centered Courtship Process",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 26,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "A Christ-Centered Courtship Process",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 27,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "A bride and groom walking hand in hand along a path.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/12387934-7e9b-49f7-874a-0e66fa7942d3-2.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 119; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The complete right-column photo is cropped within its paper boundary, preserving both people from head to foot and the bouquet. The final paragraph, adjacent article text and footer are excluded. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "A Christ-Centered Courtship Process"
+          },
+          {
+            "page": 28,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Hamburgers, hot dogs, fries, nuggets, chicken wings and potato chips.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/682dc04d-bea3-4325-ac73-926bb3396990-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 123; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The complete food photograph panel is cropped inside its boundaries; the title/byline above and lower paper margin are excluded. All food subjects remain as printed, including subjects already clipped at the published edges. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "The Dangers of Ultra-Processed Foods"
+          },
+          {
+            "page": 29,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "The Dangers of Ultra-Processed Foods",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 30,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Pale stone-textured pullquote background banner",
+                "disposition": "omitted",
+                "exclusion": "genuinely standalone decorative layout treatment",
+                "credit": "© Adobe Stock Images",
+                "note": "No pictorial subject is present. This decorative texture is explicitly accounted for; source pullquote text is preserved once in article body, and no text-bearing banner image is exported."
+              }
+            ],
+            "owning_article": "The Dangers of Ultra-Processed Foods"
+          },
+          {
+            "page": 31,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Salmon, berries, nuts, leafy greens and tomatoes on a pale surface.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/682dc04d-bea3-4325-ac73-926bb3396990-2.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 135; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The complete upper food-photo strip is cropped above the text panel, retaining all published food subjects and the pale stone surface. Faint paper show-through is irreversibly present in the scan. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "The Dangers of Ultra-Processed Foods"
+          },
+          {
+            "page": 32,
+            "visual_review": "verified_by_ai",
+            "assets": [],
+            "owning_article": "The Light of the World Is Jesus",
+            "note": "No photograph, illustration, collage, score or pictorial background is visible. Heading blocks, separator rules, pullquote furniture and running footer are print layout, not article image exports."
+          },
+          {
+            "page": 33,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Portrait of Philip P. Bliss.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/b649c2a3-20b1-4e02-9204-6285b234f34f-1.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 144; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The portrait region is cropped above its separately transcribed caption, excluding article text and pull quote. Its original vignette, faint intrinsic signature beneath the bust and unavoidable reverse-page show-through are retained. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "The Light of the World Is Jesus"
+          },
+          {
+            "page": 34,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Pale lilac blossoms among green leaves.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/b649c2a3-20b1-4e02-9204-6285b234f34f-2.jpg",
+                "note": "Source is the single flattened full-page RGB DCT image object 148; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The page-2 credit is preserved without inferring a licence or separate permission. The complete upper photograph strip is cropped at its lower boundary above the article text; the blossoms and foliage retain their printed crop. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "The Light of the World Is Jesus"
+          },
+          {
+            "page": 35,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "The complete printed sheet music for The Light of the World Is Jesus.",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/b649c2a3-20b1-4e02-9204-6285b234f34f-3.png",
+                "note": "Source is the single flattened full-page RGB DCT image object 152; page image paint order, clipping, masks, transparency and object graph were inspected. No clean underlying photo object exists, and all page typography is baked into the raster; the extra OCR text is invisible (/ca 0). No generation, inpainting, healing, cloning or colour reconstruction was used. The score’s printed credit is preserved without inferring a licence or separate permission. The complete score, including its title, both author/composer credits, all five systems, four verses and refrain, is preserved as meaningful notation. The page footer and exterior paper margins are excluded. The source is already a raster scan; no separate vector or font score exists. Native horizontal pixels are retained and vertical resampling restores the published aspect ratio. PNG encoding avoids further lossy compression and no artificial 300 dpi enlargement is applied. Final encoded image was opened and visually checked at full useful resolution for corruption, clipping, orientation, colour and overlay remnants."
+              }
+            ],
+            "owning_article": "The Light of the World Is Jesus"
+          },
+          {
+            "page": 36,
+            "visual_review": "verified_by_ai",
+            "assets": [
+              {
+                "description": "Book, ornate key and flowers with publication/address/postage panels",
+                "disposition": "omitted",
+                "exclusion": "back cover and mailing panel"
+              }
+            ]
+          }
+        ],
+        "image_credits_as_printed": {
+          "artwork": [
+            "© Belle Vie Creative | page: 2"
+          ],
+          "photos": [
+            "© Belle Vie Images | pages: front cover, 6, 10, 22, 34",
+            "© Nathan Leinbach | page: 3",
+            "© Nadiika Kravets | pages: 5, 7, back cover",
+            "© Photography by Laurel | page: 12",
+            "© Jonathan Martin | page: 14",
+            "© Unknown | page: 17",
+            "© Brimming Focus Photography | pages: 18, 23, 27",
+            "© Misty Photography | page: 20",
+            "© Adobe Stock Images | pages: 28, 30, 31, 33"
+          ],
+          "design": "DESIGNED BY Danielle Wenger"
+        },
+        "source_image_object_audit": "Every page contains exactly one full-page ICCBased RGB JPEG, no soft mask/mask, no vector drawings or transparency groups. Image drawn first; all OCR text drawn at /ca 0. Standard sRGB profile is PDF object11. All visual publisher treatments and paper show-through are flattened into the sole raster.",
+        "prepared_image_count": 16,
+        "structural_validation": "python3 tools/archive.py validate passed; python3 -m unittest discover -s tests -v passed all 45 tests. Unrelated pre-existing catalogue and index records are unchanged. Structural validation does not imply full-issue completion.",
+        "partial_delivery_authorization": {
+          "authorized_by": "project owner",
+          "date": "2026-10-01",
+          "scope": "Open a partial draft pull request containing the 11 completed articles and 16 images, leaving Child, Come Home outstanding."
+        }
+      }
     }
   ],
   "categories": [
