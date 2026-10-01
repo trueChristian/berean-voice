@@ -3574,6 +3574,684 @@
         },
         "validation_note": "All text and meaningful formatting visually compared against high-resolution PDF renders. All 21 final image exports source-object/overlay checked; full Pillow, MuPDF and ImageMagick decodes pass without warnings. All assets rendered successfully through LibreOffice Writer/Web HTML import and Poppler, with original raster dimensions, RGB source JPEGs and no missing, inverted, truncated or distorted image. No Chromium claim. All assets indexed/referenced once; the 36-page census balances. Repository validator and all 45 regression tests pass. No unresolved source wording; individual image sources/signature identities and intrinsic flower fade remain documented source limitations."
       }
+    },
+    {
+      "id": "0d097077-9f48-4ce1-8074-252258d59d01",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "January / February 2006",
+        "year": 2006,
+        "months": [
+          1,
+          2
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 12,
+      "issue_number": 1,
+      "source": {
+        "filename": "2006-01-02-remnant.pdf",
+        "sha256": "98f049dcd9ecf63a95c6e0fe1a1cb3ef04c5fc70819b46d7478cf2b880c6198e",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2006-01",
+      "slug": "heartbeat-remnant-2006-01",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "All 36 PDF pages visually reviewed. Eleven contents entries plus the substantive back-cover poem yield 12 eligible articles and 26 exported images. Full article and graphic rights checks detected no article-specific restriction; no skipped audit entries added. Cover, contents/masthead/thumbnails, page-33 unsigned general ministry financial statement and ministry marks, and page-36 mailing/address/postage matter omitted under issue-inventory exclusions. The Lion article continues on page 17; Soul Idolatry continues on page 35; A PROMISE FOR SERVICE continues on page 32 despite its erroneous page-22 pointer and the continuation banner’s page-20 attribution. Actual source page arrays are recorded. Published spelling, apparent errors, punctuation, paragraph structure, emphasis, headings, scripture passages, sign-offs and poem stanza/line structure retained. Repeated pull quotes represented once in body. All category and topic IDs reused; no new categories, topics or series. Mailbox artwork uses a faithful unobstructed crop; the back-cover poem remains irreversibly baked into its complete source raster and is also transcribed in semantic HTML. The issue-level credit does not identify individual stock-image creators or licences. Uncertain tiny intrinsic artist signatures are preserved in source pixels without guessed identities.",
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 242,
+                "description": "Front-cover photograph of illuminated castle beneath a forested mountainside",
+                "owner": "cover",
+                "disposition": "omitted under issue-inventory cover exclusion"
+              }
+            ]
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 4,
+                "description": "Mathilde Wrede article thumbnail",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 5,
+                "description": "Lion article thumbnail",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 6,
+                "description": "Bird Cage article thumbnail",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 7,
+                "description": "Emotional Freedom article thumbnail",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 8,
+                "description": "Our Fellowship article thumbnail",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 9,
+                "description": "Painting for Eternity article thumbnail",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              }
+            ]
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "0c677d9e-ce73-4b27-a03f-d5457f7f1072"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 13,
+                "description": "A person reaches through prison bars above the words “FREE US from BONDAGE”",
+                "owner": "Mathilde Wrede",
+                "article_id": "0c677d9e-ce73-4b27-a03f-d5457f7f1072",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/0c677d9e-ce73-4b27-a03f-d5457f7f1072-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "0c677d9e-ce73-4b27-a03f-d5457f7f1072"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 17,
+                "description": "A prisoner behind bars with an angel beside him",
+                "owner": "Mathilde Wrede",
+                "article_id": "0c677d9e-ce73-4b27-a03f-d5457f7f1072",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/0c677d9e-ce73-4b27-a03f-d5457f7f1072-2.jpg"
+              },
+              {
+                "source_object_xref": 18,
+                "description": "Women and children gathered in a bare room",
+                "owner": "Mathilde Wrede",
+                "article_id": "0c677d9e-ce73-4b27-a03f-d5457f7f1072",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/0c677d9e-ce73-4b27-a03f-d5457f7f1072-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "0c677d9e-ce73-4b27-a03f-d5457f7f1072"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 23,
+                "description": "A guard walks in front of prisoners wearing striped clothing",
+                "owner": "Mathilde Wrede",
+                "article_id": "0c677d9e-ce73-4b27-a03f-d5457f7f1072",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/0c677d9e-ce73-4b27-a03f-d5457f7f1072-4.jpg"
+              },
+              {
+                "source_object_xref": 22,
+                "description": "A long line of prisoners standing outside a building",
+                "owner": "Mathilde Wrede",
+                "article_id": "0c677d9e-ce73-4b27-a03f-d5457f7f1072",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/0c677d9e-ce73-4b27-a03f-d5457f7f1072-5.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "0c677d9e-ce73-4b27-a03f-d5457f7f1072"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 27,
+                "description": "People scattered across a city square",
+                "owner": "Mathilde Wrede",
+                "article_id": "0c677d9e-ce73-4b27-a03f-d5457f7f1072",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/0c677d9e-ce73-4b27-a03f-d5457f7f1072-6.jpg"
+              },
+              {
+                "source_object_xref": 28,
+                "description": "A woman reads to people seated inside a prison cell",
+                "owner": "Mathilde Wrede",
+                "article_id": "0c677d9e-ce73-4b27-a03f-d5457f7f1072",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/0c677d9e-ce73-4b27-a03f-d5457f7f1072-7.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "0c677d9e-ce73-4b27-a03f-d5457f7f1072"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 32,
+                "description": "An engraved illustration of a bottle lying on its side",
+                "owner": "Mathilde Wrede",
+                "article_id": "0c677d9e-ce73-4b27-a03f-d5457f7f1072",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/0c677d9e-ce73-4b27-a03f-d5457f7f1072-8.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "ad4e2c15-f6ba-4b89-a519-1a36655aa93a"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 36,
+                "description": "Jesus kneels in prayer among rocks",
+                "owner": "Formula for a Burning Heart",
+                "article_id": "ad4e2c15-f6ba-4b89-a519-1a36655aa93a",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/ad4e2c15-f6ba-4b89-a519-1a36655aa93a-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "ad4e2c15-f6ba-4b89-a519-1a36655aa93a"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "a5c8b070-97f8-4050-9ac5-89af497287b0"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 44,
+                "description": "A lion and other animals watch a dancing child",
+                "owner": "The Lion, The Witch, and the Happy Meal:",
+                "article_id": "a5c8b070-97f8-4050-9ac5-89af497287b0",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/a5c8b070-97f8-4050-9ac5-89af497287b0-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "a5c8b070-97f8-4050-9ac5-89af497287b0"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "a5c8b070-97f8-4050-9ac5-89af497287b0"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 52,
+                "description": "A plaque describing C. S. Lewis and his friends meeting at the back room of a pub",
+                "owner": "The Lion, The Witch, and the Happy Meal:",
+                "article_id": "a5c8b070-97f8-4050-9ac5-89af497287b0",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/a5c8b070-97f8-4050-9ac5-89af497287b0-2.jpg"
+              },
+              {
+                "source_object_xref": 51,
+                "description": "A TIME magazine cover featuring a portrait of C. S. Lewis",
+                "owner": "The Lion, The Witch, and the Happy Meal:",
+                "article_id": "a5c8b070-97f8-4050-9ac5-89af497287b0",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/a5c8b070-97f8-4050-9ac5-89af497287b0-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "a5c8b070-97f8-4050-9ac5-89af497287b0"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 56,
+                "description": "C. S. Lewis seated with a book",
+                "owner": "The Lion, The Witch, and the Happy Meal:",
+                "article_id": "a5c8b070-97f8-4050-9ac5-89af497287b0",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/a5c8b070-97f8-4050-9ac5-89af497287b0-4.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "a5c8b070-97f8-4050-9ac5-89af497287b0"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "19270b64-7f17-4623-b361-5486354b7303"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 64,
+                "description": "Jacob rests beneath a stairway filled with angels",
+                "owner": "How Men Grow",
+                "article_id": "19270b64-7f17-4623-b361-5486354b7303",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/19270b64-7f17-4623-b361-5486354b7303-1.jpg"
+              },
+              {
+                "source_object_xref": 63,
+                "description": "Jacob kneels before a winged angel",
+                "owner": "How Men Grow",
+                "article_id": "19270b64-7f17-4623-b361-5486354b7303",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/19270b64-7f17-4623-b361-5486354b7303-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "683a4e23-acbb-434a-8e0e-2b0793e1a0fb"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 68,
+                "description": "A seated painter holding a palette beside an easel",
+                "owner": "Painting for Eternity",
+                "article_id": "683a4e23-acbb-434a-8e0e-2b0793e1a0fb",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/683a4e23-acbb-434a-8e0e-2b0793e1a0fb-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "a5c8b070-97f8-4050-9ac5-89af497287b0",
+              "683a4e23-acbb-434a-8e0e-2b0793e1a0fb"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "7c9d5015-158a-4c07-92fc-ae40c998d9ae"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 75,
+                "description": "An older bearded man places his hands on a kneeling man’s head while a woman sits nearby",
+                "owner": "Our Fellowship Is With The Father",
+                "article_id": "7c9d5015-158a-4c07-92fc-ae40c998d9ae",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/7c9d5015-158a-4c07-92fc-ae40c998d9ae-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "7c9d5015-158a-4c07-92fc-ae40c998d9ae"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 79,
+                "description": "A robed man stands with arms extended beside a kneeling figure outdoors",
+                "owner": "Our Fellowship Is With The Father",
+                "article_id": "7c9d5015-158a-4c07-92fc-ae40c998d9ae",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/7c9d5015-158a-4c07-92fc-ae40c998d9ae-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "7f8746cc-2e3a-476f-a5a0-28d15abe5412"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "7f8746cc-2e3a-476f-a5a0-28d15abe5412"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "7f8746cc-2e3a-476f-a5a0-28d15abe5412"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "7f8746cc-2e3a-476f-a5a0-28d15abe5412"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "e08f3c82-7473-48d6-a445-1e8bf9f01d6f"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 95,
+                "description": "A young man with a guitar serenades a woman at an open window",
+                "owner": "Emotional Freedom",
+                "article_id": "e08f3c82-7473-48d6-a445-1e8bf9f01d6f",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/e08f3c82-7473-48d6-a445-1e8bf9f01d6f-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "e08f3c82-7473-48d6-a445-1e8bf9f01d6f"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "e08f3c82-7473-48d6-a445-1e8bf9f01d6f"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 102,
+                "description": "Two bonneted women sit on a bench beside birds",
+                "owner": "Emotional Freedom",
+                "article_id": "e08f3c82-7473-48d6-a445-1e8bf9f01d6f",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/e08f3c82-7473-48d6-a445-1e8bf9f01d6f-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "e08f3c82-7473-48d6-a445-1e8bf9f01d6f"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 106,
+                "description": "A woman carries a vessel on her head along a rocky path",
+                "owner": "Emotional Freedom",
+                "article_id": "e08f3c82-7473-48d6-a445-1e8bf9f01d6f",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/e08f3c82-7473-48d6-a445-1e8bf9f01d6f-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "e08f3c82-7473-48d6-a445-1e8bf9f01d6f"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "e08f3c82-7473-48d6-a445-1e8bf9f01d6f"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "b72ea42a-1a86-4c21-a399-ebd3013c257b"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 116,
+                "description": "A telegraph key and its electrical contacts",
+                "owner": "A PROMISE FOR SERVICE",
+                "article_id": "b72ea42a-1a86-4c21-a399-ebd3013c257b",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/b72ea42a-1a86-4c21-a399-ebd3013c257b-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "30796e2b-9ec4-4bcf-b9e3-7d40802ff1f9"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 120,
+                "description": "An older man holds a fan beside a bird cage",
+                "owner": "Bird Cage",
+                "article_id": "30796e2b-9ec4-4bcf-b9e3-7d40802ff1f9",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/30796e2b-9ec4-4bcf-b9e3-7d40802ff1f9-1.jpg"
+              },
+              {
+                "source_object_xref": 121,
+                "description": "Children face a man standing beside a hanging bird cage",
+                "owner": "Bird Cage",
+                "article_id": "30796e2b-9ec4-4bcf-b9e3-7d40802ff1f9",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/30796e2b-9ec4-4bcf-b9e3-7d40802ff1f9-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "b72ea42a-1a86-4c21-a399-ebd3013c257b",
+              "30796e2b-9ec4-4bcf-b9e3-7d40802ff1f9"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "visual_inspection": "completed",
+            "article_ids": [],
+            "visible_images": [
+              {
+                "source_object_xref": 128,
+                "description": "Charity Gospel Tape Ministry oval logo",
+                "owner": "standalone ministry financial/accounting panel",
+                "disposition": "omitted under issue-inventory administrative financial statement exclusion"
+              },
+              {
+                "source_object_xref": 129,
+                "description": "Charity Ministries logo",
+                "owner": "standalone ministry financial/accounting panel",
+                "disposition": "omitted under issue-inventory administrative financial statement exclusion"
+              }
+            ],
+            "note": "October-December 2005 Financial Report and 2005 Year-end Financial Report consists solely of an unsigned general ministry financial statement, with no editorial narrative; omitted with its ministry marks.",
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "3558b7f3-5296-4770-a7c6-d420c923642d"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 133,
+                "description": "A roadside mailbox bearing the magazine’s mailing address",
+                "owner": "Precious Letters from Our Readers",
+                "article_id": "3558b7f3-5296-4770-a7c6-d420c923642d",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/3558b7f3-5296-4770-a7c6-d420c923642d-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout.",
+            "note": "Complete mailbox retained in a useful source-pixel crop excluding the baked heading and reading-panel fade; the full editorial invitation is transcribed into HTML."
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "7f8746cc-2e3a-476f-a5a0-28d15abe5412",
+              "3558b7f3-5296-4770-a7c6-d420c923642d"
+            ],
+            "visible_images": [],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "visual_inspection": "completed",
+            "article_ids": [
+              "f1f8d898-1108-4e49-9e62-b12667509107"
+            ],
+            "visible_images": [
+              {
+                "source_object_xref": 140,
+                "description": "A wooden vessel and long pestle beside a sunlit window, with the poem printed over the photograph",
+                "owner": "The Gifts of Christ",
+                "article_id": "f1f8d898-1108-4e49-9e62-b12667509107",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/f1f8d898-1108-4e49-9e62-b12667509107-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted title panels, rules, footer/page numbers, continuation banners, decorative separators and terminal markers omitted as nonsemantic publisher layout. Separate mailing/address/postage overlays omitted; the poem irreversibly baked into the sole source image is retained and documented in image metadata."
+          }
+        ],
+        "issue_level_image_credit": "Some images © 2001-2006 clipart.com / photos.com",
+        "unresolved_text": []
+      }
     }
   ],
   "categories": [
