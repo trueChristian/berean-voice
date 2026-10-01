@@ -11507,6 +11507,733 @@
           "scope": "Open a partial draft pull request containing the 11 completed articles and 16 images, leaving Child, Come Home outstanding."
         }
       }
+    },
+    {
+      "id": "7e2fda69-4f9b-450f-815c-39c3200bb634",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "November / December 2004",
+        "year": 2004,
+        "months": [
+          11,
+          12
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 10,
+      "issue_number": 6,
+      "source": {
+        "filename": "2004-11-remnant.pdf",
+        "sha256": "a52ff80b51981fa62691319733af505ba7f2ea5bcdd119a21916ae7fff88dbaf",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front cover and back-page poem unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2004-11",
+      "slug": "heartbeat-remnant-2004-11",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 9,
+        "skipped_article_count": 0,
+        "exported_image_count": 10,
+        "inventory_note": "All 36 PDF pages visually inspected. All eight contents-listed pieces and the signed back-page poem The Inner Chamber are included. DIRK WILLEMS continues from page 19 to page 33 alongside the end of Superficial Revival. No article-specific reuse restriction was found through any final line or associated image. Cover, contents/masthead/thumbnails, the unsigned page-34 administrative financial report and its graphics, standalone typographic separators, and page-36 mailing furniture are inventory exclusions. The title matches in the 2007 Special Edition are distinct later reprints; those records remain unchanged.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "94b26a7a-763b-4554-a25c-70739be3b84f",
+            "title": "A Motivating Vision for Our Homes",
+            "source_pages": {
+              "start": 3,
+              "end": 6
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 2,
+            "article_id": "d6ce18ae-ec67-4637-9a0c-2221d588d26a",
+            "title": "The Resurrection of the Unsaved",
+            "source_pages": {
+              "start": 7,
+              "end": 7
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 3,
+            "article_id": "89efa81e-7b50-4d00-9f71-913b6559733b",
+            "title": "Can A Christian Be Patriotic?",
+            "source_pages": {
+              "start": 8,
+              "end": 18
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 4,
+            "article_id": "4555ea49-c56e-4ed0-8a16-634587cf9ba1",
+            "title": "DIRK WILLEMS",
+            "source_pages": {
+              "start": 19,
+              "end": 33,
+              "pages": [
+                19,
+                33
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 5,
+            "article_id": "cee49a07-3344-4761-ae8b-97faf5789c2b",
+            "title": "Revival Terminology in History",
+            "source_pages": {
+              "start": 20,
+              "end": 23
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 6,
+            "article_id": "290c95d8-6152-4293-a2ce-126865335276",
+            "title": "Compromise Testimony",
+            "source_pages": {
+              "start": 24,
+              "end": 27
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 7,
+            "article_id": "acb1ebb1-da00-427d-abb9-2cc88b0379ae",
+            "title": "Superficial Revival",
+            "source_pages": {
+              "start": 28,
+              "end": 33,
+              "pages": [
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 8,
+            "article_id": "29b324b8-1e7b-4276-a8f1-2910e663993a",
+            "title": "Precious Letters from Our Readers",
+            "source_pages": {
+              "start": 35,
+              "end": 35
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 9,
+            "article_id": "71e30451-7860-462c-9956-310b0ff431bc",
+            "title": "The Inner Chamber",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included"
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "article_sequences": [],
+            "excluded_matter": "front cover",
+            "images": [
+              {
+                "image": "Multi-person world illustration, scripture treatment and issue cover typography",
+                "owner": null,
+                "disposition": "omitted: front cover",
+                "base_xref": 198
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "article_sequences": [],
+            "excluded_matter": "table of contents and general masthead",
+            "images": [
+              {
+                "image": "Patriarchs illustration thumbnail",
+                "owner": null,
+                "disposition": "omitted: table of contents / masthead thumbnail"
+              },
+              {
+                "image": "Patriotic collage thumbnail",
+                "owner": null,
+                "disposition": "omitted: table of contents / masthead thumbnail"
+              },
+              {
+                "image": "Dirk Willems rescue thumbnail",
+                "owner": null,
+                "disposition": "omitted: table of contents / masthead thumbnail"
+              },
+              {
+                "image": "Prayer gathering illustration thumbnail",
+                "owner": null,
+                "disposition": "omitted: table of contents / masthead thumbnail"
+              },
+              {
+                "image": "Television thumbnail",
+                "owner": null,
+                "disposition": "omitted: table of contents / masthead thumbnail"
+              },
+              {
+                "image": "Mailbox thumbnail",
+                "owner": null,
+                "disposition": "omitted: table of contents / masthead thumbnail"
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "article_sequences": [
+              1
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Three robed figures with staffs",
+                "owner": 1,
+                "disposition": "exported",
+                "base_xref": 13,
+                "article_id": "94b26a7a-763b-4554-a25c-70739be3b84f",
+                "repository_path": "public/images/articles/94b26a7a-763b-4554-a25c-70739be3b84f-1.jpg",
+                "overlay_disposition": []
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "article_sequences": [
+              1
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Family gathered at a table, engraving",
+                "owner": 1,
+                "disposition": "exported once",
+                "base_xref": 136,
+                "article_id": "94b26a7a-763b-4554-a25c-70739be3b84f",
+                "repository_path": "public/images/articles/94b26a7a-763b-4554-a25c-70739be3b84f-2.jpg",
+                "overlay_disposition": []
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "article_sequences": [
+              1
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Identical family-table engraving repeated",
+                "owner": 1,
+                "disposition": "represented once by page 4 canonical export",
+                "base_xref": 136,
+                "article_id": "94b26a7a-763b-4554-a25c-70739be3b84f",
+                "repository_path": "public/images/articles/94b26a7a-763b-4554-a25c-70739be3b84f-2.jpg",
+                "overlay_disposition": []
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "article_sequences": [
+              1
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "article_sequences": [
+              2
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Judgment/resurrection scene with flames, full-page illustration background",
+                "owner": 2,
+                "disposition": "exported",
+                "base_xref": 26,
+                "article_id": "d6ce18ae-ec67-4637-9a0c-2221d588d26a",
+                "repository_path": "public/images/articles/d6ce18ae-ec67-4637-9a0c-2221d588d26a-1.jpg",
+                "overlay_disposition": [
+                  "baked article title",
+                  "baked translucent reading panel and border",
+                  "baked flame treatment"
+                ]
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Patriotic montage: beach landing soldiers, US flag, bottom-strip patriotic display/sign, flag-raising soldiers, Capitol and eagle/flag",
+                "owner": 3,
+                "disposition": "exported as one faithful source composite",
+                "base_xref": 30,
+                "article_id": "89efa81e-7b50-4d00-9f71-913b6559733b",
+                "repository_path": "public/images/articles/89efa81e-7b50-4d00-9f71-913b6559733b-1.jpg",
+                "overlay_disposition": []
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Corvette automobile",
+                "owner": 3,
+                "disposition": "exported",
+                "base_xref": 43,
+                "article_id": "89efa81e-7b50-4d00-9f71-913b6559733b",
+                "repository_path": "public/images/articles/89efa81e-7b50-4d00-9f71-913b6559733b-2.jpg",
+                "overlay_disposition": []
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "article_sequences": [
+              3
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "article_sequences": [
+              4
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Dirk Willems rescuing pursuer from broken ice, engraving",
+                "owner": 4,
+                "disposition": "exported",
+                "base_xref": 65,
+                "article_id": "4555ea49-c56e-4ed0-8a16-634587cf9ba1",
+                "repository_path": "public/images/articles/4555ea49-c56e-4ed0-8a16-634587cf9ba1-1.jpg",
+                "overlay_disposition": []
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "article_sequences": [
+              5
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Prayer gathering engraving",
+                "owner": 5,
+                "disposition": "exported",
+                "base_xref": 69,
+                "article_id": "cee49a07-3344-4761-ae8b-97faf5789c2b",
+                "repository_path": "public/images/articles/cee49a07-3344-4761-ae8b-97faf5789c2b-1.jpg",
+                "overlay_disposition": []
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "article_sequences": [
+              5
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "article_sequences": [
+              5
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "article_sequences": [
+              5
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "article_sequences": [
+              6
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Television on stand, line drawing",
+                "owner": 6,
+                "disposition": "exported",
+                "base_xref": 82,
+                "article_id": "290c95d8-6152-4293-a2ce-126865335276",
+                "repository_path": "public/images/articles/290c95d8-6152-4293-a2ce-126865335276-1.png",
+                "overlay_disposition": []
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "article_sequences": [
+              6
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "article_sequences": [
+              6
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "article_sequences": [
+              6
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "article_sequences": [
+              7
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "article_sequences": [
+              7
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "article_sequences": [
+              7
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "article_sequences": [
+              7
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "article_sequences": [
+              7
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "article_sequences": [
+              4,
+              7
+            ],
+            "excluded_matter": null,
+            "images": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "article_sequences": [],
+            "excluded_matter": "unsigned administrative ministry financial report",
+            "images": [
+              {
+                "image": "Miniature issue cover",
+                "owner": null,
+                "disposition": "omitted: administrative ministry financial report",
+                "base_xref": 120
+              },
+              {
+                "image": "Cassette tape",
+                "owner": null,
+                "disposition": "omitted: administrative ministry financial report",
+                "base_xref": 121
+              },
+              {
+                "image": "Decorative frame border strips and corners",
+                "owner": null,
+                "disposition": "omitted: administrative ministry financial report / layout furniture",
+                "base_xrefs": [
+                  113,
+                  114,
+                  115,
+                  116,
+                  117,
+                  118,
+                  119
+                ]
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "article_sequences": [
+              8
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Mailbox with climbing flowers",
+                "owner": 8,
+                "disposition": "exported",
+                "base_xref": 125,
+                "article_id": "29b324b8-1e7b-4276-a8f1-2910e663993a",
+                "repository_path": "public/images/articles/29b324b8-1e7b-4276-a8f1-2910e663993a-1.png",
+                "overlay_disposition": []
+              },
+              {
+                "image": "Repeated diamond/star letter separators",
+                "owner": null,
+                "disposition": "omitted: standalone typographic decorative matter"
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "article_sequences": [
+              9
+            ],
+            "excluded_matter": null,
+            "images": [
+              {
+                "image": "Stone doorway and church facade with autumn leaves",
+                "owner": 9,
+                "disposition": "exported",
+                "base_xref": 129,
+                "article_id": "71e30451-7860-462c-9956-310b0ff431bc",
+                "repository_path": "public/images/articles/71e30451-7860-462c-9956-310b0ff431bc-1.jpg",
+                "overlay_disposition": [
+                  "baked title and byline",
+                  "baked translucent reading panel"
+                ]
+              }
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "text_verification_summary": "All nine articles were visually transcribed and independently compared with their complete source pages. Exact source wording, apparent errors, punctuation, paragraph boundaries, emphasis, quotations, lists, lyrics and poem lineation are preserved. Only nonsemantic print-layout artifacts were normalized.",
+        "image_verification_summary": "Ten canonical exports: eight RGB/sRGB baseline JPEGs and two lossless PNGs. The repeated family-table engraving on pages 4 and 5 is represented once. Each final image was opened and visually compared against the source page and raw image object, fully decoded through Pillow and FFmpeg, and painted/read back using Skia Canvas. Clean base objects omit separable publisher overlays; the patriotic collage is cropped only above the complete photographic content to remove its flattened title.",
+        "remaining_uncertainty": [
+          "The only source rasters for page 7 (PDF object 26) and page 36 (PDF object 129) irreversibly contain titles and translucent reading panels; page 36 also contains its byline. These overlays are retained and explicitly documented under the AGENTS.md flattened-overlay exception. Separately painted body/poem and page/mailing typography are omitted. No pixels were synthesized.",
+          "The general masthead credit “Some images © 2001-2004 www.arttoday.com” does not identify individual assets. Image credit fields remain null; no individual attribution or licence is inferred."
+        ]
+      }
     }
   ],
   "categories": [
