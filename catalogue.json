@@ -11793,11 +11793,8 @@
                 "base_xref": 26,
                 "article_id": "d6ce18ae-ec67-4637-9a0c-2221d588d26a",
                 "repository_path": "public/images/articles/d6ce18ae-ec67-4637-9a0c-2221d588d26a-1.jpg",
-                "overlay_disposition": [
-                  "baked article title",
-                  "baked translucent reading panel and border",
-                  "baked flame treatment"
-                ]
+                "overlay_disposition": [],
+                "authorized_edit_note": "On 2026-10-01 the owner requested removal of the flattened text and panels. The canonical file now contains a full-composition AI-edited derivative with reconstructed obscured areas; no overlay remains."
               }
             ],
             "visual_check": "completed",
@@ -12217,10 +12214,8 @@
                 "base_xref": 129,
                 "article_id": "71e30451-7860-462c-9956-310b0ff431bc",
                 "repository_path": "public/images/articles/71e30451-7860-462c-9956-310b0ff431bc-1.jpg",
-                "overlay_disposition": [
-                  "baked title and byline",
-                  "baked translucent reading panel"
-                ]
+                "overlay_disposition": [],
+                "authorized_edit_note": "On 2026-10-01 the owner requested removal of the flattened text and panels. The canonical file now contains a full-composition AI-edited derivative with reconstructed obscured areas; no overlay remains."
               }
             ],
             "visual_check": "completed",
@@ -12228,9 +12223,9 @@
           }
         ],
         "text_verification_summary": "All nine articles were visually transcribed and independently compared with their complete source pages. Exact source wording, apparent errors, punctuation, paragraph boundaries, emphasis, quotations, lists, lyrics and poem lineation are preserved. Only nonsemantic print-layout artifacts were normalized.",
-        "image_verification_summary": "Ten canonical exports: eight RGB/sRGB baseline JPEGs and two lossless PNGs. The repeated family-table engraving on pages 4 and 5 is represented once. Each final image was opened and visually compared against the source page and raw image object, fully decoded through Pillow and FFmpeg, and painted/read back using Skia Canvas. Clean base objects omit separable publisher overlays; the patriotic collage is cropped only above the complete photographic content to remove its flattened title.",
+        "image_verification_summary": "Ten canonical exports remain: eight RGB/sRGB baseline JPEGs and two lossless PNGs. The repeated family-table engraving on pages 4 and 5 is represented once. Eight images retain their initial source-faithful exports. On 2026-10-01, at the project owner’s explicit request, the page-7 and page-36 images were edited with the built-in image tool to remove their flattened text and translucent panels; the page-7 flat decorative flame band was also removed. The full compositions and original 504×681 and 612×792 dimensions remain. These two images are documented AI reconstructions, not exact recovery of hidden source pixels. Both replacements passed fresh independent visual review, Pillow and FFmpeg complete raster decoding without warnings, RGB/sRGB and baseline-JPEG checks, and Skia Canvas paint/readback with visual inspection. Canonical paths and the 36-page image census remain unchanged.",
         "remaining_uncertainty": [
-          "The only source rasters for page 7 (PDF object 26) and page 36 (PDF object 129) irreversibly contain titles and translucent reading panels; page 36 also contains its byline. These overlays are retained and explicitly documented under the AGENTS.md flattened-overlay exception. Separately painted body/poem and page/mailing typography are omitted. No pixels were synthesized.",
+          "The page-7 and page-36 overlays have been removed as explicitly requested by the project owner. Areas hidden by the flattened text and panels are AI reconstructions and may differ in fine details from an unavailable clean original; source-exact recovery is not claimed.",
           "The general masthead credit “Some images © 2001-2004 www.arttoday.com” does not identify individual assets. Image credit fields remain null; no individual attribution or licence is inferred."
         ]
       }
