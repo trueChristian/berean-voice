@@ -9733,9 +9733,9 @@
       "verification": {
         "completion_status": "complete",
         "inventory_note": "Eleven table-of-contents entries plus the page-3 editorial yield twelve candidate pieces: ten eligible and two excluded by article-specific permission notices. All 36 PDF pages visually inspected. Article content headings are authoritative, including the mixed display-letter casing of ELiZABETH AND THE DiNoSAuRS. All included articles received independent visual text/format review. Cover, contents/masthead, separate page-3 conference-line advertisement and recording catalogue, and back-cover mailing matter are excluded. All grouping identities are reused; no categories, topics or series added.",
-        "source_condition": "The supplied PDF consists of scanned printed pages plus invisible OCR text (/ca 0). Exact wording was decided from visible pixels. Each source image is part of a sole full-page RGB raster; no separable original photograph, mask, tile or transparency group was present. Meaningful unobstructed source crops are used where possible, followed by documented vertical resampling to preserve PDF placement aspect ratios. No generated, inpainted or repaired content.",
+        "source_condition": "The supplied PDF consists of scanned printed pages plus invisible OCR text (/ca 0). Exact wording was decided from visible pixels. Each source image is part of a sole full-page RGB raster; no separable original photograph, mask, tile or transparency group was present. Meaningful unobstructed source crops are used where possible, followed by documented vertical resampling to preserve PDF placement aspect ratios. The sole exception is the page-4 fox photograph: the user explicitly requested removal of its flattened lettering/tab without losing either fox. AI-reconstructed green background is restricted to a documented patch; both original foxes and full framing are retained. Other assets contain no generated, inpainted or repaired content.",
         "image_credit_note": "Page 2 credits “© Belle Vie Creative | page: 2, 11”; “© Photography by Laurel | pages: front cover, 7, 9, 17,24, back cover”; “© Adobe Stock Images | pages: 4, 22, 23, 33”; “© Pixabay | pagee: 14”; “© Brimming Focus Photography | page: 25”; “© Brandi Enns | page: 31”; “© Nathan Leinbach | page: 35”. Credits do not establish individual licences. No asset-specific credit is printed for the editorial graphics, children’s section icon, emotional diagram or page-32 almonds.",
-        "remaining_uncertainty": "No unresolved transcription or article-eligibility uncertainty. User review confirmed that the page-23 header is not image content; it is excluded as typography and layout matter despite the page-2 credit listing page 23. The page-4 photograph is now an unobstructed crop of the left fox with no article typography. Paper show-through and source scan distortion are documented per remaining image; no unstated image licence is inferred.",
+        "remaining_uncertainty": "No unresolved transcription or article-eligibility uncertainty. User review confirmed that the page-23 header is not image content; it is excluded as typography and layout matter despite the page-2 credit listing page 23. The page-4 photograph retains both original foxes and its full framing; flattened article lettering/tab were removed with user-authorized AI background reconstruction. The reconstructed patch is disclosed and is not recoverable source photography. Paper show-through and source scan distortion are documented per remaining image; no unstated image licence is inferred.",
         "nonconsecutive_continuations": [],
         "article_inventory": [
           {
@@ -9910,7 +9910,7 @@
             "visually_inspected": true,
             "images": [
               {
-                "description": "Unobstructed portrait crop of the left fox from the printed two-fox photograph",
+                "description": "Full-frame photograph of two young foxes, with user-authorized removal of flattened publisher lettering and white tab",
                 "source_objects": [
                   23
                 ],
@@ -9921,7 +9921,7 @@
               }
             ],
             "notes": [
-              "Crop [120, 715, 810, 2100] excludes the title, byline, location and white tab; the second fox is largely outside the retained portrait crop."
+              "No crop. AI-generated green background was composited only within [0, 330, 800, 590] of the full 1712 × 2216 export; both original foxes and all pixels outside that patch remain unchanged before JPEG encoding. Title, byline, location and white tab are removed. The reconstructed patch is an explicitly requested exception to the default no-inpainting rule."
             ]
           },
           {
@@ -10311,7 +10311,7 @@
             ]
           }
         ],
-        "image_verification_summary": "Fifteen indexed and HTML-referenced exports reconcile with the complete 36-page visual image census. Independent full-resolution source/overlay/colour/aspect review passed. Pillow and strict FFmpeg full decodes passed without warnings; Skia Canvas pixel readback matched Pillow exactly. All fourteen JPEGs are baseline RGB/sRGB with nonzero density and no trailing data; diagram PNG is RGB/sRGB."
+        "image_verification_summary": "Fifteen indexed and HTML-referenced exports reconcile with the complete 36-page visual image census. Independent full-resolution source/overlay/colour/aspect review passed. Pillow and strict FFmpeg full decodes passed without warnings; Skia Canvas pixel readback matched Pillow exactly. All fourteen JPEGs are baseline RGB/sRGB with nonzero density and no trailing data; diagram PNG is RGB/sRGB. The page-4 photograph received renewed independent comparison after the user-authorized background edit: both original foxes and full framing are preserved; the reconstructed patch is disclosed rather than represented as source-exact photography."
       }
     }
   ],
