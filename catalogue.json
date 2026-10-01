@@ -5095,6 +5095,848 @@
         "unresolved_text": [],
         "image_notes": "Individual image creators are not assigned by the PDF; no creator identities or licences are inferred. Small intrinsic engraving/signature inscriptions are retained. Encompassed retains the poem baked into its sole background raster; all separable mailing furniture is omitted. Roses retain intrinsic baked shading. These documented source limitations do not leave unresolved article wording or reuse notices."
       }
+    },
+    {
+      "id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "September / October 2005",
+        "year": 2005,
+        "months": [
+          9,
+          10
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 11,
+      "issue_number": 5,
+      "source": {
+        "filename": "2005-09-10-remnant.pdf",
+        "sha256": "d21b100a152e14c28a7125ffce3d9627f03c7ada184e82d64f91e6227e302044",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2005-09",
+      "slug": "heartbeat-remnant-2005-09",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "All 36 PDF pages visually inspected. Fifteen eligible articles, columns and poems included in source order; no article-specific permission restrictions or skipped articles. The twelve contents entries reconcile to their article pages; ALL THE WAY (page19), Precious Letters from Our Readers (page35), and The Kitchen Sink (back cover, PDF page36) supply the three additional substantive pieces. Cover, contents/general masthead, Wanted… Soldiers!!! Bible-school advertisement on page11, mailing/postage furniture and nonsemantic page typography omitted. No nonconsecutive article continuations. All article text and meaningful formatting received visual transcription review plus independent visual review; source errors are preserved.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+            "title": "The Marriage Covenant",
+            "source_pages": {
+              "start": 3,
+              "end": 11
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 2,
+            "article_id": "d58332a1-9877-4cc3-9498-6a712269a248",
+            "title": "Truly Penitent",
+            "source_pages": {
+              "start": 12,
+              "end": 12
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 3,
+            "article_id": "d7faf1ae-2a21-4865-8795-083be58892a3",
+            "title": "But Ye Are A Chosen Generation",
+            "source_pages": {
+              "start": 13,
+              "end": 13
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 4,
+            "article_id": "66c8bc19-3935-4e9f-a320-d498c37a1e22",
+            "title": "Exposing Error",
+            "source_pages": {
+              "start": 14,
+              "end": 15
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 5,
+            "article_id": "302b1457-df06-4e48-8582-577b6f40351e",
+            "title": "They Call It “HATE SPEECH”",
+            "source_pages": {
+              "start": 16,
+              "end": 18
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 6,
+            "article_id": "b08acac9-e6df-41ae-a564-afd9d9e9592a",
+            "title": "ALL THE WAY",
+            "source_pages": {
+              "start": 19,
+              "end": 19
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 7,
+            "article_id": "742a597d-8b1d-4010-84ae-a9e58f474025",
+            "title": "FELICITAS WITH HER SEVEN SONS, JANUARIUS, FELIX, PHILIPPUS, SYLVANUS, ALEXANDER, VITALIS, AND MARTIALIS, PUT TO DEATH FOR THE FAITH, AT ROME, A.D. 164",
+            "source_pages": {
+              "start": 20,
+              "end": 21
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 8,
+            "article_id": "28e8f221-9306-4378-8e69-677997cab98d",
+            "title": "FIRE!",
+            "source_pages": {
+              "start": 22,
+              "end": 22
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 9,
+            "article_id": "27c29b70-fa4d-46c9-b8b4-86eee564c108",
+            "title": "Heart Surgery",
+            "source_pages": {
+              "start": 23,
+              "end": 23
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 10,
+            "article_id": "88dd10f4-1bce-4b0f-b47c-8ab58ef8c120",
+            "title": "I WAS IN THE GREAT REVIVAL",
+            "source_pages": {
+              "start": 24,
+              "end": 25
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 11,
+            "article_id": "eea521e5-0e79-4834-b698-8ecb0ee0c837",
+            "title": "My Journey to NON-RESISTANCE",
+            "source_pages": {
+              "start": 26,
+              "end": 32
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 12,
+            "article_id": "7fe63551-500f-4963-8b75-e17ae8cfd46a",
+            "title": "SITTING AT EASE IN ZION?",
+            "source_pages": {
+              "start": 33,
+              "end": 33
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 13,
+            "article_id": "c4ae6b45-cce9-4e55-a58c-ef5c5a5cdadf",
+            "title": "The Sufferings of Christ",
+            "source_pages": {
+              "start": 34,
+              "end": 34
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 14,
+            "article_id": "14ed443a-4a0f-4365-945a-9bd4bc0cb33c",
+            "title": "Precious Letters from Our Readers",
+            "source_pages": {
+              "start": 35,
+              "end": 35
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 15,
+            "article_id": "70fb6a6f-c616-4a62-a8f6-8f83aea38532",
+            "title": "The Kitchen Sink",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included"
+          }
+        ],
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Full-page rainbow landscape with publication title",
+                "disposition": "omitted under issue-inventory exclusion: cover",
+                "pdf_image_object": 238
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Contents thumbnail illustration or photograph",
+                "disposition": "omitted under issue-inventory exclusion: table of contents",
+                "pdf_image_object": 147
+              },
+              {
+                "description": "Contents thumbnail illustration or photograph",
+                "disposition": "omitted under issue-inventory exclusion: table of contents",
+                "pdf_image_object": 4
+              },
+              {
+                "description": "Contents thumbnail illustration or photograph",
+                "disposition": "omitted under issue-inventory exclusion: table of contents",
+                "pdf_image_object": 5
+              },
+              {
+                "description": "Contents thumbnail illustration or photograph",
+                "disposition": "omitted under issue-inventory exclusion: table of contents",
+                "pdf_image_object": 6
+              },
+              {
+                "description": "Contents thumbnail illustration or photograph",
+                "disposition": "omitted under issue-inventory exclusion: table of contents",
+                "pdf_image_object": 7
+              },
+              {
+                "description": "Contents thumbnail illustration or photograph",
+                "disposition": "omitted under issue-inventory exclusion: table of contents",
+                "pdf_image_object": 8
+              },
+              {
+                "description": "Contents thumbnail illustration or photograph",
+                "disposition": "omitted under issue-inventory exclusion: table of contents",
+                "pdf_image_object": 9
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 13
+              },
+              {
+                "description": "Rasterized The Marriage Covenant title typography and its text shadow",
+                "disposition": "publisher typography omitted as layout; exact title retained in article metadata",
+                "pdf_image_object": 14
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 147
+              },
+              {
+                "description": "Armed figures and a procession approaching a walled city",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-2.jpg",
+                "canonical_source_page": 4,
+                "pdf_image_object": 18
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 147
+              },
+              {
+                "description": "Travellers with laden animals beside hills",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-3.jpg",
+                "canonical_source_page": 5,
+                "pdf_image_object": 23
+              },
+              {
+                "description": "Travellers and a laden donkey facing a group of men",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-4.jpg",
+                "canonical_source_page": 5,
+                "pdf_image_object": 22
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 147
+              },
+              {
+                "description": "Camels and people beside water",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-5.jpg",
+                "canonical_source_page": 6,
+                "pdf_image_object": 27
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 147
+              },
+              {
+                "description": "A seated man holding a bowl beside a standing hunter",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-6.jpg",
+                "canonical_source_page": 7,
+                "pdf_image_object": 31
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 147
+              },
+              {
+                "description": "An elderly seated man reaching toward a kneeling figure",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-7.jpg",
+                "canonical_source_page": 8,
+                "pdf_image_object": 35
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 147
+              },
+              {
+                "description": "Adam and Eve beside a tree in a circular drawing marked ADAMIC COVENANT",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-8.png",
+                "canonical_source_page": 9,
+                "pdf_image_object": 39
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 147
+              },
+              {
+                "description": "A seated elderly man facing a family group",
+                "disposition": "exported",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-9.jpg",
+                "canonical_source_page": 10,
+                "pdf_image_object": 43
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Scroll bearing hearts and clasped hands",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+                "canonical_export": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+                "canonical_source_page": 3,
+                "pdf_image_object": 147
+              }
+            ],
+            "notes": "WANTED Soldiers announcement below article excluded as advertisement; no associated image."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Kneeling man beside a sign reading God be merciful to me a Sinner",
+                "disposition": "exported",
+                "article_id": "d58332a1-9877-4cc3-9498-6a712269a248",
+                "canonical_export": "public/images/articles/d58332a1-9877-4cc3-9498-6a712269a248-1.png",
+                "canonical_source_page": 12,
+                "pdf_image_object": 50
+              },
+              {
+                "description": "A seated man beneath a wooden staircase",
+                "disposition": "exported",
+                "article_id": "d58332a1-9877-4cc3-9498-6a712269a248",
+                "canonical_export": "public/images/articles/d58332a1-9877-4cc3-9498-6a712269a248-2.jpg",
+                "canonical_source_page": 12,
+                "pdf_image_object": 51
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "A trumpet",
+                "disposition": "exported",
+                "article_id": "d7faf1ae-2a21-4865-8795-083be58892a3",
+                "canonical_export": "public/images/articles/d7faf1ae-2a21-4865-8795-083be58892a3-1.jpg",
+                "canonical_source_page": 13,
+                "pdf_image_object": 56
+              },
+              {
+                "description": "Men drinking beside a river with mounted figures nearby",
+                "disposition": "exported",
+                "article_id": "d7faf1ae-2a21-4865-8795-083be58892a3",
+                "canonical_export": "public/images/articles/d7faf1ae-2a21-4865-8795-083be58892a3-2.jpg",
+                "canonical_source_page": 13,
+                "pdf_image_object": 55
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Question marks with a magnifying glass",
+                "disposition": "exported",
+                "article_id": "66c8bc19-3935-4e9f-a320-d498c37a1e22",
+                "canonical_export": "public/images/articles/66c8bc19-3935-4e9f-a320-d498c37a1e22-1.jpg",
+                "canonical_source_page": 14,
+                "pdf_image_object": 60
+              },
+              {
+                "description": "A hand holding a magnifying glass",
+                "disposition": "exported",
+                "article_id": "66c8bc19-3935-4e9f-a320-d498c37a1e22",
+                "canonical_export": "public/images/articles/66c8bc19-3935-4e9f-a320-d498c37a1e22-2.png",
+                "canonical_source_page": 14,
+                "pdf_image_object": 155
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "A hand holding a magnifying glass",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "article_id": "66c8bc19-3935-4e9f-a320-d498c37a1e22",
+                "canonical_export": "public/images/articles/66c8bc19-3935-4e9f-a320-d498c37a1e22-2.png",
+                "canonical_source_page": 14,
+                "pdf_image_object": 155
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "A man addressing a gathered crowd",
+                "disposition": "exported",
+                "article_id": "302b1457-df06-4e48-8582-577b6f40351e",
+                "canonical_export": "public/images/articles/302b1457-df06-4e48-8582-577b6f40351e-1.jpg",
+                "canonical_source_page": 16,
+                "pdf_image_object": 67
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "A robed man speaking amid a crowd",
+                "disposition": "exported",
+                "article_id": "302b1457-df06-4e48-8582-577b6f40351e",
+                "canonical_export": "public/images/articles/302b1457-df06-4e48-8582-577b6f40351e-2.jpg",
+                "canonical_source_page": 17,
+                "pdf_image_object": 71
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visually_inspected_entire_page": true,
+            "visible_images": [],
+            "notes": "No photographs, illustrations, backgrounds, collage pieces or scores visible."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "The poem All the Way printed over a field beneath cloudy sky",
+                "disposition": "exported",
+                "article_id": "b08acac9-e6df-41ae-a564-afd9d9e9592a",
+                "canonical_export": "public/images/articles/b08acac9-e6df-41ae-a564-afd9d9e9592a-1.jpg",
+                "canonical_source_page": 19,
+                "pdf_image_object": 78
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Historical engraving of executions before a gathered crowd",
+                "disposition": "exported",
+                "article_id": "742a597d-8b1d-4010-84ae-a9e58f474025",
+                "canonical_export": "public/images/articles/742a597d-8b1d-4010-84ae-a9e58f474025-1.jpg",
+                "canonical_source_page": 20,
+                "pdf_image_object": 82
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visually_inspected_entire_page": true,
+            "visible_images": [],
+            "notes": "No photographs, illustrations, backgrounds, collage pieces or scores visible."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Biblical figures gathered around a rising flame",
+                "disposition": "exported",
+                "article_id": "28e8f221-9306-4378-8e69-677997cab98d",
+                "canonical_export": "public/images/articles/28e8f221-9306-4378-8e69-677997cab98d-1.jpg",
+                "canonical_source_page": 22,
+                "pdf_image_object": 89
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Masked medical staff performing surgery",
+                "disposition": "exported",
+                "article_id": "27c29b70-fa4d-46c9-b8b4-86eee564c108",
+                "canonical_export": "public/images/articles/27c29b70-fa4d-46c9-b8b4-86eee564c108-1.jpg",
+                "canonical_source_page": 23,
+                "pdf_image_object": 93
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visually_inspected_entire_page": true,
+            "visible_images": [],
+            "notes": "No photographs, illustrations, backgrounds, collage pieces or scores visible."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visually_inspected_entire_page": true,
+            "visible_images": [],
+            "notes": "No photographs, illustrations, backgrounds, collage pieces or scores visible."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Eight people posing for a family photograph",
+                "disposition": "exported",
+                "article_id": "eea521e5-0e79-4834-b698-8ecb0ee0c837",
+                "canonical_export": "public/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-1.jpg",
+                "canonical_source_page": 26,
+                "pdf_image_object": 103
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "A young man wearing a martial arts uniform",
+                "disposition": "exported",
+                "article_id": "eea521e5-0e79-4834-b698-8ecb0ee0c837",
+                "canonical_export": "public/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-2.jpg",
+                "canonical_source_page": 27,
+                "pdf_image_object": 107
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "A man speaking at a lectern",
+                "disposition": "exported",
+                "article_id": "eea521e5-0e79-4834-b698-8ecb0ee0c837",
+                "canonical_export": "public/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-3.jpg",
+                "canonical_source_page": 28,
+                "pdf_image_object": 111
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visually_inspected_entire_page": true,
+            "visible_images": [],
+            "notes": "No photographs, illustrations, backgrounds, collage pieces or scores visible."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visually_inspected_entire_page": true,
+            "visible_images": [],
+            "notes": "No photographs, illustrations, backgrounds, collage pieces or scores visible."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visually_inspected_entire_page": true,
+            "visible_images": [],
+            "notes": "No photographs, illustrations, backgrounds, collage pieces or scores visible."
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "visually_inspected_entire_page": true,
+            "visible_images": [],
+            "notes": "No photographs, illustrations, backgrounds, collage pieces or scores visible."
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Seated people resting in chairs",
+                "disposition": "exported",
+                "article_id": "7fe63551-500f-4963-8b75-e17ae8cfd46a",
+                "canonical_export": "public/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-1.png",
+                "canonical_source_page": 33,
+                "pdf_image_object": 127
+              },
+              {
+                "description": "A man asleep against a stone column",
+                "disposition": "exported",
+                "article_id": "7fe63551-500f-4963-8b75-e17ae8cfd46a",
+                "canonical_export": "public/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-2.jpg",
+                "canonical_source_page": 33,
+                "pdf_image_object": 129
+              },
+              {
+                "description": "Men sleeping in church pews",
+                "disposition": "exported",
+                "article_id": "7fe63551-500f-4963-8b75-e17ae8cfd46a",
+                "canonical_export": "public/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-3.jpg",
+                "canonical_source_page": 33,
+                "pdf_image_object": 128
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "Jesus surrounded by men, women, and children",
+                "disposition": "exported",
+                "article_id": "c4ae6b45-cce9-4e55-a58c-ef5c5a5cdadf",
+                "canonical_export": "public/images/articles/c4ae6b45-cce9-4e55-a58c-ef5c5a5cdadf-1.jpg",
+                "canonical_source_page": 34,
+                "pdf_image_object": 133
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "A roadside mailbox bearing the magazine address",
+                "disposition": "exported",
+                "article_id": "14ed443a-4a0f-4365-945a-9bd4bc0cb33c",
+                "canonical_export": "public/images/articles/14ed443a-4a0f-4365-945a-9bd4bc0cb33c-1.jpg",
+                "canonical_source_page": 35,
+                "pdf_image_object": 137
+              },
+              {
+                "description": "Repeated row of small cross ornaments dividing reader letters",
+                "disposition": "omitted under issue-inventory exclusion: standalone decorative divider (font-based)"
+              },
+              {
+                "description": "Repeated row of small cross ornaments dividing reader letters",
+                "disposition": "omitted under issue-inventory exclusion: standalone decorative divider (font-based)"
+              }
+            ],
+            "notes": null
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "visually_inspected_entire_page": true,
+            "visible_images": [
+              {
+                "description": "The poem The Kitchen Sink printed over a sink containing dishes and soap suds",
+                "disposition": "exported",
+                "article_id": "70fb6a6f-c616-4a62-a8f6-8f83aea38532",
+                "canonical_export": "public/images/articles/70fb6a6f-c616-4a62-a8f6-8f83aea38532-1.jpg",
+                "canonical_source_page": 36,
+                "pdf_image_object": 141
+              },
+              {
+                "description": "Magazine wordmark, address and outlined postage panel over kitchen-sink photograph",
+                "disposition": "omitted under issue-inventory exclusion: mailing panel; separately painted overlay"
+              }
+            ],
+            "notes": null
+          }
+        ],
+        "image_inventory_summary": "39 content-page image occurrences reconcile to 30 canonical exported images and 9 repeated occurrences represented once. Cover and seven contents thumbnails omitted with their inventory exclusions. All 30 final files were visually checked at full useful resolution against the PDF and original source objects; Pillow and independent FFmpeg complete decodes passed without warnings, and browser-compatible Skia Canvas 2D rendered all images. Twenty-five baseline RGB/sRGB JPEGs with nonzero density and five lossless grayscale PNGs. Publisher overlays omitted or cropped where recoverable; unavoidable flattened poem text on pages19 and36 is documented explicitly, and their wording is also transcribed as semantic HTML.",
+        "issue_level_image_credit": "Some images © 2001-2005 arttoday.com / photos.com",
+        "unresolved_text": [],
+        "rights_uncertainty": [],
+        "image_credit_note": "No individual image credit is printed for these assets; the issue-level stock source statement is preserved without inferring individual creators or licences."
+      }
     }
   ],
   "categories": [
