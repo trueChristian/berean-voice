@@ -74144,7 +74144,7 @@
             ],
             "complete_decode": "passed_without_warnings",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "independent_image_review": "This unchanged image was independently opened and compared with the rendered PDF and raw source object at initial extraction. Composition, crop, orientation, colour and integrity passed. Source-pixel correspondence, allowing the documented colour/crop transformation and high-quality JPEG recompression, was independently checked; no discrepancies remain."
           }
         },
         {
@@ -74188,7 +74188,7 @@
             ],
             "complete_decode": "passed_without_warnings",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "independent_image_review": "This unchanged image was independently opened and compared with the rendered PDF and raw source object at initial extraction. Composition, crop, orientation, colour and integrity passed. Source-pixel correspondence, allowing the documented colour/crop transformation and high-quality JPEG recompression, was independently checked; no discrepancies remain."
           }
         }
       ],
@@ -74230,7 +74230,8 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
         "inventory_note": "Complete page7 article, heading and background illustration inspected for rights before assigning UUID; no article-specific notice. Body and Scripture quotation manually verified against 2x rendering. Exact source title supplied visually because absent from text-layer aid. Source Battle-field, Church Yard, Saviour, great and terrible day—” punctuation, em dashes and Scripture reference Proverbs 1:28-33 retained. Prose quotation preserved as a semantic blockquote, with source reference on its own line. No printed byline, credit or caption.",
-        "independent_text_review": "A second AI reader visually compared the complete HTML and metadata against every source page, including nonconsecutive continuations, wording, punctuation, paragraph order and meaningful formatting; no unresolved discrepancies."
+        "independent_text_review": "A second AI reader visually compared the complete HTML and metadata against every source page, including nonconsecutive continuations, wording, punctuation, paragraph order and meaningful formatting; no unresolved discrepancies.",
+        "image_edit_note": "On 2026-10-01 the project owner explicitly requested removal of this image’s text and overlays in PR #83. The built-in image editing tool reconstructed obscured areas while retaining the full composition and original output dimensions. This is an authorized AI-edited derivative, not exact recovery of hidden PDF pixels; fine details and textures may differ from the source."
       },
       "issue_id": "7e2fda69-4f9b-450f-815c-39c3200bb634",
       "images": [
@@ -74243,7 +74244,7 @@
           "alt": "Judgment scene above flames.",
           "caption": null,
           "credit": null,
-          "rights_note": "Original embedded image object 26 on printed page 7; raw object, page paint order, clipping and graphics state inspected. The sole image object already contains the title, translucent white reading panel with dark border, and flame treatment. No underlying clean object, soft mask, transparency group or alternative image exists in the PDF, and no exact reversible blend could be established. No meaningful unobstructed crop retains the judgment scene. These irreversibly flattened overlays are retained under the documented AGENTS.md exception; the exported raster must not be described as overlay-free. Separately painted article body and page furniture are omitted. No image-specific credit or reuse restriction is printed. The page-2 masthead states “Some images © 2001-2004 www.arttoday.com” without identifying which images; no individual attribution or licence is inferred. No generation, inpainting, cloning, healing or material retouching was used.",
+          "rights_note": "Original PDF image object 26 on page 7 was the sole grayscale raster and contained the title, white reading panel/border and flat flame treatment. The separately painted body and page furniture were omitted during extraction. The requested edit now removes the flattened overlays as well. On 2026-10-01 the project owner explicitly requested removal of this image’s text and overlays in PR #83. The built-in image editing tool reconstructed obscured areas while retaining the full composition and original output dimensions. This is an authorized AI-edited derivative, not exact recovery of hidden PDF pixels; fine details and textures may differ from the source. No image-specific credit or reuse restriction is printed. The page-2 masthead states “Some images © 2001-2004 www.arttoday.com” without identifying which images; no individual attribution or licence is inferred.",
           "transformation": {
             "source_object": 26,
             "source_dimensions": [
@@ -74258,16 +74259,24 @@
             "rotation_degrees": 0,
             "flip": null,
             "color_encoding": "RGB/sRGB",
-            "method": "Original DeviceGray JPEG expanded to RGB without changing the grayscale values; standards-normalized baseline sRGB JPEG with nonzero 72 dpi density.",
+            "method": "User-authorized built-in image editing removes the flattened text and layout panels from the original export and reconstructs the obscured picture. The complete generated composition is resampled without cropping to the existing dimensions and encoded as a baseline RGB/sRGB JPEG, quality 94, nonzero 72 dpi density. Original PDF object dimensions and crop remain recorded as source provenance.",
             "omitted_layout_overlays": [
               "separate article body",
               "page furniture"
             ],
-            "unavoidable_flattened_overlays": [
+            "unavoidable_flattened_overlays": [],
+            "removed_flattened_overlays": [
               "baked article title",
               "baked translucent reading panel and border",
               "baked flame treatment"
-            ]
+            ],
+            "authorized_edit": {
+              "date": "2026-10-01",
+              "authorization": "Project owner explicitly requested text and overlay removal from this canonical image in PR #83.",
+              "tool": "built-in image_gen",
+              "prompt_summary": "Remove all lettering, translucent reading panels and borders; preserve the full composition, aspect ratio, natural scene and framing. Reconstruct obscured details. No crop or new typography. Remove the flat decorative flame band while retaining coherent illustrated fire.",
+              "pixel_fidelity": "AI reconstruction; not exact recovery of the pixels hidden by the flattened overlays."
+            }
           },
           "verification": {
             "visual_against_pdf": "verified_by_ai",
@@ -74278,8 +74287,9 @@
               "FFmpeg"
             ],
             "complete_decode": "passed_without_warnings",
-            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "browser_compatible_renderer": "The updated JPEG was fully decoded, painted and read back with Skia Canvas (@napi-rs/canvas); the rendered output was opened and visually checked for clean edges, colours, complete composition and absence of typography/panels.",
+            "independent_image_review": "Two AI readers independently opened both corrected final JPEGs and compared them with their original exports: all title/byline text, rectangular panels and borders are removed, the complete compositions and original dimensions remain, and no cropping, corruption or truncation is visible. The judgment image’s flat lower flame overlay is replaced by coherent illustrated fire. Reconstructed areas and fine detail are explicitly treated as AI synthesis, not source-exact pixels.",
+            "source_fidelity_note": "On 2026-10-01 the project owner explicitly requested removal of this image’s text and overlays in PR #83. The built-in image editing tool reconstructed obscured areas while retaining the full composition and original output dimensions. This is an authorized AI-edited derivative, not exact recovery of hidden PDF pixels; fine details and textures may differ from the source."
           }
         }
       ]
@@ -74377,7 +74387,7 @@
             ],
             "complete_decode": "passed_without_warnings",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "independent_image_review": "This unchanged image was independently opened and compared with the rendered PDF and raw source object at initial extraction. Composition, crop, orientation, colour and integrity passed. Source-pixel correspondence, allowing the documented colour/crop transformation and high-quality JPEG recompression, was independently checked; no discrepancies remain."
           }
         },
         {
@@ -74418,7 +74428,7 @@
             ],
             "complete_decode": "passed_without_warnings",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "independent_image_review": "This unchanged image was independently opened and compared with the rendered PDF and raw source object at initial extraction. Composition, crop, orientation, colour and integrity passed. Source-pixel correspondence, allowing the documented colour/crop transformation and high-quality JPEG recompression, was independently checked; no discrepancies remain."
           }
         }
       ]
@@ -74510,7 +74520,7 @@
             ],
             "complete_decode": "passed_without_warnings",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "independent_image_review": "This unchanged image was independently opened and compared with the rendered PDF and raw source object at initial extraction. Composition, crop, orientation, colour and integrity passed. Source-pixel correspondence, allowing the documented colour/crop transformation and high-quality JPEG recompression, was independently checked; no discrepancies remain."
           }
         }
       ]
@@ -74604,7 +74614,7 @@
             ],
             "complete_decode": "passed_without_warnings",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "independent_image_review": "This unchanged image was independently opened and compared with the rendered PDF and raw source object at initial extraction. Composition, crop, orientation, colour and integrity passed. Source-pixel correspondence, allowing the documented colour/crop transformation and high-quality JPEG recompression, was independently checked; no discrepancies remain."
           }
         }
       ]
@@ -74693,7 +74703,7 @@
             ],
             "complete_decode": "passed_without_warnings",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "independent_image_review": "This unchanged image was independently opened and compared with the rendered PDF and raw source object at initial extraction. Composition, crop, orientation, colour and integrity passed. Source-pixel correspondence, allowing the documented colour/crop transformation and high-quality JPEG recompression, was independently checked; no discrepancies remain."
           }
         }
       ]
@@ -74826,7 +74836,7 @@
             ],
             "complete_decode": "passed_without_warnings",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "independent_image_review": "This unchanged image was independently opened and compared with the rendered PDF and raw source object at initial extraction. Composition, crop, orientation, colour and integrity passed. Source-pixel correspondence, allowing the documented colour/crop transformation and high-quality JPEG recompression, was independently checked; no discrepancies remain."
           }
         }
       ],
@@ -74887,7 +74897,7 @@
           "alt": "A church doorway framed by stonework and autumn leaves.",
           "caption": null,
           "credit": null,
-          "rights_note": "Original embedded image object 129 on printed page 36; raw object, page paint order, clipping and graphics state inspected. The sole CalRGB image already contains the title, byline and translucent reading panel. No clean underlying photograph, soft mask, transparency group or alternative image exists in the PDF, and no exact reversible blend could be established. No meaningful unobstructed crop preserves the complete doorway composition. These irreversibly flattened overlays are retained under the documented AGENTS.md exception; the exported raster must not be described as overlay-free. The poem, mailing panel, postal box and publisher typography are separately painted and omitted. The source placement extends beyond the page; native pixel crop [18,19,630,811] reproduces the published 612×792 page crop to nearest source pixels. No image-specific credit or reuse restriction is printed. The page-2 masthead states “Some images © 2001-2004 www.arttoday.com” without identifying which images; no individual attribution or licence is inferred. No generation, inpainting, cloning, healing or material retouching was used.",
+          "rights_note": "Original PDF image object 129 on page 36 was the sole CalRGB raster and contained the title/byline and translucent panel. Initial extraction converted CalRGB to sRGB and cropped [18,19,630,811] to the complete published 612×792 view, omitting separately painted poem and mailing typography. The requested edit now removes the flattened overlays as well. On 2026-10-01 the project owner explicitly requested removal of this image’s text and overlays in PR #83. The built-in image editing tool reconstructed obscured areas while retaining the full composition and original output dimensions. This is an authorized AI-edited derivative, not exact recovery of hidden PDF pixels; fine details and textures may differ from the source. No image-specific credit or reuse restriction is printed. The page-2 masthead states “Some images © 2001-2004 www.arttoday.com” without identifying which images; no individual attribution or licence is inferred.",
           "transformation": {
             "source_object": 129,
             "source_dimensions": [
@@ -74907,17 +74917,25 @@
             "rotation_degrees": 0,
             "flip": null,
             "color_encoding": "RGB/sRGB",
-            "method": "MuPDF converts the declared CalRGB white point, gamma and matrix to sRGB; source raster cropped [18,19,630,811] to published page bounds, retaining native resolution and orientation, then encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+            "method": "User-authorized built-in image editing removes the flattened text and layout panels from the original export and reconstructs the obscured picture. The complete generated composition is resampled without cropping to the existing dimensions and encoded as a baseline RGB/sRGB JPEG, quality 94, nonzero 72 dpi density. Original PDF object dimensions and crop remain recorded as source provenance.",
             "omitted_layout_overlays": [
               "separate poem text",
               "mailing panel",
               "postal box",
               "publisher typography"
             ],
-            "unavoidable_flattened_overlays": [
+            "unavoidable_flattened_overlays": [],
+            "removed_flattened_overlays": [
               "baked title and byline",
               "baked translucent reading panel"
-            ]
+            ],
+            "authorized_edit": {
+              "date": "2026-10-01",
+              "authorization": "Project owner explicitly requested text and overlay removal from this canonical image in PR #83.",
+              "tool": "built-in image_gen",
+              "prompt_summary": "Remove all lettering, translucent reading panels and borders; preserve the full composition, aspect ratio, natural scene and framing. Reconstruct obscured details. No crop or new typography.",
+              "pixel_fidelity": "AI reconstruction; not exact recovery of the pixels hidden by the flattened overlays."
+            }
           },
           "verification": {
             "visual_against_pdf": "verified_by_ai",
@@ -74928,8 +74946,9 @@
               "FFmpeg"
             ],
             "complete_decode": "passed_without_warnings",
-            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): final encoded file fully decoded, painted and read back; browser-rendered PNG opened and visually compared with the source object and published PDF page, including centre, edges and corners.",
-            "independent_image_review": "Two additional AI readers independently opened and compared all ten final exports with the rendered PDF and raw source objects; composition, crop, orientation, colour, integrity and documented baked-overlay exceptions passed. The independent inventory reviewer confirmed that the PNGs preserve exact source pixels and JPEG transforms correspond within high-quality recompression; no discrepancies remain."
+            "browser_compatible_renderer": "The updated JPEG was fully decoded, painted and read back with Skia Canvas (@napi-rs/canvas); the rendered output was opened and visually checked for clean edges, colours, complete composition and absence of typography/panels.",
+            "independent_image_review": "Two AI readers independently opened both corrected final JPEGs and compared them with their original exports: all title/byline text, rectangular panels and borders are removed, the complete compositions and original dimensions remain, and no cropping, corruption or truncation is visible. The judgment image’s flat lower flame overlay is replaced by coherent illustrated fire. Reconstructed areas and fine detail are explicitly treated as AI synthesis, not source-exact pixels.",
+            "source_fidelity_note": "On 2026-10-01 the project owner explicitly requested removal of this image’s text and overlays in PR #83. The built-in image editing tool reconstructed obscured areas while retaining the full composition and original output dimensions. This is an authorized AI-edited derivative, not exact recovery of hidden PDF pixels; fine details and textures may differ from the source."
           }
         }
       ],
@@ -74941,8 +74960,9 @@
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
-        "inventory_note": "The entire back-page poem, heading, byline, illustration and final line visually examined for permission restrictions; none found. Title and byline are visible in the raster despite their absence from the text-layer aid. All four stanzas and intentional 8/8/8/4 line structure, capitalization and punctuation visually compared against page36. Source Ante-Chamber and all apostrophes retained. The magazine/address/postage panel is excluded mailing furniture. The full-page church entrance photograph belongs to the poem and passed independent visual, decoder and renderer checks. Its sole base raster irreversibly contains the title/byline and translucent panel; these unavoidable overlays are explicitly documented in its image metadata.",
-        "independent_text_review": "A second AI reader visually compared the complete HTML and metadata against every source page, including nonconsecutive continuations, wording, punctuation, paragraph order and meaningful formatting; no unresolved discrepancies."
+        "inventory_note": "The entire back-page poem, heading, byline, illustration and final line visually examined for permission restrictions; none found. Title and byline are visible in the raster despite their absence from the text-layer aid. All four stanzas and intentional 8/8/8/4 line structure, capitalization and punctuation visually compared against page36. Source Ante-Chamber and all apostrophes retained. The magazine/address/postage panel is excluded mailing furniture. The full-page church entrance photograph belongs to the poem and passed independent visual, decoder and renderer checks. Its original base raster contained a flattened title/byline and translucent panel; on 2026-10-01 the project owner requested their removal, and the canonical image was replaced with an explicitly documented AI-edited derivative. Both the final JPEG and its full composition passed fresh visual and decoding checks.",
+        "independent_text_review": "A second AI reader visually compared the complete HTML and metadata against every source page, including nonconsecutive continuations, wording, punctuation, paragraph order and meaningful formatting; no unresolved discrepancies.",
+        "image_edit_note": "On 2026-10-01 the project owner explicitly requested removal of this image’s text and overlays in PR #83. The built-in image editing tool reconstructed obscured areas while retaining the full composition and original output dimensions. This is an authorized AI-edited derivative, not exact recovery of hidden PDF pixels; fine details and textures may differ from the source."
       },
       "issue_id": "7e2fda69-4f9b-450f-815c-39c3200bb634"
     }
