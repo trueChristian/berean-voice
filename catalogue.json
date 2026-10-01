@@ -2895,6 +2895,685 @@
         ],
         "validation_note": "13 eligible articles/poems and 34 canonical image exports; no restricted articles. Visual text/formatting review complete. All 36 census pages reconcile; every export is indexed and referenced once. Complete Pillow and FFmpeg decodes without warnings; all 13 HTML fragments and 34 images load and rasterize in Chromium 153.0.8010.0. Repository validator and all 45 tests pass. No unresolved transcription reading; individual stock sources and documented baked image treatments remain as source limitations."
       }
+    },
+    {
+      "id": "5506718d-515a-46be-9107-b916f8f90710",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "March / April 2006",
+        "year": 2006,
+        "months": [
+          3,
+          4
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 12,
+      "issue_number": 2,
+      "source": {
+        "filename": "2006-03-04-remnant.pdf",
+        "sha256": "b5d604e0f898545bcd7d2ee98684173546daba5bcb075a5bccec423b3e739e35",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2006-03",
+      "slug": "heartbeat-remnant-2006-03",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "All 36 PDF pages visually reviewed in reading order. Eleven contents entries plus the three-letter reader column and untitled back-cover Scripture passage yield 13 included pieces and 21 image exports. No article-specific reuse restriction detected through any final line, continuation, associated graphic or note; no new skipped records. Source content-page title The Influence of Family Worship on Children overrides the contents wording Family Devotions. Instructions for a Godly Woman continues nonconsecutively from pages 6–15 to the lower page-20 panel and has an ordered pages array. Cover, contents/masthead/thumbnails and back-cover mailing/postage matter excluded. Source errors, punctuation, emphasis, headings, acrostic, sign-offs, Scripture wording and meaningful lineation retained. Repeated pull quotes represented once in body. All category/topic IDs reused; no new categories, topics or series. The repeated pale flower is exported once; its intrinsic unrecoverable fade is explicitly documented. Mailbox/cloud images use faithful unobstructed source-pixel crops. Individual stock sources and licences are not identified by the issue-level image credit.",
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 234,
+                "description": "Front-cover composite artwork",
+                "owner": "cover",
+                "disposition": "omitted under issue-inventory cover exclusion"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 4,
+                "description": "Contents thumbnail for The Napkin About Christ’s Head",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 5,
+                "description": "Contents thumbnail for The Birth of a Fellowship",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 6,
+                "description": "Contents thumbnail for The Intrusion of Natural Life in the Service of God",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 7,
+                "description": "Contents thumbnail for The Holy Kiss",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 8,
+                "description": "Contents thumbnail for The Gift of a Praying Mother",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 9,
+                "description": "Contents thumbnail for The Influence of Family Worship on Children",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 10,
+                "description": "Contents thumbnail for Instructions for a Godly Woman",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              },
+              {
+                "source_object_xref": 11,
+                "description": "Contents thumbnail for The Principle of Praying Thrice",
+                "owner": "table of contents",
+                "disposition": "omitted under issue-inventory table-of-contents exclusion"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 15,
+                "description": "Drawing of a folded embroidered cloth",
+                "owner": "The Napkin About Christ’s Head",
+                "article_id": "ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd-1.jpg"
+              },
+              {
+                "source_object_xref": 16,
+                "description": "Illustration of a robed figure in a rocky tomb",
+                "owner": "The Napkin About Christ’s Head",
+                "article_id": "ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 20,
+                "description": "Congregation gathered for a group photograph",
+                "owner": "The Birth of a Fellowship",
+                "article_id": "00de9685-1bb3-4264-ac2d-e6f933840c59",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 24,
+                "description": "A man baptizing another man in water",
+                "owner": "The Birth of a Fellowship",
+                "article_id": "00de9685-1bb3-4264-ac2d-e6f933840c59",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-2.jpg"
+              },
+              {
+                "source_object_xref": 25,
+                "description": "A speaker addressing a seated congregation",
+                "owner": "The Birth of a Fellowship",
+                "article_id": "00de9685-1bb3-4264-ac2d-e6f933840c59",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem background",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 147,
+                "description": "Pale flower and stem behind pull quote",
+                "owner": "Instructions for a Godly Woman",
+                "article_id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "canonical_export": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 61,
+                "description": "Family members gathered with open books in a home",
+                "owner": "The Influence of Family Worship on Children",
+                "article_id": "327747e0-4fa9-413a-ba74-c48f5eae9c42",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 65,
+                "description": "Family gathered around a table while a man reads from a book",
+                "owner": "The Influence of Family Worship on Children",
+                "article_id": "327747e0-4fa9-413a-ba74-c48f5eae9c42",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 69,
+                "description": "Adults and children gathered around a table with hands clasped",
+                "owner": "The Influence of Family Worship on Children",
+                "article_id": "327747e0-4fa9-413a-ba74-c48f5eae9c42",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-3.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 73,
+                "description": "A seated man and woman with a young child between them in a home",
+                "owner": "The Influence of Family Worship on Children",
+                "article_id": "327747e0-4fa9-413a-ba74-c48f5eae9c42",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-4.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visual_inspection": "completed",
+            "visible_images": [],
+            "finding": "No photograph, illustration, article background, collage constituent, or score present; only text and separable layout furniture.",
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 80,
+                "description": "Mother and children seated around a table with bowed heads",
+                "owner": "The Gift of a Praying Mother",
+                "article_id": "d84344f8-d9cd-4c1d-8127-9dab43185b06",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/d84344f8-d9cd-4c1d-8127-9dab43185b06-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 84,
+                "description": "Uniformed officer facing four men",
+                "owner": "“Shall I enter the Army?”",
+                "article_id": "166333d2-71f7-449e-9321-1e66840ed100",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/166333d2-71f7-449e-9321-1e66840ed100-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visual_inspection": "completed",
+            "visible_images": [],
+            "finding": "No photograph, illustration, article background, collage constituent, or score present; only text and separable layout furniture.",
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 91,
+                "description": "Two women greeting one another outdoors",
+                "owner": "The Holy Kiss",
+                "article_id": "a2df2f39-2114-4cb7-862d-b7a6319fda62",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/a2df2f39-2114-4cb7-862d-b7a6319fda62-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visual_inspection": "completed",
+            "visible_images": [],
+            "finding": "No photograph, illustration, article background, collage constituent, or score present; only text and separable layout furniture.",
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 98,
+                "description": "A man greeting another man with a kiss among a group of robed men",
+                "owner": "The Holy Kiss",
+                "article_id": "a2df2f39-2114-4cb7-862d-b7a6319fda62",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/a2df2f39-2114-4cb7-862d-b7a6319fda62-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visual_inspection": "completed",
+            "visible_images": [],
+            "finding": "No photograph, illustration, article background, collage constituent, or score present; only text and separable layout furniture.",
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visual_inspection": "completed",
+            "visible_images": [],
+            "finding": "No photograph, illustration, article background, collage constituent, or score present; only text and separable layout furniture.",
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 108,
+                "description": "Men in a small boat on a stormy sea",
+                "owner": "Sinking Ship, Does Jesus Care?",
+                "article_id": "2f529a90-827a-4d07-9c2d-1a4aa8fc0eb7",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/2f529a90-827a-4d07-9c2d-1a4aa8fc0eb7-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 112,
+                "description": "Collage showing scientific experiments and experimenters",
+                "owner": "The Intrusion of Natural Life in the Service of God",
+                "article_id": "13c317f2-91dc-4e35-81a8-b4e2fd45a263",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/13c317f2-91dc-4e35-81a8-b4e2fd45a263-1.jpg",
+                "collage_constituents": [
+                  {
+                    "number": 1,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 2,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 3,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 4,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 5,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 6,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 7,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 8,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 9,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  },
+                  {
+                    "number": 10,
+                    "disposition": "preserved within the single intrinsic source collage export"
+                  }
+                ]
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 116,
+                "description": "An ox-drawn cart with men walking beside it",
+                "owner": "The Intrusion of Natural Life in the Service of God",
+                "article_id": "13c317f2-91dc-4e35-81a8-b4e2fd45a263",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/13c317f2-91dc-4e35-81a8-b4e2fd45a263-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 120,
+                "description": "A kneeling man and a standing angel in a wooded setting",
+                "owner": "The Principle of Praying Thrice",
+                "article_id": "692419c1-b3f7-429e-ab4c-f87f23ef3cb4",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/692419c1-b3f7-429e-ab4c-f87f23ef3cb4-1.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 124,
+                "description": "A man praying with other kneeling people behind him",
+                "owner": "The Principle of Praying Thrice",
+                "article_id": "692419c1-b3f7-429e-ab4c-f87f23ef3cb4",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/692419c1-b3f7-429e-ab4c-f87f23ef3cb4-2.jpg"
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "visual_inspection": "completed",
+            "visible_images": [],
+            "finding": "No photograph, illustration, article background, collage constituent, or score present; only text and separable layout furniture.",
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 131,
+                "description": "A mailbox bearing the publication’s name and contact details",
+                "owner": "Precious Letters from Our Readers",
+                "article_id": "ea67134e-49cc-41db-b48f-3fe777d18bda",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/ea67134e-49cc-41db-b48f-3fe777d18bda-1.jpg",
+                "baked_layout_omission": "Section-title lettering and white reading panel omitted using documented unobstructed mailbox crop."
+              }
+            ],
+            "layout_furniture_disposition": "Separately painted rules, panels, frames, shadows, header/footer bars, page numbers, and repeated ornament marks omitted as nonsemantic publisher layout."
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "visual_inspection": "completed",
+            "visible_images": [
+              {
+                "source_object_xref": 135,
+                "description": "Sunset light illuminating clouds",
+                "owner": "Psalms 44:1-8.",
+                "article_id": "388a13e3-6075-4bdd-8dda-1304b5ee92c4",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/388a13e3-6075-4bdd-8dda-1304b5ee92c4-1.jpg",
+                "baked_layout_omission": "Upper baked scripture lettering omitted using documented unobstructed lower-cloud crop; scripture fully transcribed in HTML."
+              }
+            ],
+            "layout_furniture_disposition": "Mailing panel, publication office label, postage permit block, and publication heartbeat mark omitted under mailing-panel/masthead exclusion."
+          }
+        ],
+        "image_census_summary": {
+          "pdf_pages_visually_inspected": 36,
+          "unique_canonical_exports": 21,
+          "eligible_visible_image_occurrences": 30,
+          "repeated_flower_occurrences_represented_by_first_export": 9,
+          "cover_and_contents_image_exclusions": 9,
+          "total_visible_raster_occurrences": 39,
+          "collage": "All ten intrinsic numbered panels on page30 retained together in one canonical collage export.",
+          "balance": "21 exported +9 repeated occurrences +9 cover/TOC exclusions =39 source raster occurrences; non-image vector and font furniture explicitly excluded.",
+          "overlay_exceptions": [
+            "Pale fade intrinsic to sole flower source raster retained exactly.",
+            "Baked title and reading-panel removed by meaningful unobstructed mailbox crop.",
+            "Baked scripture removed by meaningful unobstructed cloud crop; scripture transcribed in HTML."
+          ],
+          "credit_uncertainty": "No separate article-image credits are printed. Intrinsic artwork markings/signatures retained without inventing identities or licences. General masthead stock/photo credit is not assigned to individual images."
+        },
+        "validation_note": "All text and meaningful formatting visually compared against high-resolution PDF renders. All 21 final image exports source-object/overlay checked; full Pillow, MuPDF and ImageMagick decodes pass without warnings. All assets rendered successfully through LibreOffice Writer/Web HTML import and Poppler, with original raster dimensions, RGB source JPEGs and no missing, inverted, truncated or distorted image. No Chromium claim. All assets indexed/referenced once; the 36-page census balances. Repository validator and all 45 regression tests pass. No unresolved source wording; individual image sources/signature identities and intrinsic flower fade remain documented source limitations."
+      }
     }
   ],
   "categories": [

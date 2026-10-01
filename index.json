@@ -55795,6 +55795,1410 @@
         "image_encoding_note": "Every final asset visually inspected against the rendered PDF and source image object at useful resolution. All assets fully decoded without warnings in Pillow and FFmpeg and loaded, decoded and rasterized in Chromium 153.0.8010.0. All JPEGs are baseline RGB/sRGB with nonzero 72 dpi density; no CMYK source or inversion. Crops and unavoidable baked treatments documented per image. Image order and ownership reconcile with the 36-page visual census."
       },
       "language": "en"
+    },
+    {
+      "id": "ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 1,
+      "title": "The Napkin About Christ’s Head",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Andrew Bonar",
+        "authors": [
+          {
+            "name": "Andrew Bonar",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "cfe7e1b2-e5b0-580a-99e2-182f58f55d41"
+      ],
+      "html": {
+        "repository_path": "content/articles/ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd-1.jpg",
+          "public_path": "/images/articles/ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd-1.jpg",
+          "source_page": 3,
+          "role": "illustration",
+          "alt": "Drawing of a folded embroidered cloth",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 15; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 15,
+            "source_pixel_dimensions": [
+              600,
+              687
+            ],
+            "export_pixel_dimensions": [
+              600,
+              687
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            }
+          },
+          "git_blob_sha": "40f35681e15cc21668f186ab8dbb36348156d9d3"
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd-2.jpg",
+          "public_path": "/images/articles/ea488dfe-cd5b-4e2b-b6e2-e18f2bebf4cd-2.jpg",
+          "source_page": 3,
+          "role": "illustration",
+          "alt": "Illustration of a robed figure in a rocky tomb",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 16; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 16,
+            "source_pixel_dimensions": [
+              450,
+              296
+            ],
+            "export_pixel_dimensions": [
+              450,
+              296
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            }
+          },
+          "git_blob_sha": "5f919f2cc281aab868b0af34a95f682a17d0330e"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete page-3 text and opening scripture visually checked; source opening quotation mark after itself and ellipsis retained. Two illustrations precede body; publisher frame omitted. No restriction notice.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "00de9685-1bb3-4264-ac2d-e6f933840c59",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 2,
+      "title": "The Birth of a Fellowship",
+      "subtitle": "Valley Christian Fellowship\nHalsey, Oregon",
+      "section": null,
+      "byline": {
+        "raw": "by Matthew Milioni",
+        "authors": [
+          {
+            "name": "Matthew Milioni",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 5
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285"
+        ]
+      },
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ],
+      "html": {
+        "repository_path": "content/articles/00de9685-1bb3-4264-ac2d-e6f933840c59.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-1.jpg",
+          "public_path": "/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-1.jpg",
+          "source_page": 4,
+          "role": "photograph",
+          "alt": "Congregation gathered for a group photograph",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 20; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 20,
+            "source_pixel_dimensions": [
+              597,
+              384
+            ],
+            "export_pixel_dimensions": [
+              594,
+              381
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              1,
+              1,
+              595,
+              382
+            ]
+          },
+          "git_blob_sha": "276ccda3af84696ccae3a61545661cfc9333bcaf"
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-2.jpg",
+          "public_path": "/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-2.jpg",
+          "source_page": 5,
+          "role": "photograph",
+          "alt": "A man baptizing another man in water",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 24; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 24,
+            "source_pixel_dimensions": [
+              405,
+              372
+            ],
+            "export_pixel_dimensions": [
+              403,
+              369
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              1,
+              1,
+              404,
+              370
+            ]
+          },
+          "git_blob_sha": "bd2a15b753554bada2fb6a0d8d74a39ff6be5095"
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-3.jpg",
+          "public_path": "/images/articles/00de9685-1bb3-4264-ac2d-e6f933840c59-3.jpg",
+          "source_page": 5,
+          "role": "photograph",
+          "alt": "A speaker addressing a seated congregation",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 25; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 25,
+            "source_pixel_dimensions": [
+              508,
+              392
+            ],
+            "export_pixel_dimensions": [
+              505,
+              389
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              2,
+              1,
+              507,
+              390
+            ]
+          },
+          "git_blob_sha": "e45d1c30513bd5f3d68c16797920896eea74b1d2"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete two-page article, italic editor introduction and Bro. Dean sign-off retained. Source folowing, his and like such preserved, and move emphasis retained. Printed subtitle location Halsey, Oregon is the fellowship location, not inferred author location. Three photographs accounted; no restriction notice.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 3,
+      "title": "Instructions for a Godly Woman",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Helen Leibee",
+        "authors": [
+          {
+            "name": "Helen Leibee",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 6,
+        "end": 20,
+        "pages": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          20
+        ]
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "976a7e08-e662-50b6-a13d-c787f72c7666",
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "be5ecbbb-b97b-5534-b066-beb46cabe236",
+        "544542a5-c0c5-538f-88f9-26c76b329d70",
+        "81468553-1f19-5fc5-a56d-910096930064",
+        "8b345ddb-8046-5651-b04f-924af67af18b",
+        "112f373a-5505-599b-b945-2e35ced472c4"
+      ],
+      "html": {
+        "repository_path": "content/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg",
+          "public_path": "/images/articles/ca57e4d5-8b04-4b42-b0d8-2e384e3be5b3-1.jpg",
+          "source_page": 6,
+          "role": "decorative background",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 147; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. The pale grayscale fade is irreversibly present in the sole source raster; retained exactly without contrast restoration. Separate pull-quote lettering and heading panels omitted. Same image represented once for printed pages 6–15. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 147,
+            "source_pixel_dimensions": [
+              429,
+              795
+            ],
+            "export_pixel_dimensions": [
+              426,
+              794
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              2,
+              0,
+              428,
+              794
+            ]
+          },
+          "git_blob_sha": "ef3a06b12cc87b7ac961b15cb2399ca7f6f5537b"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article on pages 6–15 and nonconsecutive continuation on page 20, including the italic editorial introduction, six-line underlined-letter acrostic, all eighteen numbered teachings, scripture quotations and closing paragraph. Visually rechecked every page at 216 dpi. Exact source wording and punctuation retained, including “ladie's”, “us-”, “we’re neglected”, “go her”, “you to wicked things”, “with they’re older”, and “overhead”. Paragraph, quote, bold, italic and underline structure compared with the PDF. Repeated pull quotes omitted because they repeat the body; the bracketed clarification “[your husband]” in the page-14 pull quote adds no distinct substantive text. Running article headings, continuation labels and terminal article-end ornament omitted as print furniture. Every page 6–15 uses the same daisy and stem; exported once from page 6 and placed after the editorial introduction. No image belongs to the article’s page-20 continuation. Pale source-raster fade retained explicitly; separate quote typography and header panels omitted.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "327747e0-4fa9-413a-ba74-c48f5eae9c42",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 4,
+      "title": "The Influence of Family Worship on Children",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Taken from The Family\nby B. M. Palmer & J. W. Alexander",
+        "authors": [
+          {
+            "name": "B. M. Palmer",
+            "location": null
+          },
+          {
+            "name": "J. W. Alexander",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 20
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [
+        "8ed108f9-3ccb-5850-af9d-7b0b089bf935",
+        "ccdcfb82-dfbd-5f30-b4e5-e4b2e94a3081",
+        "bab57494-d427-59dd-b225-fb93dc2a2cad"
+      ],
+      "html": {
+        "repository_path": "content/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-1.jpg",
+          "public_path": "/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-1.jpg",
+          "source_page": 16,
+          "role": "illustration",
+          "alt": "Family members gathered with open books in a home",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 61; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 61,
+            "source_pixel_dimensions": [
+              600,
+              545
+            ],
+            "export_pixel_dimensions": [
+              600,
+              545
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            }
+          },
+          "git_blob_sha": "1d72464fda8e0035a352240635ec6b9faa1f33a7"
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-2.jpg",
+          "public_path": "/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-2.jpg",
+          "source_page": 17,
+          "role": "illustration",
+          "alt": "Family gathered around a table while a man reads from a book",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 65; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. The below-image text is a duplicate body pull quote; omitted from the image and not duplicated as a caption. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 65,
+            "source_pixel_dimensions": [
+              612,
+              494
+            ],
+            "export_pixel_dimensions": [
+              611,
+              492
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              0,
+              0,
+              611,
+              492
+            ]
+          },
+          "git_blob_sha": "20f0f844d8185c1179ed72e492363ce6fcbd17df"
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-3.jpg",
+          "public_path": "/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-3.jpg",
+          "source_page": 18,
+          "role": "illustration",
+          "alt": "Adults and children gathered around a table with hands clasped",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 69; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. The below-image text is a duplicate body pull quote; omitted from the image and not duplicated as a caption. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 69,
+            "source_pixel_dimensions": [
+              572,
+              728
+            ],
+            "export_pixel_dimensions": [
+              570,
+              723
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              0,
+              2,
+              570,
+              725
+            ]
+          },
+          "git_blob_sha": "f4376dd2cf37973ac584d0cc5ca15a69c45d54bc"
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-4.jpg",
+          "public_path": "/images/articles/327747e0-4fa9-413a-ba74-c48f5eae9c42-4.jpg",
+          "source_page": 19,
+          "role": "illustration",
+          "alt": "A seated man and woman with a young child between them in a home",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 73; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 73,
+            "source_pixel_dimensions": [
+              437,
+              283
+            ],
+            "export_pixel_dimensions": [
+              435,
+              281
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              1,
+              0,
+              436,
+              281
+            ]
+          },
+          "git_blob_sha": "08d385c745d712a02e552746e14c8cc9d81ff884"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article on printed pages 16–20 visually checked at 180 dpi through its final line above the unrelated Instructions for a Godly Woman continuation. Content-page title “The Influence of Family Worship on Children” is authoritative; the contents uses “The Influence of Family Devotions on Children”. Repeated pull quotes below the page 17 and 18 illustrations reproduce existing body text and are represented only once. Four illustrations on pages 16, 17, 18 and 19 belong to this article; page 20 has no image. Source forms including “it’s”, “ad”, “foe”, “child-hood”, “delighter”, lowercase “but” and “no”, “patience”, “time- wasting”, “fashion that to”, and “hide then” are preserved. Only discretionary line-end hyphens, column/page breaks and magazine furniture are normalized; the final square is an end marker. The italic phrase “any thing” is retained.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "d84344f8-d9cd-4c1d-8127-9dab43185b06",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 5,
+      "title": "The Gift of a Praying Mother",
+      "subtitle": "In The conversion of preacher T. DeWitt Talmage.",
+      "section": null,
+      "byline": {
+        "raw": "from Herald of His Coming",
+        "authors": []
+      },
+      "source_pages": {
+        "start": 21,
+        "end": 21
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "9690a7f5-1591-5eaa-b967-4015215c3661",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "05c2dfac-6ad8-5ea0-99ef-d6022f8cb346",
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ],
+      "html": {
+        "repository_path": "content/articles/d84344f8-d9cd-4c1d-8127-9dab43185b06.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d84344f8-d9cd-4c1d-8127-9dab43185b06-1.jpg",
+          "public_path": "/images/articles/d84344f8-d9cd-4c1d-8127-9dab43185b06-1.jpg",
+          "source_page": 21,
+          "role": "illustration",
+          "alt": "Mother and children seated around a table with bowed heads",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 80; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 80,
+            "source_pixel_dimensions": [
+              542,
+              446
+            ],
+            "export_pixel_dimensions": [
+              542,
+              446
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            }
+          },
+          "git_blob_sha": "030b434a02fe453bd616186ad84d5361f96412d7"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete page 21 visually checked at 180 dpi, including title, exact subtitle capitalization, source credit and final line. The printed credit identifies Herald of His Coming without naming an author. One mother-and-children illustration precedes the article body; no caption or individual image credit is printed. Dialogue is printed without quotation marks and is preserved that way. Only line/column breaks, discretionary line-end hyphens and magazine furniture are normalized; the final square is an end marker.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "166333d2-71f7-449e-9321-1e66840ed100",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 6,
+      "title": "“Shall I enter the Army?”",
+      "subtitle": "Moody said, “No.”",
+      "section": null,
+      "byline": {
+        "raw": "Published by Christian Printing Mission",
+        "authors": []
+      },
+      "publication_note": "Published by Christian Printing Mission",
+      "source_pages": {
+        "start": 22,
+        "end": 23
+      },
+      "categories": {
+        "primary": "0648d4df-242a-5815-8d22-08b555d1b542",
+        "additional": []
+      },
+      "topics": [
+        "7e8708a8-3052-558a-89b8-673ed9a25354",
+        "34cb039a-29ad-571e-8600-3a6ca6ddb54b",
+        "9bb25764-72c4-5ffa-98de-ea207fdbe27f",
+        "57581b6f-1031-542e-b42a-cead4c68b4df",
+        "0340164f-6a52-520d-9306-954c5b73592e"
+      ],
+      "html": {
+        "repository_path": "content/articles/166333d2-71f7-449e-9321-1e66840ed100.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/166333d2-71f7-449e-9321-1e66840ed100-1.jpg",
+          "public_path": "/images/articles/166333d2-71f7-449e-9321-1e66840ed100-1.jpg",
+          "source_page": 22,
+          "role": "illustration",
+          "alt": "Uniformed officer facing four men",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 84; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. The small artist signature intrinsic to the source drawing is retained; no separate image credit or reuse restriction is printed. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 84,
+            "source_pixel_dimensions": [
+              750,
+              495
+            ],
+            "export_pixel_dimensions": [
+              750,
+              495
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            }
+          },
+          "git_blob_sha": "12c285a889176734f5a98f65faec7b71767cbc66"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article visually transcribed through the final line on printed pages 22-23. One p22 military-recruit illustration belongs to this article. The p23 decorative pull quote repeats the concluding body excerpt and adds only a clarifying Jesus referent; represented by the complete body wording rather than duplicated. Exact title, subtitle and publication credit retained; no author is inferred from the publisher credit. Meaningful hyphens in Anti-slavery and pro-Union retained; discretionary line-end hyphens removed. No article-specific restriction appears in the complete text or illustration.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "a2df2f39-2114-4cb7-862d-b7a6319fda62",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 7,
+      "title": "The Holy Kiss",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Michael McDaniel",
+        "authors": [
+          {
+            "name": "Michael McDaniel",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 28
+      },
+      "categories": {
+        "primary": "8d7646c9-072b-51ea-a1ef-cff3f7f50285",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "b1967c86-e604-5461-ae26-5d0702131447",
+        "150478c8-ef1d-5854-9c9a-e6bd22693ac0",
+        "b23f78ff-d094-5fb4-bb62-cab82040c7d7",
+        "89c5a9d7-0aa4-5760-bfe6-f868626b6d91",
+        "5b1a4ec7-7110-52ec-86a0-ffbc457e3a8f"
+      ],
+      "html": {
+        "repository_path": "content/articles/a2df2f39-2114-4cb7-862d-b7a6319fda62.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a2df2f39-2114-4cb7-862d-b7a6319fda62-1.jpg",
+          "public_path": "/images/articles/a2df2f39-2114-4cb7-862d-b7a6319fda62-1.jpg",
+          "source_page": 24,
+          "role": "photograph",
+          "alt": "Two women greeting one another outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 91; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 91,
+            "source_pixel_dimensions": [
+              380,
+              366
+            ],
+            "export_pixel_dimensions": [
+              379,
+              364
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              0,
+              1,
+              379,
+              365
+            ]
+          },
+          "git_blob_sha": "71fb263ebb131cd06c71f725c97d034a3c594726"
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/a2df2f39-2114-4cb7-862d-b7a6319fda62-2.jpg",
+          "public_path": "/images/articles/a2df2f39-2114-4cb7-862d-b7a6319fda62-2.jpg",
+          "source_page": 26,
+          "role": "illustration",
+          "alt": "A man greeting another man with a kiss among a group of robed men",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 98; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. The below-image text is a duplicate body pull quote; omitted from the image and not duplicated as a caption. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 98,
+            "source_pixel_dimensions": [
+              733,
+              490
+            ],
+            "export_pixel_dimensions": [
+              730,
+              488
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              2,
+              1,
+              732,
+              489
+            ]
+          },
+          "git_blob_sha": "97292d56ae22ab27fcfa032a3938d8be39bfe6c4"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article visually transcribed through the final line on printed pages 24-28. The p24 greeting photograph and p26 greeting illustration are its only source images. The p26 decorative under-image pull quote duplicates the body paragraph under 2. One Another (brethren), so retained once in the body and not duplicated as a caption. The four numbered key-word sections and three numbered interpretation subsections, italic quotations, underlining, bold emphasis and 2nd superscript preserve source structure. The final Greet YE statement on p27 has no printed bullet and remains a separate paragraph. Printed missing spaces, double full stop, incomplete opening quotations, capitalization and scripture-reference errors are retained exactly. No article-specific restriction appears anywhere in the five-page article.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "2f529a90-827a-4d07-9c2d-1a4aa8fc0eb7",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 8,
+      "title": "Sinking Ship",
+      "subtitle": "Does Jesus Care?",
+      "section": null,
+      "byline": {
+        "raw": "by Alan Redpath",
+        "authors": [
+          {
+            "name": "Alan Redpath",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 29
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8",
+        "8ada4a0d-a538-532f-a615-13434b3cd997"
+      ],
+      "html": {
+        "repository_path": "content/articles/2f529a90-827a-4d07-9c2d-1a4aa8fc0eb7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/2f529a90-827a-4d07-9c2d-1a4aa8fc0eb7-1.jpg",
+          "public_path": "/images/articles/2f529a90-827a-4d07-9c2d-1a4aa8fc0eb7-1.jpg",
+          "source_page": 29,
+          "role": "illustration",
+          "alt": "Men in a small boat on a stormy sea",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 108; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 108,
+            "source_pixel_dimensions": [
+              685,
+              497
+            ],
+            "export_pixel_dimensions": [
+              684,
+              496
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              1,
+              0,
+              685,
+              496
+            ]
+          },
+          "git_blob_sha": "c2cbfff052ae260915bbe2adc63516d259ed404b"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire page-29 article visually verified at 216 dpi. The printed errors “in s spirit”, “gong”, unpaired closing quote in the final paragraph, and two-dot ellipsis after “destruction.” are preserved. One storm/rowing illustration belongs to the article.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "13c317f2-91dc-4e35-81a8-b4e2fd45a263",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 9,
+      "title": "The INTRUSION of Natural Life in the Service of GOD",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by T. Austin-Sparks",
+        "authors": [
+          {
+            "name": "T. Austin-Sparks",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 31
+      },
+      "categories": {
+        "primary": "8d7646c9-072b-51ea-a1ef-cff3f7f50285",
+        "additional": []
+      },
+      "topics": [
+        "e763b632-f673-547f-afb3-186d486db0cc",
+        "c09be55d-9b4d-56ff-bde4-5d80920e74da",
+        "1adc5bef-6efc-5d8b-821f-01a4bf96ffea"
+      ],
+      "html": {
+        "repository_path": "content/articles/13c317f2-91dc-4e35-81a8-b4e2fd45a263.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/13c317f2-91dc-4e35-81a8-b4e2fd45a263-1.jpg",
+          "public_path": "/images/articles/13c317f2-91dc-4e35-81a8-b4e2fd45a263-1.jpg",
+          "source_page": 30,
+          "role": "collage",
+          "alt": "Collage showing scientific experiments and experimenters",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 112; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. The ten numbered constituent illustrations are intrinsic parts of a single source collage and remain together in one canonical export. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 112,
+            "source_pixel_dimensions": [
+              351,
+              450
+            ],
+            "export_pixel_dimensions": [
+              351,
+              450
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            }
+          },
+          "git_blob_sha": "af146c44c85d690fbb90f934b9ed357c7d3d47b4"
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/13c317f2-91dc-4e35-81a8-b4e2fd45a263-2.jpg",
+          "public_path": "/images/articles/13c317f2-91dc-4e35-81a8-b4e2fd45a263-2.jpg",
+          "source_page": 31,
+          "role": "illustration",
+          "alt": "An ox-drawn cart with men walking beside it",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 116; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 116,
+            "source_pixel_dimensions": [
+              450,
+              260
+            ],
+            "export_pixel_dimensions": [
+              450,
+              260
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            }
+          },
+          "git_blob_sha": "251df805b6168f30fc0898faa4da1799a8ebebad"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Both complete pages visually verified at 216 dpi. Three-column reading order and page-spanning paragraph retained; source “meansof”, “God’ s”, “that he dies”, “utterness”, paired apostrophe quotation marks and the mismatched closing quotation mark after “that differ” remain as printed. Two illustrations belong to the article.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "692419c1-b3f7-429e-ab4c-f87f23ef3cb4",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 10,
+      "title": "The Principle of Praying Thrice",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Watchman Nee",
+        "authors": [
+          {
+            "name": "Watchman Nee",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": []
+      },
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "c31d253f-48f8-53a3-a511-66372a6a5ac8"
+      ],
+      "html": {
+        "repository_path": "content/articles/692419c1-b3f7-429e-ab4c-f87f23ef3cb4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/692419c1-b3f7-429e-ab4c-f87f23ef3cb4-1.jpg",
+          "public_path": "/images/articles/692419c1-b3f7-429e-ab4c-f87f23ef3cb4-1.jpg",
+          "source_page": 32,
+          "role": "illustration",
+          "alt": "A kneeling man and a standing angel in a wooded setting",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 120; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 120,
+            "source_pixel_dimensions": [
+              287,
+              433
+            ],
+            "export_pixel_dimensions": [
+              283,
+              429
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              2,
+              2,
+              285,
+              431
+            ]
+          },
+          "git_blob_sha": "7b2cbf700169837bd4793da5cedcb5cd801706d4"
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/692419c1-b3f7-429e-ab4c-f87f23ef3cb4-2.jpg",
+          "public_path": "/images/articles/692419c1-b3f7-429e-ab4c-f87f23ef3cb4-2.jpg",
+          "source_page": 33,
+          "role": "illustration",
+          "alt": "A man praying with other kneeling people behind him",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 124; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. Publisher clipping rectangle reproduced to nearest intrinsic-pixel boundaries. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 124,
+            "source_pixel_dimensions": [
+              450,
+              314
+            ],
+            "export_pixel_dimensions": [
+              450,
+              313
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              0,
+              0,
+              450,
+              313
+            ]
+          },
+          "git_blob_sha": "b28d425868a9c270e1bb236297338289a0fa5664"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Both complete pages and two introductory scripture quotations visually verified at 216 dpi. Page-spanning paragraph and published “heard-at”, unpaired final scripture closing quote, and “(Matt.18.19)” are preserved. Two prayer illustrations belong to the article.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "00005b81-257e-4cbb-b57c-c2a805483312",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 11,
+      "title": "The Angel of the LORD",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": []
+      },
+      "topics": [
+        "e586bda8-3e92-56c9-9629-4bbed47922f3"
+      ],
+      "html": {
+        "repository_path": "content/articles/00005b81-257e-4cbb-b57c-c2a805483312.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire page-34 story, opening Psalm epigraph, two closing scripture quotations, paragraph divisions and exact italic spans visually verified at 216 dpi. No byline is printed. No images occur on this page; the gray panel, rounded corners and black title bar are print furniture. The narrative phrase “asked permission to look through” does not concern copying or reuse.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "ea67134e-49cc-41db-b48f-3fe777d18bda",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 12,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": null,
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/ea67134e-49cc-41db-b48f-3fe777d18bda.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/ea67134e-49cc-41db-b48f-3fe777d18bda-1.jpg",
+          "public_path": "/images/articles/ea67134e-49cc-41db-b48f-3fe777d18bda-1.jpg",
+          "source_page": 35,
+          "role": "photograph",
+          "alt": "A mailbox bearing the publication’s name and contact details",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 131; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. The sole source raster has a baked section-title banner and a large faded white reading panel. A meaningful unobstructed crop preserves the mailbox and its intrinsic printed markings while omitting the banner and panel. No source pixels reconstructed. Converted L source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 131,
+            "source_pixel_dimensions": [
+              1050,
+              522
+            ],
+            "export_pixel_dimensions": [
+              450,
+              215
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              65,
+              0,
+              515,
+              215
+            ]
+          },
+          "git_blob_sha": "be15ff13d57cfda6fbf94e6ca10a11c42020db3f"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete raster introductory invitation and three letters visually verified, left-to-right in column order. Mixed opinions text is a unique editorial subheading. Printed May Jo and Mary Jo difference preserved; ellipses and four-dot punctuation checked at high resolution. Letter sign-offs remain in body; ornamental diamond separators represented as semantic separation. No restriction notice.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
+    },
+    {
+      "id": "388a13e3-6075-4bdd-8dda-1304b5ee92c4",
+      "issue_id": "5506718d-515a-46be-9107-b916f8f90710",
+      "sequence": 13,
+      "title": null,
+      "subtitle": null,
+      "section": null,
+      "byline": null,
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "b39a977d-c495-5061-b773-971cf4a191ce",
+        "85cb5d71-76ce-501c-ac9b-6e8263d78ccf"
+      ],
+      "html": {
+        "repository_path": "content/articles/388a13e3-6075-4bdd-8dda-1304b5ee92c4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/388a13e3-6075-4bdd-8dda-1304b5ee92c4-1.jpg",
+          "public_path": "/images/articles/388a13e3-6075-4bdd-8dda-1304b5ee92c4-1.jpg",
+          "source_page": 36,
+          "role": "background photograph",
+          "alt": "Sunset light illuminating clouds",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 135; no soft mask or transparency group. Separate publisher layout overlays, page furniture, frames, shadows, and text omitted by extracting the base object. The sole source raster has Psalms 44:1-8 lettering irreversibly baked into its upper portion. A meaningful unobstructed lower cloud crop omits that lettering and source bleed. The scripture is fully transcribed in the article. Separately painted mailing panel, publication label, and postage markings omitted. No source pixels reconstructed. Converted RGB source samples to RGB/sRGB and normalized as a baseline JPEG with nonzero 72 dpi density; no inversion required.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 135,
+            "source_pixel_dimensions": [
+              1352,
+              1725
+            ],
+            "export_pixel_dimensions": [
+              1275,
+              853
+            ],
+            "colour_conversion": "RGB/sRGB (source grayscale replicated across RGB channels; PDF RGB ICC profile converted to sRGB for page 36)",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 90,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "crop_source_pixels": [
+              38,
+              835,
+              1313,
+              1688
+            ]
+          },
+          "git_blob_sha": "1682ae668b876b77247cd39b06dcbae4eded80a1"
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Untitled back-cover Scripture passage, printed reference Psalms 44:1-8., transcribed from the raster with all 16 printed verse lines and bold emphasis. Reference remains in body; no inferred article title or author. Mailing/postage matter excluded. No restriction notice.",
+        "image_encoding_note": "Complete source-object and rendered-page visual/overlay comparison; all exported JPEGs baseline RGB/sRGB at useful native dimensions with nonzero 72 dpi density. Full Pillow, MuPDF and ImageMagick decodes passed without warnings. Repeated images and crops reconcile with the issue’s 36-page visual census; source treatments and transformations recorded per image. All 21 final images also rendered successfully through LibreOffice Writer/Web HTML import and Poppler at their original raster dimensions; no missing images or colour, aspect, orientation or truncation defects."
+      },
+      "language": "en"
     }
   ],
   "skipped": [
