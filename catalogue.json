@@ -2472,6 +2472,429 @@
           }
         ]
       }
+    },
+    {
+      "id": "8a34209c-181e-45e2-be87-cf0643e863b8",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "July / August 2006",
+        "year": 2006,
+        "months": [
+          7,
+          8
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 12,
+      "issue_number": 3,
+      "source": {
+        "filename": "2006-07-08-remnant(1).pdf",
+        "sha256": "d2a24bdafc5ee6eb73a9284f6cb2903359b113606d9ef5b8ed474d4e60528e81",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2006-07",
+      "slug": "heartbeat-remnant-2006-07",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "All 36 PDF pages visually reviewed. Twelve contents entries plus the back-cover poem yield 13 included articles and poems, with no article-specific restriction notices and no new skipped records. Article text, subtitles, credits, sidebars and continuation pages retained. The page-32 heading and body identify John Bunyan, overriding the erroneous Hudson Taylor contents listing. Cover, contents/masthead and page-36 mailing matter excluded. Thirty-four canonical image exports represent all visible article imagery; the repeated pale volcano is represented once. Categories and topics all reuse canonical IDs. Unidentified individual stock sources and unavoidable baked image treatments are documented per asset.",
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "images": [],
+            "note": "Cover photograph and masthead excluded as cover matter."
+          },
+          {
+            "pdf_page": 2,
+            "images": [],
+            "note": "Seven contents thumbnails and masthead matter excluded as contents/masthead; their full article illustrations are represented on the corresponding content pages."
+          },
+          {
+            "pdf_page": 3,
+            "images": [
+              {
+                "article_id": "2cc9d224-3528-4b6e-be71-fdf990471e1f",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Complete schoolhouse illustration cropped below the baked heading/byline. No illustration pixels reconstructed."
+          },
+          {
+            "pdf_page": 4,
+            "images": [
+              {
+                "article_id": "2cc9d224-3528-4b6e-be71-fdf990471e1f",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 5,
+            "images": [
+              {
+                "article_id": "2cc9d224-3528-4b6e-be71-fdf990471e1f",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 6,
+            "images": [
+              {
+                "article_id": "2cc9d224-3528-4b6e-be71-fdf990471e1f",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 7,
+            "images": [
+              {
+                "article_id": "2cc9d224-3528-4b6e-be71-fdf990471e1f",
+                "image_sequence": 5,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "2cc9d224-3528-4b6e-be71-fdf990471e1f",
+                "image_sequence": 6,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 8,
+            "images": [
+              {
+                "article_id": "4df82115-048c-44a6-a7ea-3ff9aea94d09",
+                "image_sequence": 1,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "4df82115-048c-44a6-a7ea-3ff9aea94d09",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "World map background and separate portrait exported. The map’s flattened pale tone is documented."
+          },
+          {
+            "pdf_page": 9,
+            "images": [
+              {
+                "article_id": "59d2bf61-43b3-4ea7-b7de-517c32ffa956",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 10,
+            "images": [
+              {
+                "article_id": "59d2bf61-43b3-4ea7-b7de-517c32ffa956",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 11,
+            "images": [],
+            "note": "No source article image. Text pull quotes and rules are typography/layout."
+          },
+          {
+            "pdf_page": 12,
+            "images": [
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 13,
+            "images": [
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 2,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 14,
+            "images": [
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 15,
+            "images": [
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 5,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 6,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 16,
+            "images": [
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 7,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 17,
+            "images": [
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 8,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 18,
+            "images": [
+              {
+                "article_id": "3c96074a-7088-4b10-a116-82baa7bafb1e",
+                "image_sequence": 9,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 19,
+            "images": [
+              {
+                "article_id": "849984a7-93a7-4433-82f9-98d66ac25bf3",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Waterfall background exported without separately painted article typography and frame; irreversible pale tone documented."
+          },
+          {
+            "pdf_page": 20,
+            "images": [
+              {
+                "article_id": "930a2e00-c5f4-4ec4-b53c-04a6541c9e84",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 21,
+            "images": [],
+            "note": "No source article image. Text pull quotes and rules are typography/layout."
+          },
+          {
+            "pdf_page": 22,
+            "images": [
+              {
+                "article_id": "cc483448-ee7e-4520-8e7a-d7721e6f4567",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 23,
+            "images": [
+              {
+                "article_id": "cc483448-ee7e-4520-8e7a-d7721e6f4567",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 24,
+            "images": [
+              {
+                "article_id": "cc483448-ee7e-4520-8e7a-d7721e6f4567",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 25,
+            "images": [
+              {
+                "article_id": "cc483448-ee7e-4520-8e7a-d7721e6f4567",
+                "image_sequence": 4,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 26,
+            "images": [
+              {
+                "article_id": "afc5e691-313e-46f5-9646-1d685351d3cb",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Distinct mountain/desert background panel exported in full. Poem typography and reading panel are irreversibly baked; exact raster retained as the documented exception because trial clean crops were incomplete narrow scenery fragments."
+          },
+          {
+            "pdf_page": 27,
+            "images": [
+              {
+                "article_id": "afc5e691-313e-46f5-9646-1d685351d3cb",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Distinct mountain/desert background panel exported in full. Poem typography and reading panel are irreversibly baked; exact raster retained as the documented exception because trial clean crops were incomplete narrow scenery fragments."
+          },
+          {
+            "pdf_page": 28,
+            "images": [
+              {
+                "article_id": "bece3e18-bd02-4763-ac9d-80aecaacc3c9",
+                "image_sequence": 1,
+                "disposition": "exported"
+              },
+              {
+                "article_id": "bece3e18-bd02-4763-ac9d-80aecaacc3c9",
+                "image_sequence": 1,
+                "disposition": "represented_once",
+                "note": "Pale enlarged background object 116 repeats the volcano photograph in object 117; the foreground source is the sole canonical export."
+              }
+            ],
+            "note": "Foreground volcano photo exported once; its pale background repetition has no unique scene content and maps to the same canonical asset."
+          },
+          {
+            "pdf_page": 29,
+            "images": [
+              {
+                "article_id": "bece3e18-bd02-4763-ac9d-80aecaacc3c9",
+                "image_sequence": 2,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 30,
+            "images": [
+              {
+                "article_id": "bece3e18-bd02-4763-ac9d-80aecaacc3c9",
+                "image_sequence": 3,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 31,
+            "images": [],
+            "note": "No source article image. Text pull quotes, panel outlines and rules are typography/layout. The page-31 contact sidebar is transcribed as text."
+          },
+          {
+            "pdf_page": 32,
+            "images": [
+              {
+                "article_id": "5fac4f6c-2a8d-4485-a761-b669e57ebd9b",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 33,
+            "images": [],
+            "note": "No source article image. Text pull quotes and rules are typography/layout."
+          },
+          {
+            "pdf_page": 34,
+            "images": [
+              {
+                "article_id": "8cf70c57-95d5-4ebb-ba24-227f4778f086",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "All visible article images listed; separately painted typography, rules, panels and duplicated text pull quotes are layout."
+          },
+          {
+            "pdf_page": 35,
+            "images": [
+              {
+                "article_id": "7d047e24-76c4-4fb9-9172-3c9d5fafde78",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Mailbox scene exported as an unobstructed source-pixel crop excluding the baked column heading and reading panel. Printed introductory text transcribed in full."
+          },
+          {
+            "pdf_page": 36,
+            "images": [
+              {
+                "article_id": "6dab7baf-2a6c-4bc0-802c-0c738872497f",
+                "image_sequence": 1,
+                "disposition": "exported"
+              }
+            ],
+            "note": "Back-cover poem included; unobstructed lower pond image crop exported. Mailing, postage and publication-address panel excluded as mailing matter."
+          }
+        ],
+        "validation_note": "13 eligible articles/poems and 34 canonical image exports; no restricted articles. Visual text/formatting review complete. All 36 census pages reconcile; every export is indexed and referenced once. Complete Pillow and FFmpeg decodes without warnings; all 13 HTML fragments and 34 images load and rasterize in Chromium 153.0.8010.0. Repository validator and all 45 tests pass. No unresolved transcription reading; individual stock sources and documented baked image treatments remain as source limitations."
+      }
     }
   ],
   "categories": [
