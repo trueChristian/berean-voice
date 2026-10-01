@@ -12229,6 +12229,787 @@
           "The general masthead credit “Some images © 2001-2004 www.arttoday.com” does not identify individual assets. Image credit fields remain null; no individual attribution or licence is inferred."
         ]
       }
+    },
+    {
+      "id": "31ff8309-abc1-4f84-895f-360ca46feb05",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "September / October 2004",
+        "year": 2004,
+        "months": [
+          9,
+          10
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 10,
+      "issue_number": 5,
+      "source": {
+        "filename": "2004-09-Remnant.pdf",
+        "sha256": "453c37389afaca3ee3c2e435a0fb91893ea1da24ba00236d7f23bde25c06b2fe",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front cover and back-page poem unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2004-09",
+      "slug": "heartbeat-remnant-2004-09",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 10,
+        "skipped_article_count": 0,
+        "exported_image_count": 14,
+        "inventory_note": "All 36 PDF pages visually inspected in reading order. Eight contents-listed articles, the substantial titled ministry financial report with testimonies, and the signed back-cover poem are included. The front cover, contents/masthead, New Tape Set! advertisement on page 35, and back-cover mailing furniture are excluded as non-article matter. Nonconsecutive continuations: Sleeping Prophet page 11, Our Comforter page 35, Hovering Blessing page 33. No article-specific reuse restriction found through any final line, caption, graphic or sidebar.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "The Deadly Devices of a Sleeping Prophet",
+            "subtitle": "Originally “The Peril of Spiritual Maturity”",
+            "article_id": "5fa148e2-b6b8-49e7-a396-29de9bebbf50",
+            "source_pages": {
+              "start": 3,
+              "end": 11,
+              "pages": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                11
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 2,
+            "title": "Abiding in the Vine",
+            "subtitle": null,
+            "article_id": "563461dc-723e-4153-acb1-3f5ca0fa26f9",
+            "source_pages": {
+              "start": 8,
+              "end": 9
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 3,
+            "title": "Miracles from the Martyrs Mirror",
+            "subtitle": null,
+            "article_id": "bac60748-ff7c-4801-8d67-4f5c2692bc16",
+            "source_pages": {
+              "start": 10,
+              "end": 11
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 4,
+            "title": "Reviving the Righteous Root of Anabaptism",
+            "subtitle": null,
+            "article_id": "6eacfbe3-9373-4f0b-91b5-d4bfd6da0efd",
+            "source_pages": {
+              "start": 12,
+              "end": 22
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 5,
+            "title": "Bound by Chains",
+            "subtitle": null,
+            "article_id": "f9e90d80-97dc-4297-b786-b6a3f7e4fed4",
+            "source_pages": {
+              "start": 23,
+              "end": 23
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 6,
+            "title": "Our Comforter",
+            "subtitle": null,
+            "article_id": "f2f7539b-ec81-427c-b6ec-db7ba57a1c3d",
+            "source_pages": {
+              "start": 24,
+              "end": 35,
+              "pages": [
+                24,
+                25,
+                35
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 7,
+            "title": "The Hovering Blessing",
+            "subtitle": null,
+            "article_id": "985af9cb-04f6-43ae-a860-3b598a733505",
+            "source_pages": {
+              "start": 26,
+              "end": 33,
+              "pages": [
+                26,
+                27,
+                28,
+                29,
+                33
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 8,
+            "title": "What is Holiness?",
+            "subtitle": null,
+            "article_id": "e5056885-3f77-469e-b042-02ed498d0e15",
+            "source_pages": {
+              "start": 30,
+              "end": 33
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 9,
+            "title": "Charity Gospel Tape Ministry & The Heartbeat of The Remnant",
+            "subtitle": "April–June 2004 Financial Report",
+            "article_id": "8c3576e5-f595-4a67-a5d9-329212cedc39",
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 10,
+            "title": "Let Others Boast",
+            "subtitle": null,
+            "article_id": "2345d1aa-0655-4f36-b37c-74278f383846",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "Ocean/sky cover background and framed iceberg inset; constituent images flattened in one cover raster",
+                "source_object": 220,
+                "disposition": "omitted under issue-inventory exclusion: cover",
+                "constituent_count": 2
+              },
+              {
+                "description": "Decorative heartbeat/masthead graphic",
+                "disposition": "omitted under issue-inventory exclusion: cover"
+              }
+            ],
+            "note": "Front cover; no eligible article.",
+            "article_sequences": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "images": [
+              {
+                "description": "Sleeping man thumbnail",
+                "source_object": 4,
+                "disposition": "omitted under issue-inventory exclusion: table of contents"
+              },
+              {
+                "description": "Boat detail thumbnail",
+                "source_object": 5,
+                "disposition": "omitted under issue-inventory exclusion: table of contents"
+              },
+              {
+                "description": "Grapes thumbnail",
+                "source_object": 6,
+                "disposition": "omitted under issue-inventory exclusion: table of contents"
+              },
+              {
+                "description": "Family portrait thumbnail",
+                "source_object": 7,
+                "disposition": "omitted under issue-inventory exclusion: table of contents"
+              },
+              {
+                "description": "Chain thumbnail",
+                "source_object": 8,
+                "disposition": "omitted under issue-inventory exclusion: table of contents"
+              },
+              {
+                "description": "Prodigal illustration thumbnail",
+                "source_object": 9,
+                "disposition": "omitted under issue-inventory exclusion: table of contents"
+              },
+              {
+                "description": "Publisher masthead and decorative heartbeat logo",
+                "disposition": "omitted under issue-inventory exclusion: masthead"
+              }
+            ],
+            "note": "Contents and masthead excluded.",
+            "article_sequences": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "images": [
+              {
+                "description": "A robed man reclines beneath a tree with his head resting on one hand.",
+                "owner_article_id": "5fa148e2-b6b8-49e7-a396-29de9bebbf50",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/5fa148e2-b6b8-49e7-a396-29de9bebbf50-1.png",
+                "source_object": 13
+              }
+            ],
+            "note": "Separate title panels and geometric frame omitted from illustration.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "images": [],
+            "note": "No imagery; pull-quote panel is print layout.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "images": [],
+            "note": "No imagery; pull-quote panel is print layout.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "images": [
+              {
+                "description": "Grapevine decorative illustration",
+                "owner_article_id": "563461dc-723e-4153-acb1-3f5ca0fa26f9",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/563461dc-723e-4153-acb1-3f5ca0fa26f9-1.jpg",
+                "source_object": 29
+              }
+            ],
+            "note": "Article background illustration with separately painted text.",
+            "article_sequences": [
+              2
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "images": [
+              {
+                "description": "Mirrored grapevine art; no unique image content",
+                "owner_article_id": "563461dc-723e-4153-acb1-3f5ca0fa26f9",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "repository_path": "public/images/articles/563461dc-723e-4153-acb1-3f5ca0fa26f9-1.jpg",
+                "source_object": 33
+              }
+            ],
+            "note": "Mirrored repeat of page8 artwork.",
+            "article_sequences": [
+              2
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "images": [
+              {
+                "description": "An engraving of a mounted official, soldiers and a man being led toward a fire.",
+                "owner_article_id": "bac60748-ff7c-4801-8d67-4f5c2692bc16",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/bac60748-ff7c-4801-8d67-4f5c2692bc16-1.jpg",
+                "source_object": 37
+              }
+            ],
+            "note": "Article image has intrinsic engraved frame; separate PDF border and gray panel omitted.",
+            "article_sequences": [
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "images": [
+              {
+                "description": "Narrow smoke-and-fire detail from page10 engraving; no unique content",
+                "owner_article_id": "bac60748-ff7c-4801-8d67-4f5c2692bc16",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "repository_path": "public/images/articles/bac60748-ff7c-4801-8d67-4f5c2692bc16-1.jpg",
+                "source_object": 41
+              }
+            ],
+            "note": "Upper article smoke crop is repeat; lower continuation has no imagery.",
+            "article_sequences": [
+              1,
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "images": [
+              {
+                "description": "Faded detail of page17 boat engraving; clean full base represented at introductory position",
+                "owner_article_id": "6eacfbe3-9373-4f0b-91b5-d4bfd6da0efd",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "repository_path": "public/images/articles/6eacfbe3-9373-4f0b-91b5-d4bfd6da0efd-1.jpg",
+                "source_object": 45
+              }
+            ],
+            "note": "Faded title-background crop represented by full clean source from page17.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "images": [
+              {
+                "description": "A tree with exposed roots beneath the ground.",
+                "owner_article_id": "6eacfbe3-9373-4f0b-91b5-d4bfd6da0efd",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6eacfbe3-9373-4f0b-91b5-d4bfd6da0efd-2.png",
+                "source_object": 49
+              }
+            ],
+            "note": "Tree and roots are one illustration; pull quote remains source text, not raster.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "images": [
+              {
+                "description": "An engraving of men in a rowing boat near a town.",
+                "owner_article_id": "6eacfbe3-9373-4f0b-91b5-d4bfd6da0efd",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6eacfbe3-9373-4f0b-91b5-d4bfd6da0efd-1.jpg",
+                "source_object": 62
+              }
+            ],
+            "note": "Full clean boat engraving; separate pull-quote panel omitted. Faint reversed print show-through is intrinsic to the clean source scan and retained.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "images": [],
+            "note": "No imagery; enlarged pull quote is text layout.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "images": [],
+            "note": "No imagery; enlarged pull quote is text layout.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "images": [
+              {
+                "description": "A chain with large oval links.",
+                "owner_article_id": "f9e90d80-97dc-4297-b786-b6a3f7e4fed4",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f9e90d80-97dc-4297-b786-b6a3f7e4fed4-1.png",
+                "source_object": 82
+              },
+              {
+                "description": "A blacksmith raising a hammer over an anvil.",
+                "owner_article_id": "f9e90d80-97dc-4297-b786-b6a3f7e4fed4",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f9e90d80-97dc-4297-b786-b6a3f7e4fed4-2.jpg",
+                "source_object": 81
+              }
+            ],
+            "note": "Two illustrations; gray grounds baked in source and retained, surrounding panel/shadow/text omitted.",
+            "article_sequences": [
+              5
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "images": [
+              {
+                "description": "A group of adults and children posing outdoors.",
+                "owner_article_id": "f2f7539b-ec81-427c-b6ec-db7ba57a1c3d",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f2f7539b-ec81-427c-b6ec-db7ba57a1c3d-1.jpg",
+                "source_object": 86
+              }
+            ],
+            "note": "Complete family portrait; baked edge vignette retained and explicitly documented.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "images": [],
+            "note": "No imagery; pull quote is text layout.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "images": [
+              {
+                "description": "A man running ahead of a horse-drawn chariot.",
+                "owner_article_id": "985af9cb-04f6-43ae-a860-3b598a733505",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/985af9cb-04f6-43ae-a860-3b598a733505-1.jpg",
+                "source_object": 93
+              }
+            ],
+            "note": "One chariot illustration; heading panel omitted.",
+            "article_sequences": [
+              7
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "images": [
+              {
+                "description": "A robed man bows low on a stone platform with people behind him.",
+                "owner_article_id": "985af9cb-04f6-43ae-a860-3b598a733505",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/985af9cb-04f6-43ae-a860-3b598a733505-2.jpg",
+                "source_object": 141
+              }
+            ],
+            "note": "One prayer engraving; separate frame/caption-style pull quote omitted from image.",
+            "article_sequences": [
+              7
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "images": [
+              {
+                "description": "Identical repeated prayer engraving",
+                "owner_article_id": "985af9cb-04f6-43ae-a860-3b598a733505",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "repository_path": "public/images/articles/985af9cb-04f6-43ae-a860-3b598a733505-2.jpg",
+                "source_object": 141
+              }
+            ],
+            "note": "Identical repeated prayer engraving; represented once.",
+            "article_sequences": [
+              7
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              7
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "images": [
+              {
+                "description": "An illustration showing a young man above and a ragged man among pigs below.",
+                "owner_article_id": "e5056885-3f77-469e-b042-02ed498d0e15",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/e5056885-3f77-469e-b042-02ed498d0e15-1.png",
+                "source_object": 106
+              }
+            ],
+            "note": "One two-part composite illustration with intrinsic Frank Beard signature.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "images": [],
+            "note": "No imagery; enlarged pull quote is text layout.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "images": [],
+            "note": "No visible photographs, illustrations, backgrounds, collages, scores or other article imagery; text and page furniture only.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "images": [],
+            "note": "Two article continuations, no images.",
+            "article_sequences": [
+              7,
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "images": [
+              {
+                "description": "A tilted image of The Heartbeat of The Remnant magazine cover.",
+                "owner_article_id": "8c3576e5-f595-4a67-a5d9-329212cedc39",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/8c3576e5-f595-4a67-a5d9-329212cedc39-1.jpg",
+                "source_object": 119
+              },
+              {
+                "description": "A tilted audio cassette.",
+                "owner_article_id": "8c3576e5-f595-4a67-a5d9-329212cedc39",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/8c3576e5-f595-4a67-a5d9-329212cedc39-2.jpg",
+                "source_object": 120
+              }
+            ],
+            "note": "Two tilted graphics associated with editorial financial report; vector financial table remains semantic HTML, not image.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "images": [],
+            "note": "Financial report and Our Comforter continuations; separate New Tape Set! advertisement omitted; no images.",
+            "article_sequences": [
+              6,
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "A barbed-wire fence beside a green field beneath a blue sky.",
+                "owner_article_id": "2345d1aa-0655-4f36-b37c-74278f383846",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/2345d1aa-0655-4f36-b37c-74278f383846-1.jpg",
+                "source_object": 127
+              },
+              {
+                "description": "Separate publisher masthead, heartbeat marks and postal box",
+                "disposition": "omitted under issue-inventory exclusion: mailing panel"
+              }
+            ],
+            "note": "Clean fence background exported for titled poem; separable poem text and mailing furniture omitted from raster.",
+            "article_sequences": [
+              10
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "image_census_counts": {
+          "visible_eligible_image_appearances": 18,
+          "canonical_exports": 14,
+          "represented_repeated_appearances": 4,
+          "rights_excluded_image_appearances": 0
+        },
+        "image_inspection_method": "Every rendered page visually inspected in reading order; raw image objects, masks, resource dictionaries, page paint order and clipping paths inspected. No image soft masks, transparency groups, tiled images or meaningful vector/font illustrations were found. ExtGState216 specifies SA false, SM .02 and TR2 Default only, with no alpha, blend or mask treatment. Vector furniture consists of rules, frames, panels, logos and the semantic financial table. All final assets fully visually compared with raw base and source page, including centre, edges and corners.",
+        "text_verification_summary": "All ten articles visually transcribed and independently compared with every source page. Exact source wording, apparent errors, capitalization, punctuation, paragraphs, emphasis, scripture quotations, financial table and poem lineation are preserved. Only nonsemantic print-layout artifacts were normalized. Repeated body pull quotes are represented once.",
+        "image_verification_summary": "Fourteen canonical exports: ten baseline RGB/sRGB JPEGs and four lossless grayscale PNGs. Eighteen eligible image appearances reconcile to fourteen exports and four repeated uses. Full source compositions, published orientation and crop are preserved. Separable title, poem, frame, shadow, panel and page-furniture overlays are omitted; the clean full boat engraving represents its faded introductory crop. All files pass complete Pillow and FFmpeg decoding without warnings and Skia Canvas decode/paint/readback with visual review.",
+        "remaining_uncertainty": [
+          "The general masthead credit “Some images © 2001-2004 www.arttoday.com” does not identify individual assets. No individual source or licence is inferred. The intrinsic Frank Beard signature is recorded; the tiny signature in the Miracles engraving is preserved in the image but is not confidently legible.",
+          "The sleeping-man, chain and blacksmith gray grounds and family-photo white edge vignette are irreversibly baked into the only source rasters. The boat engraving also has faint reversed print show-through intrinsic to its source scan. These source treatments and artifacts are retained and documented; no synthetic reconstruction or unsupported inverse blend was used. No unresolved article text or rights-gate uncertainty remains."
+        ]
+      }
     }
   ],
   "categories": [
