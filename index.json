@@ -62770,6 +62770,1233 @@
       "publication_notes": [
         "From “Farm House Cooking”\nKountry Korner Varity Store"
       ]
+    },
+    {
+      "id": "b1727d59-5391-4f21-a609-616a56217d35",
+      "language": "en",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 1,
+      "title": "Becoming A Channel of God’s Power",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Evan H. Hopkins",
+        "authors": [
+          {
+            "name": "Evan H. Hopkins",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 9,
+        "pages": [
+          3,
+          4,
+          5,
+          6,
+          9
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "f4fa872c-34fa-5c6f-baaa-5559ebddf537",
+        "1a6d8df1-7179-53c8-969e-274ba40d4d4f"
+      ],
+      "html": {
+        "repository_path": "content/articles/b1727d59-5391-4f21-a609-616a56217d35.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/b1727d59-5391-4f21-a609-616a56217d35-1.jpg",
+          "public_path": "/images/articles/b1727d59-5391-4f21-a609-616a56217d35-1.jpg",
+          "source_page": 3,
+          "role": "opening photograph",
+          "alt": "Water flowing over a wooden channel",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Recovered the same underlying photograph from clean embedded RGB image object 230 (also used beneath the cover typography), cropped at native source pixels (153, 375)–(1206, 1428) to reproduce the page 3 square framing. This omits the flattened article-title typography and shadow, monochrome fade, and white edge vignette present in page 3 object 13, and excludes separately painted article text. No pixels were synthesized. The source sRGB IEC61966-2.1 profile (object 229) is retained. Exported as a standards-normalized baseline RGB/sRGB JPEG at 72 dpi. The page 4 and page 5 pull-quote backgrounds repeat lower-waterfall crops already contained in this canonical image and are represented once.",
+          "transformations": {
+            "method": "Native-pixel crop of clean original embedded source; no flip, rotation, resizing, reconstruction, or synthesized pixels. Baseline RGB JPEG encoding with original sRGB ICC profile and 72 dpi density.",
+            "source_object": 230,
+            "source_dimensions": [
+              1352,
+              1725
+            ],
+            "crop_box": [
+              153,
+              375,
+              1206,
+              1428
+            ],
+            "output_dimensions": [
+              1053,
+              1053
+            ]
+          },
+          "verification": {
+            "visual_match": "Compared raw objects 13 and 230, page 3 render, cover render and final output. Identical wood grain, foliage, water ribbons and background landmarks establish the same source photograph. Inspected centre, edges and corners: no residual title, shadow, fade, vignette, caption, rule or page furniture.",
+            "registration": {
+              "method": "Matching visible source-image gradients outside typography and vignette corroborates visual comparison. Coordinate map from object13 to object230 in native pixels.",
+              "x_scale": 0.87756578,
+              "y_scale": 0.87710284,
+              "x_offset": 152.87165716,
+              "y_offset": 375.29007484,
+              "gradient_correlation": 0.9424622257608225,
+              "crop_rounding": "Nearest native integer pixels; square source crop preserves published aspect ratio."
+            },
+            "color": "Source object230 uses ICCBased object206 with sRGB IEC61966-2.1 profile object229. Original RGB source colours match the reliable PDF cover render; no CMYK inversion or tonal retouching needed.",
+            "decoders": [
+              "Pillow Image.open followed by complete .load(): RGB, 1053×1053, no warnings.",
+              "FFmpeg complete decode to null output: no warnings."
+            ],
+            "metadata": "ImageMagick reports JPEG, 1053×1053, sRGB, non-interlaced baseline, 72×72 density.",
+            "bytes": 349365,
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire article visually inspected before eligibility and rechecked after transcription through its final line on p9. Source pages 3–6,9 preserve interleaved continuation. Opening publication note and italic epigraph retained; all eight internal headings preserved. Repeated pull quotes on pp4–5 omitted as body duplication. Source apparent errors retained, including absent period after “It is Divine power”, “have been rendered”, “2 Chronicles 26:9”, “Exod. 40:33&;35”, “the Ephesians converts”, “God has says” and closing quotation mark before “perfect towards God.” No article-specific permission wording.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "publication_notes": [
+        "Originally “Conditions of Power”\nfrom The Law of Liberty in the Spiritual Life"
+      ]
+    },
+    {
+      "id": "afe5122b-824d-4658-af86-1ececd3d3ade",
+      "language": "en",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 2,
+      "title": "Are You Born Again?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by J. C. Ryle (1816–1900)",
+        "authors": [
+          {
+            "name": "J. C. Ryle",
+            "location": null,
+            "life_dates": "1816–1900"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 9,
+        "pages": [
+          7,
+          8,
+          9
+        ]
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "f6f99110-040b-52df-ae00-56df469d87cc",
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "3b69fdad-e957-5e8b-a946-db683c653271"
+      ],
+      "html": {
+        "repository_path": "content/articles/afe5122b-824d-4658-af86-1ececd3d3ade.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-1.jpg",
+          "public_path": "/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-1.jpg",
+          "source_page": 7,
+          "role": "opening illustration",
+          "alt": "Chrysalis hanging from a branch",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 28; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 28,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 28,
+            "source_pixel_dimensions": [
+              360,
+              480
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              360,
+              480
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-2.jpg",
+          "public_path": "/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-2.jpg",
+          "source_page": 7,
+          "role": "opening illustration",
+          "alt": "Butterfly with its wings spread",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 29; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. Rotated clockwise 25 degrees to match the PDF placement matrix; white canvas expands to retain every source pixel. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 29,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 29,
+            "source_pixel_dimensions": [
+              360,
+              241
+            ],
+            "source_colour_space": "L",
+            "rotation_clockwise_degrees": 25,
+            "export_pixel_dimensions": [
+              430,
+              371
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-3.jpg",
+          "public_path": "/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-3.jpg",
+          "source_page": 9,
+          "role": "closing illustration",
+          "alt": "Illustration of a butterfly, chrysalises, and a caterpillar among branches and leaves",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 36; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. Unobstructed inner illustration cropped to remove the baked thin rectangular frame and outer page margin. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 36,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 36,
+            "source_pixel_dimensions": [
+              375,
+              528
+            ],
+            "source_colour_space": "L",
+            "crop_pixels_left_top_right_bottom": [
+              12,
+              14,
+              359,
+              515
+            ],
+            "export_pixel_dimensions": [
+              347,
+              501
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full pp7–9 article visually inspected for rights before transcription and rechecked afterward. Six numbered bold scripture headings and final bold question preserved. Source apparent errors “defects from appealing”, “spend it profitable” and “be watchful, humble, prayerful man” retained. Three associated images; no captions or credits printed. No article-specific permission wording.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      }
+    },
+    {
+      "id": "329d3201-70d8-45e6-9f71-9ccbd09ce9a7",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 3,
+      "title": "DAVID ZEISBERGER",
+      "subtitle": "Apostle to the American Indians",
+      "section": null,
+      "byline": {
+        "raw": "Adapted and revised by Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": "Adapted and revised"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 13
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": [
+          "0648d4df-242a-5815-8d22-08b555d1b542"
+        ]
+      },
+      "topics": [
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c",
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609"
+      ],
+      "html": {
+        "repository_path": "content/articles/329d3201-70d8-45e6-9f71-9ccbd09ce9a7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/329d3201-70d8-45e6-9f71-9ccbd09ce9a7-1.jpg",
+          "public_path": "/images/articles/329d3201-70d8-45e6-9f71-9ccbd09ce9a7-1.jpg",
+          "source_page": 10,
+          "role": "portrait",
+          "alt": "Portrait of David Zeisberger",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 40; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 40,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 40,
+            "source_pixel_dimensions": [
+              218,
+              191
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              218,
+              191
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/329d3201-70d8-45e6-9f71-9ccbd09ce9a7-2.jpg",
+          "public_path": "/images/articles/329d3201-70d8-45e6-9f71-9ccbd09ce9a7-2.jpg",
+          "source_page": 11,
+          "role": "illustration",
+          "alt": "Zeisberger preaching to a seated group among trees",
+          "caption": null,
+          "credit": "Schüssele, of Philadelphia",
+          "rights_note": "Original embedded PDF image object 44; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density. Printed illustration attribution: Schüssele, of Philadelphia. No licence is inferred.",
+          "pdf_object_xref": 44,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 44,
+            "source_pixel_dimensions": [
+              573,
+              373
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              573,
+              373
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Read and visually compared all four pages in column order. The permission mentioned on page 10 concerns missionaries settling, not reproduction. No article-specific reuse restriction. Two page-11 pull quotations around the preaching illustration and the page-12 White Eyes pull quotation repeat body content and are not duplicated. Retains printed source spellings Pennsyvania, among who, accomodate, Muskinghum and Tuscawaras, and punctuation in “Sermons to Children,”;. Italic final adaptation/source note retained in the body.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "language": "en",
+      "publication_notes": [
+        "Adapted and revised by Mike Atnip\nfrom a section of: A HISTORY OF THE\nMORAVIAN CHURCH, J. E. Hutton, M.A.\n(Second edition, Revised and Enlarged.) 1909"
+      ]
+    },
+    {
+      "id": "40f96de8-cd9d-4e7d-8780-778b255149f5",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 4,
+      "title": "Except a Corn of Wheat...Die",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-Linda Lapp",
+        "authors": [
+          {
+            "name": "Linda Lapp",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 14
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "be523b84-148a-5633-9947-03c7c310d50a"
+      ],
+      "html": {
+        "repository_path": "content/articles/40f96de8-cd9d-4e7d-8780-778b255149f5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/40f96de8-cd9d-4e7d-8780-778b255149f5-1.jpg",
+          "public_path": "/images/articles/40f96de8-cd9d-4e7d-8780-778b255149f5-1.jpg",
+          "source_page": 14,
+          "role": "poem_background",
+          "alt": "The poem Except a Corn of Wheat...Die printed over a close view of wheat",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 54; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. The title, poem and byline are irreversibly baked into the only available wheat raster. No meaningful unobstructed crop can preserve the wheat composition; exact source raster retained under the unavoidable-overlay exception. No pixels synthesized. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 54,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 54,
+            "source_pixel_dimensions": [
+              1045,
+              1411
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              1045,
+              1411
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "unavoidable baked typography retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire raster poem visually transcribed from the page and a higher-resolution view. Eleven four-line stanzas preserved in their alternating left/right descending reading order, with bold formatting throughout. Preserves three periods in the title, uppercase LIFE, and the straight opening double quote before One kernel (visually enlarged), followed by its curly closing quote. Byline is -Linda Lapp. No reuse restriction. Root confirmed all typography is baked into image object 54 and no clean base exists.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "language": "en"
+    },
+    {
+      "id": "61b0bd32-7c21-4e51-909a-dcd3198c7bf6",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 5,
+      "title": "IGNATIUS",
+      "subtitle": "A Disciple of the Apostle John, Devoured by Wild Beasts in a Circus at Rome, for the Testimony of the Son of God, A.D. 111",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 16
+      },
+      "categories": {
+        "primary": "59e78031-c269-52d1-9b00-08dba0398cb4",
+        "additional": []
+      },
+      "topics": [
+        "494add59-7a1e-504d-ab65-b626610b684d",
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c"
+      ],
+      "html": {
+        "repository_path": "content/articles/61b0bd32-7c21-4e51-909a-dcd3198c7bf6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/61b0bd32-7c21-4e51-909a-dcd3198c7bf6-1.png",
+          "public_path": "/images/articles/61b0bd32-7c21-4e51-909a-dcd3198c7bf6-1.png",
+          "source_page": 16,
+          "role": "illustration",
+          "alt": "Engraving of a ruined Roman amphitheatre",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 63; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; PNG retained without lossy conversion.",
+          "pdf_object_xref": 63,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 63,
+            "source_pixel_dimensions": [
+              373,
+              374
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              373,
+              374
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Both pages visually read in column order through the final line. No byline or source attribution is printed, and no reuse restriction. Preserves leopards(soldiers), cast in to, and A. D. 111 in the body. The page-15 gradient title panel and rules are publisher layout, not a substantive image. Page-16 amphitheatre engraving placed at the paragraph that introduces the amphitheatre.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "language": "en"
+    },
+    {
+      "id": "28efba40-5361-4be0-b3b1-78996b29c371",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 6,
+      "title": "Praying Till We PRAY",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by A. W. Tozer",
+        "authors": [
+          {
+            "name": "A. W. Tozer",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e"
+      ],
+      "html": {
+        "repository_path": "content/articles/28efba40-5361-4be0-b3b1-78996b29c371.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/28efba40-5361-4be0-b3b1-78996b29c371-1.jpg",
+          "public_path": "/images/articles/28efba40-5361-4be0-b3b1-78996b29c371-1.jpg",
+          "source_page": 17,
+          "role": "illustration",
+          "alt": "Two people bowing their heads in prayer beside chairs",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 67; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 67,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 67,
+            "source_pixel_dimensions": [
+              397,
+              723
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              397,
+              723
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete page visually read and compared; four prose paragraphs, no body emphasis. Engraving belongs with the article beside paragraphs two through four. No article-specific reuse restriction.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "language": "en"
+    },
+    {
+      "id": "864fd53d-da40-4478-9e1c-e62177efa866",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 7,
+      "title": "Revivals That Stay",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by E. M. Bounds",
+        "authors": [
+          {
+            "name": "E. M. Bounds",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 27,
+        "pages": [
+          18,
+          19,
+          27
+        ]
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285"
+        ]
+      },
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "7f8e6e3c-322b-5d2d-b390-05235f99a977"
+      ],
+      "html": {
+        "repository_path": "content/articles/864fd53d-da40-4478-9e1c-e62177efa866.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/864fd53d-da40-4478-9e1c-e62177efa866-1.png",
+          "public_path": "/images/articles/864fd53d-da40-4478-9e1c-e62177efa866-1.png",
+          "source_page": 18,
+          "role": "illustration",
+          "alt": "Crowds gathered outside large revival tents",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 71; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; PNG retained without lossy conversion.",
+          "pdf_object_xref": 71,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 71,
+            "source_pixel_dimensions": [
+              525,
+              357
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              525,
+              357
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/864fd53d-da40-4478-9e1c-e62177efa866-2.jpg",
+          "public_path": "/images/articles/864fd53d-da40-4478-9e1c-e62177efa866-2.jpg",
+          "source_page": 19,
+          "role": "illustration",
+          "alt": "A preacher addressing a large outdoor gathering among trees and tents",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 75; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 75,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 75,
+            "source_pixel_dimensions": [
+              729,
+              463
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              729,
+              463
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire article visually reviewed on pages 18, 19 and 27 through the Christian Advocate source credit. No article-specific reuse restriction. The standalone page 18 pull quote and image-adjacent page 19 pull quote repeat the body and are not duplicated. Preserved printed radicate, church-members, and the grammar in the final paragraph. Continuation banner and terminal square omitted as magazine furniture.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "language": "en",
+      "publication_notes": [
+        "Taken from Christian Advocate"
+      ]
+    },
+    {
+      "id": "bf3fe140-80b2-4120-841d-f5e87a2f4a04",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 8,
+      "title": "The Blood of Sprinkling",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Horatius Bonar",
+        "authors": [
+          {
+            "name": "Horatius Bonar",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 22
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "87d9ba46-bf4d-5d45-a7c6-ce37e88c60be",
+        "6f0f2dac-09f3-5996-8e32-3f26a7fa8843"
+      ],
+      "html": {
+        "repository_path": "content/articles/bf3fe140-80b2-4120-841d-f5e87a2f4a04.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bf3fe140-80b2-4120-841d-f5e87a2f4a04-1.jpg",
+          "public_path": "/images/articles/bf3fe140-80b2-4120-841d-f5e87a2f4a04-1.jpg",
+          "source_page": 20,
+          "role": "illustration",
+          "alt": "An assembly watches men performing a sacrifice before mountains",
+          "caption": "The blood, as the emblem of substitution, and the fire, as the symbol of God’s wrath upon the substitute, were seen in all the parts of Israel’s service; but especially in the daily burnt offering",
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 79; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 79,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 79,
+            "source_pixel_dimensions": [
+              500,
+              324
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              500,
+              324
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/bf3fe140-80b2-4120-841d-f5e87a2f4a04-2.jpg",
+          "public_path": "/images/articles/bf3fe140-80b2-4120-841d-f5e87a2f4a04-2.jpg",
+          "source_page": 22,
+          "role": "illustration",
+          "alt": "A robed man raises both arms before a large assembly in a courtyard",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 86; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 86,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 86,
+            "source_pixel_dimensions": [
+              564,
+              381
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              564,
+              381
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire article visually reviewed through the final paragraph on page 22. No article-specific reuse restriction. Preserved printed markers [20] and [21], for which the supplied article supplies no explanatory notes; preserved he cam to die!, paid he penalty, and unbalanced source quotation marks. Page 20 image caption retained because it differs from the body (especially versus specially). Page 22 image-adjacent quotation repeats the body and is not duplicated. Terminal square omitted as magazine furniture.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "language": "en"
+    },
+    {
+      "id": "9ce38c46-1773-4046-8c46-8557d6d5969d",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 9,
+      "title": "The Just Shall Live by Faith",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 24
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "8ada4a0d-a538-532f-a615-13434b3cd997",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/9ce38c46-1773-4046-8c46-8557d6d5969d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/9ce38c46-1773-4046-8c46-8557d6d5969d-1.png",
+          "public_path": "/images/articles/9ce38c46-1773-4046-8c46-8557d6d5969d-1.png",
+          "source_page": 23,
+          "role": "illustration",
+          "alt": "A man crosses a dark chasm on a narrow beam marked FAITH",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 90; image dictionary, paint order, clipping paths and page rendering inspected. No soft mask or transparency group. Separately painted typography, page furniture, frames, rules and caption/pull-quote panels omitted by exporting the base raster. No separate image reuse restriction is printed. Grayscale samples replicated into RGB/sRGB without inversion; PNG retained without lossy conversion.",
+          "pdf_object_xref": 90,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 90,
+            "source_pixel_dimensions": [
+              399,
+              543
+            ],
+            "source_colour_space": "L",
+            "export_pixel_dimensions": [
+              399,
+              543
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "base raster exported; removable page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire unsigned article visually reviewed on pages 23–24. No article-specific reuse restriction. Printed scripture and song quotation italics and bold trusting retained. The standalone page 24 pull quote repeats the body and is not duplicated. Preserved worlds thinking, can not, and dependant. Terminal square omitted as magazine furniture.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "language": "en"
+    },
+    {
+      "id": "6fe6456f-cc06-4a20-af0b-efaf0033942c",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 10,
+      "title": "The PERSONAL EXPERIENCE of the SOUL WINNER",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Samuel Logan Brengle",
+        "authors": [
+          {
+            "name": "Samuel Logan Brengle",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 27
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "f4fa872c-34fa-5c6f-baaa-5559ebddf537"
+      ],
+      "html": {
+        "repository_path": "content/articles/6fe6456f-cc06-4a20-af0b-efaf0033942c.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "not_applicable",
+        "inventory_note": "Entire article visually reviewed through its closing prayer in the upper part of page 27; lower-page Revivals That Stay continuation belongs to the earlier article. No article-specific reuse restriction. Retained three subsection headings and three numbered items. Preserved Psalm 51:10-42., the missing punctuation after upside down and their hearers, nor “hope” so. but, “whom they believed.” and, His dear Son. and, capital Souls and Wrote, and missing punctuation after “The Striving of the Spirit”. No source images occur in this article. Terminal square omitted as magazine furniture.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      },
+      "language": "en"
+    },
+    {
+      "id": "082e4e7e-5c7f-4e6a-b924-c80d38900744",
+      "language": "en",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 11,
+      "title": "The Refining of a Burdened and Unworthy Disciple",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Dennis Green • P.O. Box 862 • Powhatan, VA 23139\n(804) 492-4456\nDennis attends Dayspring Christian Fellowship\nin Amherst, VA",
+        "authors": [
+          {
+            "name": "Dennis Green",
+            "location": "Powhatan, VA",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 28
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "cd42f468-6b2c-5f56-abf2-82062af463d1",
+        "280f7e50-0dcd-51d6-a13f-3b69f197f4b7",
+        "936596b1-8af5-5c3c-8c10-3acb7e2a1cf2"
+      ],
+      "html": {
+        "repository_path": "content/articles/082e4e7e-5c7f-4e6a-b924-c80d38900744.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "not_applicable",
+        "inventory_note": "Visually compared all text and formatting on page 28, including the closing contact and fellowship note. Retains printed apparent errors including nations’, worlds’, Philosophizers that in, sickening too me and cling too. No image is present; gray title banner is layout. No article-specific restriction is printed.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      }
+    },
+    {
+      "id": "c5e1985d-acff-47f5-b58e-1af70746427c",
+      "language": "en",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 12,
+      "title": "God is So Faithful!",
+      "subtitle": "A Transcribed testimony given at Charity Christian Fellowship",
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Stacy Shirk",
+        "authors": [
+          {
+            "name": "Stacy Shirk",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 33
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "d98d2776-11d0-5852-be8d-67a88feaeb5e",
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "65dd0b7c-0461-5807-bd07-7339c88251f1"
+      ],
+      "html": {
+        "repository_path": "content/articles/c5e1985d-acff-47f5-b58e-1af70746427c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c5e1985d-acff-47f5-b58e-1af70746427c-1.jpg",
+          "public_path": "/images/articles/c5e1985d-acff-47f5-b58e-1af70746427c-1.jpg",
+          "source_page": 29,
+          "role": "photograph",
+          "alt": "A man and woman with two girls and a baby",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 109; raw raster, image dictionary, paint order, clipping and page rendering inspected. No soft mask or transparency group. Separable article typography, page rules and panels omitted. No separate image credit or reuse restriction printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 109,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 109,
+            "source_pixel_dimensions": [
+              706,
+              548
+            ],
+            "export_pixel_dimensions": [
+              706,
+              548
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "clean base raster exported; page overlays omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All five pages visually compared through the final line. Source errors here into day-care, party because, begged Him too and took remain unchanged. Printed superscript th in September 29th is preserved. Pull quotes on pages 29, 30, 31 and 33 repeat body text and are represented once in the body. End-of-article square and section rules are layout ornaments. Family image is placed after the opening paragraph. No article-specific restriction is printed.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      }
+    },
+    {
+      "id": "e9f126ba-9346-4443-b985-c4042ccd5b95",
+      "language": "en",
+      "issue_id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "sequence": 13,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "280f7e50-0dcd-51d6-a13f-3b69f197f4b7",
+        "c8bc3218-a971-51c0-9b90-b24243e844d0",
+        "99e30c2e-a1a4-5da7-9ca7-8587269a4246"
+      ],
+      "html": {
+        "repository_path": "content/articles/e9f126ba-9346-4443-b985-c4042ccd5b95.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e9f126ba-9346-4443-b985-c4042ccd5b95-1.jpg",
+          "public_path": "/images/articles/e9f126ba-9346-4443-b985-c4042ccd5b95-1.jpg",
+          "source_page": 34,
+          "role": "photograph",
+          "alt": "A roadside mailbox bearing the magazine address",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 125; raw raster, image dictionary, paint order, clipping and page rendering inspected. No soft mask or transparency group. Separable article typography, page rules and panels omitted. Meaningful unobstructed mailbox crop removes the irreversibly baked heading and reading panel. Address lettering remains intrinsic to the available mailbox raster. No pixels synthesized. No separate image credit or reuse restriction printed. Grayscale samples replicated into RGB/sRGB without inversion; baseline JPEG encoded with nonzero 72 dpi density.",
+          "pdf_object_xref": 125,
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 125,
+            "source_pixel_dimensions": [
+              1050,
+              522
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              0,
+              0,
+              495,
+              230
+            ],
+            "export_pixel_dimensions": [
+              495,
+              230
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion"
+          },
+          "verification": {
+            "encoded_colour_space": "RGB/sRGB",
+            "overlay_audit": "unobstructed crop; intrinsic mailbox address retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without decode warnings",
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas): full-resolution decode and paint passed; rendered contact sheet visually checked"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Header invitation, all three letters and editor reply visually transcribed in column reading order across pages 34–35. Preserves is some way, Absolutly!!, you’re religion, unmatched closing quotation, praise.. and printed bold/italic emphasis. Triangle dividers are decorative letter separators represented by semantic horizontal rules. Financial report, ministry logos and Articles Needed!! solicitation are excluded issue furniture. No article-specific restriction is printed.",
+        "independent_text_review": "completed: a second AI reader visually compared every source page with the final transcription, paragraph order and meaningful emphasis; no discrepancies remained."
+      }
     }
   ],
   "skipped": [

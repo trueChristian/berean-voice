@@ -5937,6 +5937,825 @@
         "rights_uncertainty": [],
         "image_credit_note": "No individual image credit is printed for these assets; the issue-level stock source statement is preserved without inferring individual creators or licences."
       }
+    },
+    {
+      "id": "334634f2-e3de-4f67-a9b9-57217f161635",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "July / August 2005",
+        "year": 2005,
+        "months": [
+          7,
+          8
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 11,
+      "issue_number": 4,
+      "source": {
+        "filename": "2005-07-08-remnant.pdf",
+        "sha256": "c365d3d247fa1545ffce351b4eb9ef505c4e80327a78fe22bd95beb94975ca62",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2005-07",
+      "slug": "heartbeat-remnant-2005-07",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "All 36 PDF pages visually inspected. Thirteen eligible editorial pieces included: all eleven contents entries, the page 14 poem, and readers’ letters on pages 34–35. No article-specific permission restrictions detected and no rights-skipped entries. Becoming A Channel of God’s Power continues on page 9; Revivals That Stay continues on page 27, both recorded explicitly. Front cover, table of contents and general masthead, page 35 financial report/article-submission solicitation and their graphics, and back cover/mailing panel with decorative Joel 2:15-17 quotation omitted under issue-inventory exclusions. All included text and meaningful formatting compared against every page and independently proofread by a second AI reader.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "b1727d59-5391-4f21-a609-616a56217d35",
+            "title": "Becoming A Channel of God’s Power",
+            "source_pages": {
+              "start": 3,
+              "end": 9,
+              "pages": [
+                3,
+                4,
+                5,
+                6,
+                9
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 2,
+            "article_id": "afe5122b-824d-4658-af86-1ececd3d3ade",
+            "title": "Are You Born Again?",
+            "source_pages": {
+              "start": 7,
+              "end": 9,
+              "pages": [
+                7,
+                8,
+                9
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 3,
+            "article_id": "329d3201-70d8-45e6-9f71-9ccbd09ce9a7",
+            "title": "DAVID ZEISBERGER",
+            "source_pages": {
+              "start": 10,
+              "end": 13
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 4,
+            "article_id": "40f96de8-cd9d-4e7d-8780-778b255149f5",
+            "title": "Except a Corn of Wheat...Die",
+            "source_pages": {
+              "start": 14,
+              "end": 14
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 5,
+            "article_id": "61b0bd32-7c21-4e51-909a-dcd3198c7bf6",
+            "title": "IGNATIUS",
+            "source_pages": {
+              "start": 15,
+              "end": 16
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 6,
+            "article_id": "28efba40-5361-4be0-b3b1-78996b29c371",
+            "title": "Praying Till We PRAY",
+            "source_pages": {
+              "start": 17,
+              "end": 17
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 7,
+            "article_id": "864fd53d-da40-4478-9e1c-e62177efa866",
+            "title": "Revivals That Stay",
+            "source_pages": {
+              "start": 18,
+              "end": 27,
+              "pages": [
+                18,
+                19,
+                27
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 8,
+            "article_id": "bf3fe140-80b2-4120-841d-f5e87a2f4a04",
+            "title": "The Blood of Sprinkling",
+            "source_pages": {
+              "start": 20,
+              "end": 22
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 9,
+            "article_id": "9ce38c46-1773-4046-8c46-8557d6d5969d",
+            "title": "The Just Shall Live by Faith",
+            "source_pages": {
+              "start": 23,
+              "end": 24
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 10,
+            "article_id": "6fe6456f-cc06-4a20-af0b-efaf0033942c",
+            "title": "The PERSONAL EXPERIENCE of the SOUL WINNER",
+            "source_pages": {
+              "start": 25,
+              "end": 27
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 11,
+            "article_id": "082e4e7e-5c7f-4e6a-b924-c80d38900744",
+            "title": "The Refining of a Burdened and Unworthy Disciple",
+            "source_pages": {
+              "start": 28,
+              "end": 28
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 12,
+            "article_id": "c5e1985d-acff-47f5-b58e-1af70746427c",
+            "title": "God is So Faithful!",
+            "source_pages": {
+              "start": 29,
+              "end": 33
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 13,
+            "article_id": "e9f126ba-9346-4443-b985-c4042ccd5b95",
+            "title": "Precious Letters from Our Readers",
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            },
+            "disposition": "included"
+          }
+        ],
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "article_sequences": [],
+            "visible_images": [
+              {
+                "description": "Waterfall cover photograph",
+                "disposition": "omitted",
+                "reason": "front cover"
+              },
+              {
+                "description": "Magazine title and heartbeat logo",
+                "disposition": "omitted",
+                "reason": "cover magazine furniture"
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "article_sequences": [],
+            "visible_images": [
+              {
+                "description": "butterfly",
+                "disposition": "omitted",
+                "reason": "table-of-contents thumbnail"
+              },
+              {
+                "description": "Zeisberger portrait",
+                "disposition": "omitted",
+                "reason": "table-of-contents thumbnail"
+              },
+              {
+                "description": "praying person",
+                "disposition": "omitted",
+                "reason": "table-of-contents thumbnail"
+              },
+              {
+                "description": "revival tents",
+                "disposition": "omitted",
+                "reason": "table-of-contents thumbnail"
+              },
+              {
+                "description": "FAITH bridge engraving",
+                "disposition": "omitted",
+                "reason": "table-of-contents thumbnail"
+              },
+              {
+                "description": "family portrait",
+                "disposition": "omitted",
+                "reason": "table-of-contents thumbnail"
+              },
+              {
+                "description": "Magazine title/heartbeat logo",
+                "disposition": "omitted",
+                "reason": "masthead"
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "article_sequences": [
+              1
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Water flowing from a wooden trough",
+                "article_id": "b1727d59-5391-4f21-a609-616a56217d35",
+                "canonical_export": "public/images/articles/b1727d59-5391-4f21-a609-616a56217d35-1.jpg",
+                "canonical_source_page": 3,
+                "pdf_image_object": 13,
+                "notes": "Clean same-source photograph from object 230, native crop matching page 3. Baked title, shadow, fade and vignette omitted."
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "article_sequences": [
+              1
+            ],
+            "visible_images": [
+              {
+                "description": "Water flowing from a wooden trough",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "notes": "Raw base-image and visual registration confirmed the lower-waterfall crop is wholly contained in the canonical image recovered from clean object 230. No unique image content omitted.",
+                "article_id": "b1727d59-5391-4f21-a609-616a56217d35",
+                "canonical_export": "public/images/articles/b1727d59-5391-4f21-a609-616a56217d35-1.jpg",
+                "canonical_source_page": 3,
+                "pdf_image_object": 17
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "article_sequences": [
+              1
+            ],
+            "visible_images": [
+              {
+                "description": "Water flowing from a wooden trough",
+                "disposition": "represented once because it is a repeated use of the same image",
+                "notes": "Raw base-image and visual registration confirmed the lower-waterfall crop is wholly contained in the canonical image recovered from clean object 230. No unique image content omitted.",
+                "article_id": "b1727d59-5391-4f21-a609-616a56217d35",
+                "canonical_export": "public/images/articles/b1727d59-5391-4f21-a609-616a56217d35-1.jpg",
+                "canonical_source_page": 3,
+                "pdf_image_object": 21
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "article_sequences": [
+              1
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "article_sequences": [
+              2
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Chrysalis hanging from branch",
+                "article_id": "afe5122b-824d-4658-af86-1ececd3d3ade",
+                "canonical_export": "public/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-1.jpg",
+                "canonical_source_page": 7,
+                "pdf_image_object": 28
+              },
+              {
+                "disposition": "exported",
+                "description": "Butterfly",
+                "article_id": "afe5122b-824d-4658-af86-1ececd3d3ade",
+                "canonical_export": "public/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-2.jpg",
+                "canonical_source_page": 7,
+                "pdf_image_object": 29
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "article_sequences": [
+              2
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "article_sequences": [
+              1,
+              2
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Butterfly, caterpillar and chrysalides on branch",
+                "article_id": "afe5122b-824d-4658-af86-1ececd3d3ade",
+                "canonical_export": "public/images/articles/afe5122b-824d-4658-af86-1ececd3d3ade-3.jpg",
+                "canonical_source_page": 9,
+                "pdf_image_object": 36
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "article_sequences": [
+              3
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Portrait of David Zeisberger",
+                "article_id": "329d3201-70d8-45e6-9f71-9ccbd09ce9a7",
+                "canonical_export": "public/images/articles/329d3201-70d8-45e6-9f71-9ccbd09ce9a7-1.jpg",
+                "canonical_source_page": 10,
+                "pdf_image_object": 40
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "article_sequences": [
+              3
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Zeisberger preaching to gathered American Indians",
+                "article_id": "329d3201-70d8-45e6-9f71-9ccbd09ce9a7",
+                "canonical_export": "public/images/articles/329d3201-70d8-45e6-9f71-9ccbd09ce9a7-2.jpg",
+                "canonical_source_page": 11,
+                "pdf_image_object": 44
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "article_sequences": [
+              3
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "article_sequences": [
+              3
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "article_sequences": [
+              4
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Close view of grain heads",
+                "article_id": "40f96de8-cd9d-4e7d-8780-778b255149f5",
+                "canonical_export": "public/images/articles/40f96de8-cd9d-4e7d-8780-778b255149f5-1.jpg",
+                "canonical_source_page": 14,
+                "pdf_image_object": 54,
+                "notes": "Title, poem and byline baked into the only original wheat raster; exact composition retained under the documented unavoidable-overlay exception."
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "article_sequences": [
+              5
+            ],
+            "visible_images": [
+              {
+                "description": "Gray gradient title panel and multiple border lines",
+                "disposition": "omitted",
+                "reason": "publisher title-layout treatment; no figurative artwork"
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "article_sequences": [
+              5
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Engraving of the Colosseum",
+                "article_id": "61b0bd32-7c21-4e51-909a-dcd3198c7bf6",
+                "canonical_export": "public/images/articles/61b0bd32-7c21-4e51-909a-dcd3198c7bf6-1.png",
+                "canonical_source_page": 16,
+                "pdf_image_object": 63
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "article_sequences": [
+              6
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Two people praying by chairs",
+                "article_id": "28efba40-5361-4be0-b3b1-78996b29c371",
+                "canonical_export": "public/images/articles/28efba40-5361-4be0-b3b1-78996b29c371-1.jpg",
+                "canonical_source_page": 17,
+                "pdf_image_object": 67
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "article_sequences": [
+              7
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Crowds gathered around revival tents",
+                "article_id": "864fd53d-da40-4478-9e1c-e62177efa866",
+                "canonical_export": "public/images/articles/864fd53d-da40-4478-9e1c-e62177efa866-1.png",
+                "canonical_source_page": 18,
+                "pdf_image_object": 71
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "article_sequences": [
+              7
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Outdoor gathering listening to a speaker",
+                "article_id": "864fd53d-da40-4478-9e1c-e62177efa866",
+                "canonical_export": "public/images/articles/864fd53d-da40-4478-9e1c-e62177efa866-2.jpg",
+                "canonical_source_page": 19,
+                "pdf_image_object": 75
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "article_sequences": [
+              8
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "People and sacrifice in a rocky setting",
+                "article_id": "bf3fe140-80b2-4120-841d-f5e87a2f4a04",
+                "canonical_export": "public/images/articles/bf3fe140-80b2-4120-841d-f5e87a2f4a04-1.jpg",
+                "canonical_source_page": 20,
+                "pdf_image_object": 79,
+                "notes": "Near-duplicate image caption retained because its printed especially differs from specially in the body."
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "article_sequences": [
+              8
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "article_sequences": [
+              8
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Man with raised arms before a crowd near a temple",
+                "article_id": "bf3fe140-80b2-4120-841d-f5e87a2f4a04",
+                "canonical_export": "public/images/articles/bf3fe140-80b2-4120-841d-f5e87a2f4a04-2.jpg",
+                "canonical_source_page": 22,
+                "pdf_image_object": 86
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "article_sequences": [
+              9
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Man crossing a bridge marked FAITH through darkness",
+                "article_id": "9ce38c46-1773-4046-8c46-8557d6d5969d",
+                "canonical_export": "public/images/articles/9ce38c46-1773-4046-8c46-8557d6d5969d-1.png",
+                "canonical_source_page": 23,
+                "pdf_image_object": 90
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "article_sequences": [
+              9
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "article_sequences": [
+              10
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "article_sequences": [
+              10
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "article_sequences": [
+              7,
+              10
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "article_sequences": [
+              11
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "article_sequences": [
+              12
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Family portrait with two adults, two girls and a baby",
+                "article_id": "c5e1985d-acff-47f5-b58e-1af70746427c",
+                "canonical_export": "public/images/articles/c5e1985d-acff-47f5-b58e-1af70746427c-1.jpg",
+                "canonical_source_page": 29,
+                "pdf_image_object": 109
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "article_sequences": [
+              12
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "article_sequences": [
+              12
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "article_sequences": [
+              12
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "article_sequences": [
+              12
+            ],
+            "visible_images": [],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "article_sequences": [
+              13
+            ],
+            "visible_images": [
+              {
+                "disposition": "exported",
+                "description": "Roadside mailbox and surrounding landscape",
+                "article_id": "e9f126ba-9346-4443-b985-c4042ccd5b95",
+                "canonical_export": "public/images/articles/e9f126ba-9346-4443-b985-c4042ccd5b95-1.jpg",
+                "canonical_source_page": 34,
+                "pdf_image_object": 125,
+                "notes": "Useful unobstructed mailbox crop removes baked article title and translucent reading panel. Intrinsic mailbox address retained; introductory paragraph transcribed as HTML."
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "article_sequences": [
+              13
+            ],
+            "visible_images": [
+              {
+                "description": "The Heartbeat of The Remnant logo",
+                "disposition": "omitted",
+                "reason": "administrative financial/submission notice"
+              },
+              {
+                "description": "Charity Ministries logo",
+                "disposition": "omitted",
+                "reason": "administrative financial/submission notice"
+              },
+              {
+                "description": "Charity Gospel Tape Ministry logo with world map and cassette",
+                "disposition": "omitted",
+                "reason": "administrative financial/submission notice"
+              },
+              {
+                "description": "tilted magazine cover thumbnail",
+                "disposition": "omitted",
+                "reason": "administrative financial/submission notice"
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "article_sequences": [],
+            "visible_images": [
+              {
+                "description": "Stone ruins photograph with Joel 2:15-17 quotation",
+                "disposition": "omitted",
+                "reason": "back cover and mailing panel; no standalone titled/signed editorial article"
+              },
+              {
+                "description": "Magazine title/heartbeat logo and postage box",
+                "disposition": "omitted",
+                "reason": "back cover mailing panel"
+              }
+            ],
+            "no_other_visible_article_images": true,
+            "visually_inspected_entire_page": true
+          }
+        ],
+        "image_inventory_summary": "Sixteen unique exported images, each indexed and referenced once in its owning HTML. Page 4 and page 5 waterfall crops represented by the single page 3 canonical image. All final images visually checked against source/base objects and fully decoded using Pillow, FFmpeg and Skia Canvas 2D. All JPEGs are baseline RGB/sRGB with nonzero density.",
+        "image_limitations": [
+          "Page 14 wheat raster irreversibly contains its title, poem and byline. No clean base or meaningful crop exists; original composition retained and the same poem independently transcribed in semantic HTML.",
+          "Mailbox crop retains address lettering intrinsic to the available source raster.",
+          "No separate creator/photographer credit is printed for most images; absence is recorded as null, not inferred as a licence."
+        ],
+        "nonconsecutive_continuations": [
+          {
+            "article_id": "b1727d59-5391-4f21-a609-616a56217d35",
+            "pages": [
+              3,
+              4,
+              5,
+              6,
+              9
+            ]
+          },
+          {
+            "article_id": "864fd53d-da40-4478-9e1c-e62177efa866",
+            "pages": [
+              18,
+              19,
+              27
+            ]
+          }
+        ]
+      }
     }
   ],
   "categories": [
