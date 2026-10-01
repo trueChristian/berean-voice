@@ -60819,6 +60819,1957 @@
       },
       "issue_id": "e79821c1-b5b2-4e3c-b7e1-2fbddec2a742",
       "sequence": 12
+    },
+    {
+      "id": "cbfbc379-cb4c-49a9-8119-2119ce52b24f",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 1,
+      "title": "The Marriage Covenant",
+      "subtitle": "(originally) Don’t Confuse A Sin With A Covenant",
+      "section": null,
+      "byline": {
+        "raw": "by Joseph A. Webb, Th.D., Ph.D.\nPresident of C.P.R. Ministries International Inc., Longwood, FL",
+        "authors": [
+          {
+            "name": "Joseph A. Webb",
+            "credentials": "Th.D., Ph.D.",
+            "location": "Longwood, FL",
+            "role": "President of C.P.R. Ministries International Inc."
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 11
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "9d35b189-13cf-5a05-9518-ca06b066d53d",
+        "b074afdf-90ed-58c5-b843-3e274c46e17b"
+      ],
+      "html": {
+        "repository_path": "content/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-1.png",
+          "source_page": 3,
+          "role": "illustration",
+          "alt": "Scroll bearing hearts and clasped hands",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 13; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The lower-resolution repeat of this motif on pages 4–11 is represented once by this full-size original. No separate image credit or article-specific image reuse restriction is printed. Original lossless grayscale PNG extraction retained without recompression or color alteration.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 13,
+            "source_pixel_dimensions": [
+              517,
+              612
+            ],
+            "export_pixel_dimensions": [
+              517,
+              612
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "lossless grayscale PNG"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-2.jpg",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-2.jpg",
+          "source_page": 4,
+          "role": "illustration",
+          "alt": "Armed figures and a procession approaching a walled city",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 18; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped the baked exterior frame, white margin or drop shadow at the visible image boundary without retouching its content. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 18,
+            "source_pixel_dimensions": [
+              678,
+              437
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              17,
+              17,
+              655,
+              424
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              638,
+              407
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-3.jpg",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-3.jpg",
+          "source_page": 5,
+          "role": "illustration",
+          "alt": "Travellers with laden animals beside hills",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 23; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped the baked exterior frame, white margin or drop shadow at the visible image boundary without retouching its content. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 23,
+            "source_pixel_dimensions": [
+              674,
+              443
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              14,
+              15,
+              656,
+              428
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              642,
+              413
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-4.jpg",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-4.jpg",
+          "source_page": 5,
+          "role": "illustration",
+          "alt": "Travellers and a laden donkey facing a group of men",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 22; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 22,
+            "source_pixel_dimensions": [
+              750,
+              523
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              750,
+              523
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-5.jpg",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-5.jpg",
+          "source_page": 6,
+          "role": "illustration",
+          "alt": "Camels and people beside water",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 27; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 27,
+            "source_pixel_dimensions": [
+              521,
+              750
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              521,
+              750
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 6,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-6.jpg",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-6.jpg",
+          "source_page": 7,
+          "role": "illustration",
+          "alt": "A seated man holding a bowl beside a standing hunter",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 31; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped the baked exterior frame, white margin or drop shadow at the visible image boundary without retouching its content. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 31,
+            "source_pixel_dimensions": [
+              678,
+              694
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              22,
+              24,
+              656,
+              673
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              634,
+              649
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 7,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-7.jpg",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-7.jpg",
+          "source_page": 8,
+          "role": "illustration",
+          "alt": "An elderly seated man reaching toward a kneeling figure",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 35; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 35,
+            "source_pixel_dimensions": [
+              750,
+              491
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              750,
+              491
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 8,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-8.png",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-8.png",
+          "source_page": 9,
+          "role": "illustration",
+          "alt": "Adam and Eve beside a tree in a circular drawing marked ADAMIC COVENANT",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 39; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The ADAMIC COVENANT lettering is intrinsic to the substantive source illustration and retained. No separate image credit or article-specific image reuse restriction is printed. Original lossless grayscale PNG extraction retained without recompression or color alteration.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 39,
+            "source_pixel_dimensions": [
+              692,
+              689
+            ],
+            "export_pixel_dimensions": [
+              692,
+              689
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "lossless grayscale PNG"
+          }
+        },
+        {
+          "sequence": 9,
+          "repository_path": "public/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-9.jpg",
+          "public_path": "/images/articles/cbfbc379-cb4c-49a9-8119-2119ce52b24f-9.jpg",
+          "source_page": 10,
+          "role": "illustration",
+          "alt": "A seated elderly man facing a family group",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 43; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 43,
+            "source_pixel_dimensions": [
+              690,
+              420
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              690,
+              420
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire article on printed pages 3–11 visually read and gated through its final line; no article-specific restriction. The Wanted… Soldiers!!! Bible-school advertisement below the conclusion is separate excluded matter. Preserved original subsection numbers, paragraph boundaries, italic scripture and book-title emphasis, and underlining. Duplicate decorative pull quotes on pages 5–11 are represented by the same words in the body only. Source oddities deliberately retained, including warning’s In, Galatians l:8, I1 Samuel, Gibionites alongside Gibeonites, verse 3, Hebrew’s, does not effect, 3:I-4, it’s, and soon coming or our Lord Jesus. High-resolution crops resolved mixed opening/closing quotation marks, I1 and l:8 reference characters, and underlined phrases. Nine distinct images are exported and verified and the recurring scroll motif on pages 4–11 is represented once by the larger page-3 source.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "d58332a1-9877-4cc3-9498-6a712269a248",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 2,
+      "title": "Truly Penitent",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Alexander Whyte",
+        "authors": [
+          {
+            "name": "Alexander Whyte",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 12
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "b074afdf-90ed-58c5-b843-3e274c46e17b",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/d58332a1-9877-4cc3-9498-6a712269a248.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d58332a1-9877-4cc3-9498-6a712269a248-1.png",
+          "public_path": "/images/articles/d58332a1-9877-4cc3-9498-6a712269a248-1.png",
+          "source_page": 12,
+          "role": "illustration",
+          "alt": "Kneeling man beside a sign reading God be merciful to me a Sinner",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 50; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The source raster has a light-gray ground matching the page treatment; it is inseparable and retained without an unproven color inversion or synthesized replacement. The prayer wording on the sign is intrinsic to the illustration and retained. No separate image credit or article-specific image reuse restriction is printed. Original lossless grayscale PNG extraction retained without recompression or color alteration.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 50,
+            "source_pixel_dimensions": [
+              401,
+              459
+            ],
+            "export_pixel_dimensions": [
+              401,
+              459
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "documented unavoidable baked content retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "lossless grayscale PNG"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/d58332a1-9877-4cc3-9498-6a712269a248-2.jpg",
+          "public_path": "/images/articles/d58332a1-9877-4cc3-9498-6a712269a248-2.jpg",
+          "source_page": 12,
+          "role": "illustration",
+          "alt": "A seated man beneath a wooden staircase",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 51; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped the baked exterior frame, white margin or drop shadow at the visible image boundary without retouching its content. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 51,
+            "source_pixel_dimensions": [
+              300,
+              414
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              7,
+              8,
+              291,
+              411
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              284,
+              403
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Single body paragraph and italic introductory scripture preserved. Decorative pullquote is omitted as repetition of the body, with its parenthetical clarification “(God)” replacing “He” rather than adding substantive content. Printed missing punctuation in “but he only You” and reverse-direction quotation after “caution—” retained.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "d7faf1ae-2a21-4865-8795-083be58892a3",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 3,
+      "title": "But Ye Are A Chosen Generation",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by A. B. Simpson",
+        "authors": [
+          {
+            "name": "A. B. Simpson",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 13
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "30d1fd3e-fcf3-5720-b5d2-98c838f94d6d"
+      ],
+      "html": {
+        "repository_path": "content/articles/d7faf1ae-2a21-4865-8795-083be58892a3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d7faf1ae-2a21-4865-8795-083be58892a3-1.jpg",
+          "public_path": "/images/articles/d7faf1ae-2a21-4865-8795-083be58892a3-1.jpg",
+          "source_page": 13,
+          "role": "photograph",
+          "alt": "A trumpet",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 56; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 56,
+            "source_pixel_dimensions": [
+              527,
+              326
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              527,
+              326
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/d7faf1ae-2a21-4865-8795-083be58892a3-2.jpg",
+          "public_path": "/images/articles/d7faf1ae-2a21-4865-8795-083be58892a3-2.jpg",
+          "source_page": 13,
+          "role": "illustration",
+          "alt": "Men drinking beside a river with mounted figures nearby",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 55; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 55,
+            "source_pixel_dimensions": [
+              747,
+              491
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              747,
+              491
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Single body paragraph preserved. Decorative question at top repeats the opening question and is not transcribed twice.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "66c8bc19-3935-4e9f-a320-d498c37a1e22",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 4,
+      "title": "Exposing Error",
+      "subtitle": "Is It Worthwhile?",
+      "section": null,
+      "byline": {
+        "raw": "by Harry Ironside (1876-1951)\nHarry was a godly Fundamentalist author and teacher for many years and\nserved as pastor of Chicago’s Moody Memorial Church from 1930-1948",
+        "authors": [
+          {
+            "name": "Harry Ironside",
+            "location": null,
+            "life_dates": "1876-1951",
+            "role": "Harry was a godly Fundamentalist author and teacher for many years and served as pastor of Chicago’s Moody Memorial Church from 1930-1948"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 15
+      },
+      "categories": {
+        "primary": "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408",
+        "additional": []
+      },
+      "topics": [
+        "79026687-5f1c-5c05-8305-c63a5d165b2c"
+      ],
+      "html": {
+        "repository_path": "content/articles/66c8bc19-3935-4e9f-a320-d498c37a1e22.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/66c8bc19-3935-4e9f-a320-d498c37a1e22-1.jpg",
+          "public_path": "/images/articles/66c8bc19-3935-4e9f-a320-d498c37a1e22-1.jpg",
+          "source_page": 14,
+          "role": "illustration",
+          "alt": "Question marks with a magnifying glass",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 60; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 60,
+            "source_pixel_dimensions": [
+              450,
+              336
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              450,
+              336
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/66c8bc19-3935-4e9f-a320-d498c37a1e22-2.png",
+          "public_path": "/images/articles/66c8bc19-3935-4e9f-a320-d498c37a1e22-2.png",
+          "source_page": 14,
+          "role": "illustration",
+          "alt": "A hand holding a magnifying glass",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 155; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The same illustration repeated on page 15 is represented once. No separate image credit or article-specific image reuse restriction is printed. Original lossless grayscale PNG extraction retained without recompression or color alteration.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 155,
+            "source_pixel_dimensions": [
+              342,
+              450
+            ],
+            "export_pixel_dimensions": [
+              342,
+              450
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "lossless grayscale PNG"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Eight body paragraphs, joined across column/page breaks without wording changes. Repeated pullquote on page 15 omitted from body. Hand-and-magnifier illustration appears on both pages and is represented once. Printed quotation direction after “theme—” retained.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "302b1457-df06-4e48-8582-577b6f40351e",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 5,
+      "title": "They Call It “HATE SPEECH”",
+      "subtitle": "Christian teachings based on the Bible are\na natural target for the application of...",
+      "section": null,
+      "byline": {
+        "raw": "from Gospel Defense League",
+        "authors": [
+          {
+            "name": "Gospel Defense League",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 18
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": []
+      },
+      "topics": [
+        "e076a45a-2014-5d02-b18b-ac6397515f22"
+      ],
+      "html": {
+        "repository_path": "content/articles/302b1457-df06-4e48-8582-577b6f40351e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/302b1457-df06-4e48-8582-577b6f40351e-1.jpg",
+          "public_path": "/images/articles/302b1457-df06-4e48-8582-577b6f40351e-1.jpg",
+          "source_page": 16,
+          "role": "illustration",
+          "alt": "A man addressing a gathered crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 67; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 67,
+            "source_pixel_dimensions": [
+              362,
+              447
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              362,
+              447
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/302b1457-df06-4e48-8582-577b6f40351e-2.jpg",
+          "public_path": "/images/articles/302b1457-df06-4e48-8582-577b6f40351e-2.jpg",
+          "source_page": 17,
+          "role": "illustration",
+          "alt": "A robed man speaking amid a crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 71; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 71,
+            "source_pixel_dimensions": [
+              330,
+              450
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              330,
+              450
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete three-page article visually compared including extensive quoted-text italics, two internal headings, and final publisher contact block. Printed apparent errors and missing punctuation, including “humans and animal”, “United Nation’s”, “convicted to up to six years”, and “silenced It”, retained.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "b08acac9-e6df-41ae-a564-afd9d9e9592a",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 6,
+      "title": "ALL THE WAY",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Carolyn Yoder\nDublin, GA",
+        "authors": [
+          {
+            "name": "Carolyn Yoder",
+            "location": "Dublin, GA"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 19,
+        "end": 19
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "be523b84-148a-5633-9947-03c7c310d50a",
+        "8ada4a0d-a538-532f-a615-13434b3cd997"
+      ],
+      "html": {
+        "repository_path": "content/articles/b08acac9-e6df-41ae-a564-afd9d9e9592a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/b08acac9-e6df-41ae-a564-afd9d9e9592a-1.jpg",
+          "public_path": "/images/articles/b08acac9-e6df-41ae-a564-afd9d9e9592a-1.jpg",
+          "source_page": 19,
+          "role": "poem_background",
+          "alt": "The poem All the Way printed over a field beneath cloudy sky",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 78; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped only the baked exterior border and drop shadow. The title, complete poem, byline and gray photographic treatment are irreversibly baked into the only source raster; no clean field base exists. A small remaining field strip would not faithfully represent the scene, so the complete substantive composite is retained as an explicit unavoidable-overlay exception; no pixels were synthesized or inverse-blended. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 78,
+            "source_pixel_dimensions": [
+              1104,
+              1471
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              18,
+              18,
+              1057,
+              1436
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              1039,
+              1418
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "documented unavoidable baked content retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Poem visually transcribed from the page raster and independently checked at high resolution; seven stanzas with 5, 5, 5, 4, 4, 4, 5 lines, bold text, source capitalization, and incomplete stanza quotations preserved.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "742a597d-8b1d-4010-84ae-a9e58f474025",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 7,
+      "title": "FELICITAS WITH HER SEVEN SONS, JANUARIUS, FELIX, PHILIPPUS, SYLVANUS, ALEXANDER, VITALIS, AND MARTIALIS, PUT TO DEATH FOR THE FAITH, AT ROME, A.D. 164",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": "59e78031-c269-52d1-9b00-08dba0398cb4",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/742a597d-8b1d-4010-84ae-a9e58f474025.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/742a597d-8b1d-4010-84ae-a9e58f474025-1.jpg",
+          "public_path": "/images/articles/742a597d-8b1d-4010-84ae-a9e58f474025-1.jpg",
+          "source_page": 20,
+          "role": "illustration",
+          "alt": "Historical engraving of executions before a gathered crowd",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 82; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The publisher rounded-corner clipping is omitted as layout decoration; full underlying rectangular engraving preserved. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 82,
+            "source_pixel_dimensions": [
+              524,
+              420
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              524,
+              420
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full two-page article visually compared including italic introductory statement signed ~Clifford Fox. That statement remains in the body; the article has no separate byline. Preserved source apparent errors including “with a doubt” and name variation “Syllanus”. No reuse restriction. One p20 illustration; none on p21.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "28e8f221-9306-4378-8e69-677997cab98d",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 8,
+      "title": "FIRE!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by E. M Bounds",
+        "authors": [
+          {
+            "name": "E. M Bounds",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/28e8f221-9306-4378-8e69-677997cab98d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/28e8f221-9306-4378-8e69-677997cab98d-1.jpg",
+          "public_path": "/images/articles/28e8f221-9306-4378-8e69-677997cab98d-1.jpg",
+          "source_page": 22,
+          "role": "illustration",
+          "alt": "Biblical figures gathered around a rising flame",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 89; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 89,
+            "source_pixel_dimensions": [
+              562,
+              487
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              562,
+              487
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article visually compared. Source byline is exactly “by E. M Bounds”, with no period after M. Decorative repeated pull quote beginning “(God) can pardon much” is represented by its body passage once; it adds no unique substantive text. Three body paragraphs retained. No reuse restriction. One illustration on p22.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "27c29b70-fa4d-46c9-b8b4-86eee564c108",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 9,
+      "title": "Heart Surgery",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Lois Martin",
+        "authors": [
+          {
+            "name": "Lois Martin",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 23
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/27c29b70-fa4d-46c9-b8b4-86eee564c108.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/27c29b70-fa4d-46c9-b8b4-86eee564c108-1.jpg",
+          "public_path": "/images/articles/27c29b70-fa4d-46c9-b8b4-86eee564c108-1.jpg",
+          "source_page": 23,
+          "role": "photograph",
+          "alt": "Masked medical staff performing surgery",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 93; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 93,
+            "source_pixel_dimensions": [
+              670,
+              478
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              670,
+              478
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article visually compared. Preserved source “Heart Manuel”, “sooth”, and mixed divine-pronoun capitalization. Decorative repeated pull quote beneath photograph is represented by its body passage once. The quote is not an image caption. Six body paragraphs retained. No reuse restriction. One surgery photograph on p23.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "88dd10f4-1bce-4b0f-b47c-8ab58ef8c120",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 10,
+      "title": "I WAS IN THE GREAT REVIVAL",
+      "subtitle": "Lessons from the 1905 Revival in India",
+      "section": null,
+      "byline": {
+        "raw": "by Mary Warburton Booth",
+        "authors": [
+          {
+            "name": "Mary Warburton Booth",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 25
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/88dd10f4-1bce-4b0f-b47c-8ab58ef8c120.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete two-page article visually compared; page/column continuations joined and closing five-line hymn stanza preserved. Source “Thou shall”, “Crowds”, “US”, opening-style quote after “faces?”, and unusual printed spaces in “‘ Glory’”, “naught ?”, and ““ He” deliberately retained. No reuse restriction. Pages24–25 contain no article images; the gray title panel is publisher layout.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "eea521e5-0e79-4834-b698-8ecb0ee0c837",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 11,
+      "title": "My Journey to NON-RESISTANCE",
+      "subtitle": null,
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Alexander D. Marini",
+        "authors": [
+          {
+            "name": "Alexander D. Marini",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 32
+      },
+      "categories": {
+        "primary": "0648d4df-242a-5815-8d22-08b555d1b542",
+        "additional": [
+          "1c75ca28-4f99-5339-b594-085359f81d18",
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "9bb25764-72c4-5ffa-98de-ea207fdbe27f",
+        "9d35b189-13cf-5a05-9518-ca06b066d53d",
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8"
+      ],
+      "html": {
+        "repository_path": "content/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-1.jpg",
+          "public_path": "/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-1.jpg",
+          "source_page": 26,
+          "role": "photograph",
+          "alt": "Eight people posing for a family photograph",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 103; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped the baked exterior frame, white margin or drop shadow at the visible image boundary without retouching its content. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 103,
+            "source_pixel_dimensions": [
+              576,
+              418
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              5,
+              5,
+              545,
+              389
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              540,
+              384
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-2.jpg",
+          "public_path": "/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-2.jpg",
+          "source_page": 27,
+          "role": "photograph",
+          "alt": "A young man wearing a martial arts uniform",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 107; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped the baked exterior frame, white margin or drop shadow at the visible image boundary without retouching its content. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 107,
+            "source_pixel_dimensions": [
+              403,
+              542
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              8,
+              8,
+              375,
+              508
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              367,
+              500
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-3.jpg",
+          "public_path": "/images/articles/eea521e5-0e79-4834-b698-8ecb0ee0c837-3.jpg",
+          "source_page": 28,
+          "role": "photograph",
+          "alt": "A man speaking at a lectern",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 111; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped the baked exterior frame, white margin or drop shadow at the visible image boundary without retouching its content. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 111,
+            "source_pixel_dimensions": [
+              398,
+              363
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              3,
+              3,
+              369,
+              333
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              366,
+              330
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "passed; separable and croppable layout treatments omitted",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Visually transcribed all seven printed pages in three-column reading order and examined through the final line for reuse restrictions. Source section label and uppercase title retained. Scripture and dictionary emphasis, three subheadings, block quotations and all source punctuation retained; apparent errors include “refered”, “commmands”, “chosing”, “Jesus servants”, and source scripture references. Decorative pull quotes on pages 27, 29 and 31 repeat body wording and are represented once in the body. The three photographs have no printed captions or credits.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "7fe63551-500f-4963-8b75-e17ae8cfd46a",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 12,
+      "title": "SITTING AT EASE IN ZION?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Leonard Ravenhill",
+        "authors": [
+          {
+            "name": "Leonard Ravenhill",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [
+        "280f7e50-0dcd-51d6-a13f-3b69f197f4b7",
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ],
+      "html": {
+        "repository_path": "content/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-1.png",
+          "public_path": "/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-1.png",
+          "source_page": 33,
+          "role": "illustration",
+          "alt": "Seated people resting in chairs",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 127; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The source raster has a light-gray ground matching the page treatment; it is inseparable and retained without an unproven color inversion or synthesized replacement. No separate image credit or article-specific image reuse restriction is printed. Original lossless grayscale PNG extraction retained without recompression or color alteration.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 127,
+            "source_pixel_dimensions": [
+              450,
+              207
+            ],
+            "export_pixel_dimensions": [
+              450,
+              207
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "documented unavoidable baked content retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "lossless grayscale PNG"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-2.jpg",
+          "public_path": "/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-2.jpg",
+          "source_page": 33,
+          "role": "illustration",
+          "alt": "A man asleep against a stone column",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 129; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The source raster has a light-gray ground matching the page treatment; it is inseparable and retained without an unproven color inversion or synthesized replacement. The intrinsic artist signature is preserved; no name or license is inferred from it. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 129,
+            "source_pixel_dimensions": [
+              387,
+              389
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              387,
+              389
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "documented unavoidable baked content retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-3.jpg",
+          "public_path": "/images/articles/7fe63551-500f-4963-8b75-e17ae8cfd46a-3.jpg",
+          "source_page": 33,
+          "role": "illustration",
+          "alt": "Men sleeping in church pews",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 128; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The source raster has a light-gray ground matching the page treatment; it is inseparable and retained without an unproven color inversion or synthesized replacement. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 128,
+            "source_pixel_dimensions": [
+              661,
+              504
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              661,
+              504
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "documented unavoidable baked content retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Exact uppercase title taken from the contents page; the signed verse on page 33 has no separate title. Four logical verse lines retained in bold; the enlarged last line wraps after “the” only for print layout. All three illustrations belong to the verse; no captions or restriction notices. Intrinsic artist marking on the upper-right illustration is retained without inferring a name.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "c4ae6b45-cce9-4e55-a58c-ef5c5a5cdadf",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 13,
+      "title": "The Sufferings of Christ",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Reese Howells",
+        "authors": [
+          {
+            "name": "Reese Howells",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 34
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "8eeb707e-2475-5ca6-b536-d8fa8256afb8",
+        "75952f7e-5123-5cb9-8a6f-bcb75336e69f"
+      ],
+      "html": {
+        "repository_path": "content/articles/c4ae6b45-cce9-4e55-a58c-ef5c5a5cdadf.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c4ae6b45-cce9-4e55-a58c-ef5c5a5cdadf-1.jpg",
+          "public_path": "/images/articles/c4ae6b45-cce9-4e55-a58c-ef5c5a5cdadf-1.jpg",
+          "source_page": 34,
+          "role": "illustration",
+          "alt": "Jesus surrounded by men, women, and children",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 133; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. The source raster has a light-gray ground matching the page treatment; it is inseparable and retained without an unproven color inversion or synthesized replacement. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 133,
+            "source_pixel_dimensions": [
+              600,
+              501
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              600,
+              501
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "documented unavoidable baked content retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Two source paragraphs and the upper illustration visually checked; high-resolution recheck confirms “conformable unto his death.” No caption or reuse restriction is printed.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "14ed443a-4a0f-4365-945a-9bd4bc0cb33c",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 14,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "99e30c2e-a1a4-5da7-9ca7-8587269a4246",
+        "280f7e50-0dcd-51d6-a13f-3b69f197f4b7"
+      ],
+      "html": {
+        "repository_path": "content/articles/14ed443a-4a0f-4365-945a-9bd4bc0cb33c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/14ed443a-4a0f-4365-945a-9bd4bc0cb33c-1.jpg",
+          "public_path": "/images/articles/14ed443a-4a0f-4365-945a-9bd4bc0cb33c-1.jpg",
+          "source_page": 35,
+          "role": "photograph",
+          "alt": "A roadside mailbox bearing the magazine address",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 137; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Meaningful unobstructed mailbox crop removes the irreversibly baked heading and translucent reading panel; the address lettering on the mailbox remains intrinsic to the only source raster. The separate introductory text is transcribed in HTML. No pixels were synthesized. No separate image credit or article-specific image reuse restriction is printed. Source grayscale samples replicated into RGB; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 137,
+            "source_pixel_dimensions": [
+              1050,
+              522
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              0,
+              0,
+              495,
+              230
+            ],
+            "colour_conversion": "grayscale to RGB/sRGB without inversion",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              495,
+              230
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "documented unavoidable baked content retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Header invitation and all three letters included in column reading order, including italic first letter and closing labels. The source prints “~Bro. DeanDear” at the end of the first italic letter, with “Dear” in roman, followed later by “Remnant,”; this apparent typesetting error is preserved rather than moved or corrected. Cross dividers are recurring decorative separators, not images or substantive text. No reuse restriction is printed.",
+        "independent_text_review": "completed"
+      },
+      "language": "en"
+    },
+    {
+      "id": "70fb6a6f-c616-4a62-a8f6-8f83aea38532",
+      "issue_id": "6be9e912-0842-493f-9d12-58011322de0d",
+      "sequence": 15,
+      "title": "The Kitchen Sink",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "75952f7e-5123-5cb9-8a6f-bcb75336e69f"
+      ],
+      "html": {
+        "repository_path": "content/articles/70fb6a6f-c616-4a62-a8f6-8f83aea38532.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/70fb6a6f-c616-4a62-a8f6-8f83aea38532-1.jpg",
+          "public_path": "/images/articles/70fb6a6f-c616-4a62-a8f6-8f83aea38532-1.jpg",
+          "source_page": 36,
+          "role": "poem_background",
+          "alt": "The poem The Kitchen Sink printed over a sink containing dishes and soap suds",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded PDF image object 141; raw objects, paint order and page clipping inspected. No soft mask or transparency group. Separately painted article typography, page furniture, panels, rules and frames omitted by extracting the base image. Cropped the source bleed to the published page boundary. The title, poem and source credit are irreversibly baked into the only source raster and remain as an explicit unavoidable-overlay exception, preserving both sink basins and the dishes. Separate magazine logo, address and postage panel omitted. No clean photographic base exists and no hidden pixels were synthesized. No separate image credit or article-specific image reuse restriction is printed. Source sRGB samples retained; no CMYK or sample inversion was needed. Encoded as baseline sRGB JPEG with nonzero 72 dpi density.",
+          "transformation": {
+            "method": "original embedded image extraction",
+            "pdf_object_xref": 141,
+            "source_pixel_dimensions": [
+              1352,
+              1725
+            ],
+            "crop_pixels_left_top_right_bottom": [
+              38,
+              38,
+              1313,
+              1688
+            ],
+            "colour_conversion": "source ICC profile 232 is sRGB IEC61966-2.1; sRGB preserved",
+            "jpeg_encoding": {
+              "mode": "baseline",
+              "quality": 92,
+              "density_dpi": [
+                72,
+                72
+              ],
+              "progressive": false
+            },
+            "export_pixel_dimensions": [
+              1275,
+              1650
+            ]
+          },
+          "verification": {
+            "source_base_and_pdf_visually_compared": true,
+            "full_final_raster_visually_inspected": true,
+            "overlay_audit": "documented unavoidable baked content retained",
+            "Pillow_full_decode": "passed without warnings",
+            "FFmpeg_full_decode": "passed without warnings",
+            "browser_compatible_renderer": "Skia Canvas 2D (@napi-rs/canvas), successfully rendered and visually inspected",
+            "encoded_colour_space": "RGB/sRGB"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Substantive back-cover poem visually transcribed from its raster artwork: three eight-line stanzas in bold, plus the printed credit. Retains the period after “Thus from that steaming kitchen sink.” and the spelling “Kountry Korner Varity Store”. Mailing/publication/postage furniture excluded. No reuse restriction is printed.",
+        "independent_text_review": "completed"
+      },
+      "language": "en",
+      "publication_notes": [
+        "From “Farm House Cooking”\nKountry Korner Varity Store"
+      ]
     }
   ],
   "skipped": [
