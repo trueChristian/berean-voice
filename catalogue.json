@@ -9705,6 +9705,619 @@
         "image_inventory_reconciliation": "Every visible source image is accounted for: 24 canonical article exports, one illustration excluded with the restricted article, ten contents thumbnails and the cover photograph omitted as issue furniture. Page-15 decorative stencil frame, masthead logos and back-cover mailing furniture are excluded layout. All 24 exports are indexed and referenced exactly once in their owning HTML.",
         "verification_summary": "Every eligible article received page-by-page visual transcription and independent second-reader text/formatting review. All 24 final images were independently compared with rendered pages and native base objects; overlay exceptions and source-pixel crops are explicit. Complete Pillow and FFmpeg decoding passed without warnings; Skia Canvas decoded, painted and read back every final image. All JPEGs are baseline RGB/sRGB with nonzero density. No unresolved text or article-rights uncertainty; absent individual image credits remain unspecified."
       }
+    },
+    {
+      "id": "3250f69c-ca5d-4e4e-9139-b42a9447cdd5",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Autumn 2025",
+        "year": 2025,
+        "season": "Autumn",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Fall-2025-Remnant.pdf",
+        "sha256": "930752a2272b58bbba1586953239211d099dec329bf17e6403fbd95aa73302ae",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All printed material except that marked “used by permission” may be copied or reprinted in its entirety without changes, with magazine name, date and issue number referenced. Material marked “used by permission” requires special permission from the author or responsible party.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      },
+      "source_id": "heartbeat-remnant-2025-autumn",
+      "slug": "heartbeat-remnant-2025-autumn",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "Eleven table-of-contents entries plus the page-3 editorial yield twelve candidate pieces: ten eligible and two excluded by article-specific permission notices. All 36 PDF pages visually inspected. Article content headings are authoritative, including the mixed display-letter casing of ELiZABETH AND THE DiNoSAuRS. All included articles received independent visual text/format review. Cover, contents/masthead, separate page-3 conference-line advertisement and recording catalogue, and back-cover mailing matter are excluded. All grouping identities are reused; no categories, topics or series added.",
+        "source_condition": "The supplied PDF consists of scanned printed pages plus invisible OCR text (/ca 0). Exact wording was decided from visible pixels. Each source image is part of a sole full-page RGB raster; no separable original photograph, mask, tile or transparency group was present. Meaningful unobstructed source crops are used where possible, followed by documented vertical resampling to preserve PDF placement aspect ratios. No generated, inpainted or repaired content.",
+        "image_credit_note": "Page 2 credits “© Belle Vie Creative | page: 2, 11”; “© Photography by Laurel | pages: front cover, 7, 9, 17,24, back cover”; “© Adobe Stock Images | pages: 4, 22, 23, 33”; “© Pixabay | pagee: 14”; “© Brimming Focus Photography | page: 25”; “© Brandi Enns | page: 31”; “© Nathan Leinbach | page: 35”. Credits do not establish individual licences. No asset-specific credit is printed for the editorial graphics, children’s section icon, emotional diagram or page-32 almonds.",
+        "remaining_uncertainty": "No unresolved transcription or article-eligibility uncertainty. Page-23 credited background is too faint to identify its subject, so its alt text remains neutral; the only source includes inseparable heading/byline/fade. Page-4 fox photograph likewise retains inseparable source title/byline/tab. Paper show-through and scan distortion that cannot be removed without altering source content are documented per image. No unstated image licence is inferred.",
+        "nonconsecutive_continuations": [],
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "From the EDITOR",
+            "source_pages": {
+              "start": 3,
+              "end": 3
+            },
+            "disposition": "included",
+            "article_id": "00a4c32f-53ee-4b86-bb62-889009a9b020"
+          },
+          {
+            "sequence": 2,
+            "title": "The Little Foxes",
+            "source_pages": {
+              "start": 4,
+              "end": 6
+            },
+            "disposition": "included",
+            "article_id": "b13f8ad8-4af6-41aa-a5a1-2d9a237e1721"
+          },
+          {
+            "sequence": 3,
+            "title": "Humility in the Industrial Revolution",
+            "source_pages": {
+              "start": 7,
+              "end": 9
+            },
+            "disposition": "included",
+            "article_id": "6692289b-a394-402f-b159-246bebae9dc5"
+          },
+          {
+            "sequence": 4,
+            "title": "ELiZABETH AND THE DiNoSAuRS",
+            "source_pages": {
+              "start": 10,
+              "end": 11
+            },
+            "disposition": "included",
+            "article_id": "77fad9bd-e155-4f8b-9412-68f96cd634ca"
+          },
+          {
+            "sequence": 5,
+            "title": "At Home Among the Rocks",
+            "source_pages": {
+              "start": 12,
+              "end": 14
+            },
+            "disposition": "included",
+            "article_id": "afb391a2-30ba-44e3-a83d-72aa06c67466"
+          },
+          {
+            "sequence": 6,
+            "title": "The Creeping Danger of Materialism",
+            "source_pages": {
+              "start": 15,
+              "end": 18
+            },
+            "disposition": "skipped: article-specific permission restriction"
+          },
+          {
+            "sequence": 7,
+            "title": "The Parable of the Unfaithful Steward",
+            "source_pages": {
+              "start": 19,
+              "end": 22
+            },
+            "disposition": "skipped: article-specific permission restriction"
+          },
+          {
+            "sequence": 8,
+            "title": "Fully Committed?",
+            "source_pages": {
+              "start": 23,
+              "end": 24
+            },
+            "disposition": "included",
+            "article_id": "f24b8d7f-e7f8-4d1a-8769-75beff728b5e"
+          },
+          {
+            "sequence": 9,
+            "title": "What Is In Thine Hand?",
+            "source_pages": {
+              "start": 25,
+              "end": 26
+            },
+            "disposition": "included",
+            "article_id": "c3c16439-53f4-49a8-afb7-3e5dfa923221"
+          },
+          {
+            "sequence": 10,
+            "title": "The Christian and His Emotions",
+            "source_pages": {
+              "start": 27,
+              "end": 30
+            },
+            "disposition": "included",
+            "article_id": "c5edcd10-9eaa-473d-9a0d-45f0dce68aa2"
+          },
+          {
+            "sequence": 11,
+            "title": "Overstating Efficacy",
+            "source_pages": {
+              "start": 31,
+              "end": 33
+            },
+            "disposition": "included",
+            "article_id": "53295118-c859-4b10-a999-8214a4c37d4a"
+          },
+          {
+            "sequence": 12,
+            "title": "How Great Thou Art",
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            },
+            "disposition": "included",
+            "article_id": "9998080a-f62f-4190-9980-da11bf8f8fde"
+          }
+        ],
+        "page_image_census": [
+          {
+            "printed_page": 1,
+            "pdf_page": 1,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Autumn woodland path photograph, heartbeat mark and publisher cross/book logo",
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "Front cover"
+              }
+            ]
+          },
+          {
+            "printed_page": 2,
+            "pdf_page": 2,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Pen and camera illustrations; designer signature; colored masthead styling",
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "Contents, purpose statement, credits and general masthead"
+              }
+            ]
+          },
+          {
+            "printed_page": 3,
+            "pdf_page": 3,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "decorative section illustration",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/00a4c32f-53ee-4b86-bb62-889009a9b020-1.jpg",
+                "owning_article_id": "00a4c32f-53ee-4b86-bb62-889009a9b020"
+              },
+              {
+                "description": "author signature",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/00a4c32f-53ee-4b86-bb62-889009a9b020-2.jpg",
+                "owning_article_id": "00a4c32f-53ee-4b86-bb62-889009a9b020"
+              }
+            ],
+            "notes": [
+              "Black title tab and connecting rule are layout furniture. Conference-line announcement and recording catalogue excluded as advertising/service-list matter."
+            ]
+          },
+          {
+            "printed_page": 4,
+            "pdf_page": 4,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article opening photograph: Two young foxes among green grass, with the article title and byline printed above them.",
+                "source_objects": [
+                  23
+                ],
+                "owning_article_id": "b13f8ad8-4af6-41aa-a5a1-2d9a237e1721",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/b13f8ad8-4af6-41aa-a5a1-2d9a237e1721-1.jpg",
+                "disposition": "exported"
+              }
+            ]
+          },
+          {
+            "printed_page": 5,
+            "pdf_page": 5,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No separate photographs, illustrations or article backgrounds. Paper tone/texture, reverse-page show-through, running footers and rules are print/scan furniture rather than article images."
+            ]
+          },
+          {
+            "printed_page": 6,
+            "pdf_page": 6,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No separate photographs, illustrations or article backgrounds. Paper tone/texture, reverse-page show-through, running footers and rules are print/scan furniture rather than article images.",
+              "Joshua pull quote and flat rectangular backing are decorative repetition of body text, not an illustration; quote represented once in body."
+            ]
+          },
+          {
+            "printed_page": 7,
+            "pdf_page": 7,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article opening photograph: A lit candle in a dark setting.",
+                "source_objects": [
+                  35
+                ],
+                "owning_article_id": "6692289b-a394-402f-b159-246bebae9dc5",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/6692289b-a394-402f-b159-246bebae9dc5-1.jpg",
+                "disposition": "exported"
+              }
+            ]
+          },
+          {
+            "printed_page": 8,
+            "pdf_page": 8,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No separate photographs, illustrations or article backgrounds. Paper tone/texture, reverse-page show-through, running footers and rules are print/scan furniture rather than article images."
+            ]
+          },
+          {
+            "printed_page": 9,
+            "pdf_page": 9,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article closing photograph: A white barn beyond a wooden fence and a leaf-strewn path.",
+                "source_objects": [
+                  44
+                ],
+                "owning_article_id": "6692289b-a394-402f-b159-246bebae9dc5",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/6692289b-a394-402f-b159-246bebae9dc5-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": [
+              "Faint reversed tree silhouette at upper right is scan show-through from the Children’s Corner mark on following page 10, not a separate intentional image."
+            ]
+          },
+          {
+            "printed_page": 10,
+            "pdf_page": 10,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "section illustration: Silhouette of a child reading beneath a tree.",
+                "source_objects": [
+                  48
+                ],
+                "owning_article_id": "77fad9bd-e155-4f8b-9412-68f96cd634ca",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/77fad9bd-e155-4f8b-9412-68f96cd634ca-1.jpg",
+                "disposition": "exported"
+              }
+            ]
+          },
+          {
+            "printed_page": 11,
+            "pdf_page": 11,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "story illustration: A girl raises her hand among children listening to a teacher with dinosaur pictures.",
+                "source_objects": [
+                  52
+                ],
+                "owning_article_id": "77fad9bd-e155-4f8b-9412-68f96cd634ca",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/77fad9bd-e155-4f8b-9412-68f96cd634ca-2.jpg",
+                "disposition": "exported"
+              }
+            ]
+          },
+          {
+            "printed_page": 12,
+            "pdf_page": 12,
+            "visually_inspected": true,
+            "images": []
+          },
+          {
+            "printed_page": 13,
+            "pdf_page": 13,
+            "visually_inspected": true,
+            "images": []
+          },
+          {
+            "printed_page": 14,
+            "pdf_page": 14,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Rock hyrax resting on pale rocks among grasses",
+                "owner_sequence": 5,
+                "disposition": "exported",
+                "repository_path": "public/images/articles/afb391a2-30ba-44e3-a83d-72aa06c67466-1.jpg",
+                "source_object": 64
+              }
+            ]
+          },
+          {
+            "printed_page": 15,
+            "pdf_page": 15,
+            "visually_inspected": true,
+            "images": []
+          },
+          {
+            "printed_page": 16,
+            "pdf_page": 16,
+            "visually_inspected": true,
+            "images": []
+          },
+          {
+            "printed_page": 17,
+            "pdf_page": 17,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Burning candle in front of circular reflective plates",
+                "owner_sequence": 6,
+                "disposition": "excluded with skipped article",
+                "source_object": 77
+              }
+            ]
+          },
+          {
+            "printed_page": 18,
+            "pdf_page": 18,
+            "visually_inspected": true,
+            "images": []
+          },
+          {
+            "printed_page": 19,
+            "pdf_page": 19,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs, illustrations or meaningful backgrounds are visible. Plain title tab, rules, running footer and page number are layout furniture; scan paper texture and print show-through are not image assets."
+            ]
+          },
+          {
+            "printed_page": 20,
+            "pdf_page": 20,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs, illustrations or meaningful backgrounds are visible. Plain title tab, rules, running footer and page number are layout furniture; scan paper texture and print show-through are not image assets."
+            ]
+          },
+          {
+            "printed_page": 21,
+            "pdf_page": 21,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs, illustrations or meaningful backgrounds are visible. Plain title tab, rules, running footer and page number are layout furniture; scan paper texture and print show-through are not image assets."
+            ]
+          },
+          {
+            "printed_page": 22,
+            "pdf_page": 22,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Olive-branch photograph forming the lower-page background.",
+                "source_objects": [
+                  97
+                ],
+                "article_title": "The Parable of the Unfaithful Steward",
+                "disposition": "excluded with skipped article"
+              }
+            ]
+          },
+          {
+            "printed_page": 23,
+            "pdf_page": 23,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Faint printed background behind the article heading.",
+                "source_objects": [
+                  101
+                ],
+                "owning_article_id": "f24b8d7f-e7f8-4d1a-8769-75beff728b5e",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-1.jpg",
+                "disposition": "exported"
+              }
+            ]
+          },
+          {
+            "printed_page": 24,
+            "pdf_page": 24,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "An open Bible in sunlight with shadows across its pages.",
+                "source_objects": [
+                  105
+                ],
+                "owning_article_id": "f24b8d7f-e7f8-4d1a-8769-75beff728b5e",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/f24b8d7f-e7f8-4d1a-8769-75beff728b5e-2.jpg",
+                "disposition": "exported"
+              }
+            ]
+          },
+          {
+            "printed_page": 25,
+            "pdf_page": 25,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "A young girl in a grassy field reaches toward an adult’s hand.",
+                "source_objects": [
+                  110
+                ],
+                "owning_article_id": "c3c16439-53f4-49a8-afb7-3e5dfa923221",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/c3c16439-53f4-49a8-afb7-3e5dfa923221-1.jpg",
+                "disposition": "exported"
+              }
+            ]
+          },
+          {
+            "printed_page": 26,
+            "pdf_page": 26,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs, illustrations or meaningful backgrounds are visible. Plain title tab, rules, running footer and page number are layout furniture; scan paper texture and print show-through are not image assets."
+            ]
+          },
+          {
+            "printed_page": 27,
+            "pdf_page": 27,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Concentric-circle diagram of loyalty/allegiance, longings/dreams/desires, thoughts/emotions/attitudes and words/actions/countenance",
+                "disposition": "exported",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/c5edcd10-9eaa-473d-9a0d-45f0dce68aa2-1.png",
+                "owning_article_id": "c5edcd10-9eaa-473d-9a0d-45f0dce68aa2"
+              },
+              {
+                "description": "Black rectangle beside article heading",
+                "disposition": "omitted under issue-inventory exclusion: section/heading layout furniture"
+              }
+            ]
+          },
+          {
+            "printed_page": 28,
+            "pdf_page": 28,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "Text only; no photographs, illustrations or backgrounds."
+            ]
+          },
+          {
+            "printed_page": 29,
+            "pdf_page": 29,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "Text only; no photographs, illustrations or backgrounds."
+            ]
+          },
+          {
+            "printed_page": 30,
+            "pdf_page": 30,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "Text only. Pull quote duplicates source body and is represented once; decorative horizontal rules omitted as layout furniture."
+            ]
+          },
+          {
+            "printed_page": 31,
+            "pdf_page": 31,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "A mountain rises beyond a forest and lake.",
+                "disposition": "exported",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/53295118-c859-4b10-a999-8214a4c37d4a-1.jpg",
+                "owning_article_id": "53295118-c859-4b10-a999-8214a4c37d4a"
+              },
+              {
+                "description": "Black rectangle beside article heading",
+                "disposition": "omitted under issue-inventory exclusion: section/heading layout furniture"
+              }
+            ]
+          },
+          {
+            "printed_page": 32,
+            "pdf_page": 32,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Almonds scattered on a textured gray surface.",
+                "disposition": "exported",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/53295118-c859-4b10-a999-8214a4c37d4a-2.jpg",
+                "owning_article_id": "53295118-c859-4b10-a999-8214a4c37d4a"
+              }
+            ]
+          },
+          {
+            "printed_page": 33,
+            "pdf_page": 33,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Coconut, seeds, part of an avocado, and bowls of food ingredients.",
+                "disposition": "exported",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/53295118-c859-4b10-a999-8214a4c37d4a-3.jpg",
+                "owning_article_id": "53295118-c859-4b10-a999-8214a4c37d4a"
+              }
+            ]
+          },
+          {
+            "printed_page": 34,
+            "pdf_page": 34,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "Text-only article opening; monochrome title block, faint scan-through and running footer are page furniture, not article images."
+            ]
+          },
+          {
+            "printed_page": 35,
+            "pdf_page": 35,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Lightning photograph across upper half of page",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/9998080a-f62f-4190-9980-da11bf8f8fde-1.jpg",
+                "source_object": 151,
+                "credit": "© Nathan Leinbach",
+                "owning_article_id": "9998080a-f62f-4190-9980-da11bf8f8fde"
+              }
+            ]
+          },
+          {
+            "printed_page": 36,
+            "pdf_page": 36,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Autumn trees beside pond, back-cover photograph",
+                "disposition": "omitted under issue-inventory exclusion",
+                "credit": "© Photography by Laurel",
+                "reason": "back cover and mailing panel"
+              },
+              {
+                "description": "Magazine heartbeat wordmark within return-address panel",
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "back cover and mailing panel"
+              }
+            ],
+            "notes": [
+              "Return address, recipient address and postage permit are mailing matter; not article body. Photograph has no substantive overprinted editorial text."
+            ]
+          }
+        ],
+        "image_verification_summary": "Sixteen indexed and HTML-referenced exports reconcile with the complete 36-page visual image census. Independent full-resolution source/overlay/colour/aspect review passed. Pillow and strict FFmpeg full decodes passed without warnings; Skia Canvas pixel readback matched Pillow exactly. All fifteen JPEGs are baseline RGB/sRGB with nonzero density and no trailing data; diagram PNG is RGB/sRGB."
+      }
     }
   ],
   "categories": [
