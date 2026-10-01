@@ -8345,6 +8345,590 @@
         },
         "image_limitations": "No asset-specific licence is inferred from general masthead credits. The Parents’ Prayer source raster has no clean alternate object; its baked title, prayer and author lettering is retained to preserve the recognizable photograph. Separately painted mailing graphics and all other removable publisher overlays are omitted. Other sole-source gray grounds and substantive intrinsic lettering are documented in image metadata. Two small intrinsic artist signatures on pages 26 and 28 are retained as pixels; no uncertain artist name has been supplied."
       }
+    },
+    {
+      "id": "b9a63fc6-fb18-49d3-98f7-31116682ded4",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Winter 2025",
+        "year": 2025,
+        "season": "Winter",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Winter-2025-Remnant.pdf",
+        "sha256": "a04c6e791391a57f1dce68f25fbdb67e7bd023fb0943d43b9539770410d246d5",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All printed material except that marked “used by permission” may be copied or reprinted in its entirety without changes, with magazine name, date and issue number referenced. Material marked “used by permission” requires special permission from the author or responsible party.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      },
+      "source_id": "heartbeat-remnant-2025-winter",
+      "slug": "heartbeat-remnant-2025-winter",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "Eleven table-of-contents entries plus the editorial on page 3 yield twelve candidate pieces: eleven eligible and one excluded by the article-specific permission gate. Actual content-page titles are authoritative: page 26 prints “The Christian and His Emotion” (singular), while the contents uses “Emotions”. Pages 10–11 form the snowy panorama associated with Slow Down. Cover, contents/masthead, the standalone cross on page 15 and the back-cover mailing panel are excluded. All 36 pages were visually inspected; all eleven included texts and meaningful formatting passed independent AI visual review. No unresolved text or article-eligibility uncertainty remains. One new source-established series is registered; all eleven category assignments and twenty-one topics reuse existing canonical entities.",
+        "image_credit_note": "Page 2 credits: “© Belle Vie Creative | page: 2”; “© Photography by Laurel | pages: front cover, 3, 6, 10, 23”; “© Adobe Stock Images | pages: 15, 16, 32, back cover”; “© Brimming Focus Photography | page: 24, 29”; “© Nathan Leinbach | page: 35”. These credits are recorded without inferring a licence. The page-10 credit applies to the continuous page-10–11 panorama.",
+        "source_condition": "The supplied PDF contains scans of printed pages with an OCR text layer. Text decisions are made from visible source pixels. Some image regions retain irreversible paper show-through, print fades and scan artifacts; no pixels are synthesized.",
+        "nonconsecutive_continuations": [],
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "From the EDITOR",
+            "source_pages": {
+              "start": 3,
+              "end": 3
+            },
+            "disposition": "included",
+            "article_id": "b90378a3-1fae-4535-b33f-ccc4edf514ea"
+          },
+          {
+            "sequence": 2,
+            "title": "A Good Heritage",
+            "source_pages": {
+              "start": 4,
+              "end": 6
+            },
+            "disposition": "included",
+            "article_id": "968835a0-60ce-4fd2-8ec7-e9373d7a56c5"
+          },
+          {
+            "sequence": 3,
+            "title": "Evaluating the Fruit of Revival",
+            "source_pages": {
+              "start": 7,
+              "end": 9
+            },
+            "disposition": "included",
+            "article_id": "fe2b9ab5-d770-4400-9bdc-6708d0cc1d01"
+          },
+          {
+            "sequence": 4,
+            "title": "Slow Down",
+            "source_pages": {
+              "start": 10,
+              "end": 11
+            },
+            "disposition": "included",
+            "article_id": "9a1995a0-dad2-4769-a267-2d05ae256e2b"
+          },
+          {
+            "sequence": 5,
+            "title": "Forgiveness",
+            "source_pages": {
+              "start": 12,
+              "end": 14
+            },
+            "disposition": "included",
+            "article_id": "067c2d18-2dee-4cac-a811-b0e9218a5ba3"
+          },
+          {
+            "sequence": 6,
+            "title": "CALEB AND ANGELA",
+            "source_pages": {
+              "start": 16,
+              "end": 17
+            },
+            "disposition": "included",
+            "article_id": "573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb"
+          },
+          {
+            "sequence": 7,
+            "title": "A Call to Youth",
+            "source_pages": {
+              "start": 18,
+              "end": 19
+            },
+            "disposition": "included",
+            "article_id": "f0465c03-d737-4201-bfc2-2f452ff5cbca"
+          },
+          {
+            "sequence": 8,
+            "title": "How to Study the Bible",
+            "source_pages": {
+              "start": 20,
+              "end": 23
+            },
+            "disposition": "skipped: article-specific permission restriction"
+          },
+          {
+            "sequence": 9,
+            "title": "A Shoulder to Lean On",
+            "source_pages": {
+              "start": 24,
+              "end": 25
+            },
+            "disposition": "included",
+            "article_id": "c1a59f10-6bd7-43e4-b686-9be8b6cb3145"
+          },
+          {
+            "sequence": 10,
+            "title": "The Christian and His Emotion",
+            "source_pages": {
+              "start": 26,
+              "end": 29
+            },
+            "disposition": "included",
+            "article_id": "a7f20743-593b-430c-b00c-a1ff6fa0eeca"
+          },
+          {
+            "sequence": 11,
+            "title": "The Health Benefits of Gratitude",
+            "source_pages": {
+              "start": 30,
+              "end": 32
+            },
+            "disposition": "included",
+            "article_id": "3fdf7a9b-95d3-4da4-ae0a-03e44705caab"
+          },
+          {
+            "sequence": 12,
+            "title": "When Peace Like a River",
+            "source_pages": {
+              "start": 33,
+              "end": 35
+            },
+            "disposition": "included",
+            "article_id": "e55013ff-71f3-40ad-9211-479be822e625"
+          }
+        ],
+        "page_image_census": [
+          {
+            "printed_page": 1,
+            "pdf_page": 1,
+            "images": [
+              {
+                "description": "Church exterior photograph; publication heartbeat mark and publisher cross/logo",
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "Front cover"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 2,
+            "pdf_page": 2,
+            "images": [
+              {
+                "description": "Pen illustration beside Artwork Credits; camera illustration beside Photo Credits; masthead styling and background",
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "Table of contents, purpose statement, credits and general masthead"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 3,
+            "pdf_page": 3,
+            "images": [
+              {
+                "description": "Quill illustration attached to editorial header",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-1.jpg",
+                "owning_article_id": "b90378a3-1fae-4535-b33f-ccc4edf514ea"
+              },
+              {
+                "description": "Winter fence-post/birdhouse photograph",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-2.jpg",
+                "owning_article_id": "b90378a3-1fae-4535-b33f-ccc4edf514ea"
+              },
+              {
+                "description": "Edward Martin handwritten signature",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/b90378a3-1fae-4535-b33f-ccc4edf514ea-3.jpg",
+                "owning_article_id": "b90378a3-1fae-4535-b33f-ccc4edf514ea"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 4,
+            "pdf_page": 4,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Only text, solid title block and publisher page furniture; faint reverse-page show-through is not a separately printed image."
+            ]
+          },
+          {
+            "printed_page": 5,
+            "pdf_page": 5,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 6,
+            "pdf_page": 6,
+            "images": [
+              {
+                "description": "Snowy barn and silo photograph",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/968835a0-60ce-4fd2-8ec7-e9373d7a56c5-1.jpg",
+                "owning_article_id": "968835a0-60ce-4fd2-8ec7-e9373d7a56c5"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 7,
+            "pdf_page": 7,
+            "images": [
+              {
+                "description": "Hans Martin Boehm portrait",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-1.jpg",
+                "owning_article_id": "fe2b9ab5-d770-4400-9bdc-6708d0cc1d01"
+              }
+            ],
+            "visually_inspected": true,
+            "notes": [
+              "Faint large shape and reversed lettering in the upper paper are reverse-page scan show-through, not an independently printed church or illustration. The intended image is the separately bounded Boehm portrait."
+            ]
+          },
+          {
+            "printed_page": 8,
+            "pdf_page": 8,
+            "images": [
+              {
+                "description": "Phillip William Otterbein portrait",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-2.jpg",
+                "owning_article_id": "fe2b9ab5-d770-4400-9bdc-6708d0cc1d01"
+              },
+              {
+                "description": "Composite illustration of William Otterbein, Martin Boehm and a barn",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/fe2b9ab5-d770-4400-9bdc-6708d0cc1d01-3.jpg",
+                "constituents": [
+                  "William Otterbein painted portrait",
+                  "Martin Boehm painted portrait",
+                  "Barn background"
+                ],
+                "note": "All constituents retained together in one published composite; not separate repetitions of the monochrome source portraits.",
+                "owning_article_id": "fe2b9ab5-d770-4400-9bdc-6708d0cc1d01"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 9,
+            "pdf_page": 9,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text, numbered questions and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 10,
+            "pdf_page": 10,
+            "images": [
+              {
+                "description": "Left side of snowy landscape panorama for Slow Down",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/9a1995a0-dad2-4769-a267-2d05ae256e2b-1.jpg",
+                "note": "Continuity of trees, horizon and snow across the10–11 spread supports article ownership; cropped sky only, full tree retained.",
+                "owning_article_id": "9a1995a0-dad2-4769-a267-2d05ae256e2b"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 11,
+            "pdf_page": 11,
+            "images": [
+              {
+                "description": "Right side of snowy landscape panorama behind Slow Down",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/9a1995a0-dad2-4769-a267-2d05ae256e2b-2.jpg",
+                "note": "Same underlying panorama as page10 but a distinct printed region containing unique field and silo content. Cropped below article text; no duplicate image region.",
+                "owning_article_id": "9a1995a0-dad2-4769-a267-2d05ae256e2b"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 12,
+            "pdf_page": 12,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text, solid title block and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 13,
+            "pdf_page": 13,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and a plain shaded pull-quote box; no illustration."
+            ]
+          },
+          {
+            "printed_page": 14,
+            "pdf_page": 14,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 15,
+            "pdf_page": 15,
+            "images": [
+              {
+                "description": "Sunlit cross photograph",
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "Genuinely standalone decorative full-page matter; preceding Forgiveness concludes on14 and Children’s Corner begins16"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 16,
+            "pdf_page": 16,
+            "images": [
+              {
+                "description": "Open-book section illustration",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb-1.jpg",
+                "owning_article_id": "573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb"
+              },
+              {
+                "description": "Rain-on-window photograph",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb-2.jpg",
+                "owning_article_id": "573a0ca5-65ff-40d1-beeb-6b2cdc0d95fb"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 17,
+            "pdf_page": 17,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 18,
+            "pdf_page": 18,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text, section heading, solid title block and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 19,
+            "pdf_page": 19,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and a plain shaded pull-quote box; no illustration."
+            ]
+          },
+          {
+            "printed_page": 20,
+            "pdf_page": 20,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Restricted article text and solid heading block; no independent image."
+            ]
+          },
+          {
+            "printed_page": 21,
+            "pdf_page": 21,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Restricted article text only."
+            ]
+          },
+          {
+            "printed_page": 22,
+            "pdf_page": 22,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Restricted article text only."
+            ]
+          },
+          {
+            "printed_page": 23,
+            "pdf_page": 23,
+            "images": [
+              {
+                "description": "Bible photograph beside How to Study the Bible",
+                "disposition": "excluded with skipped article",
+                "owner_article_title": "How to Study the Bible",
+                "reason": "Article-specific separate-permission notice; no image export"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 24,
+            "pdf_page": 24,
+            "images": [
+              {
+                "description": "Wedding photograph opening A Shoulder to Lean On",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/c1a59f10-6bd7-43e4-b686-9be8b6cb3145-1.jpg",
+                "owning_article_id": "c1a59f10-6bd7-43e4-b686-9be8b6cb3145"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 25,
+            "pdf_page": 25,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 26,
+            "pdf_page": 26,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text, solid title block and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 27,
+            "pdf_page": 27,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 28,
+            "pdf_page": 28,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 29,
+            "pdf_page": 29,
+            "images": [
+              {
+                "description": "Snow-covered grasses and woodland photograph",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/a7f20743-593b-430c-b00c-a1ff6fa0eeca-1.jpg",
+                "owning_article_id": "a7f20743-593b-430c-b00c-a1ff6fa0eeca"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 30,
+            "pdf_page": 30,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text, section label and solid title block; no illustration."
+            ]
+          },
+          {
+            "printed_page": 31,
+            "pdf_page": 31,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 32,
+            "pdf_page": 32,
+            "images": [
+              {
+                "description": "Person with raised arms against sunlit hills",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/3fdf7a9b-95d3-4da4-ae0a-03e44705caab-1.jpg",
+                "owning_article_id": "3fdf7a9b-95d3-4da4-ae0a-03e44705caab"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 33,
+            "pdf_page": 33,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text, section label and solid title block; no illustration."
+            ]
+          },
+          {
+            "printed_page": 34,
+            "pdf_page": 34,
+            "images": [],
+            "visually_inspected": true,
+            "notes": [
+              "Text, hymn stanzas and publisher page furniture only."
+            ]
+          },
+          {
+            "printed_page": 35,
+            "pdf_page": 35,
+            "images": [
+              {
+                "description": "Hymn score When Peace Like a River",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/e55013ff-71f3-40ad-9211-479be822e625-1.jpg",
+                "note": "One composite export retains the complete score and its inseparable snowy-stream background.",
+                "owning_article_id": "e55013ff-71f3-40ad-9211-479be822e625"
+              },
+              {
+                "description": "Snowy-stream background photograph",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/e55013ff-71f3-40ad-9211-479be822e625-1.jpg",
+                "note": "Represented in the same single composite export as the score; no second duplicate background file.",
+                "owning_article_id": "e55013ff-71f3-40ad-9211-479be822e625"
+              }
+            ],
+            "visually_inspected": true
+          },
+          {
+            "printed_page": 36,
+            "pdf_page": 36,
+            "images": [
+              {
+                "description": "Snowy trees photograph and mailing-panel furniture",
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "Back cover and mailing panel"
+              }
+            ],
+            "visually_inspected": true
+          }
+        ],
+        "image_source_audit": "Each page paints one full-page RGB DCT source scan; article text is additionally present as invisible OCR using ExtGState /ca 0. No separate clean photograph assets, soft masks, clipping reconstruction, vector illustration pieces or transparency groups can recover original clean art. Source RGB colour profile is sRGB IEC61966-2.1 in ICC object 11.",
+        "image_validation": "All 15 canonical RGB/sRGB JPEGs were reopened at native useful resolution and visually compared with the scanned PDF, including centre, edges and corners. Complete Pillow and FFmpeg decodes succeeded without warnings. Skia (@napi-rs/canvas) browser-compatible rendering succeeded for every file and matched Pillow pixels exactly. Baseline containers, embedded source sRGB ICC profiles, nonzero 72-dpi density and EOI-at-EOF were verified. The page-35 score and snowy photograph are represented by one composite export; pages 10–11 retain two distinct published panorama regions."
+      }
     }
   ],
   "categories": [
@@ -11115,6 +11699,12 @@
       "id": "aedd8c12-7ba7-4a54-ab4d-5c4c8b7b4eb6",
       "name": "Baptism of the Holy Ghost & New Testament Reality",
       "slug": "baptism-of-the-holy-ghost-and-new-testament-reality",
+      "aliases": []
+    },
+    {
+      "id": "4b2517b5-c766-4fb8-ac45-48e383020ebc",
+      "name": "The Christian and His Emotion",
+      "slug": "the-christian-and-his-emotion",
       "aliases": []
     }
   ],
