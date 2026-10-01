@@ -69909,35 +69909,46 @@
           "public_path": "/images/articles/b13f8ad8-4af6-41aa-a5a1-2d9a237e1721-1.jpg",
           "source_page": 4,
           "role": "article opening photograph",
-          "alt": "A young fox standing beside a rock in green grass.",
+          "alt": "Two young foxes among green grass beside a rock.",
           "caption": null,
           "credit": "© Adobe Stock Images",
-          "rights_note": "Adobe Stock Images credited to page 4 in the page-2 masthead; no separate licence inferred. The source consists of full-page scanned RGB object 23 and invisible OCR; title, byline, location and white tab are baked into the only raster. Native source-pixel crop [120, 715, 810, 2100] provides an unobstructed portrait of the left fox, preserving its complete head and ears while excluding all article typography and the tab. The second fox is largely outside this narrower crop. No inpainting, generated pixels, cloning, healing or retouching. Vertical-only Lanczos resampling by 1.0061441470321097 matches the PDF placement aspect ratio. Baseline RGB JPEG retains source sRGB IEC61966-2.1 profile and nonzero 96 dpi density.",
+          "rights_note": "Adobe Stock Images credited to page 4 in the page-2 masthead; no separate licence inferred. The source is full-page scanned RGB object 23 with invisible OCR; title, byline, location and white tab are baked into its raster. At the user’s explicit request, AI image editing reconstructed only the obscured green background to remove this lettering and tab. The generated background patch was composited within [0, 330, 800, 590] on the original full 1712 × 2216 export. Both foxes and all pixels outside that patch are unchanged before final JPEG encoding; no cropping. Reconstructed background is not recoverable source photography and is an asset-specific user-authorized exception to the default no-inpainting rule. Baseline RGB JPEG embeds the source sRGB IEC61966-2.1 profile with nonzero 96 dpi density.",
           "transformation": {
             "source_object": 23,
             "source_dimensions": [
               1712,
               2202
             ],
-            "crop_pixels": [
-              120,
-              715,
-              810,
-              2100
-            ],
+            "crop_pixels": null,
             "rotation_degrees": 0,
             "flip": null,
             "output_dimensions": [
-              690,
-              1394
+              1712,
+              2216
             ],
-            "method": "source raster crop at recorded native-pixel bounds, followed by vertical Lanczos resampling to the exact PDF placement aspect ratio; no generated or repaired content",
+            "method": "Original full-frame PDF-aspect export retained; built-in imagegen output supplied only a feathered green-background patch, composited using ImageMagick at the recorded bounds; baseline sRGB JPEG encoding.",
             "color_encoding": "sRGB",
-            "vertical_scale_to_pdf_placement": 1.0061441470321097,
             "placed_page_dimensions_points": [
               612.0,
               792.0
-            ]
+            ],
+            "source_export_vertical_scale_to_pdf_placement": 1.0061441470321097,
+            "editing_input_dimensions": [
+              1712,
+              2216
+            ],
+            "generated_output_dimensions": [
+              1102,
+              1427
+            ],
+            "generated_background_resampling": "Full generated output aligned to 1712 × 2216 only to extract the background patch; generated foxes and other pixels discarded.",
+            "background_patch_bounds_pixels": [
+              0,
+              330,
+              800,
+              590
+            ],
+            "user_authorized_edit": "Remove article lettering and white tab while restoring both foxes and retaining the full photograph without cropping."
           },
           "verification": {
             "visual_against_pdf": "verified_by_ai",
@@ -69950,7 +69961,7 @@
             "complete_decode": "passed_without_warnings",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero density, EOI at EOF and no trailing bytes",
             "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas): complete decode, paint and pixel readback passed; decoded pixels match Pillow exactly.",
-            "independent_image_review": "Second AI reader visually confirmed the final crop removes all title/byline/tab pixels and retains the complete left fox head, ears, body and rock; no retouching, generated pixels or cut second fox head."
+            "independent_image_review": "Second AI reader compared the final full-frame image and background patch with the original: both original foxes, all ear tips, faces, limbs, rock, grass and framing are retained; title/byline/location/tab are absent, with no visible hard patch seam. Pixel comparison confirmed all pixels outside the background patch match the original before JPEG encoding."
           }
         }
       ],
@@ -69962,10 +69973,10 @@
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
-        "inventory_note": "Entire article through its final line checked for rights notices; none detected. Page 6 decorative Joshua pull quote repeats the body and is represented only in the body. Preserved bold cause the Christian to sin. and italic would; source wording Balaak, Israelite’s and Simeonites retained. One photograph reconciled to source p4. User-requested image correction replaces the full page with a clean, meaningful source crop of the left fox; all title/byline/tab pixels are excluded.",
+        "inventory_note": "Entire article through its final line checked for rights notices; none detected. Page 6 decorative Joshua pull quote repeats the body and is represented only in the body. Preserved bold cause the Christian to sin. and italic would; source wording Balaak, Israelite’s and Simeonites retained. One photograph reconciled to source p4. User-requested correction restores the complete two-fox photograph without cropping; AI-reconstructed green background removes title/byline/location/tab. Article body text is unchanged.",
         "independent_text_review": "A second AI reader visually checked all assigned source pages and final HTML; no wording or paragraph discrepancies found.",
         "independent_metadata_review": "A second AI reader visually checked source title, byline, location, section, source-page span and image credits; all matched after review.",
-        "image_encoding_note": "All final assets completely decoded through Pillow and strict FFmpeg without warnings; browser-compatible Skia raster matched Pillow exactly. Each received independent full-resolution visual/source overlay review, and all image-census dispositions reconcile."
+        "image_encoding_note": "Final asset completely decoded through Pillow and strict FFmpeg without warnings; browser-compatible Skia raster matched Pillow exactly. Independent full-resolution source/overlay review confirmed both foxes and full framing, with the authorized background reconstruction disclosed in image provenance."
       }
     },
     {
