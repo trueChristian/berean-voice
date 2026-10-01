@@ -70973,6 +70973,1750 @@
         "independent_text_review": "Root independently visually compared the complete final HTML, source-page paragraphs, punctuation, emphasis and metadata against all relevant page renders; no discrepancies remained.",
         "image_encoding_note": "All final assets completely decoded through Pillow and strict FFmpeg without warnings; browser-compatible Skia raster matched Pillow exactly. Each received independent full-resolution visual/source overlay review, and all image-census dispositions reconcile."
       }
+    },
+    {
+      "id": "bab0c77b-3cb7-4792-9694-d823e3e93f0e",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 1,
+      "title": "From the EDITOR",
+      "subtitle": null,
+      "section": "From the EDITOR",
+      "byline": {
+        "raw": "Edward Martin",
+        "authors": [
+          {
+            "name": "Edward Martin"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 3
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7",
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c"
+      ],
+      "html": {
+        "repository_path": "content/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-1.jpg",
+          "public_path": "/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-1.jpg",
+          "source_page": 3,
+          "role": "section illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Decorative black quill associated with the editor heading. No image-specific credit or licence is printed. Unobstructed crop excludes the heading typography and retains the complete feather and nib; the connecting title flourish ends at the left crop boundary. Inspected raw image object, page paint order, clipping, resources, masks and transparency: this page has one flattened RGB scanned-page image; the only later paint is invisible OCR text (/Gs1 alpha 0). No alternate base, tiles, image masks, transparency group or separable overlay exists. The embedded ICC profile is three-channel sRGB. Preserved source pixels in the stated region and resampled vertically only to reproduce the PDF placement aspect ratio. Encoded baseline sRGB JPEG with a nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 19,
+            "source_dimensions": [
+              1592,
+              2055
+            ],
+            "crop_pixels": [
+              703,
+              52,
+              971,
+              375
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              268,
+              324
+            ],
+            "method": "Original embedded source raster cropped at the stated pixel rectangle; vertical Lanczos resampling by (792/source_height)/(612/source_width) reproduces the published PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-2.jpg",
+          "public_path": "/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-2.jpg",
+          "source_page": 3,
+          "role": "author signature",
+          "alt": "Edward Martin’s signature.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Printed author signature retained as an image, with the separately printed author name preserved in the article body. No separate image credit or licence is printed. Unobstructed crop excludes surrounding prose and the separately printed name. Inspected raw image object, page paint order, clipping, resources, masks and transparency: this page has one flattened RGB scanned-page image; the only later paint is invisible OCR text (/Gs1 alpha 0). No alternate base, tiles, image masks, transparency group or separable overlay exists. The embedded ICC profile is three-channel sRGB. Preserved source pixels in the stated region and resampled vertically only to reproduce the PDF placement aspect ratio. Encoded baseline sRGB JPEG with a nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 19,
+            "source_dimensions": [
+              1592,
+              2055
+            ],
+            "crop_pixels": [
+              793,
+              1407,
+              1085,
+              1517
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              292,
+              110
+            ],
+            "method": "Original embedded source raster cropped at the stated pixel rectangle; vertical Lanczos resampling by (792/source_height)/(612/source_width) reproduces the published PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-3.jpg",
+          "public_path": "/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-3.jpg",
+          "source_page": 3,
+          "role": "article photograph",
+          "alt": "A stone church with a square tower stands beside old gravestones.",
+          "caption": null,
+          "credit": "© Edward Martin",
+          "rights_note": "Page 2 Photo Credits identifies © Edward Martin for page 3. No separate permission requirement or licence is stated. Unobstructed photograph crop excludes surrounding prose and print furniture. A narrow band of original scanning smear at the lower edge is retained as part of the only source raster; it is not a JPEG decoding defect. Inspected raw image object, page paint order, clipping, resources, masks and transparency: this page has one flattened RGB scanned-page image; the only later paint is invisible OCR text (/Gs1 alpha 0). No alternate base, tiles, image masks, transparency group or separable overlay exists. The embedded ICC profile is three-channel sRGB. Preserved source pixels in the stated region and resampled vertically only to reproduce the PDF placement aspect ratio. Encoded baseline sRGB JPEG with a nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 19,
+            "source_dimensions": [
+              1592,
+              2055
+            ],
+            "crop_pixels": [
+              811,
+              1620,
+              1592,
+              2054
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              781,
+              435
+            ],
+            "method": "Original embedded source raster cropped at the stated pixel rectangle; vertical Lanczos resampling by (792/source_height)/(612/source_width) reproduces the published PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Printed source spelling, case and punctuation retained, including lowercase “wilt” after the first question, en dashes in date and scripture ranges, “An Inconvenient Revival” in the body, italic publication names, and the author sign-off. One paragraph crossing the columns is joined. Quill, handwritten signature and church photograph each exported once.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "id": "8217b078-a164-411f-bcbd-056253d4bb3e",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 2,
+      "title": "The Inconvenient Revival",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Barry Grant\nShelbyville, Indiana",
+        "authors": [
+          {
+            "name": "Barry Grant",
+            "location": "Shelbyville, Indiana"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 4,
+        "end": 6
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": []
+      },
+      "topics": [
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7",
+        "b074afdf-90ed-58c5-b843-3e274c46e17b",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e"
+      ],
+      "html": {
+        "repository_path": "content/articles/8217b078-a164-411f-bcbd-056253d4bb3e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/8217b078-a164-411f-bcbd-056253d4bb3e-1.jpg",
+          "public_path": "/images/articles/8217b078-a164-411f-bcbd-056253d4bb3e-1.jpg",
+          "source_page": 4,
+          "role": "opening photograph",
+          "alt": "Green hills divided into fields, with scattered trees and buildings.",
+          "caption": null,
+          "credit": "© Nathan Leinbach",
+          "rights_note": "Page 2 Photo Credits identifies © Nathan Leinbach for page 4. No separate permission requirement or licence is stated. Unobstructed photograph crop excludes title, byline, decorative colour square and the photographed curved upper paper boundary; no material subject is removed. Inspected raw image object, page paint order, clipping, resources, masks and transparency: this page has one flattened RGB scanned-page image; the only later paint is invisible OCR text (/Gs1 alpha 0). No alternate base, tiles, image masks, transparency group or separable overlay exists. The embedded ICC profile is three-channel sRGB. Preserved source pixels in the stated region and resampled vertically only to reproduce the PDF placement aspect ratio. Encoded baseline sRGB JPEG with a nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 23,
+            "source_dimensions": [
+              1652,
+              2218
+            ],
+            "crop_pixels": [
+              1,
+              671,
+              1652,
+              2217
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              1651,
+              1490
+            ],
+            "method": "Original embedded source raster cropped at the stated pixel rectangle; vertical Lanczos resampling by (792/source_height)/(612/source_width) reproduces the published PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/8217b078-a164-411f-bcbd-056253d4bb3e-2.jpg",
+          "public_path": "/images/articles/8217b078-a164-411f-bcbd-056253d4bb3e-2.jpg",
+          "source_page": 6,
+          "role": "article photograph with printed pull quote",
+          "alt": "A palm tree before a hillside, with the printed pull quote over the photograph.",
+          "caption": null,
+          "credit": "© Adobe Stock Images",
+          "rights_note": "Page 2 Photo Credits identifies © Adobe Stock Images for page 6. No separate permission requirement or licence is stated. The photograph region contains irreversibly baked white pull-quote typography and an olive-gold tonal wash in the only source raster. These unavoidable publisher overlays are retained explicitly under the source-raster exception: a text-free left strip would cut the palm and remove most hillside context, and no retained black/white points establish an exact inverse wash. No inpainting, cloning, synthetic reconstruction or colour inverse was attempted. Cropped only the photograph region, excluding surrounding prose and its thin boundary. The repeated pull quote is not separately duplicated in semantic HTML because its entire wording already occurs in the body. Inspected raw image object, page paint order, clipping, resources, masks and transparency: this page has one flattened RGB scanned-page image; the only later paint is invisible OCR text (/Gs1 alpha 0). No alternate base, tiles, image masks, transparency group or separable overlay exists. The embedded ICC profile is three-channel sRGB. Preserved source pixels in the stated region and resampled vertically only to reproduce the PDF placement aspect ratio. Encoded baseline sRGB JPEG with a nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 31,
+            "source_dimensions": [
+              1568,
+              2081
+            ],
+            "crop_pixels": [
+              2,
+              2,
+              792,
+              676
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              790,
+              657
+            ],
+            "method": "Original embedded source raster cropped at the stated pixel rectangle; vertical Lanczos resampling by (792/source_height)/(612/source_width) reproduces the published PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article and all notices on pages 4–6 visually read. Printed punctuation, mixed capitalisation and paragraph boundaries preserved. Two paragraphs crossing a column/page break joined. Repeated pull-quote wording already appears in the complete body and is not added as duplicate semantic text; unavoidable baked quote and gold wash retained in page-6 image per explicit source-raster exception. Both photographs exported once.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "id": "ba84cac6-413c-49f5-a229-d74ed4913f69",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 3,
+      "title": "A Voice from Hell",
+      "subtitle": null,
+      "section": "Poem",
+      "byline": {
+        "raw": "Oscar C. Eliason",
+        "authors": [
+          {
+            "name": "Oscar C. Eliason"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "3aa5d6ec-22d9-58a4-be87-97523a2d558f",
+        "0077042a-c127-5c03-a910-92dc63cb4356"
+      ],
+      "html": {
+        "repository_path": "content/articles/ba84cac6-413c-49f5-a229-d74ed4913f69.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/ba84cac6-413c-49f5-a229-d74ed4913f69-1.jpg",
+          "public_path": "/images/articles/ba84cac6-413c-49f5-a229-d74ed4913f69-1.jpg",
+          "source_page": 7,
+          "role": "poem background photograph",
+          "alt": "Bright yellow and orange flames against a dark background.",
+          "caption": null,
+          "credit": "© Adobe Stock Images",
+          "rights_note": "Page 2 Photo Credits identifies © Adobe Stock Images for page 7. No separate permission requirement or licence is stated. Poem text, title, byline and rule are baked into the upper source raster. A meaningful unobstructed crop of the full-width lower flames excludes all publisher typography and preserves the principal continuous fire band; the upper dark field and isolated upper tongues are outside this crop. No hidden pixels reconstructed. Inspected raw image object, page paint order, clipping, resources, masks and transparency: this page has one flattened RGB scanned-page image; the only later paint is invisible OCR text (/Gs1 alpha 0). No alternate base, tiles, image masks, transparency group or separable overlay exists. The embedded ICC profile is three-channel sRGB. Preserved source pixels in the stated region and resampled vertically only to reproduce the PDF placement aspect ratio. Encoded baseline sRGB JPEG with a nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 35,
+            "source_dimensions": [
+              1644,
+              2128
+            ],
+            "crop_pixels": [
+              0,
+              1650,
+              1644,
+              2128
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              1644,
+              478
+            ],
+            "method": "Original embedded source raster cropped at the stated pixel rectangle; vertical Lanczos resampling by (792/source_height)/(612/source_width) reproduces the published PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All eight four-line stanzas visually verified against page 7, preserving punctuation, source apostrophe direction in “suff’ring” and “‘twould”, capitalisation of “hell”/“Hell” and “Oh”, and printed “Saviour”. One useful unobstructed lower-flames crop represents the source background image once. “Poem” is the contents-page section descriptor.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "id": "74eb7e32-78db-4e85-996a-4017e7df70d3",
+      "sequence": 4,
+      "title": "Examining Reactive Attachment Disorder",
+      "subtitle": "from a Biblical Perspective",
+      "section": null,
+      "byline": {
+        "raw": "Steve Ebersole\nMyerstown, Pennsylvania",
+        "authors": [
+          {
+            "name": "Steve Ebersole",
+            "location": "Myerstown, Pennsylvania"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 11
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "44a970cf-d23c-5e24-a196-0b08595d01ba"
+        ]
+      },
+      "topics": [
+        "1cd422b4-5792-58e6-bee6-d13c7784a0c9",
+        "e8455dc3-9ea9-50ad-8b49-ca5277a6a3fd",
+        "c9f86811-fb99-5d09-afa1-e6e0564031ff"
+      ],
+      "html": {
+        "repository_path": "content/articles/74eb7e32-78db-4e85-996a-4017e7df70d3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/74eb7e32-78db-4e85-996a-4017e7df70d3-1.jpg",
+          "public_path": "/images/articles/74eb7e32-78db-4e85-996a-4017e7df70d3-1.jpg",
+          "source_page": 9,
+          "role": "article photograph",
+          "alt": "An open weathered doorway and tall window in an empty room.",
+          "caption": null,
+          "credit": "© Nadiika Kravets",
+          "rights_note": "Page 2 credits © Nadiika Kravets for page 9. The page photograph is cropped just inside its slanted left border and narrow top/bottom paper edges, excluding the adjacent article column and footer while preserving the doorway, window, light fitting and photographed room. No article-specific permission requirement is printed; no separate licence is inferred. Inspected the sole base object, resources, paint order and page render: a single scanned RGB raster plus invisible OCR (/ca 0), with no alternate clean asset, tiles, masks or transparency groups. All lettering/layout outside the crop is excluded; no source pixels are retouched. The crop is vertically resampled only to reproduce the PDF placement aspect, and encoded as a baseline RGB JPEG with embedded source sRGB profile and nonzero 96 dpi density. No CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 44,
+            "source_dimensions": [
+              1672,
+              2193
+            ],
+            "crop_pixels": [
+              880,
+              3,
+              1672,
+              2190
+            ],
+            "crop_coordinate_space": "source raster",
+            "rotation_degrees": 0,
+            "rotation_direction": null,
+            "flip": null,
+            "output_dimensions": [
+              792,
+              2158
+            ],
+            "method": "Original source-pixel crop; vertical Lanczos resampling by 0.9866688125318526 to reproduce PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG with embedded source sRGB profile, nonzero density and EOI at EOF",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/74eb7e32-78db-4e85-996a-4017e7df70d3-2.jpg",
+          "public_path": "/images/articles/74eb7e32-78db-4e85-996a-4017e7df70d3-2.jpg",
+          "source_page": 10,
+          "role": "article photograph",
+          "alt": "A young child in a yellow floral dress among garden flowers.",
+          "caption": null,
+          "credit": "© Brimming Focus Photography",
+          "rights_note": "Page 2 credits © Brimming Focus Photography for page 10. The unobstructed top photograph is cropped directly from the sole scanned-page object, excluding the lower article text and narrow white paper boundary. The page is unusually sized at 598 × 843 points; its original PDF aspect is preserved. No article-specific permission requirement is printed; no separate licence is inferred. Inspected the sole base object, resources, paint order and page render: a single scanned RGB raster plus invisible OCR (/ca 0), with no alternate clean asset, tiles, masks or transparency groups. All lettering/layout outside the crop is excluded; no source pixels are retouched. The crop is vertically resampled only to reproduce the PDF placement aspect, and encoded as a baseline RGB JPEG with embedded source sRGB profile and nonzero 96 dpi density. No CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 48,
+            "source_dimensions": [
+              1568,
+              2140
+            ],
+            "crop_pixels": [
+              0,
+              2,
+              1568,
+              912
+            ],
+            "crop_coordinate_space": "source raster",
+            "rotation_degrees": 0,
+            "rotation_direction": null,
+            "flip": null,
+            "output_dimensions": [
+              1568,
+              940
+            ],
+            "method": "Original source-pixel crop; vertical Lanczos resampling by 1.0329009470821742 to reproduce PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG with embedded source sRGB profile, nonzero density and EOI at EOF",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All text, headings, list items, punctuation and paragraph boundaries on pages 8–11 visually verified. Sentences spanning columns and pages are joined, and only discretionary print hyphenation is removed. Preserved two spaced . . . ellipses in the concluding quotation. No italics or bold emphasis appears in the body outside headings; the italic subtitle is retained as subtitle metadata. Two photographs exported once. The pale reversed lettering visible on page 11 is show-through from page 12, not an additional image.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "id": "50c05c9f-af87-40d0-9255-f59b01b4985c",
+      "sequence": 5,
+      "title": "Johnny’s Bad Habit",
+      "subtitle": null,
+      "section": "Children’s Corner",
+      "byline": {
+        "raw": "Owen Mullet\nWarsaw. Ohio",
+        "authors": [
+          {
+            "name": "Owen Mullet",
+            "location": "Warsaw. Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 13
+      },
+      "categories": {
+        "primary": "78d8ed5b-bad4-58ae-ae10-a49f738e29d8",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [
+        "862c3071-6aee-5a28-ae7b-356175f29db1",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/50c05c9f-af87-40d0-9255-f59b01b4985c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/50c05c9f-af87-40d0-9255-f59b01b4985c-1.jpg",
+          "public_path": "/images/articles/50c05c9f-af87-40d0-9255-f59b01b4985c-1.jpg",
+          "source_page": 12,
+          "role": "section illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual credit for the recurring child/tree section icon is stated. Page 2 credits © Adobe Stock Images for page 12, but the credit does not separately identify the icon. A tight crop preserves the seated child and tree trunk/canopy region while omitting the adjacent Children’s Corner lettering. The full outer canopy continues behind the removed section lettering and cannot be recovered independently; this is a meaningful unobstructed source crop. No article-specific permission requirement is printed; no separate licence is inferred. Inspected the sole base object, resources, paint order and page render: a single scanned RGB raster plus invisible OCR (/ca 0), with no alternate clean asset, tiles, masks or transparency groups. All lettering/layout outside the crop is excluded; no source pixels are retouched. The crop is vertically resampled only to reproduce the PDF placement aspect, and encoded as a baseline RGB JPEG with embedded source sRGB profile and nonzero 96 dpi density. No CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 56,
+            "source_dimensions": [
+              2076,
+              1576
+            ],
+            "crop_pixels": [
+              0,
+              0,
+              228,
+              182
+            ],
+            "crop_coordinate_space": "upright source raster after PDF placement rotation",
+            "rotation_degrees": 90,
+            "rotation_direction": "clockwise",
+            "flip": null,
+            "output_dimensions": [
+              228,
+              179
+            ],
+            "method": "Original source-pixel crop; vertical Lanczos resampling by 0.9824322792700895 to reproduce PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG with embedded source sRGB profile, nonzero density and EOI at EOF",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/50c05c9f-af87-40d0-9255-f59b01b4985c-2.jpg",
+          "public_path": "/images/articles/50c05c9f-af87-40d0-9255-f59b01b4985c-2.jpg",
+          "source_page": 12,
+          "role": "article background illustration",
+          "alt": "The lower part of a chalkboard with chalk stars and letters above a wooden ledge.",
+          "caption": null,
+          "credit": "© Adobe Stock Images",
+          "rights_note": "Page 2 credits © Adobe Stock Images for page 12. Title, byline, section lettering and icon are irreversibly baked into the only scanned-page raster; a meaningful lower chalkboard crop beneath the byline preserves the wooden ledge and original ABC/star design while omitting the entire title/byline region. Upper numbers and stars fall outside this documented crop. The chalk letters/stars are intrinsic to the illustrated chalkboard and remain. No hidden pixels are synthesized. No article-specific permission requirement is printed; no separate licence is inferred. Inspected the sole base object, resources, paint order and page render: a single scanned RGB raster plus invisible OCR (/ca 0), with no alternate clean asset, tiles, masks or transparency groups. All lettering/layout outside the crop is excluded; no source pixels are retouched. The crop is vertically resampled only to reproduce the PDF placement aspect, and encoded as a baseline RGB JPEG with embedded source sRGB profile and nonzero 96 dpi density. No CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 56,
+            "source_dimensions": [
+              2076,
+              1576
+            ],
+            "crop_pixels": [
+              0,
+              1400,
+              1576,
+              2076
+            ],
+            "crop_coordinate_space": "upright source raster after PDF placement rotation",
+            "rotation_degrees": 90,
+            "rotation_direction": "clockwise",
+            "flip": null,
+            "output_dimensions": [
+              1576,
+              664
+            ],
+            "method": "Original source-pixel crop; vertical Lanczos resampling by 0.9824322792700895 to reproduce PDF placement aspect ratio.",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "container": "baseline RGB JPEG with embedded source sRGB profile, nonzero density and EOI at EOF",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All title/byline/section and complete story on pages 12–13 visually verified. Location punctuation is printed Warsaw. Ohio and preserved. No distinctive body emphasis is printed. Page-12 child/tree icon and one meaningful lower crop of the chalkboard background are exported once each; article heading/byline text is represented as metadata and omitted from both image crops. Upper numbers/stars are part of the same illustrated background represented by the documented lower crop, not separate omitted images.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "id": "eab36978-f9e2-481d-a3cd-d6721f07a41e",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 6,
+      "title": "Christ the Bread",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Lee Rufener\nAthens, Wisconsin",
+        "authors": [
+          {
+            "name": "Lee Rufener",
+            "location": "Athens, Wisconsin"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 16
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "d51df41b-8b1f-59d9-9fd5-8524bca0dd3b",
+        "4f8e92de-9740-5a2b-8710-dc4584da68da",
+        "be523b84-148a-5633-9947-03c7c310d50a"
+      ],
+      "html": {
+        "repository_path": "content/articles/eab36978-f9e2-481d-a3cd-d6721f07a41e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/eab36978-f9e2-481d-a3cd-d6721f07a41e-1.jpg",
+          "public_path": "/images/articles/eab36978-f9e2-481d-a3cd-d6721f07a41e-1.jpg",
+          "source_page": 14,
+          "role": "article photograph",
+          "alt": "A round loaf of bread on a wooden board beside green foliage.",
+          "caption": null,
+          "credit": "© Photography by Laurel",
+          "rights_note": "Page 2 credits © Photography by Laurel for page 14. No article-specific permission requirement is printed; no separate licence is inferred. Raw object 64, page resources, paint order, clipping and graphics state were inspected: the only source image is a single RGB scanned-page raster, with sRGB ICC profile in object 11, no alternative clean photograph objects, tiles, soft masks or transparency groups. Typography and layout are already baked into the scan. Crop retains the unobstructed bread photograph above the curved white text panel; panel, title/byline block, body text, page furniture and scan edges are omitted. No hidden pixels were synthesized. The source photographic blur, lighting and texture are retained. Vertical resampling reproduces the PDF placement aspect ratio. Encoded as baseline sRGB JPEG with embedded profile and nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 64,
+            "source_dimensions": [
+              1604,
+              2099
+            ],
+            "crop_pixels": [
+              2,
+              2,
+              1602,
+              695
+            ],
+            "output_dimensions": [
+              1600,
+              685
+            ],
+            "pdf_page_dimensions": [
+              612.0,
+              792.0
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "method": "original embedded raster extraction and unobstructed source-pixel crop; vertical Lanczos resampling by (page_height/source_height)/(page_width/source_width) to reproduce published aspect",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete pages 14–16 visually transcribed and compared, including paragraph continuations, four subheadings, italic en masse, printed scripture references and apparent source wording such as two centuries and selfiship. One bread photograph on page 14 is exported; pages 15–16 have no images.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "id": "a235bdfc-afca-43a9-b095-abc11aaf5a70",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 7,
+      "title": "Mothers and the Great Commission",
+      "subtitle": null,
+      "section": "SISTER TO SISTER",
+      "byline": {
+        "raw": "Sheryl Zeiset\nMbeya, Tanzania",
+        "authors": [
+          {
+            "name": "Sheryl Zeiset",
+            "location": "Mbeya, Tanzania"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 19
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [
+        "4f9300ad-a83d-56c6-8aeb-2907c08f2c04",
+        "cabe81fc-0080-5122-a745-bb6c1147d89a",
+        "4325fdd8-4363-524b-9445-2a2c86de1cf1"
+      ],
+      "html": {
+        "repository_path": "content/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-1.jpg",
+          "public_path": "/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-1.jpg",
+          "source_page": 17,
+          "role": "article photograph",
+          "alt": "A woman and three young children hold hands among flowers.",
+          "caption": null,
+          "credit": "© Photography by Laurel",
+          "rights_note": "Page 2 credits © Photography by Laurel for page 17. No article-specific permission requirement is printed; no separate licence is inferred. Raw object 77, page resources, paint order, clipping and graphics state were inspected: the only source image is a single RGB scanned-page raster, with sRGB ICC profile in object 11, no alternative clean photograph objects, tiles, soft masks or transparency groups. Typography and layout are already baked into the scan. Crop retains the photograph beneath the article text; the upper white text panel and narrow bottom scan-edge artifact are omitted. No hidden pixels were synthesized. The source photographic blur, lighting and texture are retained. Vertical resampling reproduces the PDF placement aspect ratio. Encoded as baseline sRGB JPEG with embedded profile and nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 77,
+            "source_dimensions": [
+              1728,
+              2307
+            ],
+            "crop_pixels": [
+              0,
+              1532,
+              1728,
+              2272
+            ],
+            "output_dimensions": [
+              1728,
+              717
+            ],
+            "pdf_page_dimensions": [
+              612.0,
+              792.0
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "method": "original embedded raster extraction and unobstructed source-pixel crop; vertical Lanczos resampling by (page_height/source_height)/(page_width/source_width) to reproduce published aspect",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-2.jpg",
+          "public_path": "/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-2.jpg",
+          "source_page": 18,
+          "role": "article photograph",
+          "alt": "A tall stem of pink flowers with yellow and purple flowers behind it.",
+          "caption": null,
+          "credit": "© Photography by Laurel",
+          "rights_note": "Page 2 credits © Photography by Laurel for page 18. No article-specific permission requirement is printed; no separate licence is inferred. Raw object 81, page resources, paint order, clipping and graphics state were inspected: the only source image is a single RGB scanned-page raster, with sRGB ICC profile in object 11, no alternative clean photograph objects, tiles, soft masks or transparency groups. Typography and layout are already baked into the scan. Crop retains the full-height left photograph; the right text panel and narrow photo-boundary pixels are omitted. No hidden pixels were synthesized. The source photographic blur, lighting and texture are retained. Vertical resampling reproduces the PDF placement aspect ratio. Encoded as baseline sRGB JPEG with embedded profile and nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 81,
+            "source_dimensions": [
+              1736,
+              2344
+            ],
+            "crop_pixels": [
+              0,
+              3,
+              675,
+              2344
+            ],
+            "output_dimensions": [
+              675,
+              2444
+            ],
+            "pdf_page_dimensions": [
+              598.0,
+              843.0
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "method": "original embedded raster extraction and unobstructed source-pixel crop; vertical Lanczos resampling by (page_height/source_height)/(page_width/source_width) to reproduce published aspect",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-3.jpg",
+          "public_path": "/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-3.jpg",
+          "source_page": 19,
+          "role": "article photograph",
+          "alt": "Yellow flowers in front of a softly blurred dark background.",
+          "caption": null,
+          "credit": "© Photography by Laurel",
+          "rights_note": "Page 2 credits © Photography by Laurel for page 19. No article-specific permission requirement is printed; no separate licence is inferred. Raw object 85, page resources, paint order, clipping and graphics state were inspected: the only source image is a single RGB scanned-page raster, with sRGB ICC profile in object 11, no alternative clean photograph objects, tiles, soft masks or transparency groups. Typography and layout are already baked into the scan. Crop retains the unobstructed upper-left photograph; surrounding white text region, narrow skewed white boundary and upper-left photographed page-edge artifact are omitted. No hidden pixels were synthesized. The source photographic blur, lighting and texture are retained. Vertical resampling reproduces the PDF placement aspect ratio. Encoded as baseline sRGB JPEG with embedded profile and nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 85,
+            "source_dimensions": [
+              1776,
+              2338
+            ],
+            "crop_pixels": [
+              80,
+              45,
+              825,
+              774
+            ],
+            "output_dimensions": [
+              745,
+              717
+            ],
+            "pdf_page_dimensions": [
+              612.0,
+              792.0
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "method": "original embedded raster extraction and unobstructed source-pixel crop; vertical Lanczos resampling by (page_height/source_height)/(page_width/source_width) to reproduce published aspect",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete pages 17–19 visually transcribed and compared, including seven numbered subheadings, italic block quotation with its printed unmatched inner opening double quote, superscript footnote, italic book titles, paragraph continuations, and source wording welcoming your children. Three distinct photographs on pages 17–19 are exported once each. Footnote is a source citation, with no permission restriction.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "id": "7b64c74b-c4d6-4a98-b95c-b34823831d64",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 8,
+      "title": "Contrasts, Contentions, and the Cloistered Life",
+      "subtitle": "in the Conestoga Valley",
+      "section": "CHURCH HISTORY",
+      "byline": {
+        "raw": "Rick Hess\nDornsife, Pennsylvania",
+        "authors": [
+          {
+            "name": "Rick Hess",
+            "location": "Dornsife, Pennsylvania"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 24
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c",
+        "f7f27122-72f6-56a9-8a18-7a5ace5e3f26",
+        "1404e2c2-852e-5d57-a2ac-dc54d2d91357"
+      ],
+      "html": {
+        "repository_path": "content/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-1.jpg",
+          "public_path": "/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-1.jpg",
+          "source_page": 20,
+          "role": "article photograph",
+          "alt": "Stone and timber buildings of the Ephrata Cloister with a bare tree and paths in front.",
+          "caption": null,
+          "credit": "© WikiCommons CC3",
+          "rights_note": "Page 2 credits © WikiCommons CC3 for page 20. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 89, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The entire photograph is retained without a crop; no publisher text, panels, bars, rules or other overlays occur in this image. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 89,
+            "source_dimensions": [
+              1664,
+              2181
+            ],
+            "crop_pixels": [
+              0,
+              0,
+              1664,
+              2181
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              1664,
+              2153
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 0.9873506486501065,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-2.jpg",
+          "public_path": "/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-2.jpg",
+          "source_page": 22,
+          "role": "article photograph",
+          "alt": "Wooden benches and a balcony inside the Saal meeting house.",
+          "caption": "“Saal” meeting house",
+          "credit": "© WikiCommons CC3",
+          "rights_note": "Page 2 credits © WikiCommons CC3 for page 22. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 97, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The photograph is recovered directly as an unobstructed native source-pixel crop. Adjacent body text, caption, page furniture and narrow slanted paper-border pixels are excluded; no meaningful subjects are removed and no pixels hidden by typography are synthesized. No publisher text, reading panel, colour wash or other overlay remains in the exported image. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 97,
+            "source_dimensions": [
+              1712,
+              2213
+            ],
+            "crop_pixels": [
+              0,
+              104,
+              776,
+              679
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              776,
+              576
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 1.0011429786555381,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-3.jpg",
+          "public_path": "/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-3.jpg",
+          "source_page": 22,
+          "role": "article photograph",
+          "alt": "Two facing pages of a handwritten Cloister song book with musical notation.",
+          "caption": "Cloister song book",
+          "credit": "© WikiCommons CC3",
+          "rights_note": "Page 2 credits © WikiCommons CC3 for page 22. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 97, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The photograph is recovered directly as an unobstructed native source-pixel crop. Adjacent body text, caption, page furniture and narrow slanted paper-border pixels are excluded; no meaningful subjects are removed and no pixels hidden by typography are synthesized. No publisher text, reading panel, colour wash or other overlay remains in the exported image. The photographed songbook notation and lettering are intrinsic image content and remain as printed; the source photograph itself cuts off some outer text. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 97,
+            "source_dimensions": [
+              1712,
+              2213
+            ],
+            "crop_pixels": [
+              0,
+              774,
+              793,
+              1467
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              793,
+              694
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 1.0011429786555381,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-4.jpg",
+          "public_path": "/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-4.jpg",
+          "source_page": 22,
+          "role": "article photograph",
+          "alt": "A simple room with a window, a wooden bench and a small table with a candle.",
+          "caption": "Sleeping and devotional quarters",
+          "credit": "© WikiCommons CC3",
+          "rights_note": "Page 2 credits © WikiCommons CC3 for page 22. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 97, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The photograph is recovered directly as an unobstructed native source-pixel crop. Adjacent body text, caption, page furniture and narrow slanted paper-border pixels are excluded; no meaningful subjects are removed and no pixels hidden by typography are synthesized. No publisher text, reading panel, colour wash or other overlay remains in the exported image. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 97,
+            "source_dimensions": [
+              1712,
+              2213
+            ],
+            "crop_pixels": [
+              0,
+              1574,
+              805,
+              2133
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              805,
+              560
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 1.0011429786555381,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-5.jpg",
+          "public_path": "/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-5.jpg",
+          "source_page": 24,
+          "role": "article photograph",
+          "alt": "Two timber buildings at the Ephrata Cloister beside a lawn and paths.",
+          "caption": "Sisters’ house on the left and“Saal” meeting house on the right.",
+          "credit": "© WikiCommons CC3",
+          "rights_note": "Page 2 credits © WikiCommons CC3 for page 24. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 106, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The photograph is recovered directly as an unobstructed native source-pixel crop. Adjacent body text, caption, page furniture and narrow slanted paper-border pixels are excluded; no meaningful subjects are removed and no pixels hidden by typography are synthesized. No publisher text, reading panel, colour wash or other overlay remains in the exported image. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 106,
+            "source_dimensions": [
+              1664,
+              2165
+            ],
+            "crop_pixels": [
+              0,
+              0,
+              1664,
+              925
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              1664,
+              920
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 0.9946474663768509,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "inventory_note": "Opening full-page photograph on page 20 belongs to this article; title/byline begin on page 21. Five photographs on pages 20, 22 (three) and 24 are exported once each. No separately printed image occurs on pages 21 or 23: faint reverse-page show-through is a scan artifact. Page 22 footnote is kept after its page-spanning paragraph. All final words, punctuation, captions and emphasis were visually checked, including BellerBrand/Brandt, Kelpious, bazaar doctrines and Beisel’s as printed. The caption’s lack of a space in and“Saal” is preserved.",
+        "independent_metadata_review": "Second AI reader independently confirmed exact title, subtitle, section, byline and location, inclusive source pages, captions, page-2 photo credits, canonical references and the printed fifth-of-five Courtship series claim; passed.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "id": "c8e8ffd0-a26f-45b5-b681-047c36258d73",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 9,
+      "title": "Give Me Thine Heart",
+      "subtitle": null,
+      "section": "INSPIRATIONS FOR YOUTH",
+      "byline": {
+        "raw": "Paul Hershberger\nMillersburg, Ohio",
+        "authors": [
+          {
+            "name": "Paul Hershberger",
+            "location": "Millersburg, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 29
+      },
+      "categories": {
+        "primary": "85b345ae-ce23-56a2-9249-2cfa79293657",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [
+        "efe9fa60-497a-580c-9aa2-c1aac7027cdf",
+        "e8455dc3-9ea9-50ad-8b49-ca5277a6a3fd",
+        "ba02dcec-aa79-583e-ba4a-1e2668abb44b"
+      ],
+      "html": {
+        "repository_path": "content/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-1.jpg",
+          "public_path": "/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-1.jpg",
+          "source_page": 26,
+          "role": "article photograph",
+          "alt": "Parents walk along a garden path with two young children.",
+          "caption": null,
+          "credit": "© Brimming Focus Photography",
+          "rights_note": "Page 2 credits © Brimming Focus Photography for page 26. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 115, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The photograph is recovered directly as an unobstructed native source-pixel crop. Adjacent body text, caption, page furniture and narrow slanted paper-border pixels are excluded; no meaningful subjects are removed and no pixels hidden by typography are synthesized. No publisher text, reading panel, colour wash or other overlay remains in the exported image. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 115,
+            "source_dimensions": [
+              1692,
+              2215
+            ],
+            "crop_pixels": [
+              0,
+              0,
+              841,
+              2215
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              841,
+              2190
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 0.9885539768954986,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-2.jpg",
+          "public_path": "/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-2.jpg",
+          "source_page": 27,
+          "role": "article photograph",
+          "alt": "An open book and green flowers rest on a wicker basket beside a tree.",
+          "caption": null,
+          "credit": "© Nadiika Kravets",
+          "rights_note": "Page 2 credits © Nadiika Kravets for page 27. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 119, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The photograph is recovered directly as an unobstructed native source-pixel crop. Adjacent body text, caption, page furniture and narrow slanted paper-border pixels are excluded; no meaningful subjects are removed and no pixels hidden by typography are synthesized. No publisher text, reading panel, colour wash or other overlay remains in the exported image. The book’s printed lettering is intrinsic photograph content, not a publisher-added overlay. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 119,
+            "source_dimensions": [
+              1724,
+              2274
+            ],
+            "crop_pixels": [
+              882,
+              0,
+              1724,
+              2274
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              842,
+              2231
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 0.9811164571369445,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-3.jpg",
+          "public_path": "/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-3.jpg",
+          "source_page": 28,
+          "role": "article photograph",
+          "alt": "A family walks away along a garden path amid trees and tall grasses.",
+          "caption": null,
+          "credit": "© Brimming Focus Photography",
+          "rights_note": "Page 2 credits © Brimming Focus Photography for page 28. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 123, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The photograph is recovered directly as an unobstructed native source-pixel crop. Adjacent body text, caption, page furniture and narrow slanted paper-border pixels are excluded; no meaningful subjects are removed and no pixels hidden by typography are synthesized. No publisher text, reading panel, colour wash or other overlay remains in the exported image. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 123,
+            "source_dimensions": [
+              1732,
+              2286
+            ],
+            "crop_pixels": [
+              0,
+              1343,
+              1732,
+              2286
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              1732,
+              925
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 0.9804950851731769,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-4.jpg",
+          "public_path": "/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-4.jpg",
+          "source_page": 29,
+          "role": "article photograph",
+          "alt": "An open book lies on a wicker basket with green flowers behind it.",
+          "caption": null,
+          "credit": "© Nadiika Kravets",
+          "rights_note": "Page 2 credits © Nadiika Kravets for page 29. No article-specific permission requirement is printed; no licence terms beyond the stated credit are inferred. Inspected the page content stream, resources, paint order, image object 127, clipping and transparency: the base is a single full-page RGB scanned raster with an sRGB IEC61966-2.1 ICC profile, no mask, tiles, alternate clean image or transparency group; its searchable text layer is invisible. The photograph is recovered directly as an unobstructed native source-pixel crop. Adjacent body text, caption, page furniture and narrow slanted paper-border pixels are excluded; no meaningful subjects are removed and no pixels hidden by typography are synthesized. No publisher text, reading panel, colour wash or other overlay remains in the exported image. The book’s printed lettering is intrinsic photograph content, not a publisher-added overlay. Vertical Lanczos resampling reproduces the image aspect ratio established by its PDF placement. Encoded as a baseline sRGB JPEG with nonzero 96 dpi density; no CMYK conversion or inversion was needed.",
+          "transformation": {
+            "source_object": 127,
+            "source_dimensions": [
+              1624,
+              2193
+            ],
+            "crop_pixels": [
+              0,
+              0,
+              1624,
+              872
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              1624,
+              910
+            ],
+            "method": "native embedded raster extraction, unobstructed source-pixel crop, and vertical Lanczos resampling by the PDF placement scale ratio",
+            "vertical_scale": 1.0439357822930058,
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "inventory_note": "Every source paragraph, numbered goal, heading and italic term on pages 25–29 visually checked. Four distinct photographs on pages 26–29 exported once each; none on page 25. Preserved the printed fifth-of-five series claim, spaced . . . ellipsis, straight apostrophe in who isn't, Dad get distracted, soul money and missing terminal period after practically apply it in your life. Column/page continuations joined without changing wording.",
+        "independent_metadata_review": "Second AI reader independently confirmed exact title, subtitle, section, byline and location, inclusive source pages, captions, page-2 photo credits, canonical references and the printed fifth-of-five Courtship series claim; passed.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      },
+      "series": {
+        "id": "8b87c521-01dd-5e0c-af7a-c1c6ccbb894c",
+        "part": 5,
+        "total_parts": 5
+      }
+    },
+    {
+      "id": "545d5674-2e4f-4c25-9aa9-0cec6be58a2c",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 10,
+      "title": "Health Benefits of Eating Whole Foods",
+      "subtitle": null,
+      "section": "A WORD FROM THE DOCTOR",
+      "byline": {
+        "raw": "Vincent “John” Waldron, MD\nGladys, Virginia",
+        "authors": [
+          {
+            "name": "Vincent “John” Waldron",
+            "location": "Gladys, Virginia",
+            "role": "MD"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 32
+      },
+      "categories": {
+        "primary": "44a970cf-d23c-5e24-a196-0b08595d01ba",
+        "additional": []
+      },
+      "topics": [
+        "34ff8a1a-9130-5308-9d85-23b6f7f85f34",
+        "1fe11bb8-3ea0-5bf6-93fb-d5da55d7c77b"
+      ],
+      "html": {
+        "repository_path": "content/articles/545d5674-2e4f-4c25-9aa9-0cec6be58a2c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/545d5674-2e4f-4c25-9aa9-0cec6be58a2c-1.jpg",
+          "public_path": "/images/articles/545d5674-2e4f-4c25-9aa9-0cec6be58a2c-1.jpg",
+          "source_page": 31,
+          "role": "article photograph",
+          "alt": "Fresh vegetables, fruit, nuts, and legumes arranged on a light surface.",
+          "caption": null,
+          "credit": "© Adobe Stock Images",
+          "rights_note": "Page 2 credits © Adobe Stock Images for page 31. No article-specific permission requirement is printed; no separate licence is inferred. Inspected the page resources, image object, paint order, clipping, masks, and transparency: a single full-page scanned RGB raster is painted across 612 × 792 pt, followed by the invisible OCR layer (ExtGState 8 has /ca 0). No separate photograph, alternate image, tiles, soft mask, clipping path, or transparency group exists. Source ICCBased object 11 identifies sRGB. The native source-pixel crop omits surrounding article columns and page furniture. Vertical Lanczos resampling reproduces the PDF placement aspect ratio; no rotation, flip, retouching, synthesized pixels, or CMYK inversion was applied. The published photograph is the full-height right-side arrangement. The baked paper show-through from the photographed magazine scan remains visible on the pale surface; it cannot be removed without synthesizing pixels. No separable layout overlay remains. Encoded as baseline sRGB JPEG at 96 dpi.",
+          "transformation": {
+            "source_object": 135,
+            "source_dimensions": [
+              1780,
+              2356
+            ],
+            "crop_pixels": [
+              860,
+              0,
+              1780,
+              2356
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              920,
+              2304
+            ],
+            "method": "original embedded scan extraction and source-pixel crop; vertical Lanczos resampling by (792/source_height)/(612/source_width) to reproduce the PDF placement aspect ratio",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density; EOI at EOF with no trailing bytes",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All wording and punctuation on printed pages 30–32 visually compared with the final HTML. Column/page continuations are joined without changing words; all subheadings and superscript footnote markers are preserved, and the two exact printed URLs are collected as article footnotes. The full-height page 31 photograph is exported once. No photograph occurs on pages 30 or 32. Retained photographic paper show-through is documented in image metadata.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
+    },
+    {
+      "id": "f362a4bd-2f1c-496a-ac02-aa08c128d834",
+      "language": "en",
+      "issue_id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "sequence": 11,
+      "title": "Joyful, Joyful, We Adore Thee",
+      "subtitle": null,
+      "section": "HYMN HISTORY",
+      "byline": {
+        "raw": "Joel A. Hostetler\nCoshocton, Ohio",
+        "authors": [
+          {
+            "name": "Joel A. Hostetler",
+            "location": "Coshocton, Ohio"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 35
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "a90cf148-a3d8-5e37-82fc-f56d05f17fbc",
+        "565f773d-5aae-54fd-ad75-4a0f1c196a01",
+        "95eff650-0776-5994-8697-9cbbf2f83c73"
+      ],
+      "html": {
+        "repository_path": "content/articles/f362a4bd-2f1c-496a-ac02-aa08c128d834.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f362a4bd-2f1c-496a-ac02-aa08c128d834-1.jpg",
+          "public_path": "/images/articles/f362a4bd-2f1c-496a-ac02-aa08c128d834-1.jpg",
+          "source_page": 34,
+          "role": "article photograph with quotation",
+          "alt": "Waves meet a sandy shore at dusk beneath a quotation attributed to Henry Van Dyke.",
+          "caption": "Some succeed because they are destined to,\nbut most succeed because they are determined to.\nHenry Van Dyke",
+          "credit": "© Austin Troyer",
+          "rights_note": "Page 2 credits © Austin Troyer for page 34. No article-specific permission requirement is printed; no separate licence is inferred. Inspected the page resources, image object, paint order, clipping, masks, and transparency: a single full-page scanned RGB raster is painted across 612 × 792 pt, followed by the invisible OCR layer (ExtGState 8 has /ca 0). No separate photograph, alternate image, tiles, soft mask, clipping path, or transparency group exists. Source ICCBased object 11 identifies sRGB. The native source-pixel crop omits surrounding article columns and page furniture. Vertical Lanczos resampling reproduces the PDF placement aspect ratio; no rotation, flip, retouching, synthesized pixels, or CMYK inversion was applied. The Henry Van Dyke quotation, attribution, and darkened quotation panel are irreversibly flattened into the only available source raster. An unobstructed crop would leave only thin fragments and lose the published scene, so the exact source raster photograph is retained with these unavoidable overlays explicitly documented. The unique quotation is also transcribed once as semantic figcaption text; its source small-cap attribution is represented as Henry Van Dyke. Encoded as baseline sRGB JPEG at 96 dpi.",
+          "transformation": {
+            "source_object": 148,
+            "source_dimensions": [
+              1736,
+              2278
+            ],
+            "crop_pixels": [
+              0,
+              2,
+              1736,
+              622
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              1736,
+              611
+            ],
+            "method": "original embedded scan extraction and source-pixel crop; vertical Lanczos resampling by (792/source_height)/(612/source_width) to reproduce the PDF placement aspect ratio",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density; EOI at EOF with no trailing bytes",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed."
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/f362a4bd-2f1c-496a-ac02-aa08c128d834-2.png",
+          "public_path": "/images/articles/f362a4bd-2f1c-496a-ac02-aa08c128d834-2.png",
+          "source_page": 35,
+          "role": "hymn score",
+          "alt": "The published four-stanza shape-note score of Joyful, Joyful, We Adore Thee, with words by Henry van Dyke, 1908, and arrangement from Ludwig van Beethoven, 1823.",
+          "caption": null,
+          "credit": "Henry van Dyke, 1908; Arr. from Ludwig van Beethoven, 1823",
+          "rights_note": "The score prints Henry van Dyke, 1908 and Arr. from Ludwig van Beethoven, 1823; no permission restriction is present and no licence is inferred. Inspected the page resources, image object, paint order, clipping, masks, and transparency: a single full-page scanned RGB raster is painted across 612 × 792 pt, followed by the invisible OCR layer (ExtGState 8 has /ca 0). No separate photograph, alternate image, tiles, soft mask, clipping path, or transparency group exists. Source ICCBased object 11 identifies sRGB. The native source-pixel crop omits surrounding article columns and page furniture. Vertical Lanczos resampling reproduces the PDF placement aspect ratio; no rotation, flip, retouching, synthesized pixels, or CMYK inversion was applied. This source is a scanned score rather than vector notation; the native raster crop preserves the complete printed title, author and arranger credits, all four stanzas, and all four systems of shape-note notation. It excludes only blank margins, footer rule, page number, publication/date footer, and peripheral photographed-paper glare outside the notation. Encoded losslessly as sRGB PNG at the native horizontal resolution of approximately 200.94 dpi; no artificial upscaling was used.",
+          "transformation": {
+            "source_object": 152,
+            "source_dimensions": [
+              1708,
+              2284
+            ],
+            "crop_pixels": [
+              250,
+              145,
+              1410,
+              2080
+            ],
+            "rotation_degrees": 0,
+            "flip": null,
+            "output_dimensions": [
+              1160,
+              1873
+            ],
+            "method": "original embedded scan extraction and source-pixel crop; vertical Lanczos resampling by (792/source_height)/(612/source_width) to reproduce the PDF placement aspect ratio",
+            "color_encoding": "sRGB"
+          },
+          "verification": {
+            "complete_decoders": [
+              "Pillow",
+              "FFmpeg"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "color_space": "RGB/sRGB",
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "container": "lossless RGB PNG with embedded sRGB profile and nonzero 200.94 dpi density",
+            "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow",
+            "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All wording, punctuation, paragraph boundaries, and italics on printed pages 33–34 visually compared with the final HTML, preserving printed punctuation such as Elijah!? and the comma outside the quotation in “I’m not an optimist”,. The paragraph continued from page 33 to 34 is joined. The unique photo quotation is preserved as a semantic figcaption and within the irreversibly flattened source image, with the exception documented explicitly. Complete page 35 music, lyrics, title and credits remain in a legible native-resolution score crop and were visually checked against the source. No image occurs on page 33. Both articles were inspected through their final source lines for permission notices.",
+        "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
+        "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
+      }
     }
   ],
   "skipped": [

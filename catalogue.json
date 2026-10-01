@@ -10313,6 +10313,722 @@
         ],
         "image_verification_summary": "Fifteen indexed and HTML-referenced exports reconcile with the complete 36-page visual image census. Independent full-resolution source/overlay/colour/aspect review passed. Pillow and strict FFmpeg full decodes passed without warnings; Skia Canvas pixel readback matched Pillow exactly. All fourteen JPEGs are baseline RGB/sRGB with nonzero density and no trailing data; diagram PNG is RGB/sRGB. The page-4 photograph received renewed independent comparison after the user-authorized background edit: both original foxes and full framing are preserved; the reconstructed patch is disclosed rather than represented as source-exact photography."
       }
+    },
+    {
+      "id": "e0ce36a8-9040-4c54-94ea-6db6d0dcd0b7",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "The Berean Voice",
+      "date": {
+        "label": "Summer 2025",
+        "year": 2025,
+        "season": "Summer",
+        "precision": "season"
+      },
+      "issue_number": null,
+      "source": {
+        "filename": "Summer-2025-Remnant.pdf",
+        "sha256": "dce752236820877d260196190bce002b7305114f97147402e9384821cbe7535f",
+        "pdf_page_count": 36,
+        "printed_page_range": "3-35; cover, contents/masthead and back cover unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All printed material except that marked “used by permission” may be copied or reprinted in its entirety without changes, with magazine name, date and issue number referenced. Material marked “used by permission” requires special permission from the author or responsible party.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse."
+      },
+      "source_id": "heartbeat-remnant-2025-summer",
+      "slug": "heartbeat-remnant-2025-summer",
+      "verification": {
+        "completion_status": "complete",
+        "inventory_note": "All 36 PDF pages visually inventoried and checked. Eleven eligible articles (the editorial plus ten contents entries), zero article-specific rights exclusions. Cover, contents/masthead and mailing/back-cover matter are inventory exclusions. Page 20 opening photograph belongs to the history article on pages 21–24; page 35 score belongs to the hymn history. No nonconsecutive continuations.",
+        "source_condition": "Photographed/scanned printed pages, each represented by one flattened sRGB image and an invisible text layer. Native source objects, page painting, clipping, rotations, masks and transparency were inspected. Crops preserve source pixels and published orientation/aspect; no image content was generated, healed or inpainted. Paper show-through and scan distortion remain where inherent in the only source raster.",
+        "image_credit_note": "Printed page-2 credits are preserved per image without inferring unstated individual licences. The exact source label © WikiCommons CC3 is retained; no unprinted licence version or asset URL is supplied.",
+        "remaining_uncertainty": "No unresolved article wording or article-eligibility uncertainty. Unstated individual illustration/signature credits remain unspecified. Palm/pull-quote and beach/quotation composites retain documented unavoidable baked typography and washes; the clean underlying photographs are unavailable in the supplied scan.",
+        "nonconsecutive_continuations": [],
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "From the EDITOR",
+            "subtitle": null,
+            "byline": "Edward Martin",
+            "source_pages": {
+              "start": 3,
+              "end": 3
+            },
+            "status": "included",
+            "article_id": "bab0c77b-3cb7-4792-9694-d823e3e93f0e"
+          },
+          {
+            "sequence": 2,
+            "title": "The Inconvenient Revival",
+            "subtitle": null,
+            "byline": "Barry Grant\nShelbyville, Indiana",
+            "source_pages": {
+              "start": 4,
+              "end": 6
+            },
+            "status": "included",
+            "article_id": "8217b078-a164-411f-bcbd-056253d4bb3e"
+          },
+          {
+            "sequence": 3,
+            "title": "A Voice from Hell",
+            "subtitle": null,
+            "byline": "Oscar C. Eliason",
+            "source_pages": {
+              "start": 7,
+              "end": 7
+            },
+            "status": "included",
+            "article_id": "ba84cac6-413c-49f5-a229-d74ed4913f69"
+          },
+          {
+            "sequence": 4,
+            "title": "Examining Reactive Attachment Disorder",
+            "subtitle": "from a Biblical Perspective",
+            "byline": "Steve Ebersole\nMyerstown, Pennsylvania",
+            "source_pages": {
+              "start": 8,
+              "end": 11
+            },
+            "status": "included",
+            "article_id": "74eb7e32-78db-4e85-996a-4017e7df70d3"
+          },
+          {
+            "sequence": 5,
+            "title": "Johnny’s Bad Habit",
+            "subtitle": null,
+            "byline": "Owen Mullet\nWarsaw. Ohio",
+            "source_pages": {
+              "start": 12,
+              "end": 13
+            },
+            "status": "included",
+            "article_id": "50c05c9f-af87-40d0-9255-f59b01b4985c"
+          },
+          {
+            "sequence": 6,
+            "title": "Christ the Bread",
+            "subtitle": null,
+            "byline": "Lee Rufener\nAthens, Wisconsin",
+            "source_pages": {
+              "start": 14,
+              "end": 16
+            },
+            "status": "included",
+            "article_id": "eab36978-f9e2-481d-a3cd-d6721f07a41e"
+          },
+          {
+            "sequence": 7,
+            "title": "Mothers and the Great Commission",
+            "subtitle": null,
+            "byline": "Sheryl Zeiset\nMbeya, Tanzania",
+            "source_pages": {
+              "start": 17,
+              "end": 19
+            },
+            "status": "included",
+            "article_id": "a235bdfc-afca-43a9-b095-abc11aaf5a70"
+          },
+          {
+            "sequence": 8,
+            "title": "Contrasts, Contentions, and the Cloistered Life",
+            "subtitle": "in the Conestoga Valley",
+            "byline": "Rick Hess\nDornsife, Pennsylvania",
+            "source_pages": {
+              "start": 20,
+              "end": 24
+            },
+            "status": "included",
+            "article_id": "7b64c74b-c4d6-4a98-b95c-b34823831d64"
+          },
+          {
+            "sequence": 9,
+            "title": "Give Me Thine Heart",
+            "subtitle": null,
+            "byline": "Paul Hershberger\nMillersburg, Ohio",
+            "source_pages": {
+              "start": 25,
+              "end": 29
+            },
+            "status": "included",
+            "article_id": "c8e8ffd0-a26f-45b5-b681-047c36258d73"
+          },
+          {
+            "sequence": 10,
+            "title": "Health Benefits of Eating Whole Foods",
+            "subtitle": null,
+            "byline": "Vincent “John” Waldron, MD\nGladys, Virginia",
+            "source_pages": {
+              "start": 30,
+              "end": 32
+            },
+            "status": "included",
+            "article_id": "545d5674-2e4f-4c25-9aa9-0cec6be58a2c"
+          },
+          {
+            "sequence": 11,
+            "title": "Joyful, Joyful, We Adore Thee",
+            "subtitle": null,
+            "byline": "Joel A. Hostetler\nCoshocton, Ohio",
+            "source_pages": {
+              "start": 33,
+              "end": 35
+            },
+            "status": "included",
+            "article_id": "f362a4bd-2f1c-496a-ac02-aa08c128d834"
+          }
+        ],
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Heron cover photograph and masthead symbols",
+                "owner_sequence": null,
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "front cover"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": null,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Pen/camera credit symbols and designer signature",
+                "owner_sequence": null,
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "contents and masthead"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "section illustration: ",
+                "owning_article_id": "bab0c77b-3cb7-4792-9694-d823e3e93f0e",
+                "owner_sequence": 1,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-1.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "author signature: Edward Martin’s signature.",
+                "owning_article_id": "bab0c77b-3cb7-4792-9694-d823e3e93f0e",
+                "owner_sequence": 1,
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-2.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "article photograph: A stone church with a square tower stands beside old gravestones.",
+                "owning_article_id": "bab0c77b-3cb7-4792-9694-d823e3e93f0e",
+                "owner_sequence": 1,
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/bab0c77b-3cb7-4792-9694-d823e3e93f0e-3.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "opening photograph: Green hills divided into fields, with scattered trees and buildings.",
+                "owning_article_id": "8217b078-a164-411f-bcbd-056253d4bb3e",
+                "owner_sequence": 2,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/8217b078-a164-411f-bcbd-056253d4bb3e-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph with printed pull quote: A palm tree before a hillside, with the printed pull quote over the photograph.",
+                "owning_article_id": "8217b078-a164-411f-bcbd-056253d4bb3e",
+                "owner_sequence": 2,
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/8217b078-a164-411f-bcbd-056253d4bb3e-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": [
+              "Palm photograph retains its irreversibly baked wash and pull quote; only a flattened scan exists and a text-free crop would remove meaningful palm content. Repeated quotation remains once in semantic body text. Exception documented in image provenance."
+            ]
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "poem background photograph: Bright yellow and orange flames against a dark background.",
+                "owning_article_id": "ba84cac6-413c-49f5-a229-d74ed4913f69",
+                "owner_sequence": 3,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/ba84cac6-413c-49f5-a229-d74ed4913f69-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: An open weathered doorway and tall window in an empty room.",
+                "owning_article_id": "74eb7e32-78db-4e85-996a-4017e7df70d3",
+                "owner_sequence": 4,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/74eb7e32-78db-4e85-996a-4017e7df70d3-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: A young child in a yellow floral dress among garden flowers.",
+                "owning_article_id": "74eb7e32-78db-4e85-996a-4017e7df70d3",
+                "owner_sequence": 4,
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/74eb7e32-78db-4e85-996a-4017e7df70d3-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "section illustration: ",
+                "owning_article_id": "50c05c9f-af87-40d0-9255-f59b01b4985c",
+                "owner_sequence": 5,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/50c05c9f-af87-40d0-9255-f59b01b4985c-1.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "article background illustration: The lower part of a chalkboard with chalk stars and letters above a wooden ledge.",
+                "owning_article_id": "50c05c9f-af87-40d0-9255-f59b01b4985c",
+                "owner_sequence": 5,
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/50c05c9f-af87-40d0-9255-f59b01b4985c-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": [
+              "Chalkboard is genuine article-associated Adobe Stock background. Preserve intrinsic chalk drawings; separately printed title/byline/section text are overlays. If baked irreversibly use meaningful source crop or explicitly document unavoidable overlay."
+            ]
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: A round loaf of bread on a wooden board beside green foliage.",
+                "owning_article_id": "eab36978-f9e2-481d-a3cd-d6721f07a41e",
+                "owner_sequence": 6,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/eab36978-f9e2-481d-a3cd-d6721f07a41e-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: A woman and three young children hold hands among flowers.",
+                "owning_article_id": "a235bdfc-afca-43a9-b095-abc11aaf5a70",
+                "owner_sequence": 7,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: A tall stem of pink flowers with yellow and purple flowers behind it.",
+                "owning_article_id": "a235bdfc-afca-43a9-b095-abc11aaf5a70",
+                "owner_sequence": 7,
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: Yellow flowers in front of a softly blurred dark background.",
+                "owning_article_id": "a235bdfc-afca-43a9-b095-abc11aaf5a70",
+                "owner_sequence": 7,
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/a235bdfc-afca-43a9-b095-abc11aaf5a70-3.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: Stone and timber buildings of the Ephrata Cloister with a bare tree and paths in front.",
+                "owning_article_id": "7b64c74b-c4d6-4a98-b95c-b34823831d64",
+                "owner_sequence": 8,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: Wooden benches and a balcony inside the Saal meeting house.",
+                "owning_article_id": "7b64c74b-c4d6-4a98-b95c-b34823831d64",
+                "owner_sequence": 8,
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-2.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "article photograph: Two facing pages of a handwritten Cloister song book with musical notation.",
+                "owning_article_id": "7b64c74b-c4d6-4a98-b95c-b34823831d64",
+                "owner_sequence": 8,
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-3.jpg",
+                "disposition": "exported"
+              },
+              {
+                "description": "article photograph: A simple room with a window, a wooden bench and a small table with a candle.",
+                "owning_article_id": "7b64c74b-c4d6-4a98-b95c-b34823831d64",
+                "owner_sequence": 8,
+                "image_sequence": 4,
+                "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-4.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: Two timber buildings at the Ephrata Cloister beside a lawn and paths.",
+                "owning_article_id": "7b64c74b-c4d6-4a98-b95c-b34823831d64",
+                "owner_sequence": 8,
+                "image_sequence": 5,
+                "repository_path": "public/images/articles/7b64c74b-c4d6-4a98-b95c-b34823831d64-5.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: Parents walk along a garden path with two young children.",
+                "owning_article_id": "c8e8ffd0-a26f-45b5-b681-047c36258d73",
+                "owner_sequence": 9,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: An open book and green flowers rest on a wicker basket beside a tree.",
+                "owning_article_id": "c8e8ffd0-a26f-45b5-b681-047c36258d73",
+                "owner_sequence": 9,
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-2.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: A family walks away along a garden path amid trees and tall grasses.",
+                "owning_article_id": "c8e8ffd0-a26f-45b5-b681-047c36258d73",
+                "owner_sequence": 9,
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-3.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: An open book lies on a wicker basket with green flowers behind it.",
+                "owning_article_id": "c8e8ffd0-a26f-45b5-b681-047c36258d73",
+                "owner_sequence": 9,
+                "image_sequence": 4,
+                "repository_path": "public/images/articles/c8e8ffd0-a26f-45b5-b681-047c36258d73-4.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph: Fresh vegetables, fruit, nuts, and legumes arranged on a light surface.",
+                "owning_article_id": "545d5674-2e4f-4c25-9aa9-0cec6be58a2c",
+                "owner_sequence": 10,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/545d5674-2e4f-4c25-9aa9-0cec6be58a2c-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": [
+              "Faint reversed text visible across pale photo backdrop is scan show-through; do not invent cleanup."
+            ]
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "visually_inspected": true,
+            "images": [],
+            "notes": [
+              "No article photographs or illustrations; any reversed lettering or faint images visible are paper show-through. Flat tabs, rules and running footer are layout furniture."
+            ]
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "article photograph with quotation: Waves meet a sandy shore at dusk beneath a quotation attributed to Henry Van Dyke.",
+                "owning_article_id": "f362a4bd-2f1c-496a-ac02-aa08c128d834",
+                "owner_sequence": 11,
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/f362a4bd-2f1c-496a-ac02-aa08c128d834-1.jpg",
+                "disposition": "exported"
+              }
+            ],
+            "notes": [
+              "Unique quote reads “Some succeed because they are destined to, / but most succeed because they are determined to.” credit Henry Van Dyke. Preserve text independently if image cropped."
+            ]
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "hymn score: The published four-stanza shape-note score of Joyful, Joyful, We Adore Thee, with words by Henry van Dyke, 1908, and arrangement from Ludwig van Beethoven, 1823.",
+                "owning_article_id": "f362a4bd-2f1c-496a-ac02-aa08c128d834",
+                "owner_sequence": 11,
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/f362a4bd-2f1c-496a-ac02-aa08c128d834-2.png",
+                "disposition": "exported"
+              }
+            ],
+            "notes": []
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Birds in water back-cover photograph and magazine wordmark",
+                "owner_sequence": null,
+                "disposition": "omitted under issue-inventory exclusion",
+                "reason": "back cover and mailing panel"
+              }
+            ],
+            "notes": []
+          }
+        ],
+        "image_credits_as_printed": {
+          "front cover, 34": "© Austin Troyer",
+          "3": "© Edward Martin",
+          "4": "© Nathan Leinbach",
+          "6, 7, 12, 31": "© Adobe Stock Images",
+          "9, 27, 29": "© Nadiika Kravets",
+          "10, 26, 28": "© Brimming Focus Photography",
+          "14, 17, 18, 19, back cover": "© Photography by Laurel",
+          "20, 22, 24": "© WikiCommons CC3",
+          "2": "© Belle Vie Creative"
+        },
+        "rights_review": "Every page and complete article beginning, ending, notes, captions, credits and associated graphics visually reviewed. No article-specific permission/reprint restriction found. Page2 policy is general issue policy. Ordinary copyright/source credits do not trigger exclusion.",
+        "image_verification_summary": "All 26 indexed/HTML-referenced exports reconcile to the 36-page visual census. Twenty-five baseline RGB/sRGB JPEGs and one RGB PNG completely decode through Pillow and strict FFmpeg without warnings; Skia Canvas full raster readback exactly matches Pillow. Each final asset passed independent full-resolution source, subject, crop, orientation, colour and overlay review. Four narrow paper-edge crop findings were corrected and independently rechecked; irreversible source treatments are documented per asset."
+      }
     }
   ],
   "categories": [
