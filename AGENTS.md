@@ -151,11 +151,12 @@ Preserve:
 Normalize only nonsemantic print-layout artifacts:
 
 - join a sentence split only by a column or page break;
+- collect all footnote text at the very end of its article, as required under **Footnote placement** below, while leaving in-text reference markers in their original positions;
 - remove running headers, footers, page numbers, crop marks, and unrelated magazine furniture;
 - remove a discretionary line-end hyphen when visual context confirms that the printed word is a single unhyphenated word; and
 - retain intentional compound-word hyphens and every meaningful punctuation mark.
 
-These layout normalizations are permitted only because they represent the same underlying article text in linear semantic HTML. They must never be used to change, omit, add, reorder, or correct source wording. When uncertain whether a mark or line break is meaningful text or merely layout, preserve it and resolve the uncertainty against the rendered page before publication.
+These layout normalizations are permitted only because they represent the same underlying article text in linear semantic HTML. Apart from the required relocation of footnote text to the end of the article, they must never be used to change, omit, add, reorder, or correct source wording. When uncertain whether a mark or line break is meaningful text or merely layout, preserve it and resolve the uncertainty against the rendered page before publication.
 
 Do not duplicate a decorative pull quote when the same words already appear in the article body. Preserve it only when it contains unique substantive text, and record the decision in verification metadata when useful.
 
@@ -231,6 +232,12 @@ Small descriptive classes such as `poem`, `lyrics`, `lead`, and `drop-cap` are a
 The article title, subtitle, section label, byline, issue date, and categories live in `index.json` and normally are not duplicated as a header above the HTML body. A heading, dedication, byline, or sign-off that genuinely occurs within the body remains where printed.
 
 Escape HTML syntax correctly. Do not add editorial explanations, generated citations, new links, advertising, style sheets, or text not present in the source. AI may author concise factual alt text from what is visibly supported by an image when no printed alt text exists. This is accessibility metadata, not source transcription: do not present it as printed wording and do not invent unsupported details. Captions must remain exact transcriptions.
+
+### Footnote placement
+
+Always collect an article's footnotes into one final `<section class="footnotes">` inside the outer `<article>`, immediately before its closing `</article>` tag. The footnotes must follow all other article content, including every paragraph, section, continuation, conclusion, sign-off, image, caption, sidebar, and credit. Never place footnote text between paragraphs or sections, or at an intermediate page or column break, even when the PDF prints it there. No other article content may follow the footnotes section.
+
+Keep in-text footnote reference markers at their original points of reference. Preserve every footnote's exact wording, punctuation, printed number or symbol (if present), formatting, and original sequence; do not renumber, rewrite, omit, or duplicate notes when gathering them from multiple pages. This changes only note placement, not source text or the association between a marker and its note. Do not add a visible “Footnotes” heading unless that heading is printed in the source, and omit the section when the article has no footnotes.
 
 ## Image handling
 
@@ -365,8 +372,8 @@ Complete every applicable check before committing:
 3. Recheck every article through its final line for reuse restrictions.
 4. Confirm that skipped articles have no UUID, HTML, or exported images and occur only in the minimal audit list.
 5. Visually compare every included article's text with the PDF page by page.
-   Treat any changed, added, omitted, reordered, or silently corrected source text as a blocking copyright failure. Publication may proceed only after the HTML is corrected to match the PDF exactly.
-6. Visually compare meaningful formatting, paragraph order, headings, captions, poetry/lyrics lines, notes, and emphasis.
+   Treat any changed, added, omitted, reordered, or silently corrected source text as a blocking copyright failure, except for the required relocation of footnote text described under **Footnote placement**. Publication may proceed only after the HTML is corrected to match the PDF exactly.
+6. Visually compare meaningful formatting, paragraph order, headings, captions, poetry/lyrics lines, notes, and emphasis. For articles with footnotes, confirm that every source footnote is included, with no accidental omission or duplication, in one final footnotes section after all other article content, with no content following that section inside `<article>`. Verify that every in-text marker retains its original position and association with the correct note, and that the notes retain their printed markers and original sequence.
 7. Parse `index.json` and `catalogue.json` successfully and validate canonical references. Run `python3 tools/archive.py validate` and `python3 -m unittest discover -s tests -v`. CI performs these structural checks and verifies exports automatically. A normal English edit never requires regeneration or a matching saved manifest.
 8. Validate every UUID and confirm global uniqueness.
 9. Confirm each UUID matches its index record, HTML filename, HTML `data-article-id`, and image filename prefixes.
