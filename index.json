@@ -82996,6 +82996,788 @@
         "image_census_note": "Complete 36-page visual image census reconciled in issue verification. Each owned logical image has one canonical export referenced exactly once in HTML; repeated and excluded uses are documented. Final images were visually compared with source pages and base objects, fully decoded by independent decoders, and drawn in a browser-compatible renderer.",
         "independent_text_review": "A second AI reader compared the complete source pages with the HTML, including column/page continuations, wording, punctuation, paragraph boundaries and meaningful emphasis; no discrepancies remain."
       }
+    },
+    {
+      "id": "8e86aae8-7575-42a9-a46a-07137a83878a",
+      "language": "en",
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f",
+      "sequence": 1,
+      "title": "The Role of Prayer in Spiritual Awakening",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by J. Edwin Orr",
+        "authors": [
+          {
+            "name": "J. Edwin Orr"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 33,
+        "pages": [
+          3,
+          4,
+          5,
+          6,
+          33
+        ]
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": []
+      },
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "3071fe03-5111-5c92-b54a-c774d84dfac2"
+      ],
+      "html": {
+        "repository_path": "content/articles/8e86aae8-7575-42a9-a46a-07137a83878a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/8e86aae8-7575-42a9-a46a-07137a83878a-1.jpg",
+          "public_path": "/images/articles/8e86aae8-7575-42a9-a46a-07137a83878a-1.jpg",
+          "source_page": 3,
+          "role": "opening illustration",
+          "alt": "A church and surrounding village in a snowy landscape",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 13 from printed page 3; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/8e86aae8-7575-42a9-a46a-07137a83878a-2.jpg",
+          "public_path": "/images/articles/8e86aae8-7575-42a9-a46a-07137a83878a-2.jpg",
+          "source_page": 5,
+          "role": "illustration",
+          "alt": "People kneeling together beside a wooden doorway",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 20 from printed page 5; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article visually read on pp3–6 and lower p33, through final Amen. No article-specific copyright, reuse restriction, image credit, or footnote. Continuation header and end ornament omitted as print furniture. Upper p33 belongs to Rees Howells: Intercessor.",
+        "text_review": "Visually compared every source paragraph at full-page and higher-resolution renders, preserving column/page continuations, all 30 paragraphs, superscript ordinal suffixes and printed anomalies including Provost ,; week ,; more that one court; Communist cell; effect movement of prayer; Unites States; the most people; reversed quote after off; missing closing quote after Wednesday night?; reversed opening quote before Great Crowds; names J.P. Morgan; joined that churches; countries; and their sin will heal their land. The quoted book title on p4 is roman in the source. No editorial corrections made.",
+        "pull_quote_note": "The p4 McGready pull quote, p6 Portland pull quote and p33 extraordinary prayer pull quote duplicate body text and were omitted as decorative repetitions. No unique substantive text was lost.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML with all source pages, including wording, punctuation, paragraph order, meaningful emphasis and continuations; no discrepancies remain."
+      }
+    },
+    {
+      "id": "bf1a2989-ee6f-40da-9a63-2de725622099",
+      "language": "en",
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f",
+      "sequence": 2,
+      "title": "Worship As It Is in Heaven",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": []
+      },
+      "topics": [
+        "95eff650-0776-5994-8697-9cbbf2f83c73",
+        "2c9550e4-1450-557f-8363-1fb690ef5eb8"
+      ],
+      "html": {
+        "repository_path": "content/articles/bf1a2989-ee6f-40da-9a63-2de725622099.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bf1a2989-ee6f-40da-9a63-2de725622099-1.jpg",
+          "public_path": "/images/articles/bf1a2989-ee6f-40da-9a63-2de725622099-1.jpg",
+          "source_page": 7,
+          "role": "illustration",
+          "alt": "Two imprisoned men praying toward a barred window",
+          "caption": "1ST CENTURY WORSHIP",
+          "credit": null,
+          "rights_note": "Original embedded image object 27 from printed page 7; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. Separate publisher caption banner, border, and page background omitted; source illustration pixels retained. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/bf1a2989-ee6f-40da-9a63-2de725622099-2.jpg",
+          "public_path": "/images/articles/bf1a2989-ee6f-40da-9a63-2de725622099-2.jpg",
+          "source_page": 7,
+          "role": "illustration",
+          "alt": "Musicians performing with guitars, drums, amplifiers, and stage lights",
+          "caption": "21ST CENTURY WORSHIP",
+          "credit": null,
+          "rights_note": "Original embedded image object 28 from printed page 7; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. Separate publisher caption banner, border, and page background omitted; source illustration pixels retained. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "One-page unsigned substantive commentary, absent from the contents list but included from the actual page. All three prose paragraphs and the Matthew 6:10 epigraph retained. No footnotes, byline, individual image credit or permission notice.",
+        "text_review": "Visually compared the complete page at full-page and higher resolution. Preserved italic scripture with printed line breaks, superscript st in 21st, source one thousand words, proud-faced and final prayer. The two printed image labels are preserved in image captions when the clean assets are inserted.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML with all source pages, including wording, punctuation, paragraph order, meaningful emphasis and continuations; no discrepancies remain."
+      }
+    },
+    {
+      "id": "76009211-1c2a-4f55-a4be-17d515e9cfcd",
+      "language": "en",
+      "title": "I AM HABIT",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 13
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/76009211-1c2a-4f55-a4be-17d515e9cfcd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/76009211-1c2a-4f55-a4be-17d515e9cfcd-1.jpg",
+          "public_path": "/images/articles/76009211-1c2a-4f55-a4be-17d515e9cfcd-1.jpg",
+          "source_page": 13,
+          "role": "poem illustration",
+          "alt": "A man carrying another man on his shoulders",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 50 from printed page 13; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. Clean, unfaded corner source represents all four repeated corner placements and the same illustration enlarged behind the poem. Faded object 48 is fully covered by object 49; the enlarged crop adds no unique scene content. Omitted poem text, pale page panels, and redundant faded derivatives. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Seven four-line stanzas on printed page 13. No byline, subtitle, caption, credit or footnotes. The title is in small capitals. All poem text, punctuation and line breaks visually compared at 2200px page height.",
+        "text_review": "Preserved “passed all measure”, “Seldom is an easy parting,” and every source punctuation mark. No repeated textual pull quotes.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML with all source pages, including wording, punctuation, paragraph order, meaningful emphasis and continuations; no discrepancies remain."
+      },
+      "sequence": 5,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "id": "f8e9bf03-6695-4bca-90e5-2582673cca69",
+      "language": "en",
+      "title": "The Radical Chinese House Churches (part II)",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 18
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/f8e9bf03-6695-4bca-90e5-2582673cca69.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-1.jpg",
+          "public_path": "/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-1.jpg",
+          "source_page": 14,
+          "role": "opening photograph",
+          "alt": "Two women with their eyes closed",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 54 from printed page 14; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-2.jpg",
+          "public_path": "/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-2.jpg",
+          "source_page": 15,
+          "role": "map",
+          "alt": "A map labeled CHINA",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 58 from printed page 15; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. Text intrinsic to the map raster is retained. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-3.jpg",
+          "public_path": "/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-3.jpg",
+          "source_page": 16,
+          "role": "photograph",
+          "alt": "A group of people gathered among trees and rocks",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 62 from printed page 16; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-4.jpg",
+          "public_path": "/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-4.jpg",
+          "source_page": 17,
+          "role": "photograph",
+          "alt": "People seated together with books, their faces obscured in the source photograph",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 66 from printed page 17; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. Source facial-obscuring marks are irreversibly present in the image raster and are retained unchanged. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-5.jpg",
+          "public_path": "/images/articles/f8e9bf03-6695-4bca-90e5-2582673cca69-5.jpg",
+          "source_page": 18,
+          "role": "photograph",
+          "alt": "People kneeling together, with black bars covering their eyes in the source photograph",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 70 from printed page 18; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. Source facial-obscuring marks are irreversibly present in the image raster and are retained unchanged. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Visually transcribed complete pages 14–18 in column reading order, joining column/page-split sentences. Retained Bro speaker labels, two complete bullet lists, scripture wording and italic emphasis. Apparent source errors as I here them, American’s, effect, and some of preparations retained; opening scripture quotation on page 18 has no printed closing quotation mark. Three decorative pullquotes on pages 15–17 repeat body content and were omitted. No footnotes.",
+        "independent_text_review": "A second AI reader compared all source pages and HTML, including wording, punctuation, paragraph order, speaker labels, bullets and italics; no discrepancies found.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes."
+      },
+      "sequence": 6,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f",
+      "series": {
+        "id": "497a40db-a9f8-43ba-80fd-55709bf3b38d",
+        "part": 2,
+        "total_parts": null
+      },
+      "publication_notes": [
+        "The title prints “(part II)”; numeric series.part 2 represents that printed Roman numeral. No total number of parts is stated."
+      ]
+    },
+    {
+      "id": "533e049a-b6ef-473a-ad9f-6b62f7c04d83",
+      "language": "en",
+      "title": "The Power of God’s Word to Heal",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 19,
+        "end": 20
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/533e049a-b6ef-473a-ad9f-6b62f7c04d83.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/533e049a-b6ef-473a-ad9f-6b62f7c04d83-1.jpg",
+          "public_path": "/images/articles/533e049a-b6ef-473a-ad9f-6b62f7c04d83-1.jpg",
+          "source_page": 19,
+          "role": "illustration",
+          "alt": "Jesus and a group of people beside a bed indoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 74 from printed page 19; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Visually transcribed complete pages 19–20; retained italic introductory Psalm lines and literal --Bro. Denny editorial introduction sign-off. No byline is supplied for the testimony itself, so no author inferred. Complete column and page continuation sentences retained. No footnotes.",
+        "independent_text_review": "A second AI reader compared all source pages and HTML, including wording, punctuation, paragraphs, introduction and scripture emphasis; no discrepancies found.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes."
+      },
+      "sequence": 7,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "id": "b95441d5-cb14-4481-83a7-1a04bd355bfa",
+      "language": "en",
+      "title": "One-Eyed Monster",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 21,
+        "end": 21
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/b95441d5-cb14-4481-83a7-1a04bd355bfa.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/b95441d5-cb14-4481-83a7-1a04bd355bfa-1.jpg",
+          "public_path": "/images/articles/b95441d5-cb14-4481-83a7-1a04bd355bfa-1.jpg",
+          "source_page": 21,
+          "role": "poem background illustration",
+          "alt": "A television set with an empty screen",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 81 from printed page 21; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. Poem title, body text, and surrounding page decoration are separate objects and omitted. The pale television shading is already flattened into the sole source raster (no soft mask, transparency group, alternative base object, or evidenced exact inverse blend); retained without inventing darker pixels. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/b95441d5-cb14-4481-83a7-1a04bd355bfa-2.jpg",
+          "public_path": "/images/articles/b95441d5-cb14-4481-83a7-1a04bd355bfa-2.jpg",
+          "source_page": 21,
+          "role": "illustration",
+          "alt": "A hammer striking a television set",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 82 from printed page 21; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The PDF applies an outline clipping path to this same illustration; surrounding white contains no additional artwork. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Visually read complete page 21 at high resolution, preserving twelve four-line stanzas and source open/closed quotation marks, source spelling ReBELivision and HELLevision, puritanic, six-digit postal code 462636, complete source credit and two italic scripture quotations. The two source columns are read down the left then down the right. Font tracking normalized as nonsemantic print layout; no words or meaningful punctuation changed. No footnotes.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes.",
+        "independent_text_review": "A second AI reader compared high-resolution page 21 with HTML: all twelve stanzas, source credit/address including 462636, Synonyms prose/capitalization, and scripture text/emphasis match."
+      },
+      "sequence": 8,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "id": "e2375d2d-3669-4e91-b2ce-03554ae220b4",
+      "language": "en",
+      "title": "Beyond Obedience",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Christine Lamicela",
+        "authors": [
+          {
+            "name": "Christine Lamicela",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 24
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/e2375d2d-3669-4e91-b2ce-03554ae220b4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e2375d2d-3669-4e91-b2ce-03554ae220b4-1.png",
+          "public_path": "/images/articles/e2375d2d-3669-4e91-b2ce-03554ae220b4-1.png",
+          "source_page": 22,
+          "role": "opening illustration",
+          "alt": "Silhouette of a woman seated in a chair",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 86 from printed page 22; no individual creator credit or separate reuse restriction is printed. Original source raster preserved as PNG. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Visually transcribed complete article from pages 22–24, ending before Covetousness continuation. Preserved source capital Growing, lets, missing apostrophes in My husbands needs and your husbands needs, nested double quotation marks, all italic emphasis, and underlines before/own/other. Source a few years on page 23 verified at high resolution. Three literal dots retained after work things out. No footnotes.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes.",
+        "independent_text_review": "A second AI reader compared all source pages and HTML at high resolution. All paragraphs and continuations, punctuation, dialogue, underlines and italic runs match; final line and eligibility gate independently verified."
+      },
+      "sequence": 9,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "id": "6d2d8e07-c253-4ded-80b0-f14a9634e29b",
+      "language": "en",
+      "title": "Youth Bible School Blessings",
+      "subtitle": null,
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Mollie Jo Cassidy",
+        "authors": [
+          {
+            "name": "Mollie Jo Cassidy"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 27
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "85b345ae-ce23-56a2-9249-2cfa79293657",
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/6d2d8e07-c253-4ded-80b0-f14a9634e29b.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article visually read through final line on p27. No footnotes, images, or article-specific restriction notices. Section label is The Blessing Corner.",
+        "text_review": "Visually compared all paragraphs and quotations across pp25–27; preserved lowercase savior, source “in you’re heart”, cloud 10, together....when (four periods), learned something... (three periods), and all source capitalization. One paragraph crosses both columns on p27. No meaningful emphasis in body.",
+        "independent_text_review": "A second AI reader independently compared all source pages and continuations with the complete HTML, including punctuation, paragraph boundaries, meaningful emphasis, and all numerical tables where present; no discrepancies remain.",
+        "image_census_note": "Full source-page visual census confirms this article has no images. All visible layout bars and heading furniture are excluded."
+      },
+      "sequence": 10,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "id": "7e2da9a2-fad5-4d84-809b-187b7922adbd",
+      "language": "en",
+      "title": "The Blessing of Obedience",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Mrs. Richard Downin\nClovis, NM",
+        "authors": [
+          {
+            "name": "Mrs. Richard Downin",
+            "location": "Clovis, NM"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 35,
+        "pages": [
+          27,
+          35
+        ]
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca",
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/7e2da9a2-fad5-4d84-809b-187b7922adbd.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7e2da9a2-fad5-4d84-809b-187b7922adbd-1.jpg",
+          "public_path": "/images/articles/7e2da9a2-fad5-4d84-809b-187b7922adbd-1.jpg",
+          "source_page": 27,
+          "role": "opening illustration",
+          "alt": "A woman with a head covering looking upward",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 102 from printed page 27; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article and italic invitation sidebar visually read on p27 and continuation on p35. The sidebar inviting veiling testimonies is retained after the completed body. No footnotes or article-specific restriction notice.",
+        "text_review": "Preserved source “my husband starting noticing”, “ladies functions”, and all punctuation and paragraph breaks; the p27 unfinished sentence joins p35 beginning. The article-end dingbat and continuation furniture are excluded. Sidebar retained entirely italic.",
+        "independent_text_review": "A second AI reader independently compared all source pages and continuations with the complete HTML, including punctuation, paragraph boundaries, meaningful emphasis, and all numerical tables where present; no discrepancies remain.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes."
+      },
+      "sequence": 11,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "id": "80f2fbd9-9901-4fe3-a4a1-c41cf4fa0a48",
+      "language": "en",
+      "title": "Charity Gospel Tape Ministry & The Heartbeat of The Remnant",
+      "subtitle": "2002 Year-end Financial Report",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 29
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/80f2fbd9-9901-4fe3-a4a1-c41cf4fa0a48.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/80f2fbd9-9901-4fe3-a4a1-c41cf4fa0a48-1.png",
+          "public_path": "/images/articles/80f2fbd9-9901-4fe3-a4a1-c41cf4fa0a48-1.png",
+          "source_page": 28,
+          "role": "illustration",
+          "alt": "An audio cassette shown at an angle",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 107 from printed page 28; no individual creator credit or separate reuse restriction is printed. Rotated 15.000000 degrees counterclockwise to match the PDF image matrix; transparent surrounding canvas. Separate page decoration and shadows omitted. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/80f2fbd9-9901-4fe3-a4a1-c41cf4fa0a48-2.png",
+          "public_path": "/images/articles/80f2fbd9-9901-4fe3-a4a1-c41cf4fa0a48-2.png",
+          "source_page": 28,
+          "role": "illustration",
+          "alt": "A copy of The Heartbeat of The Remnant magazine shown at an angle",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 106 from printed page 28; no individual creator credit or separate reuse restriction is printed. Rotated 12.722699 degrees clockwise to match the PDF image matrix; transparent surrounding canvas; intrinsic magazine-cover typography retained. Separate page decoration and shadows omitted. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Titled substantive ministry financial report, not listed in the contents, included in issue reading order. Complete pp28–29 report and both charts visually read; lower p29 tape-set advertisement and all p30 Godly Home Series · 2003 advertisement excluded. No byline, footnotes or article-specific restriction notice.",
+        "text_review": "Both charts transcribed into semantic tables with source empty cells, headers, values, currency, capitalization, and bold totals intact. Preserved 1588 without a comma and Equipment Maint without a period. Closing prayer italic. High-resolution render and PDF font spans confirm table years/dates are bold upright, numerical data upright; low-resolution distortion was not treated as emphasis.",
+        "independent_text_review": "A second AI reader independently compared all source pages and continuations with the complete HTML, including punctuation, paragraph boundaries, meaningful emphasis, and all numerical tables where present; no discrepancies remain.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes."
+      },
+      "sequence": 12,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "id": "dd3379b6-7f59-4c94-baee-65374d62a955",
+      "language": "en",
+      "title": "Rees Howells: Intercessor",
+      "subtitle": null,
+      "section": "Book Review",
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 33
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/dd3379b6-7f59-4c94-baee-65374d62a955.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/dd3379b6-7f59-4c94-baee-65374d62a955-1.jpg",
+          "public_path": "/images/articles/dd3379b6-7f59-4c94-baee-65374d62a955-1.jpg",
+          "source_page": 31,
+          "role": "portrait",
+          "alt": "Portrait of Rees Howells",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 118 from printed page 31; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/dd3379b6-7f59-4c94-baee-65374d62a955-2.jpg",
+          "public_path": "/images/articles/dd3379b6-7f59-4c94-baee-65374d62a955-2.jpg",
+          "source_page": 32,
+          "role": "photograph",
+          "alt": "A large two-storey building",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 122 from printed page 32; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/dd3379b6-7f59-4c94-baee-65374d62a955-3.jpg",
+          "public_path": "/images/articles/dd3379b6-7f59-4c94-baee-65374d62a955-3.jpg",
+          "source_page": 33,
+          "role": "book cover",
+          "alt": "Cover of Rees Howells: Intercessor by Norman Grubb",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 126 from printed page 33; no individual creator credit or separate reuse restriction is printed. Decoded source grayscale raster and normalized to baseline RGB JPEG with 96 dpi density; no CMYK conversion or sample inversion needed. Text intrinsic to the book-cover raster is retained. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete review visually read pp31–33, including final paragraph. Separate p33 ordering panel omitted as advertisement. Lower p33 continuation belongs to The Role of Prayer in Spiritual Awakening. No footnotes or article-specific restriction notice.",
+        "text_review": "All 12 paragraphs visually compared, including cross-column and page continuations. Preserved source benefitted, an hundred, home land, lower-case calvary, and quotation punctuation. Italic real, seen and mighty retained. Book heading is distinguished from reviewer.",
+        "independent_text_review": "A second AI reader independently compared all source pages and continuations with the complete HTML, including punctuation, paragraph boundaries, meaningful emphasis, and all numerical tables where present; no discrepancies remain.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes."
+      },
+      "publication_notes": [
+        "The review byline is “by Dean Taylor”. The separate heading “by Norman Grubb” identifies the author of the reviewed book, not the review author."
+      ],
+      "sequence": 13,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "id": "30639546-50b4-48f7-88a0-5781308e5755",
+      "language": "en",
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/30639546-50b4-48f7-88a0-5781308e5755.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/30639546-50b4-48f7-88a0-5781308e5755-1.png",
+          "public_path": "/images/articles/30639546-50b4-48f7-88a0-5781308e5755-1.png",
+          "source_page": 34,
+          "role": "opening illustration",
+          "alt": "A mailbox on a flower-covered post",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original embedded image object 130 from printed page 34; no individual creator credit or separate reuse restriction is printed. Original source raster preserved as PNG. Mailbox address and uniform gray background are intrinsic to the only source raster; no removable overprinted caption or panel remains. The masthead states “Some images © 2001-2003” and “www.arttoday.com” without mapping that credit to individual assets; no individual source or license is inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete editorial introduction, five-item list, editorial sign-off, five reader letters (Massachusetts; Bolivia, South America; Milbank, SD; Hodge, SC; Yugoslavia) and boxed editorial reply retained. The boxed book-title/ordering information directly answers the Massachusetts reader’s inquiry. Lower p35 belongs to The Blessing of Obedience. No footnotes or article-specific restriction notice.",
+        "text_review": "Visually compared pp34–35, letter/column/page continuations, source italics for publication titles and locations, and all punctuation. Preserved source “We do longer fit”, “refuge from Kosovo”, Nov/ Dec. 2001, Bro Yun without a period, and thirty eight without a hyphen. Decorative divider rows replaced by semantic letter sections.",
+        "independent_text_review": "A second AI reader independently compared all source pages and continuations with the complete HTML, including punctuation, paragraph boundaries, meaningful emphasis, and all numerical tables where present; no discrepancies remain.",
+        "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes."
+      },
+      "sequence": 14,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
     }
   ],
   "skipped": [
@@ -84267,6 +85049,46 @@
       ],
       "html_exported": false,
       "images_exported": false
+    },
+    {
+      "title": "Covetousness",
+      "byline": "by John Wesley",
+      "source_pages": {
+        "start": 8,
+        "end": 10
+      },
+      "reason": "The closing source box for the Covetousness feature on printed page 24 explicitly says “Used by permission.” Its plural “articles” attribution covers this component and the following related titled contribution, so the entire component and its illustration are excluded.",
+      "detected_notices": [
+        "These thoughts were taken from articles found in the book, Covetousness, published by",
+        "Used by permission."
+      ],
+      "html_exported": false,
+      "images_exported": false,
+      "sequence": 3,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
+    },
+    {
+      "title": "Noble Talent or Unrighteous Mammon: The Economic Thought of John Wesley",
+      "byline": "-Jonathan Huddleston",
+      "source_pages": {
+        "start": 10,
+        "end": 24,
+        "pages": [
+          10,
+          11,
+          12,
+          24
+        ]
+      },
+      "reason": "The article continues from printed page 12 to page 24, where the shared closing source box for the Covetousness feature explicitly says “Used by permission.” The complete article is excluded.",
+      "detected_notices": [
+        "These thoughts were taken from articles found in the book, Covetousness, published by",
+        "Used by permission."
+      ],
+      "html_exported": false,
+      "images_exported": false,
+      "sequence": 4,
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
     }
   ]
 }
