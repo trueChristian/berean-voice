@@ -14703,6 +14703,621 @@
           }
         ]
       }
+    },
+    {
+      "id": "7e269c60-16a4-417b-8702-44b7166801f8",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "March/April 2004",
+        "year": 2004,
+        "months": [
+          3,
+          4
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 10,
+      "issue_number": 2,
+      "source": {
+        "filename": "2004-03-remnant.pdf",
+        "sha256": "b0b7b1e996cb08e2a2de059efa1cc1b9cee83bd84125a57bbbf3ec8a54dad9b8",
+        "pdf_page_count": 30,
+        "printed_page_range": "2-13, 20-35; front cover and back-cover prayer (logical page 36) unnumbered; printed pages 14-19 absent from supplied PDF"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2004-03",
+      "slug": "heartbeat-remnant-2004-03",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 11,
+        "skipped_article_count": 1,
+        "exported_image_count": 14,
+        "inventory_note": "All 30 pages supplied in the PDF were visually inspected. Twelve substantive candidates were found: eleven included and My Hands excluded under the individual-copyright exception to this issue’s reprint policy. Printed pages 14–19 are absent and the corresponding contents entry is blank; no missing title or text is inferred. Both nonconsecutive continuations are complete within the supplied PDF. Cover, contents/masthead thumbnails, New Tapes! promotional catalogue, the separate book-order panel and mailing furniture are excluded. The titled back-cover prayer is included. No eligible article has footnotes. Existing categories are reused; no new grouping entities were needed.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "ddecf318-ee79-4781-b5a7-84e91b36c30c",
+            "title": "FREE!",
+            "source_pages": {
+              "start": 3,
+              "end": 4
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 2,
+            "article_id": "58427435-0382-4d9b-991b-a7fab23982bd",
+            "title": "Jesus, Jesus, Life the Fountain",
+            "source_pages": {
+              "start": 5,
+              "end": 5
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 3,
+            "article_id": "b5b39e7f-dd95-4bc5-9432-0448112ab399",
+            "title": "The Test of Home Life",
+            "source_pages": {
+              "start": 6,
+              "end": 27,
+              "pages": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                27
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 4,
+            "title": "My Hands",
+            "source_pages": {
+              "start": 12,
+              "end": 13
+            },
+            "disposition": "skipped: individual copyright notice under issue reprint-policy exception"
+          },
+          {
+            "sequence": 5,
+            "article_id": "f3803ae2-ef28-4366-9d5b-37b3bf380de3",
+            "title": "How Far Is It To Hell?",
+            "source_pages": {
+              "start": 21,
+              "end": 21
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 6,
+            "article_id": "b82a0428-e9b3-4ea3-9f2b-cbbf80d908b8",
+            "title": "The Fool",
+            "source_pages": {
+              "start": 21,
+              "end": 21
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 7,
+            "article_id": "d1b8263b-6a77-442d-befe-8894c367cf4b",
+            "title": "What is Your Ishmael?",
+            "source_pages": {
+              "start": 22,
+              "end": 35,
+              "pages": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                35
+              ]
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 8,
+            "article_id": "719a9c5b-048d-4c16-b25b-52882ebdb553",
+            "title": "In a Ring of Fire",
+            "source_pages": {
+              "start": 27,
+              "end": 27
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 9,
+            "article_id": "6cd0b78a-6530-4327-a0eb-941231185cf0",
+            "title": "The Pursuit of Godly Seed",
+            "source_pages": {
+              "start": 28,
+              "end": 31
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 10,
+            "article_id": "3e7f2073-976b-4607-a7e5-d3aa90928e60",
+            "title": "Obedience to Christ’s Words and Commands",
+            "source_pages": {
+              "start": 32,
+              "end": 33
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 11,
+            "article_id": "731557dc-79d3-4e72-9c76-3cc93c3d32f4",
+            "title": "Precious Letters from Our Readers",
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            },
+            "disposition": "included"
+          },
+          {
+            "sequence": 12,
+            "article_id": "eae04170-ac94-4f14-b0dd-64726d9eca20",
+            "title": "A Warrior’s Prayer",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included"
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": 1,
+            "article_ids": [],
+            "images": [
+              {
+                "description": "Snow-covered reddish buds photograph",
+                "disposition": "omitted",
+                "exclusion": "cover"
+              }
+            ],
+            "note": "Front cover; issue date March/April 2004, Volume 10 Number 2."
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "article_ids": [],
+            "images": [
+              {
+                "description": "Four thumbnails: couple, Elijah/widow, seated Denny Kenaston, and mailbox; full uses occur on content pages.",
+                "disposition": "omitted",
+                "exclusion": "table of contents",
+                "visible_uses": 4
+              }
+            ],
+            "note": "Contents and general masthead. The printed-page-14 contents line is visibly blank."
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "article_ids": [
+              "ddecf318-ee79-4781-b5a7-84e91b36c30c"
+            ],
+            "images": [
+              {
+                "description": "Couple photograph; separate rounded frame and shadow removed.",
+                "disposition": "exported",
+                "article_id": "ddecf318-ee79-4781-b5a7-84e91b36c30c",
+                "repository_path": "public/images/articles/ddecf318-ee79-4781-b5a7-84e91b36c30c-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "article_ids": [
+              "ddecf318-ee79-4781-b5a7-84e91b36c30c"
+            ],
+            "images": [],
+            "note": "No photograph or illustration. Unique John 8:36 panel is transcribed as semantic article text; gray panel is publisher layout."
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "article_ids": [
+              "58427435-0382-4d9b-991b-a7fab23982bd"
+            ],
+            "images": [],
+            "note": "No photograph or illustration. Gray reading panel, border, and title bar are publisher layout."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "article_ids": [
+              "b5b39e7f-dd95-4bc5-9432-0448112ab399"
+            ],
+            "images": [
+              {
+                "description": "F. B. Meyer portrait.",
+                "disposition": "exported",
+                "article_id": "b5b39e7f-dd95-4bc5-9432-0448112ab399",
+                "repository_path": "public/images/articles/b5b39e7f-dd95-4bc5-9432-0448112ab399-1.jpg"
+              },
+              {
+                "description": "Large house-shaped title frame",
+                "disposition": "omitted",
+                "exclusion": "publisher heading furniture"
+              }
+            ]
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "article_ids": [
+              "b5b39e7f-dd95-4bc5-9432-0448112ab399"
+            ],
+            "images": [
+              {
+                "description": "Woman serving a seated bearded man.",
+                "disposition": "exported",
+                "article_id": "b5b39e7f-dd95-4bc5-9432-0448112ab399",
+                "repository_path": "public/images/articles/b5b39e7f-dd95-4bc5-9432-0448112ab399-2.png"
+              },
+              {
+                "description": "Repeated small house-shaped section-heading frame",
+                "disposition": "omitted",
+                "exclusion": "publisher heading furniture"
+              }
+            ]
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "article_ids": [
+              "b5b39e7f-dd95-4bc5-9432-0448112ab399"
+            ],
+            "images": [
+              {
+                "description": "Woman gathering sticks beside a bearded man.",
+                "disposition": "exported",
+                "article_id": "b5b39e7f-dd95-4bc5-9432-0448112ab399",
+                "repository_path": "public/images/articles/b5b39e7f-dd95-4bc5-9432-0448112ab399-3.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "article_ids": [
+              "b5b39e7f-dd95-4bc5-9432-0448112ab399"
+            ],
+            "images": [
+              {
+                "description": "Man carrying a child down steps toward a woman.",
+                "disposition": "exported",
+                "article_id": "b5b39e7f-dd95-4bc5-9432-0448112ab399",
+                "repository_path": "public/images/articles/b5b39e7f-dd95-4bc5-9432-0448112ab399-4.jpg"
+              },
+              {
+                "description": "Repeated house-shaped section-heading frame",
+                "disposition": "omitted",
+                "exclusion": "publisher heading furniture"
+              }
+            ]
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "article_ids": [
+              "b5b39e7f-dd95-4bc5-9432-0448112ab399"
+            ],
+            "images": [
+              {
+                "description": "Repeated house-shaped section-heading frame",
+                "disposition": "omitted",
+                "exclusion": "publisher heading furniture"
+              }
+            ],
+            "note": "No pictorial image. Four-line poem and author credit are part of article text."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "article_ids": [
+              "b5b39e7f-dd95-4bc5-9432-0448112ab399"
+            ],
+            "images": [
+              {
+                "description": "Repeated house-shaped section-heading frame",
+                "disposition": "omitted",
+                "exclusion": "publisher heading furniture"
+              }
+            ],
+            "note": "Article continues on printed page 27 / PDF page 21."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "article_ids": [],
+            "images": [
+              {
+                "description": "Crucifixion illustration used as full-page background behind restricted poem.",
+                "disposition": "excluded_with_skipped_article",
+                "skipped_title": "My Hands"
+              }
+            ]
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "article_ids": [],
+            "images": [
+              {
+                "description": "Repeated crucifixion background behind restricted poem continuation.",
+                "disposition": "excluded_with_skipped_article",
+                "skipped_title": "My Hands"
+              }
+            ],
+            "note": "The poem ends with its individual Evangeline Anderson, ©2004 notice."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 20,
+            "article_ids": [],
+            "images": [
+              {
+                "description": "One large cassette illustration and four smaller cassette uses.",
+                "disposition": "omitted",
+                "exclusion": "advertisement",
+                "visible_uses": 5
+              }
+            ],
+            "note": "Printed page 20: New Tapes! is promotional tape catalogue excluded as advertisement."
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 21,
+            "article_ids": [
+              "f3803ae2-ef28-4366-9d5b-37b3bf380de3",
+              "b82a0428-e9b3-4ea3-9f2b-cbbf80d908b8"
+            ],
+            "images": [
+              {
+                "description": "Miner portrait behind story; unavoidable flattened gray treatment retained.",
+                "disposition": "exported",
+                "article_id": "f3803ae2-ef28-4366-9d5b-37b3bf380de3",
+                "repository_path": "public/images/articles/f3803ae2-ef28-4366-9d5b-37b3bf380de3-1.jpg"
+              },
+              {
+                "description": "Flame illustration; unavoidable flattened gray treatment retained.",
+                "disposition": "exported",
+                "article_id": "f3803ae2-ef28-4366-9d5b-37b3bf380de3",
+                "repository_path": "public/images/articles/f3803ae2-ef28-4366-9d5b-37b3bf380de3-2.jpg"
+              },
+              {
+                "description": "Kneeling figure with staff before standing king.",
+                "disposition": "exported",
+                "article_id": "b82a0428-e9b3-4ea3-9f2b-cbbf80d908b8",
+                "repository_path": "public/images/articles/b82a0428-e9b3-4ea3-9f2b-cbbf80d908b8-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 22,
+            "article_ids": [
+              "d1b8263b-6a77-442d-befe-8894c367cf4b"
+            ],
+            "images": [
+              {
+                "description": "Older man sending woman and child away while a seated woman watches.",
+                "disposition": "exported",
+                "article_id": "d1b8263b-6a77-442d-befe-8894c367cf4b",
+                "repository_path": "public/images/articles/d1b8263b-6a77-442d-befe-8894c367cf4b-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 23,
+            "article_ids": [
+              "d1b8263b-6a77-442d-befe-8894c367cf4b"
+            ],
+            "images": [],
+            "note": "No pictorial images."
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 24,
+            "article_ids": [
+              "d1b8263b-6a77-442d-befe-8894c367cf4b"
+            ],
+            "images": [],
+            "note": "No pictorial images."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 25,
+            "article_ids": [
+              "d1b8263b-6a77-442d-befe-8894c367cf4b"
+            ],
+            "images": [],
+            "note": "No pictorial images; pull quote repeats article body."
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 26,
+            "article_ids": [
+              "d1b8263b-6a77-442d-befe-8894c367cf4b"
+            ],
+            "images": [],
+            "note": "No pictorial images; pull quote repeats article body. Article continues on printed page 35 / PDF page 29."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 27,
+            "article_ids": [
+              "719a9c5b-048d-4c16-b25b-52882ebdb553",
+              "b5b39e7f-dd95-4bc5-9432-0448112ab399"
+            ],
+            "images": [
+              {
+                "description": "Stylized flames.",
+                "disposition": "exported",
+                "article_id": "719a9c5b-048d-4c16-b25b-52882ebdb553",
+                "repository_path": "public/images/articles/719a9c5b-048d-4c16-b25b-52882ebdb553-1.jpg"
+              },
+              {
+                "description": "Curled worm.",
+                "disposition": "exported",
+                "article_id": "719a9c5b-048d-4c16-b25b-52882ebdb553",
+                "repository_path": "public/images/articles/719a9c5b-048d-4c16-b25b-52882ebdb553-2.png"
+              }
+            ],
+            "note": "Upper story is In a Ring of Fire; lower portion completes The Test of Home Life."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 28,
+            "article_ids": [
+              "6cd0b78a-6530-4327-a0eb-941231185cf0"
+            ],
+            "images": [
+              {
+                "description": "Denny Kenaston seated beside desk and computer.",
+                "disposition": "exported",
+                "article_id": "6cd0b78a-6530-4327-a0eb-941231185cf0",
+                "repository_path": "public/images/articles/6cd0b78a-6530-4327-a0eb-941231185cf0-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 29,
+            "article_ids": [
+              "6cd0b78a-6530-4327-a0eb-941231185cf0"
+            ],
+            "images": [],
+            "note": "No pictorial images; decorative pull quote repeats body quotation."
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 30,
+            "article_ids": [
+              "6cd0b78a-6530-4327-a0eb-941231185cf0"
+            ],
+            "images": [],
+            "note": "No pictorial images; decorative pull quote repeats adjacent body text."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 31,
+            "article_ids": [
+              "6cd0b78a-6530-4327-a0eb-941231185cf0"
+            ],
+            "images": [],
+            "note": "No pictorial images. Final Home Fires Publishers prices/order/address panel omitted under advertisement/order-form exclusion."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 32,
+            "article_ids": [
+              "3e7f2073-976b-4607-a7e5-d3aa90928e60"
+            ],
+            "images": [],
+            "note": "No pictorial images."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 33,
+            "article_ids": [
+              "3e7f2073-976b-4607-a7e5-d3aa90928e60"
+            ],
+            "images": [],
+            "note": "No pictorial images; pull quote repeats body."
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 34,
+            "article_ids": [
+              "731557dc-79d3-4e72-9c76-3cc93c3d32f4"
+            ],
+            "images": [
+              {
+                "description": "Flowered mailbox; address lettering intrinsic to source raster retained.",
+                "disposition": "exported",
+                "article_id": "731557dc-79d3-4e72-9c76-3cc93c3d32f4",
+                "repository_path": "public/images/articles/731557dc-79d3-4e72-9c76-3cc93c3d32f4-1.png"
+              },
+              {
+                "description": "Two repeated rows of pencil glyphs separating letters.",
+                "disposition": "omitted",
+                "exclusion": "publisher section-divider furniture",
+                "visible_uses": 2
+              }
+            ]
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 35,
+            "article_ids": [
+              "731557dc-79d3-4e72-9c76-3cc93c3d32f4",
+              "d1b8263b-6a77-442d-befe-8894c367cf4b"
+            ],
+            "images": [
+              {
+                "description": "Two repeated rows of pencil glyphs separating/ending letters.",
+                "disposition": "omitted",
+                "exclusion": "publisher section-divider furniture",
+                "visible_uses": 2
+              }
+            ],
+            "note": "Upper portion completes reader letters; lower portion completes Ishmael."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 36,
+            "article_ids": [
+              "eae04170-ac94-4f14-b0dd-64726d9eca20"
+            ],
+            "images": [
+              {
+                "description": "Exact lightning, sky, tree line, and sword source composite; one canonical export because sword is intrinsic to same raster.",
+                "disposition": "exported",
+                "article_id": "eae04170-ac94-4f14-b0dd-64726d9eca20",
+                "repository_path": "public/images/articles/eae04170-ac94-4f14-b0dd-64726d9eca20-1.jpg"
+              }
+            ],
+            "note": "Unfoliated back cover is logical printed page 36. Titled substantive prayer retained; lower mailing panel, logo, address, postage and service request omitted."
+          }
+        ],
+        "source_omissions": [
+          {
+            "printed_pages": [
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ],
+            "reason": "These six printed pages are absent from the supplied 30-page PDF. The contents line for printed page 14 is visibly blank; no article title, byline, text, or image can be established from the supplied source. No invented skipped-article record or article UUID is assigned."
+          }
+        ],
+        "image_reconciliation": {
+          "exported_files": 14,
+          "status": "verified_by_ai",
+          "note": "All 30 supplied pages were visually inventoried and all 14 final image files independently opened and compared with the rendered source. Fourteen canonical image paths balance the visible eligible pictorial assets, with the back-cover sword/lightning preserved as one source composite. Excluded poem backgrounds, contents thumbnails, cover photo, advertisement cassettes, and publisher heading/divider furniture are explicitly accounted for. No export belongs to the skipped poem."
+        }
+      }
     }
   ],
   "categories": [
