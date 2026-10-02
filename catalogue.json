@@ -15318,6 +15318,799 @@
           "note": "All 30 supplied pages were visually inventoried and all 14 final image files independently opened and compared with the rendered source. Fourteen canonical image paths balance the visible eligible pictorial assets, with the back-cover sword/lightning preserved as one source composite. Excluded poem backgrounds, contents thumbnails, cover photo, advertisement cassettes, and publisher heading/divider furniture are explicitly accounted for. No export belongs to the skipped poem."
         }
       }
+    },
+    {
+      "id": "535e096a-7dbd-4c94-9d0b-76b121c8bed1",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "January/February 2004",
+        "year": 2004,
+        "months": [
+          1,
+          2
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 10,
+      "issue_number": 1,
+      "source": {
+        "filename": "2004-01-remnant.pdf",
+        "sha256": "6be1bf0cf0d84d412a47587df87a995148176e855fe70778515c9081b26cbd55",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front cover and back-cover poem (logical page 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2004-01",
+      "slug": "heartbeat-remnant-2004-01",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 11,
+        "skipped_article_count": 0,
+        "exported_image_count": 14,
+        "inventory_note": "All 36 source pages visually inspected. The nine contents entries are included along with the substantive year-end financial report on page 26 and the signed untitled back-cover poem. George Muller continues from page 12 to page 23; Seducing Spirits continues from page 25 to page 35. No article-specific reuse restrictions were found. Cover, contents/masthead, separate book/tape ordering advertisement, mailing panel and purely decorative furniture are excluded. All article text and meaningful formatting received a second visual review. The report’s sole footnote is in a final footnotes section; the 2003* marker remains at its source reference. All existing category/topic IDs are reused; the explicit Parenthood Part II is registered in one new series.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+            "title": "George Muller",
+            "subtitle": "THE SECRET OF HIS POWER IN PRAYER",
+            "source_pages": {
+              "start": 3,
+              "end": 23,
+              "pages": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                23
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 2,
+            "article_id": "907cbbdb-6566-483a-bf46-1b55a8faab8c",
+            "title": "Waste or Wealth?",
+            "subtitle": null,
+            "source_pages": {
+              "start": 13,
+              "end": 13
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 3,
+            "article_id": "aff9e9dc-78b1-417c-9dca-b486a7470c1e",
+            "title": "GIANT KILLERS",
+            "subtitle": null,
+            "source_pages": {
+              "start": 14,
+              "end": 17
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 4,
+            "article_id": "f3e82848-1a01-4133-ab6b-1f0dc701ccb4",
+            "title": "Parenthood",
+            "subtitle": "A SACRED TRUST",
+            "source_pages": {
+              "start": 18,
+              "end": 21
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 5,
+            "article_id": "d098b1ec-c6db-4295-83e8-4d07b0c4097f",
+            "title": "The Revival We Need",
+            "subtitle": null,
+            "source_pages": {
+              "start": 22,
+              "end": 23
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 6,
+            "article_id": "91407af5-9e48-4d3a-8302-79247ea4f565",
+            "title": "Seducing Spirits",
+            "subtitle": null,
+            "source_pages": {
+              "start": 24,
+              "end": 35,
+              "pages": [
+                24,
+                25,
+                35
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 7,
+            "article_id": "ddbb14ba-ce9d-465c-b584-b8c824f7c522",
+            "title": "Charity Gospel Tape Ministry & The Heartbeat of The Remnant",
+            "subtitle": "2003 Year End Financial Report",
+            "source_pages": {
+              "start": 26,
+              "end": 26
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 8,
+            "article_id": "b5c8b9d2-05b1-470d-b558-2dacb5a36a34",
+            "title": "We Would See Jesus",
+            "subtitle": null,
+            "source_pages": {
+              "start": 27,
+              "end": 31
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 9,
+            "article_id": "15f3d4f9-35ec-4cd2-92dc-497a5cee0e66",
+            "title": "Evidences of Eternal Life",
+            "subtitle": null,
+            "source_pages": {
+              "start": 32,
+              "end": 33
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 10,
+            "article_id": "a99aedb2-3777-4b4a-ac04-ffc651cbbae7",
+            "title": "Precious Letters from Our Readers",
+            "subtitle": null,
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 11,
+            "article_id": "663da224-39d7-4c13-8154-e155dc2aaffc",
+            "title": null,
+            "subtitle": null,
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "page": 1,
+            "visually_inspected": true,
+            "article_sequences": [],
+            "images": [
+              {
+                "source_object": 197,
+                "description": "Lamb front cover artwork",
+                "disposition": "omitted",
+                "reason": "cover"
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "visually_inspected": true,
+            "article_sequences": [],
+            "images": [
+              {
+                "source_object": 4,
+                "description": "Table-of-contents thumbnail",
+                "disposition": "omitted",
+                "reason": "table of contents"
+              },
+              {
+                "source_object": 5,
+                "description": "Table-of-contents thumbnail",
+                "disposition": "omitted",
+                "reason": "table of contents"
+              },
+              {
+                "source_object": 6,
+                "description": "Table-of-contents thumbnail",
+                "disposition": "omitted",
+                "reason": "table of contents"
+              },
+              {
+                "source_object": 7,
+                "description": "Table-of-contents thumbnail",
+                "disposition": "omitted",
+                "reason": "table of contents"
+              },
+              {
+                "source_object": 8,
+                "description": "Table-of-contents thumbnail",
+                "disposition": "omitted",
+                "reason": "table of contents"
+              },
+              {
+                "source_object": 9,
+                "description": "Table-of-contents thumbnail",
+                "disposition": "omitted",
+                "reason": "table of contents"
+              },
+              {
+                "source_object": 10,
+                "description": "Table-of-contents thumbnail",
+                "disposition": "omitted",
+                "reason": "table of contents"
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 14,
+                "description": "Kneeling man praying beside a window in a dark room.",
+                "disposition": "exported",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "note": "Object134 is a reduced square crop of the same illustration; no unique image content."
+              }
+            ]
+          },
+          {
+            "page": 4,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 5,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 6,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 7,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 9,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 10,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 11,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "visually_inspected": true,
+            "article_sequences": [
+              1
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 13,
+            "visually_inspected": true,
+            "article_sequences": [
+              2
+            ],
+            "images": [
+              {
+                "source_object": 45,
+                "description": "Line illustration of two children looking over a horizontal ledge.",
+                "disposition": "exported",
+                "article_id": "907cbbdb-6566-483a-bf46-1b55a8faab8c",
+                "repository_path": "public/images/articles/907cbbdb-6566-483a-bf46-1b55a8faab8c-1.png",
+                "note": "Low-contrast grey treatment is baked in the only raster. No exact inverse blend established; retain its source tones and document that limitation."
+              },
+              {
+                "source_object": 46,
+                "description": "Three children leaning from a window.",
+                "disposition": "exported",
+                "article_id": "907cbbdb-6566-483a-bf46-1b55a8faab8c",
+                "repository_path": "public/images/articles/907cbbdb-6566-483a-bf46-1b55a8faab8c-2.jpg"
+              },
+              {
+                "source_object": 47,
+                "description": "Line illustration of treasure, including a crown, coins and other valuables.",
+                "disposition": "exported",
+                "article_id": "907cbbdb-6566-483a-bf46-1b55a8faab8c",
+                "repository_path": "public/images/articles/907cbbdb-6566-483a-bf46-1b55a8faab8c-3.png",
+                "note": "Low-contrast grey treatment is baked into the only raster. No exact inverse blend established; retain source tones and document."
+              }
+            ]
+          },
+          {
+            "page": 14,
+            "visually_inspected": true,
+            "article_sequences": [
+              3
+            ],
+            "images": [
+              {
+                "source_object": 51,
+                "description": "Armoured giant carrying a shield with smaller figures behind him.",
+                "disposition": "exported",
+                "article_id": "aff9e9dc-78b1-417c-9dca-b486a7470c1e",
+                "repository_path": "public/images/articles/aff9e9dc-78b1-417c-9dca-b486a7470c1e-1.jpg"
+              }
+            ]
+          },
+          {
+            "page": 15,
+            "visually_inspected": true,
+            "article_sequences": [
+              3
+            ],
+            "images": [
+              {
+                "source_object": 55,
+                "description": "David lifting a sword above the fallen Goliath.",
+                "disposition": "exported",
+                "article_id": "aff9e9dc-78b1-417c-9dca-b486a7470c1e",
+                "repository_path": "public/images/articles/aff9e9dc-78b1-417c-9dca-b486a7470c1e-2.jpg"
+              }
+            ]
+          },
+          {
+            "page": 16,
+            "visually_inspected": true,
+            "article_sequences": [
+              3
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 17,
+            "visually_inspected": true,
+            "article_sequences": [
+              3
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 18,
+            "visually_inspected": true,
+            "article_sequences": [
+              4
+            ],
+            "images": [
+              {
+                "source_object": 65,
+                "description": "Woman sitting with children near a window.",
+                "disposition": "exported",
+                "article_id": "f3e82848-1a01-4133-ab6b-1f0dc701ccb4",
+                "repository_path": "public/images/articles/f3e82848-1a01-4133-ab6b-1f0dc701ccb4-1.jpg"
+              }
+            ]
+          },
+          {
+            "page": 19,
+            "visually_inspected": true,
+            "article_sequences": [
+              4
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 20,
+            "visually_inspected": true,
+            "article_sequences": [
+              4
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 21,
+            "visually_inspected": true,
+            "article_sequences": [
+              4
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 22,
+            "visually_inspected": true,
+            "article_sequences": [
+              5
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 23,
+            "visually_inspected": true,
+            "article_sequences": [
+              1,
+              5
+            ],
+            "images": [
+              {
+                "source_object": 134,
+                "description": "Square reduced crop of kneeling prayer illustration",
+                "disposition": "represented_once",
+                "article_id": "bf0bf611-025b-440b-90d5-6e1c2e6bda42",
+                "repository_path": "public/images/articles/bf0bf611-025b-440b-90d5-6e1c2e6bda42-1.jpg",
+                "reason": "Reduced crop of object14 with no unique content; repeated running-header use."
+              }
+            ]
+          },
+          {
+            "page": 24,
+            "visually_inspected": true,
+            "article_sequences": [
+              6
+            ],
+            "images": [
+              {
+                "source_object": 84,
+                "description": "Church interior with seated congregation and a winged figure in a pew.",
+                "disposition": "exported",
+                "article_id": "91407af5-9e48-4d3a-8302-79247ea4f565",
+                "repository_path": "public/images/articles/91407af5-9e48-4d3a-8302-79247ea4f565-1.jpg"
+              }
+            ]
+          },
+          {
+            "page": 25,
+            "visually_inspected": true,
+            "article_sequences": [
+              6
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 26,
+            "visually_inspected": true,
+            "article_sequences": [
+              7
+            ],
+            "images": [
+              {
+                "source_object": 91,
+                "description": "Small illustration of this issue’s cover with lamb.",
+                "disposition": "exported",
+                "article_id": "ddbb14ba-ce9d-465c-b584-b8c824f7c522",
+                "repository_path": "public/images/articles/ddbb14ba-ce9d-465c-b584-b8c824f7c522-2.png"
+              },
+              {
+                "source_object": 92,
+                "description": "Cassette tape illustration.",
+                "disposition": "exported",
+                "article_id": "ddbb14ba-ce9d-465c-b584-b8c824f7c522",
+                "repository_path": "public/images/articles/ddbb14ba-ce9d-465c-b584-b8c824f7c522-1.png"
+              }
+            ]
+          },
+          {
+            "page": 27,
+            "visually_inspected": true,
+            "article_sequences": [
+              8
+            ],
+            "images": [
+              {
+                "source_object": 96,
+                "description": "Two adults standing outdoors, each holding a child.",
+                "disposition": "exported",
+                "article_id": "b5c8b9d2-05b1-470d-b558-2dacb5a36a34",
+                "repository_path": "public/images/articles/b5c8b9d2-05b1-470d-b558-2dacb5a36a34-1.jpg"
+              }
+            ]
+          },
+          {
+            "page": 28,
+            "visually_inspected": true,
+            "article_sequences": [
+              8
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 29,
+            "visually_inspected": true,
+            "article_sequences": [
+              8
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 30,
+            "visually_inspected": true,
+            "article_sequences": [
+              8
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 31,
+            "visually_inspected": true,
+            "article_sequences": [
+              8
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture."
+          },
+          {
+            "page": 32,
+            "visually_inspected": true,
+            "article_sequences": [
+              9
+            ],
+            "images": [
+              {
+                "source_object": 112,
+                "description": "Oval portrait of Paris Reidhead.",
+                "disposition": "exported",
+                "article_id": "15f3d4f9-35ec-4cd2-92dc-497a5cee0e66",
+                "repository_path": "public/images/articles/15f3d4f9-35ec-4cd2-92dc-497a5cee0e66-1.png"
+              }
+            ]
+          },
+          {
+            "page": 33,
+            "visually_inspected": true,
+            "article_sequences": [
+              9
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture. Separate book/tape ordering panel after article end marker is an advertisement and is excluded.",
+            "omitted_layout": [
+              {
+                "description": "Running headers, footer rules, article title/section banners, shaded reading/title panels and frames where present",
+                "exclusion": "separable publisher page furniture and layout overlays"
+              },
+              {
+                "description": "Shaded book/tape ordering box after book review end marker",
+                "exclusion": "advertisement"
+              }
+            ]
+          },
+          {
+            "page": 34,
+            "visually_inspected": true,
+            "article_sequences": [
+              10
+            ],
+            "images": [
+              {
+                "source_object": 119,
+                "description": "Mailbox on a flowering vine-covered post.",
+                "disposition": "exported",
+                "article_id": "a99aedb2-3777-4b4a-ac04-ffc651cbbae7",
+                "repository_path": "public/images/articles/a99aedb2-3777-4b4a-ac04-ffc651cbbae7-1.png",
+                "note": "Object is lossless grayscale image; suitable PNG export avoids recompression."
+              }
+            ],
+            "omitted_layout": [
+              {
+                "description": "Repeated musical-note divider glyphs between letters",
+                "exclusion": "genuinely standalone decorative matter; not a score"
+              },
+              {
+                "description": "Running headers, footer rules, article title/section banners, shaded reading/title panels and frames where present",
+                "exclusion": "separable publisher page furniture and layout overlays"
+              }
+            ]
+          },
+          {
+            "page": 35,
+            "visually_inspected": true,
+            "article_sequences": [
+              6,
+              10
+            ],
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent or score; only text and page furniture.",
+            "omitted_layout": [
+              {
+                "description": "Repeated musical-note divider glyphs between letters",
+                "exclusion": "genuinely standalone decorative matter; not a score"
+              },
+              {
+                "description": "Running headers, footer rules, article title/section banners, shaded reading/title panels and frames where present",
+                "exclusion": "separable publisher page furniture and layout overlays"
+              }
+            ]
+          },
+          {
+            "page": 36,
+            "visually_inspected": true,
+            "article_sequences": [
+              11
+            ],
+            "images": [
+              {
+                "source_object": 126,
+                "description": "Bloodied hands and crown of thorns behind Amy Carmichael poem.",
+                "disposition": "exported",
+                "article_id": "663da224-39d7-4c13-8154-e155dc2aaffc",
+                "repository_path": "public/images/articles/663da224-39d7-4c13-8154-e155dc2aaffc-1.jpg",
+                "note": "Poem text with dark shadows is baked into sole source raster. Full meaningful hands/crown image cannot be recovered without synthesis. Explicit unavoidable-overlay exception is appropriate; do not claim clean. Thin upper-only crop omits major central image content."
+              }
+            ],
+            "omitted_layout": [
+              {
+                "description": "Surrounding gradient and publication/mailing panel",
+                "exclusion": "mailing panel and separable page furniture"
+              }
+            ]
+          }
+        ],
+        "image_reconciliation": {
+          "visible_raster_occurrences": 32,
+          "canonical_exports": 14,
+          "repeated_uses_represented_once": 10,
+          "excluded_cover_and_contents_images": 8,
+          "status": "balanced"
+        },
+        "source_limitations": [
+          "No unresolved body-text reading or article-specific rights uncertainty remains.",
+          "The source supplies no individual credit for most images; no licence is inferred from the generic masthead stock-image credit. Tiny intrinsic signatures/lettering in the page-15 and page-24 illustrations are preserved, with uncertain credit left unassigned.",
+          "The two page-13 line drawings contain a baked low-contrast grey treatment; original source tones are retained because no clean alternative or exact inverse blend is established.",
+          "The only page-36 raster contains the poem typography and shadows embedded in the hands/crown-of-thorns illustration. The complete inner panel is retained with this explicit unavoidable-overlay exception; the surrounding frame, shadow and page gradient are cropped away without synthesizing pixels."
+        ]
+      }
     }
   ],
   "categories": [
@@ -18094,6 +18887,12 @@
       "id": "4b2517b5-c766-4fb8-ac45-48e383020ebc",
       "name": "The Christian and His Emotion",
       "slug": "the-christian-and-his-emotion",
+      "aliases": []
+    },
+    {
+      "id": "adfb4b51-2bb8-465a-bb9a-d044630c1ad3",
+      "name": "Parenthood: A Sacred Trust",
+      "slug": "parenthood-a-sacred-trust",
       "aliases": []
     }
   ],
