@@ -13790,6 +13790,919 @@
         },
         "independent_review": "An additional reader reviewed all 36 pages and checked article endings, nonconsecutive continuations, unique side matter, credits, the complete readers column and all 20 Authority poem lines against the HTML. Source anomalies and meaningful emphasis were retained; no unresolved text reading or article-specific reuse notice remains."
       }
+    },
+    {
+      "id": "cd49894a-080d-49b4-96f2-1e2962bf9650",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "May / June 2004",
+        "year": 2004,
+        "months": [
+          5,
+          6
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 10,
+      "issue_number": 3,
+      "source": {
+        "filename": "2004-05-Remnant.pdf",
+        "sha256": "04a1222bd0e754dbbefcf3f1f863f9469cb28a70cf6075323777fb49be37262e",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2004-05",
+      "slug": "heartbeat-remnant-2004-05",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 14,
+        "skipped_article_count": 1,
+        "exported_image_count": 18,
+        "inventory_note": "All 36 PDF pages visually inspected. Fourteen eligible pieces include the independent Let Your Bucket Down! vignette, the substantive financial report and reader testimonies beyond the contents entries. The Denny Kenaston editorial and separately headed/signed Tozer excerpt have distinct boundaries; the latter is excluded in full. Charity continues on page 28 and the book review continues on page 33. Front cover, contents/masthead, separate book purchase box, standalone back-cover scripture/design and mailing furniture are issue-inventory exclusions. Source-specific wording and apparent errors are preserved. Text and meaningful formatting received an independent visual review.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "Bible Marking",
+            "subtitle": null,
+            "article_id": "eb5aa215-314b-4e44-b9ae-533e88d0b855",
+            "source_pages": {
+              "start": 3,
+              "end": 4
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 2,
+            "title": "A Tame Wolf",
+            "subtitle": null,
+            "article_id": "8a627b96-26a0-4d40-8cc4-fda4eae0738d",
+            "source_pages": {
+              "start": 5,
+              "end": 5
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 3,
+            "title": "THE Dungeon OF THE Soul",
+            "subtitle": "“O wretched man that I am! Who shall deliver me from this body of death?”",
+            "article_id": "972d22a3-2ede-4b6b-941d-619875baf8d9",
+            "source_pages": {
+              "start": 6,
+              "end": 10
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 4,
+            "title": "Hearken! My Soul!",
+            "subtitle": null,
+            "article_id": "251afbdd-4081-4d15-9688-7d72e9bb5e80",
+            "source_pages": {
+              "start": 11,
+              "end": 11
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 5,
+            "title": "Is “THE PASSION” Expressing God’s Passion?",
+            "subtitle": null,
+            "article_id": "add9320f-0a3f-4c98-ad34-edc4f2113115",
+            "source_pages": {
+              "start": 12,
+              "end": 13
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 6,
+            "title": "“The Menace of the Religious Movie”",
+            "source_pages": {
+              "start": 14,
+              "end": 17
+            },
+            "disposition": "skipped",
+            "article_specific_permission_notices": [
+              "Used by permission of Christian Publications, INC."
+            ]
+          },
+          {
+            "sequence": 7,
+            "title": "Charity",
+            "subtitle": "The Key to Unity",
+            "article_id": "5116bc88-59ba-4a62-b691-09291618eeb5",
+            "source_pages": {
+              "start": 18,
+              "end": 28,
+              "pages": [
+                18,
+                19,
+                20,
+                28
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 8,
+            "title": "In the year 1558...",
+            "subtitle": null,
+            "article_id": "ece32d5b-520d-4cc9-a058-785f8d4a3fc0",
+            "source_pages": {
+              "start": 21,
+              "end": 23
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 9,
+            "title": "The Head Covering",
+            "subtitle": null,
+            "article_id": "6424c03d-7aea-47d6-88a4-fc631ffb5de8",
+            "source_pages": {
+              "start": 24,
+              "end": 25
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 10,
+            "title": "We Will Believe God",
+            "subtitle": null,
+            "article_id": "1005b067-e399-4a2c-8c1c-f06799a62d79",
+            "source_pages": {
+              "start": 26,
+              "end": 27
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 11,
+            "title": "Let Your Bucket Down!",
+            "subtitle": null,
+            "article_id": "b51fb03c-eeff-4104-8b5d-3f6caeb6cddb",
+            "source_pages": {
+              "start": 28,
+              "end": 28
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 12,
+            "title": "The Kingdom That Turned the World Upside Down",
+            "subtitle": null,
+            "article_id": "d1e24fce-f20f-4d64-b32c-fa9340b8cdd9",
+            "source_pages": {
+              "start": 29,
+              "end": 33,
+              "pages": [
+                29,
+                30,
+                31,
+                33
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 13,
+            "title": "A LADY SOLD BY AUCTION",
+            "subtitle": "ìTHREE BIDDERSî",
+            "article_id": "707bf535-04d2-4ea4-8844-67cd4e6d3f60",
+            "source_pages": {
+              "start": 32,
+              "end": 33
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 14,
+            "title": "Charity Gospel Tape Ministry & The Heartbeat of The Remnant",
+            "subtitle": "January–March 2004 Financial Report",
+            "article_id": "0058ff44-5979-4240-89d5-d9a0cab2c773",
+            "source_pages": {
+              "start": 34,
+              "end": 34
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 15,
+            "title": "Precious Letters from Our Readers",
+            "subtitle": null,
+            "article_id": "fc5cd87f-66c5-4084-ac13-f82e4ebd7dc5",
+            "source_pages": {
+              "start": 35,
+              "end": 35
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "page": 1,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Front-cover wheat-field and faces photographic montage",
+                "source_objects": [
+                  205
+                ],
+                "disposition": "omitted",
+                "reason": "Issue-inventory exclusion: cover, including all montage constituents and cover typography."
+              }
+            ],
+            "notes": "All visible images accounted for.",
+            "article_sequences": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 2,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Table-of-contents thumbnail 1",
+                "source_objects": [
+                  4
+                ],
+                "disposition": "omitted",
+                "reason": "Issue-inventory exclusion: table of contents; repeated article-preview thumbnail."
+              },
+              {
+                "visible_image": "Table-of-contents thumbnail 2",
+                "source_objects": [
+                  5
+                ],
+                "disposition": "omitted",
+                "reason": "Issue-inventory exclusion: table of contents; repeated article-preview thumbnail."
+              },
+              {
+                "visible_image": "Table-of-contents thumbnail 3",
+                "source_objects": [
+                  6
+                ],
+                "disposition": "omitted",
+                "reason": "Issue-inventory exclusion: table of contents; repeated article-preview thumbnail."
+              },
+              {
+                "visible_image": "Table-of-contents thumbnail 4",
+                "source_objects": [
+                  7
+                ],
+                "disposition": "omitted",
+                "reason": "Issue-inventory exclusion: table of contents; repeated article-preview thumbnail."
+              },
+              {
+                "visible_image": "Table-of-contents thumbnail 5",
+                "source_objects": [
+                  8
+                ],
+                "disposition": "omitted",
+                "reason": "Issue-inventory exclusion: table of contents; repeated article-preview thumbnail."
+              },
+              {
+                "visible_image": "Table-of-contents thumbnail 6",
+                "source_objects": [
+                  9
+                ],
+                "disposition": "omitted",
+                "reason": "Issue-inventory exclusion: table of contents; repeated article-preview thumbnail."
+              }
+            ],
+            "notes": "Masthead and contents titles are page furniture; six raster thumbnails accounted for.",
+            "article_sequences": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 3,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Two seated men examining an open book",
+                "source_objects": [
+                  13
+                ],
+                "owning_article_id": "eb5aa215-314b-4e44-b9ae-533e88d0b855",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/eb5aa215-314b-4e44-b9ae-533e88d0b855-1.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "All visible images accounted for.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 4,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 5,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Walking wolf illustration",
+                "source_objects": [
+                  21
+                ],
+                "owning_article_id": "8a627b96-26a0-4d40-8cc4-fda4eae0738d",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/8a627b96-26a0-4d40-8cc4-fda4eae0738d-1.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              },
+              {
+                "visible_image": "Wolf’s head illustration",
+                "source_objects": [
+                  20
+                ],
+                "owning_article_id": "8a627b96-26a0-4d40-8cc4-fda4eae0738d",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/8a627b96-26a0-4d40-8cc4-fda4eae0738d-2.jpg",
+                "note": "Faded source retained under documented unavoidable flattened-overlay exception."
+              }
+            ],
+            "notes": "Two distinct wolf illustrations: walking wolf and pale head background, not repeated versions.",
+            "article_sequences": [
+              2
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 6,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "Decorative title shadows are typography, not an illustration.",
+            "article_sequences": [
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 7,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "Text and repeated pull quote only; no visible image.",
+            "article_sequences": [
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 8,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "Text and repeated pull quote only; no visible image.",
+            "article_sequences": [
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 9,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "Text and repeated pull quote only; no visible image.",
+            "article_sequences": [
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 10,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "Text and repeated pull quote only; no visible image.",
+            "article_sequences": [
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 11,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Stream between grassy banks with trees and hills beyond",
+                "source_objects": [
+                  40
+                ],
+                "owning_article_id": "251afbdd-4081-4d15-9688-7d72e9bb5e80",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/251afbdd-4081-4d15-9688-7d72e9bb5e80-1.jpg",
+                "note": "Faded source retained under documented unavoidable flattened-overlay exception."
+              }
+            ],
+            "notes": "Full-page article background counted and exported without separable title/byline/poem.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 12,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "People standing in a queue beside a ticket counter",
+                "source_objects": [
+                  44
+                ],
+                "owning_article_id": "add9320f-0a3f-4c98-ad34-edc4f2113115",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/add9320f-0a3f-4c98-ad34-edc4f2113115-1.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "Title panel is publisher furniture; queue photograph exported.",
+            "article_sequences": [
+              5
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 13,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              5
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 14,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Audience watching a religious motion picture",
+                "source_objects": [
+                  51
+                ],
+                "owning_article_title": "Timely Excerpts from “The Menace of the Religious Movie”",
+                "disposition": "excluded_with_skipped_article",
+                "reason": "Article-specific permission notice on page 17: “Used by permission of Christian Publications, INC.” No image exported."
+              }
+            ],
+            "notes": "All visible images accounted for.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 15,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 16,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 17,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": [
+              "Used by permission of Christian Publications, INC."
+            ]
+          },
+          {
+            "page": 18,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "A man tending an injured man beside a donkey",
+                "source_objects": [
+                  64
+                ],
+                "owning_article_id": "5116bc88-59ba-4a62-b691-09291618eeb5",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/5116bc88-59ba-4a62-b691-09291618eeb5-1.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "Heading panel/rule omitted; illustration exported.",
+            "article_sequences": [
+              7
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 19,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              7
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 20,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              7
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 21,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "A prisoner stretched on a rack in a stone chamber",
+                "source_objects": [
+                  75
+                ],
+                "owning_article_id": "ece32d5b-520d-4cc9-a058-785f8d4a3fc0",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/ece32d5b-520d-4cc9-a058-785f8d4a3fc0-1.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              },
+              {
+                "visible_image": "Prisoners and armed men gathered in a courtroom",
+                "source_objects": [
+                  74
+                ],
+                "owning_article_id": "ece32d5b-520d-4cc9-a058-785f8d4a3fc0",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/ece32d5b-520d-4cc9-a058-785f8d4a3fc0-2.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "Two distinct engravings. Rounded heading frame, panel and shadow are publisher furniture; tiny intrinsic raster caption is preserved.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 22,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Iron restraints lying on the ground",
+                "source_objects": [
+                  80
+                ],
+                "owning_article_id": "ece32d5b-520d-4cc9-a058-785f8d4a3fc0",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/ece32d5b-520d-4cc9-a058-785f8d4a3fc0-3.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              },
+              {
+                "visible_image": "A prisoner standing beside an armed escort",
+                "source_objects": [
+                  79
+                ],
+                "owning_article_id": "ece32d5b-520d-4cc9-a058-785f8d4a3fc0",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/ece32d5b-520d-4cc9-a058-785f8d4a3fc0-4.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "Two distinct detail engravings, not repeats of page-21 courtroom scene. Separate pull-quote panels and duplicated words omitted.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 23,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "A man bound to a stake surrounded by flames",
+                "source_objects": [
+                  84
+                ],
+                "owning_article_id": "ece32d5b-520d-4cc9-a058-785f8d4a3fc0",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/ece32d5b-520d-4cc9-a058-785f8d4a3fc0-5.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "One execution engraving. Separate pull-quote panel and duplicated words omitted.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 24,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 25,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "Text and pull quote only; no visible image.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 26,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "A family posed together for a group portrait",
+                "source_objects": [
+                  94
+                ],
+                "owning_article_id": "1005b067-e399-4a2c-8c1c-f06799a62d79",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/1005b067-e399-4a2c-8c1c-f06799a62d79-1.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "Family photograph exported; recurring-section curved type and rules are typography/layout.",
+            "article_sequences": [
+              10
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 27,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "Text and pull quote only; no visible image.",
+            "article_sequences": [
+              10
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 28,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "People near a storm-tossed ship",
+                "source_objects": [
+                  101,
+                  102
+                ],
+                "owning_article_id": "b51fb03c-eeff-4104-8b5d-3f6caeb6cddb",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/b51fb03c-eeff-4104-8b5d-3f6caeb6cddb-1.png",
+                "note": "Two clipped overlapping constituents are reassembled once as the single published illustration."
+              }
+            ],
+            "notes": "One logical shipwreck illustration assembled from two source image objects; neither piece is exported redundantly.",
+            "article_sequences": [
+              7,
+              11
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 29,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Cover of The Kingdom That Turned the World Upside Down by David W. Bercot",
+                "source_objects": [
+                  106
+                ],
+                "owning_article_id": "d1e24fce-f20f-4d64-b32c-fa9340b8cdd9",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/d1e24fce-f20f-4d64-b32c-fa9340b8cdd9-1.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "Book-cover lettering is intrinsic and retained; Book Review gradient heading panel is layout typography.",
+            "article_sequences": [
+              12
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 30,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              12
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 31,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "No photograph, illustration, background, collage constituent or score on this page; only text and ordinary page furniture.",
+            "article_sequences": [
+              12
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 32,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "An auctioneer and two people on a platform before a gathered crowd",
+                "source_objects": [
+                  116
+                ],
+                "owning_article_id": "707bf535-04d2-4ea4-8844-67cd4e6d3f60",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/707bf535-04d2-4ea4-8844-67cd4e6d3f60-1.jpg",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "Auction engraving exported; poem panel and rules excluded as layout.",
+            "article_sequences": [
+              13
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 33,
+            "visually_inspected": true,
+            "images": [],
+            "notes": "Poem continuation panel and book-purchasing information are text/layout, no visible image.",
+            "article_sequences": [
+              12,
+              13
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 34,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Audio cassette",
+                "source_objects": [
+                  131
+                ],
+                "owning_article_id": "0058ff44-5979-4240-89d5-d9a0cab2c773",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/0058ff44-5979-4240-89d5-d9a0cab2c773-1.png",
+                "note": "One canonical export; original useful resolution preserved."
+              },
+              {
+                "visible_image": "The Remnant magazine cover featuring a lamb",
+                "source_objects": [
+                  130
+                ],
+                "owning_article_id": "0058ff44-5979-4240-89d5-d9a0cab2c773",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/0058ff44-5979-4240-89d5-d9a0cab2c773-2.png",
+                "note": "One canonical export; original useful resolution preserved."
+              },
+              {
+                "visible_image": "Decorative report border constructed from twelve stencil placements",
+                "source_objects": [
+                  123,
+                  124,
+                  125,
+                  126,
+                  127,
+                  128,
+                  129
+                ],
+                "disposition": "omitted",
+                "reason": "Publisher layout overlay: decorative frame, not report image content. Object 123 appears twice, 124 four times, 126 twice; 125, 127, 128 and 129 once each. Financial report table retained semantically by article transcription."
+              }
+            ],
+            "notes": "Two rotated promotional illustrations exported because the financial report is included as substantive editorial content; decorative border excluded as layout.",
+            "article_sequences": [
+              14
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 35,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "A mailbox on a post surrounded by climbing flowers",
+                "source_objects": [
+                  135
+                ],
+                "owning_article_id": "fc5cd87f-66c5-4084-ac13-f82e4ebd7dc5",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/fc5cd87f-66c5-4084-ac13-f82e4ebd7dc5-1.png",
+                "note": "One canonical export; original useful resolution preserved."
+              }
+            ],
+            "notes": "Mailbox illustration exported including intrinsic address; separate rounded title panel and quoted-text panel are layout.",
+            "article_sequences": [
+              15
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "page": 36,
+            "visually_inspected": true,
+            "images": [
+              {
+                "visible_image": "Ocean-wave and wooded-coast back-cover photograph",
+                "source_objects": [
+                  139
+                ],
+                "disposition": "omitted",
+                "reason": "Issue-inventory exclusion: standalone decorative back-cover image, scripture typography and mailing panel."
+              }
+            ],
+            "notes": "All visible images accounted for.",
+            "article_sequences": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          }
+        ]
+      }
     }
   ],
   "categories": [
