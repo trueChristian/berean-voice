@@ -57,9 +57,15 @@ Output must be absent or empty; existing data is never erased. The exporter gene
 
 See [the downstream contract](docs/downstream-contract.md) and [AGENTS.md](AGENTS.md).
 
-## Remnant rebuild notifications
+## Website publication
 
-An optional, disabled-by-default source-publication hook can request a rebuild of
-`remnant.truechristian.church` after validated display output changes. See
-[notification setup and recovery](docs/remnant-notifications.md) for the trusted
-publishing path, destination-scoped credential requirements, and offline tests.
+The [Remnant website](https://github.com/trueChristian/remnant.truechristian.church)
+checks both source repositories' current `main` revisions on an hourly,
+best-effort schedule. It rebuilds when they differ from the last successful
+deployment and skips unchanged revisions. Failed deployments remain eligible for
+retry on a later check; scheduled start times are not guaranteed. Use **Run
+workflow** in the website repository to force a build and deployment immediately.
+
+This repository only maintains and validates its source data. Website export,
+build and deployment are owned by the website repository; no website notification
+credential or enablement variable is required here.
