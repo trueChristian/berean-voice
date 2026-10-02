@@ -80878,6 +80878,894 @@
           }
         }
       ]
+    },
+    {
+      "id": "5e5594a4-c6dc-47b3-99fd-0e8967070abc",
+      "language": "en",
+      "title": "Duncan Campbell on THE LEWIS REVIVAL",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "Duncan Campbell",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 11
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "3071fe03-5111-5c92-b54a-c774d84dfac2",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e"
+      ],
+      "html": {
+        "repository_path": "content/articles/5e5594a4-c6dc-47b3-99fd-0e8967070abc.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All nine pages and both illustrations reviewed. Author name occurs in the title, not a separate byline. Repeated pull quotes on pages 5–11 are omitted; the page-6 11:00pm annotation repeats the narrative time already stated on page 5. Source wording, including the printed 1 John 1:7 quotation, retained unchanged.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 1,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/5e5594a4-c6dc-47b3-99fd-0e8967070abc-1.jpg",
+          "public_path": "/images/articles/5e5594a4-c6dc-47b3-99fd-0e8967070abc-1.jpg",
+          "source_page": 3,
+          "role": "article illustration",
+          "alt": "A church and waterfront buildings beside boats.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Clean embedded waterfront illustration; separate article title, gray backing panel and footer omitted. Grayscale raster encoded as baseline RGB JPEG at native 497×277 dimensions, quality 95, 72 dpi.",
+          "transformation": "Clean embedded waterfront illustration; separate article title, gray backing panel and footer omitted. Grayscale raster encoded as baseline RGB JPEG at native 497×277 dimensions, quality 95, 72 dpi.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 12,
+            "pixel_dimensions": [
+              497,
+              277
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/5e5594a4-c6dc-47b3-99fd-0e8967070abc-2.png",
+          "public_path": "/images/articles/5e5594a4-c6dc-47b3-99fd-0e8967070abc-2.png",
+          "source_page": 4,
+          "role": "map",
+          "alt": "A map of Britain and Ireland with an arrow identifying the Island of Lewis.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. 300 dpi render of the published map region (197.5,234)-(413,542.65) after removing only the separate rectangular frame stroke from the PDF paint stream. The map raster, Island of Lewis label and location arrow are substantive diagram content and remain. Separate surrounding article text is outside the crop.",
+          "transformation": "300 dpi render of the published map region (197.5,234)-(413,542.65) after removing only the separate rectangular frame stroke from the PDF paint stream. The map raster, Island of Lewis label and location arrow are substantive diagram content and remain. Separate surrounding article text is outside the crop.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 16,
+            "pixel_dimensions": [
+              899,
+              1287
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "3ecef108-58f3-42fc-a9c1-be12086c3e87",
+      "language": "en",
+      "title": "God Changes Water into Wine",
+      "subtitle": "A Recipe for Usefulness",
+      "section": null,
+      "byline": {
+        "raw": "by Daniel Kenaston",
+        "authors": [
+          {
+            "name": "Daniel Kenaston",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 17
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae",
+        "e763b632-f673-547f-afb3-186d486db0cc"
+      ],
+      "html": {
+        "repository_path": "content/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Six-page sermon including the editorial introduction, all eight subheadings, Bible quotations and concluding paragraph. Page-16 signed poem is a separate indexed article; sermon continues directly from the left column of page 16 to page 17. Repeated header illustrations on pages 13–17 represented once by clean page-12 well and goblet assets. No independent source credit is printed for those illustrations.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 2,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-1.png",
+          "public_path": "/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-1.png",
+          "source_page": 12,
+          "role": "section emblem",
+          "alt": "Charity African Missions emblem with a globe and the letters C A M over Africa.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. PDF image-mask object 41 exported as transparent RGBA PNG at 335×241. Source mask supplies alpha; source paint color 0.161,0.145,0.149 supplies RGB (41,37,38). Gray page panel omitted. Intrinsic CHARITY AFRICAN MISSIONS and C A M lettering retained.",
+          "transformation": "PDF image-mask object 41 exported as transparent RGBA PNG at 335×241. Source mask supplies alpha; source paint color 0.161,0.145,0.149 supplies RGB (41,37,38). Gray page panel omitted. Intrinsic CHARITY AFRICAN MISSIONS and C A M lettering retained.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 41,
+            "pixel_dimensions": [
+              335,
+              241
+            ],
+            "color_space": "RGBA",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-2.jpg",
+          "public_path": "/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-2.jpg",
+          "source_page": 12,
+          "role": "article illustration",
+          "alt": "A covered stone well with a bucket.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Clean well raster; separately painted God Changes Water title omitted. Published right clipping approximated to original pixel boundary (0,0)-(324,126) from 325×126; encoded baseline RGB JPEG, quality 95, 72 dpi. Gray background and ground line are intrinsic to the source raster, not removable overlays.",
+          "transformation": "Clean well raster; separately painted God Changes Water title omitted. Published right clipping approximated to original pixel boundary (0,0)-(324,126) from 325×126; encoded baseline RGB JPEG, quality 95, 72 dpi. Gray background and ground line are intrinsic to the source raster, not removable overlays.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 42,
+            "pixel_dimensions": [
+              324,
+              126
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-3.png",
+          "public_path": "/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-3.png",
+          "source_page": 12,
+          "role": "article illustration",
+          "alt": "A goblet containing wine.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Original 80×95 lossless grayscale PNG of wine goblet. Separate title and gray layout rectangle omitted; gray within the raster is intrinsic to the only base asset.",
+          "transformation": "Original 80×95 lossless grayscale PNG of wine goblet. Separate title and gray layout rectangle omitted; gray within the raster is intrinsic to the only base asset.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 44,
+            "pixel_dimensions": [
+              80,
+              95
+            ],
+            "color_space": "L",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-4.jpg",
+          "public_path": "/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-4.jpg",
+          "source_page": 12,
+          "role": "article illustration",
+          "alt": "Men beside water pots in a biblical illustration.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Biblical water-pot scene from original grayscale raster. Source PDF clip corresponds to pixel crop (1,1)-(308,197) from 309×198. Baseline RGB JPEG, quality 95, 72 dpi. Separate backing rectangle and surrounding title excluded.",
+          "transformation": "Biblical water-pot scene from original grayscale raster. Source PDF clip corresponds to pixel crop (1,1)-(308,197) from 309×198. Baseline RGB JPEG, quality 95, 72 dpi. Separate backing rectangle and surrounding title excluded.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 43,
+            "pixel_dimensions": [
+              307,
+              196
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-5.jpg",
+          "public_path": "/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-5.jpg",
+          "source_page": 17,
+          "role": "article illustration",
+          "alt": "Jesus with people and vessels at a table.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Original biblical table scene at 333×220, encoded baseline RGB JPEG, quality 95, 72 dpi. Separate header, running title and footer excluded.",
+          "transformation": "Original biblical table scene at 333×220, encoded baseline RGB JPEG, quality 95, 72 dpi. Separate header, running title and footer excluded.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 60,
+            "pixel_dimensions": [
+              333,
+              220
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "18c20b04-c671-406c-9adf-4993e823b618",
+      "language": "en",
+      "title": "Water – to Wine",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 16
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/18c20b04-c671-406c-9adf-4993e823b618.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Separate titled and signed inset poem on page 16. Three stanzas of 14, 14 and 8 lines; printed punctuation and sign-off retained. No owned image; page header belongs to the surrounding sermon.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 3,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": []
+    },
+    {
+      "id": "8d5cbe1a-3916-4bfb-8c87-0ce0fce3d297",
+      "language": "en",
+      "title": "Him or It?",
+      "subtitle": "The Living Christ\nor\nDead Theology?",
+      "section": null,
+      "byline": {
+        "raw": "by P. T. Forsyth",
+        "authors": [
+          {
+            "name": "P. T. Forsyth",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 21
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "d51df41b-8b1f-59d9-9fd5-8524bca0dd3b",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/8d5cbe1a-3916-4bfb-8c87-0ce0fce3d297.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full four-page article, introduction, quoted passages and closing source-book/availability notice retained. Printed byline P. T. Forsyth retained even though the article discusses him in the third person. Inset Oberlin poem on page 20 indexed separately. Apparent source wording such as “it’s bewildered faith” retained.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 4,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/8d5cbe1a-3916-4bfb-8c87-0ce0fce3d297-1.jpg",
+          "public_path": "/images/articles/8d5cbe1a-3916-4bfb-8c87-0ce0fce3d297-1.jpg",
+          "source_page": 18,
+          "role": "article illustration",
+          "alt": "An illustration of a church interior with arches, pews, and a pulpit.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Clean original church-interior illustration, native 245×305, baseline RGB JPEG, quality 95, 72 dpi. Intrinsic fading at the drawing edges retained; no source pixels synthesized.",
+          "transformation": "Clean original church-interior illustration, native 245×305, baseline RGB JPEG, quality 95, 72 dpi. Intrinsic fading at the drawing edges retained; no source pixels synthesized.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 64,
+            "pixel_dimensions": [
+              245,
+              305
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        }
+      ],
+      "publication_notes": [
+        "Taken from the book: Him or It? by Lillian Harvey & Gertrude Tait."
+      ]
+    },
+    {
+      "id": "d8a07ef1-b69f-4eaa-a8e6-964fe1007275",
+      "language": "en",
+      "title": null,
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-Oberlin",
+        "authors": [
+          {
+            "name": "Oberlin",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 20
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "42f1a8d5-21c5-5868-a31a-3dff109a9e96"
+      ],
+      "html": {
+        "repository_path": "content/articles/d8a07ef1-b69f-4eaa-a8e6-964fe1007275.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Separate untitled signed poem beneath the article on page 20. Four five-line stanzas read down the left column then down the right column. No title invented. Printed -Oberlin sign-off and “On Thee, my God on Thee!” retained. No owned image.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 5,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": []
+    },
+    {
+      "id": "2c1af9b3-f2eb-43c5-8dbc-4817c3534467",
+      "language": "en",
+      "title": "Faith That Works",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 25
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/2c1af9b3-f2eb-43c5-8dbc-4817c3534467.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Editorial introduction and all sixteen named testimony portions transcribed in published column order. No general author byline. Names remain in body. Apparent source text “those evils passions” and “should after receive” retained. Page-25 display quotation of Hebrews 11:1 repeats the scripture already in the body and is omitted as a decorative pull quote.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 6,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/2c1af9b3-f2eb-43c5-8dbc-4817c3534467-1.jpg",
+          "public_path": "/images/articles/2c1af9b3-f2eb-43c5-8dbc-4817c3534467-1.jpg",
+          "source_page": 22,
+          "role": "article photograph",
+          "alt": "A group of women posed outdoors beneath trees.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Clean original group photograph, native 334×232, baseline RGB JPEG, quality 95, 72 dpi. Separate heading/gray article panel excluded. No individual people identified by appearance.",
+          "transformation": "Clean original group photograph, native 334×232, baseline RGB JPEG, quality 95, 72 dpi. Separate heading/gray article panel excluded. No individual people identified by appearance.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 77,
+            "pixel_dimensions": [
+              334,
+              232
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "6faaa9b4-dd02-4a58-b29b-9582f5b36bca",
+      "language": "en",
+      "title": "John Wesley on Family Religion",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": [
+          {
+            "name": "John Wesley",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 29
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "8ed108f9-3ccb-5850-af9d-7b0b089bf935",
+        "b834013d-7b5e-59cd-9cf6-3cedee692313"
+      ],
+      "html": {
+        "repository_path": "content/articles/6faaa9b4-dd02-4a58-b29b-9582f5b36bca.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full article, opening Joshua quotation and all eleven subheadings transcribed. Author name appears in title. Apparent source wording “All this a waste of time”, “Undoubt-edly”, “Thou fool by purity of reason”, “into family” and “Mean-time” retained. Page-29 ministry thank-you notice indexed separately.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 7,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6faaa9b4-dd02-4a58-b29b-9582f5b36bca-1.jpg",
+          "public_path": "/images/articles/6faaa9b4-dd02-4a58-b29b-9582f5b36bca-1.jpg",
+          "source_page": 26,
+          "role": "article illustration",
+          "alt": "A family gathered together with open books.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Clean original family-reading illustration, native 288×262, baseline RGB JPEG, quality 95, 72 dpi. Intrinsic illustration edge texture retained; no separate title or furniture included.",
+          "transformation": "Clean original family-reading illustration, native 288×262, baseline RGB JPEG, quality 95, 72 dpi. Intrinsic illustration edge texture retained; no separate title or furniture included.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 90,
+            "pixel_dimensions": [
+              288,
+              262
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "d2b6492b-231a-4720-ae3d-edfca333e044",
+      "language": "en",
+      "title": "THANK YOU!!    THANK YOU!!    THANK YOU!!",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 29,
+        "end": 29
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": []
+      },
+      "topics": [
+        "6c7b3485-0894-5c43-9ca5-dfb913e45c90"
+      ],
+      "html": {
+        "repository_path": "content/articles/d2b6492b-231a-4720-ae3d-edfca333e044.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Substantive titled ministry update below the page-29 article. Upper threefold THANK YOU!! heading retained as metadata; identical lower heading is a repeated decorative frame. Entire single paragraph retained, including the two amounts.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 8,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": []
+    },
+    {
+      "id": "84da6b5d-046a-4fe1-bf3f-61c2036e789b",
+      "language": "en",
+      "title": "Religious Affections",
+      "subtitle": null,
+      "section": "Book Review",
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 33,
+        "pages": [
+          30,
+          31,
+          33
+        ]
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [
+        "67713d66-ee88-59a8-987a-23109f8cc075",
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5"
+      ],
+      "html": {
+        "repository_path": "content/articles/84da6b5d-046a-4fe1-bf3f-61c2036e789b.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Book review authored by Dean Taylor; the reviewed book is separately credited to Jonathan Edwards, 1703-1758. Pages 30,31,33 in that order; page 32 contains the letters. All quotations and final printed purchase/online availability note retained. No new hyperlink added.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 9,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/84da6b5d-046a-4fe1-bf3f-61c2036e789b-1.jpg",
+          "public_path": "/images/articles/84da6b5d-046a-4fe1-bf3f-61c2036e789b-1.jpg",
+          "source_page": 30,
+          "role": "author portrait",
+          "alt": "Portrait of Jonathan Edwards.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Original Jonathan Edwards portrait at 108×171, baseline RGB JPEG, quality 95, 72 dpi. Native low resolution retained without invented detail; surrounding article typography omitted.",
+          "transformation": "Original Jonathan Edwards portrait at 108×171, baseline RGB JPEG, quality 95, 72 dpi. Native low resolution retained without invented detail; surrounding article typography omitted.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 103,
+            "pixel_dimensions": [
+              108,
+              171
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        }
+      ],
+      "publication_notes": [
+        "Reviewed book heading: Religious Affections\nby Jonathan Edwards\n1703-1758. The reviewer is Dean Taylor."
+      ]
+    },
+    {
+      "id": "c9085861-93f5-4d48-9354-71c14df318cf",
+      "language": "en",
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/c9085861-93f5-4d48-9354-71c14df318cf.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Introductory invitation, five-item list, editorial sign-off and all six reader letters retained. Locations: Tennessee; Queens, New York; Missouri; Montana; Ontario, Canada; Kentucky. Decorative dot separators replaced by semantic sections; no reader identities inferred.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 10,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c9085861-93f5-4d48-9354-71c14df318cf-1.png",
+          "public_path": "/images/articles/c9085861-93f5-4d48-9354-71c14df318cf-1.png",
+          "source_page": 32,
+          "role": "section illustration",
+          "alt": "An illustrated mailbox with flowers around its post.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Original 98×157 grayscale PNG. Tiny publication name/address on the mailbox and gray background are intrinsic to the sole raster and retained. Separate large heading and rounded introductory panel omitted.",
+          "transformation": "Original 98×157 grayscale PNG. Tiny publication name/address on the mailbox and gray background are intrinsic to the sole raster and retained. Separate large heading and rounded introductory panel omitted.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 110,
+            "pixel_dimensions": [
+              98,
+              157
+            ],
+            "color_space": "L",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "0c49a927-0edf-4e8b-aef9-af0c273120ad",
+      "language": "en",
+      "title": "Spiritual Leadership",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [
+        "bab57494-d427-59dd-b225-fb93dc2a2cad"
+      ],
+      "html": {
+        "repository_path": "content/articles/0c49a927-0edf-4e8b-aef9-af0c273120ad.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Unnumbered back-cover poem on logical page 36, read directly from raster object 125 because the PDF has no corresponding poem text layer. Eleven body lines and the three-line scripture attribution retained with printed bold emphasis. Full stop after “God.” is retained. Publisher and postal panel excluded.",
+        "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
+        "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
+      },
+      "sequence": 11,
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/0c49a927-0edf-4e8b-aef9-af0c273120ad-1.jpg",
+          "public_path": "/images/articles/0c49a927-0edf-4e8b-aef9-af0c273120ad-1.jpg",
+          "source_page": 36,
+          "role": "poem background photograph",
+          "alt": "Dewdrops on green blades of grass.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit, licence, or reuse restriction is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no individual licence inferred. Original RGB raster has irreversibly baked poem/title/scripture text. Meaningful unobstructed grass crop (18,480)-(630,810) from 648×828 retains published lower background within page bleed, at 612×330. Baseline RGB JPEG, quality 95, 72 dpi. No generation, inpainting, healing or synthesized pixels. Separate postal/publisher overlays omitted; full poem independently transcribed in HTML.",
+          "transformation": "Original RGB raster has irreversibly baked poem/title/scripture text. Meaningful unobstructed grass crop (18,480)-(630,810) from 648×828 retains published lower background within page bleed, at 612×330. Baseline RGB JPEG, quality 95, 72 dpi. No generation, inpainting, healing or synthesized pixels. Separate postal/publisher overlays omitted; full poem independently transcribed in HTML.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "pdf_base_object": 125,
+            "pixel_dimensions": [
+              612,
+              330
+            ],
+            "color_space": "RGB",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas complete decode, canvas paint and full pixel readback passed."
+          }
+        }
+      ]
     }
   ],
   "skipped": [
