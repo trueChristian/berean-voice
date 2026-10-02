@@ -16620,6 +16620,566 @@
         ],
         "footnotes": "No source footnotes; no footnotes section required."
       }
+    },
+    {
+      "id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "September/October 2003",
+        "year": 2003,
+        "months": [
+          9,
+          10
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 9,
+      "issue_number": 5,
+      "source": {
+        "filename": "2003-09-Remnant(1).pdf",
+        "sha256": "57ae52aece9d3b5c22ead6bd908bad31758e5f69f314b6dc6856bbc086e90068",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-33; front cover, order form, advertisement and back-cover poem (logical pages 1,34,35,36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2003-09",
+      "slug": "heartbeat-remnant-2003-09",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 11,
+        "skipped_article_count": 0,
+        "exported_image_count": 13,
+        "inventory_note": "Every PDF page visually inspected. Seven contents entries plus the signed page-16 and page-20 poems, page-29 ministry thank-you update and raster-only page-36 poem. No article-specific reuse restriction detected. Cover, contents/masthead, advertisements, order form and mailing panel excluded. No footnotes. Existing categories/topics reused; no new category, topic or series identity.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "5e5594a4-c6dc-47b3-99fd-0e8967070abc",
+            "title": "Duncan Campbell on THE LEWIS REVIVAL",
+            "subtitle": null,
+            "source_pages": {
+              "start": 3,
+              "end": 11
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 2,
+            "article_id": "3ecef108-58f3-42fc-a9c1-be12086c3e87",
+            "title": "God Changes Water into Wine",
+            "subtitle": "A Recipe for Usefulness",
+            "source_pages": {
+              "start": 12,
+              "end": 17
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 3,
+            "article_id": "18c20b04-c671-406c-9adf-4993e823b618",
+            "title": "Water – to Wine",
+            "subtitle": null,
+            "source_pages": {
+              "start": 16,
+              "end": 16
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 4,
+            "article_id": "8d5cbe1a-3916-4bfb-8c87-0ce0fce3d297",
+            "title": "Him or It?",
+            "subtitle": "The Living Christ\nor\nDead Theology?",
+            "source_pages": {
+              "start": 18,
+              "end": 21
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 5,
+            "article_id": "d8a07ef1-b69f-4eaa-a8e6-964fe1007275",
+            "title": null,
+            "subtitle": null,
+            "source_pages": {
+              "start": 20,
+              "end": 20
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 6,
+            "article_id": "2c1af9b3-f2eb-43c5-8dbc-4817c3534467",
+            "title": "Faith That Works",
+            "subtitle": null,
+            "source_pages": {
+              "start": 22,
+              "end": 25
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 7,
+            "article_id": "6faaa9b4-dd02-4a58-b29b-9582f5b36bca",
+            "title": "John Wesley on Family Religion",
+            "subtitle": null,
+            "source_pages": {
+              "start": 26,
+              "end": 29
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 8,
+            "article_id": "d2b6492b-231a-4720-ae3d-edfca333e044",
+            "title": "THANK YOU!!    THANK YOU!!    THANK YOU!!",
+            "subtitle": null,
+            "source_pages": {
+              "start": 29,
+              "end": 29
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 9,
+            "article_id": "84da6b5d-046a-4fe1-bf3f-61c2036e789b",
+            "title": "Religious Affections",
+            "subtitle": null,
+            "source_pages": {
+              "start": 30,
+              "end": 33,
+              "pages": [
+                30,
+                31,
+                33
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 10,
+            "article_id": "c9085861-93f5-4d48-9354-71c14df318cf",
+            "title": "Precious Letters from Our Readers",
+            "subtitle": null,
+            "source_pages": {
+              "start": 32,
+              "end": 33
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 11,
+            "article_id": "0c49a927-0edf-4e8b-aef9-af0c273120ad",
+            "title": "Spiritual Leadership",
+            "subtitle": null,
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "printed_page": 1,
+            "images": [
+              {
+                "description": "Dove and church in full-page cover composite",
+                "owner": "Cover",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Cover"
+              }
+            ]
+          },
+          {
+            "printed_page": 2,
+            "images": [
+              {
+                "description": "Church, water-pot figure, group photograph and Jonathan Edwards portrait thumbnails",
+                "owner": "Table of contents",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Table of contents; article assets exported at their content pages"
+              },
+              {
+                "description": "The Pursuit of Godly Seed book-cover thumbnail",
+                "owner": "Book advertisement",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Advertisement"
+              }
+            ]
+          },
+          {
+            "printed_page": 3,
+            "images": [
+              {
+                "description": "A church and waterfront buildings beside boats.",
+                "owner": "Duncan Campbell on THE LEWIS REVIVAL",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/5e5594a4-c6dc-47b3-99fd-0e8967070abc-1.jpg",
+                "pdf_object": 12,
+                "notes": "Clean embedded waterfront illustration; separate article title, gray backing panel and footer omitted. Grayscale raster encoded as baseline RGB JPEG at native 497×277 dimensions, quality 95, 72 dpi."
+              }
+            ]
+          },
+          {
+            "printed_page": 4,
+            "images": [
+              {
+                "description": "A map of Britain and Ireland with an arrow identifying the Island of Lewis.",
+                "owner": "Duncan Campbell on THE LEWIS REVIVAL",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/5e5594a4-c6dc-47b3-99fd-0e8967070abc-2.png",
+                "pdf_object": 16,
+                "notes": "300 dpi render of the published map region (197.5,234)-(413,542.65) after removing only the separate rectangular frame stroke from the PDF paint stream. The map raster, Island of Lewis label and location arrow are substantive diagram content and remain. Separate surrounding article text is outside the crop."
+              }
+            ]
+          },
+          {
+            "printed_page": 5,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 6,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 7,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 8,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 9,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 10,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 11,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 12,
+            "images": [
+              {
+                "description": "Charity African Missions emblem with a globe and the letters C A M over Africa.",
+                "owner": "God Changes Water into Wine",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-1.png",
+                "pdf_object": 41,
+                "notes": "PDF image-mask object 41 exported as transparent RGBA PNG at 335×241. Source mask supplies alpha; source paint color 0.161,0.145,0.149 supplies RGB (41,37,38). Gray page panel omitted. Intrinsic CHARITY AFRICAN MISSIONS and C A M lettering retained."
+              },
+              {
+                "description": "A covered stone well with a bucket.",
+                "owner": "God Changes Water into Wine",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-2.jpg",
+                "pdf_object": 42,
+                "notes": "Clean well raster; separately painted God Changes Water title omitted. Published right clipping approximated to original pixel boundary (0,0)-(324,126) from 325×126; encoded baseline RGB JPEG, quality 95, 72 dpi. Gray background and ground line are intrinsic to the source raster, not removable overlays."
+              },
+              {
+                "description": "A goblet containing wine.",
+                "owner": "God Changes Water into Wine",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-3.png",
+                "pdf_object": 44,
+                "notes": "Original 80×95 lossless grayscale PNG of wine goblet. Separate title and gray layout rectangle omitted; gray within the raster is intrinsic to the only base asset."
+              },
+              {
+                "description": "Men beside water pots in a biblical illustration.",
+                "owner": "God Changes Water into Wine",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-4.jpg",
+                "pdf_object": 43,
+                "notes": "Biblical water-pot scene from original grayscale raster. Source PDF clip corresponds to pixel crop (1,1)-(308,197) from 309×198. Baseline RGB JPEG, quality 95, 72 dpi. Separate backing rectangle and surrounding title excluded."
+              }
+            ]
+          },
+          {
+            "printed_page": 13,
+            "images": [
+              {
+                "description": "Faded well and goblet repeated in the running article header",
+                "owner": "God Changes Water into Wine",
+                "disposition": "represented_once_as_repeated_image",
+                "pdf_object": 139,
+                "represented_by": [
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-2.jpg",
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-3.png"
+                ],
+                "notes": "No unique pictorial content; full clean well and goblet exported from page 12. Running title/byline and separator line omitted as layout furniture."
+              }
+            ]
+          },
+          {
+            "printed_page": 14,
+            "images": [
+              {
+                "description": "Faded well and goblet repeated in the running article header",
+                "owner": "God Changes Water into Wine",
+                "disposition": "represented_once_as_repeated_image",
+                "pdf_object": 139,
+                "represented_by": [
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-2.jpg",
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-3.png"
+                ],
+                "notes": "No unique pictorial content; full clean well and goblet exported from page 12. Running title/byline and separator line omitted as layout furniture."
+              }
+            ]
+          },
+          {
+            "printed_page": 15,
+            "images": [
+              {
+                "description": "Faded well and goblet repeated in the running article header",
+                "owner": "God Changes Water into Wine",
+                "disposition": "represented_once_as_repeated_image",
+                "pdf_object": 139,
+                "represented_by": [
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-2.jpg",
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-3.png"
+                ],
+                "notes": "No unique pictorial content; full clean well and goblet exported from page 12. Running title/byline and separator line omitted as layout furniture."
+              }
+            ]
+          },
+          {
+            "printed_page": 16,
+            "images": [
+              {
+                "description": "Faded well and goblet repeated in the running article header",
+                "owner": "God Changes Water into Wine",
+                "disposition": "represented_once_as_repeated_image",
+                "pdf_object": 139,
+                "represented_by": [
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-2.jpg",
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-3.png"
+                ],
+                "notes": "No unique pictorial content; full clean well and goblet exported from page 12. Running title/byline and separator line omitted as layout furniture."
+              }
+            ]
+          },
+          {
+            "printed_page": 17,
+            "images": [
+              {
+                "description": "Jesus with people and vessels at a table.",
+                "owner": "God Changes Water into Wine",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-5.jpg",
+                "pdf_object": 60,
+                "notes": "Original biblical table scene at 333×220, encoded baseline RGB JPEG, quality 95, 72 dpi. Separate header, running title and footer excluded."
+              },
+              {
+                "description": "Faded well and goblet repeated in the running article header",
+                "owner": "God Changes Water into Wine",
+                "disposition": "represented_once_as_repeated_image",
+                "pdf_object": 139,
+                "represented_by": [
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-2.jpg",
+                  "public/images/articles/3ecef108-58f3-42fc-a9c1-be12086c3e87-3.png"
+                ],
+                "notes": "No unique pictorial content; full clean well and goblet exported from page 12. Running title/byline and separator line omitted as layout furniture."
+              }
+            ]
+          },
+          {
+            "printed_page": 18,
+            "images": [
+              {
+                "description": "An illustration of a church interior with arches, pews, and a pulpit.",
+                "owner": "Him or It?",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/8d5cbe1a-3916-4bfb-8c87-0ce0fce3d297-1.jpg",
+                "pdf_object": 64,
+                "notes": "Clean original church-interior illustration, native 245×305, baseline RGB JPEG, quality 95, 72 dpi. Intrinsic fading at the drawing edges retained; no source pixels synthesized."
+              }
+            ]
+          },
+          {
+            "printed_page": 19,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 20,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 21,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 22,
+            "images": [
+              {
+                "description": "A group of women posed outdoors beneath trees.",
+                "owner": "Faith That Works",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/2c1af9b3-f2eb-43c5-8dbc-4817c3534467-1.jpg",
+                "pdf_object": 77,
+                "notes": "Clean original group photograph, native 334×232, baseline RGB JPEG, quality 95, 72 dpi. Separate heading/gray article panel excluded. No individual people identified by appearance."
+              }
+            ]
+          },
+          {
+            "printed_page": 23,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 24,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 25,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 26,
+            "images": [
+              {
+                "description": "A family gathered together with open books.",
+                "owner": "John Wesley on Family Religion",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6faaa9b4-dd02-4a58-b29b-9582f5b36bca-1.jpg",
+                "pdf_object": 90,
+                "notes": "Clean original family-reading illustration, native 288×262, baseline RGB JPEG, quality 95, 72 dpi. Intrinsic illustration edge texture retained; no separate title or furniture included."
+              }
+            ]
+          },
+          {
+            "printed_page": 27,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 28,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 29,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 30,
+            "images": [
+              {
+                "description": "Portrait of Jonathan Edwards.",
+                "owner": "Religious Affections",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/84da6b5d-046a-4fe1-bf3f-61c2036e789b-1.jpg",
+                "pdf_object": 103,
+                "notes": "Original Jonathan Edwards portrait at 108×171, baseline RGB JPEG, quality 95, 72 dpi. Native low resolution retained without invented detail; surrounding article typography omitted."
+              }
+            ]
+          },
+          {
+            "printed_page": 31,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 32,
+            "images": [
+              {
+                "description": "An illustrated mailbox with flowers around its post.",
+                "owner": "Precious Letters from Our Readers",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/c9085861-93f5-4d48-9354-71c14df318cf-1.png",
+                "pdf_object": 110,
+                "notes": "Original 98×157 grayscale PNG. Tiny publication name/address on the mailbox and gray background are intrinsic to the sole raster and retained. Separate large heading and rounded introductory panel omitted."
+              }
+            ]
+          },
+          {
+            "printed_page": 33,
+            "images": [],
+            "other_visual_matter": "No substantive source image; typography, pull quotes, rules or panels only."
+          },
+          {
+            "printed_page": 34,
+            "images": [
+              {
+                "description": "Order-form layout",
+                "owner": "Book order form",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Order form"
+              }
+            ]
+          },
+          {
+            "printed_page": 35,
+            "images": [
+              {
+                "description": "Blue and white advertising background and The Pursuit of Godly Seed cover",
+                "owner": "Book advertisement",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Advertisement"
+              }
+            ]
+          },
+          {
+            "printed_page": 36,
+            "images": [
+              {
+                "description": "Dewdrops on green blades of grass.",
+                "owner": "Spiritual Leadership",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/0c49a927-0edf-4e8b-aef9-af0c273120ad-1.jpg",
+                "pdf_object": 125,
+                "notes": "Original RGB raster has irreversibly baked poem/title/scripture text. Meaningful unobstructed grass crop (18,480)-(630,810) from 648×828 retains published lower background within page bleed, at 612×330. Baseline RGB JPEG, quality 95, 72 dpi. No generation, inpainting, healing or synthesized pixels. Separate postal/publisher overlays omitted; full poem independently transcribed in HTML."
+              },
+              {
+                "description": "Publication logo/address and postal permit panel",
+                "owner": "Mailing panel",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Mailing panel; independent of the substantive poem"
+              }
+            ]
+          }
+        ],
+        "image_limitations": [
+          "Individual image credits/licences generally not stated; unassigned masthead stock credit not inferred for particular assets.",
+          "Back-cover poem/title are baked into the only raster; an unobstructed lower grass crop is used, with full poem preserved in HTML.",
+          "Intrinsic gray raster backgrounds on the well, goblet and mailbox remain; mailbox lettering is intrinsic to that source image.",
+          "Original low image resolutions are retained; no detail synthesized."
+        ],
+        "footnotes": "None present; no footnotes sections required."
+      }
     }
   ],
   "categories": [
