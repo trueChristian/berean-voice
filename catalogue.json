@@ -20811,6 +20811,857 @@
           "canonical_html_integration": "All 17 exports referenced exactly once in owning HTML in index order."
         }
       }
+    },
+    {
+      "id": "cd616d53-754b-416f-a133-ccc8fd508b2a",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "September/October 2002",
+        "year": 2002,
+        "months": [
+          9,
+          10
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 8,
+      "issue_number": 5,
+      "source_id": "heartbeat-remnant-2002-09",
+      "slug": "heartbeat-remnant-2002-09",
+      "source": {
+        "filename": "2002-09-remnant.pdf",
+        "sha256": "8e0738ffe2e477962935a69f77555289ee535ab7bc12001ab600ed068f087e82",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers (logical pages 1 and 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "page_by_page_visual_review": "completed_all_36_pages",
+        "contents_reconciliation": {
+          "candidate_count": 13,
+          "included_count": 12,
+          "skipped_count": 1,
+          "note": "All ten contents entries accounted for, plus page 3 editorial, page 20 DRUG PROBLEM and titled back-cover scripture passage. Fighting continues on page 19; Wisdom continues on page 31; the skipped book review continues on page 35. Andrew Weaver is the review author; Andrew Murray is the reviewed book author. Footwashing Testimony is titled in the contents only."
+        },
+        "page_inventory": [
+          {
+            "page": 1,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "front cover"
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "table of contents and general masthead"
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "disposition": "included",
+                "article_id": "6c54330e-c4e3-4ce1-a4ad-e1a016caa68b"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "Keith Daniel’s 2002 Preaching Schedule advertisement"
+              }
+            ]
+          },
+          {
+            "page": 4,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "disposition": "included",
+                "article_id": "f28f6204-a98e-4786-8190-834b58aabadb"
+              }
+            ]
+          },
+          {
+            "page": 5,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "disposition": "included",
+                "article_id": "f28f6204-a98e-4786-8190-834b58aabadb"
+              }
+            ]
+          },
+          {
+            "page": 6,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "disposition": "included",
+                "article_id": "f28f6204-a98e-4786-8190-834b58aabadb"
+              }
+            ]
+          },
+          {
+            "page": 7,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "disposition": "included",
+                "article_id": "f28f6204-a98e-4786-8190-834b58aabadb"
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "disposition": "included",
+                "article_id": "368fd086-cbcd-49d1-b50a-aa9c087e7f75"
+              }
+            ]
+          },
+          {
+            "page": 9,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "disposition": "included",
+                "article_id": "368fd086-cbcd-49d1-b50a-aa9c087e7f75"
+              }
+            ]
+          },
+          {
+            "page": 10,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "disposition": "included",
+                "article_id": "368fd086-cbcd-49d1-b50a-aa9c087e7f75"
+              }
+            ]
+          },
+          {
+            "page": 11,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "disposition": "included",
+                "article_id": "368fd086-cbcd-49d1-b50a-aa9c087e7f75"
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "disposition": "included",
+                "article_id": "368fd086-cbcd-49d1-b50a-aa9c087e7f75"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "Wanted…Earnest Parents event advertisement and registration details"
+              }
+            ]
+          },
+          {
+            "page": 13,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "disposition": "included",
+                "article_id": "f53bd262-dbd0-4792-9e75-7f3ccfa520d5"
+              }
+            ]
+          },
+          {
+            "page": 14,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 5,
+                "disposition": "included",
+                "article_id": "56f87e8c-a689-40cd-95b1-57f12dac367a"
+              }
+            ]
+          },
+          {
+            "page": 15,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 5,
+                "disposition": "included",
+                "article_id": "56f87e8c-a689-40cd-95b1-57f12dac367a"
+              }
+            ]
+          },
+          {
+            "page": 16,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 6,
+                "disposition": "included",
+                "article_id": "7442c4dd-d916-483f-afe6-4bb7d049c092"
+              }
+            ]
+          },
+          {
+            "page": 17,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 6,
+                "disposition": "included",
+                "article_id": "7442c4dd-d916-483f-afe6-4bb7d049c092"
+              }
+            ]
+          },
+          {
+            "page": 18,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "ministry financial-report and tape-promotion feature"
+              }
+            ]
+          },
+          {
+            "page": 19,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "disposition": "included",
+                "article_id": "f28f6204-a98e-4786-8190-834b58aabadb"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "continuation of ministry financial-report and New Tape Set advertisement"
+              }
+            ]
+          },
+          {
+            "page": 20,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "disposition": "included",
+                "article_id": "4fd962b7-b4ae-4265-8af0-a4deda583be7"
+              },
+              {
+                "sequence": 8,
+                "disposition": "included",
+                "article_id": "a3b8ac83-47f6-4fb5-b9df-ad8696077a05"
+              }
+            ]
+          },
+          {
+            "page": 21,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "disposition": "included",
+                "article_id": "0ca003ef-8e17-446c-b2d2-c960a97258d2"
+              }
+            ]
+          },
+          {
+            "page": 22,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "disposition": "included",
+                "article_id": "0ca003ef-8e17-446c-b2d2-c960a97258d2"
+              }
+            ]
+          },
+          {
+            "page": 23,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "disposition": "included",
+                "article_id": "0ca003ef-8e17-446c-b2d2-c960a97258d2"
+              }
+            ]
+          },
+          {
+            "page": 24,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "disposition": "included",
+                "article_id": "0ca003ef-8e17-446c-b2d2-c960a97258d2"
+              }
+            ]
+          },
+          {
+            "page": 25,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "disposition": "included",
+                "article_id": "0ca003ef-8e17-446c-b2d2-c960a97258d2"
+              }
+            ]
+          },
+          {
+            "page": 26,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "disposition": "included",
+                "article_id": "4f01b0cf-d706-4f19-82d6-6ab1b5a8ef46"
+              }
+            ]
+          },
+          {
+            "page": 27,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "disposition": "included",
+                "article_id": "4f01b0cf-d706-4f19-82d6-6ab1b5a8ef46"
+              }
+            ]
+          },
+          {
+            "page": 28,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "disposition": "included",
+                "article_id": "4f01b0cf-d706-4f19-82d6-6ab1b5a8ef46"
+              }
+            ]
+          },
+          {
+            "page": 29,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "disposition": "included",
+                "article_id": "4f01b0cf-d706-4f19-82d6-6ab1b5a8ef46"
+              }
+            ]
+          },
+          {
+            "page": 30,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "disposition": "included",
+                "article_id": "4f01b0cf-d706-4f19-82d6-6ab1b5a8ef46"
+              }
+            ]
+          },
+          {
+            "page": 31,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "disposition": "included",
+                "article_id": "0ca003ef-8e17-446c-b2d2-c960a97258d2"
+              },
+              {
+                "sequence": 10,
+                "disposition": "included",
+                "article_id": "4f01b0cf-d706-4f19-82d6-6ab1b5a8ef46"
+              }
+            ]
+          },
+          {
+            "page": 32,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 11,
+                "disposition": "skipped_article_specific_restriction"
+              }
+            ]
+          },
+          {
+            "page": 33,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 11,
+                "disposition": "skipped_article_specific_restriction"
+              }
+            ]
+          },
+          {
+            "page": 34,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 12,
+                "disposition": "included",
+                "article_id": "07898fdf-85f1-4d47-8150-5738313b7bbe"
+              }
+            ]
+          },
+          {
+            "page": 35,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 12,
+                "disposition": "included",
+                "article_id": "07898fdf-85f1-4d47-8150-5738313b7bbe"
+              },
+              {
+                "sequence": 11,
+                "disposition": "skipped_article_specific_restriction"
+              }
+            ]
+          },
+          {
+            "page": 36,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 13,
+                "disposition": "included",
+                "article_id": "4555de9e-2f32-4ab5-acc9-fe0e8394101f"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "mailing panel, publication logo, postal information and exterior decorative frame"
+              }
+            ]
+          }
+        ],
+        "image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Shepherd and hidden giant front-cover illustration, heartbeat logo, coloured frame and title banner",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "front cover"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Six contents thumbnails (David and Goliath, Spurgeon portrait, sailing ships, cross-bearing traveller, mother and child, praying man) and masthead heartbeat logo",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "table of contents and masthead"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A young man raises a sword over a fallen armored man as others watch.",
+                "owning_article_id": "f28f6204-a98e-4786-8190-834b58aabadb",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/f28f6204-a98e-4786-8190-834b58aabadb-1.jpg"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Two men carry a large cluster of grapes on a pole above a gathering of people.",
+                "owning_article_id": "f28f6204-a98e-4786-8190-834b58aabadb",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/f28f6204-a98e-4786-8190-834b58aabadb-2.jpg"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Oval portrait of Charles Spurgeon beside a table",
+                "owning_article_id": "368fd086-cbcd-49d1-b50a-aa9c087e7f75",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/368fd086-cbcd-49d1-b50a-aa9c087e7f75-1.png"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Illustration of a person resting in a hammock beneath trees beside a house",
+                "owning_article_id": "f53bd262-dbd0-4792-9e75-7f3ccfa520d5",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/f53bd262-dbd0-4792-9e75-7f3ccfa520d5-1.jpg"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Sailing warships engaged in a sea battle",
+                "owning_article_id": "56f87e8c-a689-40cd-95b1-57f12dac367a",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/56f87e8c-a689-40cd-95b1-57f12dac367a-1.jpg"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A man carrying a cross up a rocky path beside a lion",
+                "owning_article_id": "7442c4dd-d916-483f-afe6-4bb7d049c092",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/7442c4dd-d916-483f-afe6-4bb7d049c092-1.jpg"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Magazine-cover thumbnail, cassette illustration and photograph of a child reading the magazine",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "administrative ministry financial-report and tape-promotion feature"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A woman helping a child prepare food at a mixing bowl",
+                "owning_article_id": "0ca003ef-8e17-446c-b2d2-c960a97258d2",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/0ca003ef-8e17-446c-b2d2-c960a97258d2-1.jpg"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A man shielding his face from rays of light in a rocky landscape",
+                "owning_article_id": "4f01b0cf-d706-4f19-82d6-6ab1b5a8ef46",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/4f01b0cf-d706-4f19-82d6-6ab1b5a8ef46-1.jpg"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Kneeling praying man illustration, PDF image object 118",
+                "owning_article_sequence": 11,
+                "disposition": "excluded with skipped article"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photographs, illustrations, article backgrounds, collage constituents, scores or other substantive images; text and ordinary print furniture only."
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A flower-covered mailbox bearing the magazine name and address",
+                "owning_article_id": "07898fdf-85f1-4d47-8150-5738313b7bbe",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/07898fdf-85f1-4d47-8150-5738313b7bbe-1.png"
+              },
+              {
+                "description": "Repeated flower-divider rows between letters",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "standalone decorative matter"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Repeated flower-divider rows between letters",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "standalone decorative matter"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Lightning over a rocky shore beneath a bright light in a dark, clouded sky",
+                "owning_article_id": "4555de9e-2f32-4ab5-acc9-fe0e8394101f",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/4555de9e-2f32-4ab5-acc9-fe0e8394101f-1.jpg"
+              },
+              {
+                "description": "Repeated green/pink outer-frame tiles, PDF objects 229–240",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "decorative cover frame"
+              },
+              {
+                "description": "Publication logo and postal/mailing panel",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "mailing panel"
+              }
+            ],
+            "note": "All visible source imagery accounted for; ordinary rules, heading shapes and bullets are print furniture."
+          }
+        ],
+        "image_verification": {
+          "exported_logical_image_count": 10,
+          "exported_file_count": 10,
+          "jpeg_count": 8,
+          "png_count": 2,
+          "overlay_audit": "Every final asset visually compared against the rendered source and its original PDF image object. Separable title text, panels, frames, rules, shadows and mailing furniture omitted. No synthetic retouching. Exact transformations and clipping evidence recorded with each image.",
+          "separate_image_credits": "No separately printed individual credits or licences identify the exported images. Faint intrinsic artist signatures are preserved without guessing names; the page-4 signature is not reliably legible. The masthead states Some images © 2001-2002 / www.arttoday.com without identifying individual assets. No individual source or licence is inferred.",
+          "source_appearance_notes": [
+            "Low original image resolutions are retained, with no synthetic enlargement.",
+            "Mailbox address lettering and gray matte are intrinsic to the source raster and retained.",
+            "The Spurgeon portrait preserves the published elliptical clipping path; separate black outline omitted."
+          ],
+          "pillow_full_decode": "passed for all 10 images without warnings",
+          "imagemagick_full_decode": "passed for all 10 images without warnings",
+          "skia_canvas_full_decode": "passed for all 10 images, full draw and pixel readback",
+          "all_final_images_opened_at_native_useful_resolution": true,
+          "all_jpegs_baseline_RGB": "verified; all 8 JPEGs have nonzero JFIF density and end exactly at EOI",
+          "canonical_html_integration": "Every exported image appears once in its owning HTML, in metadata order."
+        },
+        "remaining_uncertainty": "No unresolved article text or metadata readings. Individual image creators/licences are unstated or signatures are not reliably legible; the general masthead credit cannot be assigned to particular exports. No actual article-specific restriction is visible on the included material."
+      }
     }
   ],
   "categories": [
