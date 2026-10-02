@@ -19980,6 +19980,837 @@
         "footnotes": "Every eligible article inspected; no footnotes are present in this issue’s included content.",
         "independent_text_review": "All twelve included HTML articles independently compared by a second AI reader with their complete printed pages, including all continuations, poetry, tables, dialogue, sidebars and meaningful emphasis."
       }
+    },
+    {
+      "id": "20e7574a-7ed7-4acf-8541-436e082de578",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "January / February 2003",
+        "year": 2003,
+        "months": [
+          1,
+          2
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 9,
+      "issue_number": 1,
+      "source_id": "heartbeat-remnant-2003-01",
+      "slug": "heartbeat-remnant-2003-01",
+      "source": {
+        "filename": "2003-01-remnant(1).pdf",
+        "sha256": "0265c51e21ee2a97ed06ccb97012f6efbbe726dac6ef21b4459a8384048322b3",
+        "pdf_page_count": 32,
+        "printed_page_range": "2-31; front and back covers (logical pages 1 and 32) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "page_by_page_visual_review": "completed_all_32_pages",
+        "contents_reconciliation": {
+          "candidate_count": 11,
+          "included_count": 11,
+          "skipped_count": 0,
+          "note": "All ten contents entries and the substantive signed back-cover piece The Worth of a Soul are included. Content-page titles override contents abbreviations/typos. Grings continues on page 17. Do We Treasure God’s Word? continues through the upper portion of page 30. Born Crucified is a review by Dean Taylor of the book by L. E. Maxwell."
+        },
+        "footnotes": "Every included article inspected through its final line; no footnotes are present.",
+        "independent_text_review": "All eleven included HTML articles independently compared by a second AI reader with every source page and continuation; no unresolved text or formatting discrepancy remains.",
+        "page_inventory": [
+          {
+            "page": 1,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "front cover"
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "table of contents and masthead"
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "a76fb997-0dc6-4fc2-8978-6d5e00089460",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 4,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "a76fb997-0dc6-4fc2-8978-6d5e00089460",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 5,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "a76fb997-0dc6-4fc2-8978-6d5e00089460",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 6,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "a76fb997-0dc6-4fc2-8978-6d5e00089460",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 7,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "article_id": "8b703961-b0a4-4bdb-8a54-b853790bc997",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "article_id": "8b703961-b0a4-4bdb-8a54-b853790bc997",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 9,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "article_id": "8b703961-b0a4-4bdb-8a54-b853790bc997",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 10,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "article_id": "8b703961-b0a4-4bdb-8a54-b853790bc997",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 11,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "article_id": "8b703961-b0a4-4bdb-8a54-b853790bc997",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "article_id": "cdda21ec-4744-433f-82b6-13227912749b",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 13,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "article_id": "1139bfb4-a17a-403a-8b56-182574cbf8dc",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 14,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 5,
+                "article_id": "678fcea0-3092-40cc-88ba-9c796af12787",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 15,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 5,
+                "article_id": "678fcea0-3092-40cc-88ba-9c796af12787",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 16,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 5,
+                "article_id": "678fcea0-3092-40cc-88ba-9c796af12787",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 17,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "article_id": "8b703961-b0a4-4bdb-8a54-b853790bc997",
+                "disposition": "included"
+              },
+              {
+                "sequence": 5,
+                "article_id": "678fcea0-3092-40cc-88ba-9c796af12787",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 18,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 6,
+                "article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 19,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 6,
+                "article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 20,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 6,
+                "article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 21,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 6,
+                "article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 22,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 6,
+                "article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 23,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "article_id": "55774668-36d0-483d-a9b0-93a06f1a531b",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 24,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 8,
+                "article_id": "a896f508-a257-45f6-82a3-6f807736b7d9",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 25,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 8,
+                "article_id": "a896f508-a257-45f6-82a3-6f807736b7d9",
+                "disposition": "included"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "advertisement"
+              }
+            ]
+          },
+          {
+            "page": 26,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "article_id": "b719fea9-7d48-4b08-ae08-025146d69f31",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 27,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "article_id": "b719fea9-7d48-4b08-ae08-025146d69f31",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 28,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "article_id": "b719fea9-7d48-4b08-ae08-025146d69f31",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 29,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "article_id": "b719fea9-7d48-4b08-ae08-025146d69f31",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 30,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "article_id": "b719fea9-7d48-4b08-ae08-025146d69f31",
+                "disposition": "included"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "advertisement"
+              }
+            ]
+          },
+          {
+            "page": 31,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "article_id": "591aef68-a942-47a7-b57d-2e0894573dad",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 32,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 11,
+                "article_id": "c6b20a81-a3a4-4ede-81f0-85af17290dba",
+                "disposition": "included"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "mailing panel and cover furniture"
+              }
+            ]
+          }
+        ],
+        "image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Front-cover hourglass/hand photograph, heartbeat graphic and frame",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "front cover"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Six contents thumbnails and general masthead heartbeat graphic",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "table of contents and masthead"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A man wrestling with a winged figure",
+                "owning_article_id": "a76fb997-0dc6-4fc2-8978-6d5e00089460",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/a76fb997-0dc6-4fc2-8978-6d5e00089460-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Smaller faded repetition of the page-3 wrestling illustration",
+                "owning_article_id": "a76fb997-0dc6-4fc2-8978-6d5e00089460",
+                "disposition": "represented once because repeated use of the same image",
+                "canonical_path": "public/images/articles/a76fb997-0dc6-4fc2-8978-6d5e00089460-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Smaller faded repetition of the page-3 wrestling illustration",
+                "owning_article_id": "a76fb997-0dc6-4fc2-8978-6d5e00089460",
+                "disposition": "represented once because repeated use of the same image",
+                "canonical_path": "public/images/articles/a76fb997-0dc6-4fc2-8978-6d5e00089460-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Smaller faded repetition of the page-3 wrestling illustration",
+                "owning_article_id": "a76fb997-0dc6-4fc2-8978-6d5e00089460",
+                "disposition": "represented once because repeated use of the same image",
+                "canonical_path": "public/images/articles/a76fb997-0dc6-4fc2-8978-6d5e00089460-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Portrait of Herbert Grings holding an open book",
+                "owning_article_id": "8b703961-b0a4-4bdb-8a54-b853790bc997",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/8b703961-b0a4-4bdb-8a54-b853790bc997-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A group of adults and children standing outdoors",
+                "owning_article_id": "8b703961-b0a4-4bdb-8a54-b853790bc997",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/8b703961-b0a4-4bdb-8a54-b853790bc997-2.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A robed figure overlooking a landscape",
+                "owning_article_id": "cdda21ec-4744-433f-82b6-13227912749b",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/cdda21ec-4744-433f-82b6-13227912749b-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A seated refiner working beside a furnace",
+                "owning_article_id": "1139bfb4-a17a-403a-8b56-182574cbf8dc",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/1139bfb4-a17a-403a-8b56-182574cbf8dc-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Two robed travellers walking with a group behind them",
+                "owning_article_id": "678fcea0-3092-40cc-88ba-9c796af12787",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/678fcea0-3092-40cc-88ba-9c796af12787-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Two people with their eyes closed and mouths open",
+                "owning_article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/7357a973-86db-44e7-ae65-b0295f3dd341-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Map of China with marked locations",
+                "owning_article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/7357a973-86db-44e7-ae65-b0295f3dd341-2.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A man raising a sword over a kneeling person as a crowd watches",
+                "owning_article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/7357a973-86db-44e7-ae65-b0295f3dd341-3.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A reclining person with closed eyes",
+                "owning_article_id": "7357a973-86db-44e7-ae65-b0295f3dd341",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/7357a973-86db-44e7-ae65-b0295f3dd341-4.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A man and woman seated together outdoors",
+                "owning_article_id": "55774668-36d0-483d-a9b0-93a06f1a531b",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/55774668-36d0-483d-a9b0-93a06f1a531b-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Portrait of L. E. Maxwell",
+                "owning_article_id": "a896f508-a257-45f6-82a3-6f807736b7d9",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/a896f508-a257-45f6-82a3-6f807736b7d9-1.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A figure looking up at a crucified man, with birds and sheep nearby",
+                "owning_article_id": "a896f508-a257-45f6-82a3-6f807736b7d9",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/a896f508-a257-45f6-82a3-6f807736b7d9-2.jpg"
+              },
+              {
+                "description": "Embraced by the Cross book cover and boxed purchase/address panel",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "advertisement"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Charity African Missions globe logo",
+                "owning_article_id": "b719fea9-7d48-4b08-ae08-025146d69f31",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/b719fea9-7d48-4b08-ae08-025146d69f31-1.png"
+              },
+              {
+                "description": "A seated person reading a large open book",
+                "owning_article_id": "b719fea9-7d48-4b08-ae08-025146d69f31",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/b719fea9-7d48-4b08-ae08-025146d69f31-2.jpg"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visual_inspection": "verified_by_ai",
+            "images": [],
+            "note": "No photograph, illustration, article background, collage constituent, score or other substantive image; text and ordinary layout furniture only."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "Missions Conference announcement with world-map and people montage",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "advertisement"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A flower-covered mailbox bearing the magazine name and address",
+                "owning_article_id": "591aef68-a942-47a7-b57d-2e0894573dad",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/591aef68-a942-47a7-b57d-2e0894573dad-1.png"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": null,
+            "visual_inspection": "verified_by_ai",
+            "images": [
+              {
+                "description": "A boy and girl looking upward against a dark background",
+                "owning_article_id": "c6b20a81-a3a4-4ede-81f0-85af17290dba",
+                "disposition": "exported",
+                "canonical_path": "public/images/articles/c6b20a81-a3a4-4ede-81f0-85af17290dba-1.jpg"
+              },
+              {
+                "description": "Mailing panel, publication-office/address typography, postal permit and exterior frame",
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "mailing panel and cover furniture"
+              }
+            ],
+            "note": "All visible photographs, illustrations, article backgrounds, logo and collage elements accounted for. Ordinary heading shapes, lines, paragraph ornaments and page furniture are not article images."
+          }
+        ],
+        "image_verification": {
+          "all_32_pdf_pages_visually_inspected": true,
+          "exported_logical_image_count": 17,
+          "exported_file_count": 17,
+          "jpeg_count": 15,
+          "png_count": 2,
+          "pillow_full_decode": "passed for every image with no warnings",
+          "imagemagick_full_decode": "passed for every image with no warnings",
+          "skia_canvas_full_decode": "passed for every image, full draw/readback",
+          "all_final_images_opened_at_native_useful_resolution": true,
+          "all_jpegs_baseline_RGB": "verified",
+          "overlay_audit": "verified against original PDF objects, clipping paths and source pages; all separable publisher typography, panels and frames omitted",
+          "raw_object_paint_order_and_clips_inspected": [
+            7,
+            12,
+            14,
+            23,
+            26,
+            31,
+            32
+          ],
+          "unavoidable_source_appearance_notes": [
+            "Page 12 illustration is pale in the only source raster; no exact inverse blend is established, so its source appearance is retained.",
+            "Page 31 mailbox gray matte and address lettering are intrinsic to the source raster and retained."
+          ],
+          "separate_image_credits": "The page-32 photograph explicitly credits Lynn Weissenfelt • Alpine Portraits. Other exports have no individual credits; the masthead states Some images © 2001-2002 / www.arttoday.com without identifying the individual assets. No individual source or licence is inferred.",
+          "canonical_html_integration": "All 17 exports referenced exactly once in owning HTML in index order."
+        }
+      }
     }
   ],
   "categories": [
