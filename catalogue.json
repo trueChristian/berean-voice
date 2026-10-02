@@ -21662,6 +21662,864 @@
         },
         "remaining_uncertainty": "No unresolved article text or metadata readings. Individual image creators/licences are unstated or signatures are not reliably legible; the general masthead credit cannot be assigned to particular exports. No actual article-specific restriction is visible on the included material."
       }
+    },
+    {
+      "id": "58e5607a-c1e0-472f-9c84-1527f23cc887",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "July / August 2002",
+        "year": 2002,
+        "months": [
+          7,
+          8
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 8,
+      "issue_number": 4,
+      "source": {
+        "filename": "2002-07-remnant.pdf",
+        "sha256": "18b59b3eb8fd2a70366501613b967f20ab4145ed9b674a229900f5995a937956",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers (logical pages 1 and 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2002-07",
+      "slug": "heartbeat-remnant-2002-07",
+      "verification": {
+        "page_by_page_visual_review": "completed_all_36_pages",
+        "contents_reconciliation": {
+          "candidate_count": 14,
+          "included_count": 13,
+          "skipped_count": 1,
+          "note": "All eleven contents entries reconciled with actual article headings, plus Correction!, Precious Letters from Our Readers and the back-cover poem I’m Standing. The Christian’s Secret of a Happy Life continues from page 33 to page 35. Andrew Weaver is the reviewer and Hannah Whitall Smith the reviewed book author."
+        },
+        "page_inventory": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "included_article_sequences": [],
+            "skipped_article_sequences": [],
+            "note": "Front cover excluded."
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "included_article_sequences": [],
+            "skipped_article_sequences": [],
+            "note": "Contents and general masthead excluded."
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "included_article_sequences": [
+              1
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "included_article_sequences": [
+              1
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "included_article_sequences": [
+              1
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "included_article_sequences": [
+              1
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "included_article_sequences": [
+              2
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "included_article_sequences": [
+              2
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "included_article_sequences": [
+              2
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "included_article_sequences": [
+              2
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "included_article_sequences": [
+              2
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "included_article_sequences": [
+              2
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "included_article_sequences": [
+              3
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "included_article_sequences": [
+              3
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "included_article_sequences": [
+              3
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "included_article_sequences": [
+              4
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "included_article_sequences": [
+              4
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "included_article_sequences": [
+              4
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "included_article_sequences": [
+              5
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "included_article_sequences": [
+              6
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "included_article_sequences": [
+              6
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "included_article_sequences": [],
+            "skipped_article_sequences": [
+              7
+            ],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "included_article_sequences": [],
+            "skipped_article_sequences": [
+              7
+            ],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "included_article_sequences": [
+              8
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "included_article_sequences": [
+              9
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "included_article_sequences": [
+              9,
+              10
+            ],
+            "skipped_article_sequences": [],
+            "note": "Youth Bible School advertisement excluded; substantive Correction! included."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "included_article_sequences": [
+              11
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "included_article_sequences": [
+              11
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "included_article_sequences": [
+              11
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "included_article_sequences": [
+              11
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "included_article_sequences": [
+              11
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "included_article_sequences": [
+              12
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "included_article_sequences": [
+              12
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "included_article_sequences": [
+              13
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "included_article_sequences": [
+              12,
+              13
+            ],
+            "skipped_article_sequences": [],
+            "note": "All substantive article content accounted for."
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "included_article_sequences": [
+              14
+            ],
+            "skipped_article_sequences": [],
+            "note": "Poem included; publication logo, framing and mailing panel excluded."
+          }
+        ],
+        "image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Ruined columns cover photograph, cover typography, blue/tan tiled decorative border",
+                "disposition": "omitted",
+                "reason": "Cover excluded by issue inventory; no article ownership."
+              }
+            ]
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Seven table-of-contents thumbnails: ruined-wall scene, Moody portrait, foot washing, allegorical figures, soldier, heart/door, couple at thatched building",
+                "disposition": "omitted",
+                "reason": "Table of contents excluded; corresponding eligible article assets are represented once on pages 3, 7, 16, 20, 24 and 27."
+              },
+              {
+                "visible_image": "Magazine masthead waveform and furniture",
+                "disposition": "omitted",
+                "reason": "General masthead excluded."
+              }
+            ]
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "A mounted man and companions beside a ruined stone wall.",
+                "owning_article_id": "8907c8c7-6949-4b6e-b023-3eb7fbd78b0d",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/8907c8c7-6949-4b6e-b023-3eb7fbd78b0d-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Oval portrait of D. L. Moody.",
+                "owning_article_id": "1cd607f8-704a-4766-9894-a7813a144650",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/1cd607f8-704a-4766-9894-a7813a144650-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "A sculptor works on a seated figure while two people watch.",
+                "owning_article_id": "bbeefd6c-2894-4a32-88a8-1d6e889e3159",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/bbeefd6c-2894-4a32-88a8-1d6e889e3159-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Hands wash a foot over a basin.",
+                "owning_article_id": "6e1964cd-c316-4852-8718-4dc627a09ca5",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/6e1964cd-c316-4852-8718-4dc627a09ca5-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "A crowned king seated on a throne.",
+                "owning_article_id": "e003fde2-1cfc-4ff8-80e6-eb08eb3c9f91",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/e003fde2-1cfc-4ff8-80e6-eb08eb3c9f91-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Three figures beneath a dove, with a cross and a lamb.",
+                "owning_article_id": "bf0eea19-5179-4d8f-ad15-eba1aa4d7d81",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/bf0eea19-5179-4d8f-ad15-eba1aa4d7d81-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Left half of family-at-table illustration",
+                "owning_article": "The Family Table",
+                "disposition": "excluded_with_skipped_article",
+                "reason": "Article-specific notice on page 23: Printed by permission from Above Rubies. Neither constituent exported."
+              }
+            ]
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Right half of family-at-table illustration",
+                "owning_article": "The Family Table",
+                "disposition": "excluded_with_skipped_article",
+                "reason": "Article-specific notice on page 23: Printed by permission from Above Rubies. Neither constituent exported."
+              }
+            ]
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "A uniformed soldier carrying a rifle with a bayonet.",
+                "owning_article_id": "bb70a7bb-68b1-4cdd-b85a-f732afefeaa2",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/bb70a7bb-68b1-4cdd-b85a-f732afefeaa2-1.png"
+              },
+              {
+                "visible_image": "A heart with a closed door in its center.",
+                "owning_article_id": "bb70a7bb-68b1-4cdd-b85a-f732afefeaa2",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/bb70a7bb-68b1-4cdd-b85a-f732afefeaa2-2.png"
+              }
+            ]
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "A man and woman sit facing one another with a zigzag arrow between them.",
+                "owning_article_id": "b45a94a8-4c0d-4b2d-bd2f-a83417de194b",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/b45a94a8-4c0d-4b2d-bd2f-a83417de194b-1.png"
+              }
+            ]
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Youth Bible School 2002 typographic announcement panel and rules",
+                "disposition": "omitted",
+                "reason": "Advertisement excluded; contains no photograph, illustration, diagram, or substantive vector art."
+              }
+            ]
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Charity African Missions globe logo.",
+                "owning_article_id": "d5e65bbb-a0fd-4996-894a-dc47d8af844b",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/d5e65bbb-a0fd-4996-894a-dc47d8af844b-1.png"
+              },
+              {
+                "visible_image": "A couple standing outside a thatched building.",
+                "owning_article_id": "d5e65bbb-a0fd-4996-894a-dc47d8af844b",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/d5e65bbb-a0fd-4996-894a-dc47d8af844b-2.png"
+              }
+            ]
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "A person crosses a deep gap on a narrow bridge marked FAITH.",
+                "owning_article_id": "38b76049-0ded-4f8a-9490-74e28d8bee8b",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/38b76049-0ded-4f8a-9490-74e28d8bee8b-1.jpg"
+              }
+            ]
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": null,
+                "disposition": "no_image",
+                "reason": "Visual page review found prose, headings, pull-quote panels, rules, or other print furniture only; no photograph, illustration, score, background image, collage, or substantive vector graphic."
+              }
+            ]
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "A mailbox on a post entwined with flowering vines.",
+                "owning_article_id": "c0c54efd-2fe8-4f0d-9231-f961f3b114c2",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/c0c54efd-2fe8-4f0d-9231-f961f3b114c2-1.png"
+              },
+              {
+                "visible_image": "Two ornamental divider rows",
+                "disposition": "omitted",
+                "reason": "Genuinely standalone decorative typography separating readers’ letters; no substantive image content."
+              }
+            ]
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "One ornamental divider row",
+                "disposition": "omitted",
+                "reason": "Genuinely standalone decorative typography separating readers’ letters; no substantive image content."
+              }
+            ]
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "visual_review": "completed",
+            "images": [
+              {
+                "visible_image": "Snow-covered mountains above dark trees, with the printed poem I’m Standing.",
+                "owning_article_id": "cba5e203-d81e-40a3-a3be-690c4de11399",
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/cba5e203-d81e-40a3-a3be-690c4de11399-1.jpg"
+              },
+              {
+                "visible_image": "Tiled blue/tan outer decorative frame and mailing panel masthead",
+                "disposition": "omitted",
+                "reason": "Mailing panel and standalone decorative matter excluded; poem mountain raster separately exported."
+              }
+            ]
+          }
+        ],
+        "image_verification": {
+          "page_count": 36,
+          "export_count": 14,
+          "all_exported_images_opened_at_full_useful_resolution": true,
+          "full_decoders": [
+            "Pillow Image.load()",
+            "ImageMagick convert to complete RGB raster"
+          ],
+          "browser_check": "Playwright WebKit Image.decode() plus drawImage() and full getImageData() for all 14 final files.",
+          "rights_excluded_visual_pages": [
+            22,
+            23
+          ],
+          "unavoidable_overlay_pages": [
+            36
+          ],
+          "uncertainty": "No image-specific licence or credit stated; p13 intrinsic artist signatures preserved but not reliably legible at supplied source resolution."
+        },
+        "source_text_defects": "On page 8, Moody numbered points 3–7 contain visibly truncated first lines ending in stude, prep, t, love o, and po. Both independent renderers and the original PDF content stream confirm the same literal fragments; no hidden remainder exists. All visible source characters and these five line boundaries are retained without conjectural completion, ellipsis, or editorial insertion. Verification describes fidelity to the supplied PDF, not completeness of the intended prose.",
+        "remaining_uncertainty": "The intended words absent from the five defective page-8 lines cannot be recovered from this PDF and have not been invented. The page-36 poem/title and translucent panel are irreversibly baked into its sole mountain-image raster; the exact source appearance is retained under the documented overlay exception. Individual image creators/licences are not inferred from the general masthead credit."
+      }
     }
   ],
   "categories": [
