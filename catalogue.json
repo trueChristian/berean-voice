@@ -17180,6 +17180,726 @@
         ],
         "footnotes": "None present; no footnotes sections required."
       }
+    },
+    {
+      "id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "July/August 2003",
+        "year": 2003,
+        "months": [
+          7,
+          8
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 9,
+      "issue_number": 4,
+      "source_id": "heartbeat-remnant-2003-07",
+      "slug": "heartbeat-remnant-2003-07",
+      "source": {
+        "filename": "2003-07-remnant.pdf",
+        "sha256": "7adf760555cc562f4b02120d9c35485c33679ab40efd9566006f822fa80aab17",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers (logical pages 1 and 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "status": "incomplete_content_filter_blocker",
+        "publication_status": "user_authorized_partial_delivery",
+        "all_pdf_pages_visually_reviewed": true,
+        "candidate_count": 11,
+        "prepared_article_count": 10,
+        "rights_skipped_count": 0,
+        "exported_image_count": 13,
+        "blocked_articles": [
+          {
+            "sequence": 3,
+            "title": "A Quiet Place to Stand",
+            "byline": "by Rachel Weaver",
+            "source_pages": {
+              "start": 9,
+              "end": 11
+            },
+            "reason": "A content filter blocked the attempted transcription write without giving a substantive reason. This article and its images have not been exported. It is not a rights-based exclusion.",
+            "html_exported": false,
+            "images_exported": false
+          }
+        ],
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "RESOLVES",
+            "pages": [
+              3,
+              4,
+              33
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 2,
+            "title": "Samuel Logan Brengle’s Home Life",
+            "pages": [
+              5,
+              6,
+              7,
+              8
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 3,
+            "title": "A Quiet Place to Stand",
+            "pages": [
+              9,
+              10,
+              11
+            ],
+            "status": "blocked_unexported"
+          },
+          {
+            "sequence": 4,
+            "title": "God’s Faithfulness Through Tragedy",
+            "pages": [
+              12,
+              13,
+              14
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 5,
+            "title": "Primitive Christianity",
+            "pages": [
+              16,
+              17
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 6,
+            "title": "A Personal Interview with George Mueller",
+            "pages": [
+              18,
+              19,
+              20,
+              21,
+              22
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 7,
+            "title": "The Church Fire",
+            "pages": [
+              23,
+              24
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 8,
+            "title": "The Vibrant, Organic Church",
+            "pages": [
+              25,
+              26,
+              27,
+              28,
+              29,
+              35
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 9,
+            "title": "My Life, My All",
+            "pages": [
+              30
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 10,
+            "title": "The Revival We Need",
+            "pages": [
+              31,
+              32,
+              33
+            ],
+            "status": "prepared_and_visually_verified"
+          },
+          {
+            "sequence": 11,
+            "title": "Precious Letters from Our Readers",
+            "pages": [
+              34,
+              35
+            ],
+            "status": "prepared_and_visually_verified"
+          }
+        ],
+        "inventory_exclusions": [
+          {
+            "pages": [
+              1
+            ],
+            "reason": "Front cover; decorative Bible photograph and cover scripture/theme."
+          },
+          {
+            "pages": [
+              2
+            ],
+            "reason": "Contents, masthead and subscription policy; six thumbnails."
+          },
+          {
+            "pages": [
+              15
+            ],
+            "reason": "Full-page fundraising advertisement/financial report for Tape Ministry; urgency banner, product images, financial table and short signed donation appeal form one advertisement, not independent editorial article."
+          },
+          {
+            "pages": [
+              36
+            ],
+            "reason": "Decorative back cover Scripture photograph, banner and mailing panel; no titled/signed editorial poem/article."
+          }
+        ],
+        "page_image_census": [
+          {
+            "page": 1,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Full-page decorative cover background and annotated Bible photograph",
+                "disposition": "omitted",
+                "reason": "front cover",
+                "source_objects": [
+                  222,
+                  223
+                ]
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Six table-of-contents article thumbnail images; publication masthead",
+                "disposition": "omitted",
+                "reason": "table of contents and general masthead",
+                "source_objects": [
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "opening illustration",
+                "article_id": "883ef855-5122-41ca-a892-eff8766f71b2",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/883ef855-5122-41ca-a892-eff8766f71b2-1.jpg"
+              }
+            ]
+          },
+          {
+            "page": 4,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 5,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "portrait",
+                "article_id": "0b740419-f5ec-4b0d-9baf-02e430cadbf8",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/0b740419-f5ec-4b0d-9baf-02e430cadbf8-1.jpg"
+              },
+              {
+                "description": "Pair of small ornamental flourishes beside the section subtitle",
+                "disposition": "omitted",
+                "reason": "standalone decorative publisher heading furniture"
+              }
+            ]
+          },
+          {
+            "page": 6,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 7,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "illustration",
+                "article_id": "0b740419-f5ec-4b0d-9baf-02e430cadbf8",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/0b740419-f5ec-4b0d-9baf-02e430cadbf8-2.jpg"
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 9,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Kneeling woman illustration",
+                "article_title": "A Quiet Place to Stand",
+                "disposition": "not_exported_blocked_article",
+                "reason": "Article transcription was blocked by content filter; article remains unexported in the user-authorized partial delivery.",
+                "source_object": 34
+              }
+            ]
+          },
+          {
+            "page": 10,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 11,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Faded repeat of page-9 kneeling woman illustration",
+                "article_title": "A Quiet Place to Stand",
+                "disposition": "not_exported_blocked_article",
+                "reason": "Same logical image as page 9; article transcription blocked and image export withheld.",
+                "source_object": 41
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 13,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "portrait",
+                "article_id": "ba78ab40-e1d1-4b82-9b71-194439cd6f86",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/ba78ab40-e1d1-4b82-9b71-194439cd6f86-1.jpg"
+              },
+              {
+                "description": "family photograph",
+                "article_id": "ba78ab40-e1d1-4b82-9b71-194439cd6f86",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/ba78ab40-e1d1-4b82-9b71-194439cd6f86-2.jpg"
+              }
+            ]
+          },
+          {
+            "page": 14,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 15,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Booklet and audio cassette product illustrations",
+                "disposition": "omitted",
+                "reason": "financial appeal/advertisement",
+                "source_objects": [
+                  56,
+                  57
+                ]
+              }
+            ]
+          },
+          {
+            "page": 16,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "opening illustration",
+                "article_id": "f3b6d2e3-f25b-42da-a140-5208ab236aa7",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f3b6d2e3-f25b-42da-a140-5208ab236aa7-1.jpg"
+              },
+              {
+                "description": "Eight tiled stencil pieces forming a decorative outer page border",
+                "disposition": "omitted",
+                "reason": "publisher page-frame layout furniture",
+                "source_objects": [
+                  152,
+                  153,
+                  154,
+                  155,
+                  156,
+                  157,
+                  158,
+                  159
+                ]
+              }
+            ]
+          },
+          {
+            "page": 17,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Faded repeat of page-16 preaching illustration beneath poem text",
+                "article_id": "f3b6d2e3-f25b-42da-a140-5208ab236aa7",
+                "disposition": "represented_once",
+                "canonical_repository_path": "public/images/articles/f3b6d2e3-f25b-42da-a140-5208ab236aa7-1.jpg",
+                "source_object": 65,
+                "notes": "Object 65 is the same composition as clean object 61 with a baked pale fade; no unique image content. Separate text and shaded reading panel not exported."
+              },
+              {
+                "description": "Eight tiled stencil pieces forming a decorative outer page border",
+                "disposition": "omitted",
+                "reason": "publisher page-frame layout furniture",
+                "source_objects": [
+                  152,
+                  153,
+                  154,
+                  155,
+                  156,
+                  157,
+                  158,
+                  159
+                ]
+              }
+            ]
+          },
+          {
+            "page": 18,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "portrait",
+                "article_id": "f0aa735d-e0b7-43fe-86d7-8e97d01f8178",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f0aa735d-e0b7-43fe-86d7-8e97d01f8178-1.jpg"
+              }
+            ]
+          },
+          {
+            "page": 19,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 20,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 21,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 22,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 23,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "opening illustration",
+                "article_id": "b8c8f161-1019-4249-b4a3-0cdcb53a2399",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/b8c8f161-1019-4249-b4a3-0cdcb53a2399-1.jpg"
+              }
+            ]
+          },
+          {
+            "page": 24,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 25,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "opening illustration",
+                "article_id": "6f2a677e-f161-4cf2-af5d-58fb97254702",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6f2a677e-f161-4cf2-af5d-58fb97254702-1.jpg"
+              }
+            ]
+          },
+          {
+            "page": 26,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 27,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 28,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 29,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "dictionary excerpt",
+                "article_id": "6f2a677e-f161-4cf2-af5d-58fb97254702",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6f2a677e-f161-4cf2-af5d-58fb97254702-2.jpg"
+              }
+            ]
+          },
+          {
+            "page": 30,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Twelve tiled stencil occurrences forming an ornamental outer border; flat title/text panels",
+                "disposition": "omitted",
+                "reason": "publisher page-frame layout furniture",
+                "source_objects": [
+                  109,
+                  110,
+                  111,
+                  112,
+                  110,
+                  114,
+                  109,
+                  110,
+                  113,
+                  112,
+                  110,
+                  115
+                ]
+              }
+            ]
+          },
+          {
+            "page": 31,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "portrait",
+                "article_id": "194d7463-f32d-418e-a5df-b5669abd2a7d",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/194d7463-f32d-418e-a5df-b5669abd2a7d-1.jpg"
+              },
+              {
+                "description": "Gradient shaded Book Review heading plaque",
+                "disposition": "omitted",
+                "reason": "publisher section-heading layout furniture"
+              }
+            ]
+          },
+          {
+            "page": 32,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "photograph",
+                "article_id": "194d7463-f32d-418e-a5df-b5669abd2a7d",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/194d7463-f32d-418e-a5df-b5669abd2a7d-2.jpg"
+              }
+            ]
+          },
+          {
+            "page": 33,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "No article photographs, illustrations, scans, or substantive graphical assets; typography, flat panels and rules only",
+                "disposition": "no_images"
+              }
+            ]
+          },
+          {
+            "page": 34,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "section illustration",
+                "article_id": "6f47869b-59cb-4c25-8754-44ac48de6098",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6f47869b-59cb-4c25-8754-44ac48de6098-1.png"
+              },
+              {
+                "description": "Repeated diamond dividers between letters",
+                "disposition": "omitted",
+                "reason": "standalone decorative publisher separators"
+              }
+            ]
+          },
+          {
+            "page": 35,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Repeated diamond dividers between letters",
+                "disposition": "omitted",
+                "reason": "standalone decorative publisher separators"
+              }
+            ]
+          },
+          {
+            "page": 36,
+            "visual_review": "completed",
+            "items": [
+              {
+                "description": "Decorative page background, framed lamp-lit reader photo with scripture banner, publication logo and mailing panel",
+                "disposition": "omitted",
+                "reason": "back cover and mailing panel",
+                "source_objects": [
+                  137,
+                  138
+                ]
+              }
+            ]
+          }
+        ],
+        "image_verification": {
+          "final_export_count": 13,
+          "final_images_against_pdf": "verified_by_ai",
+          "full_useful_resolution_visual_check": "passed_all_13_exports",
+          "overlay_audit": "passed; clean raw base objects compared to page renders, source paint order, clipping paths and object dictionaries; no soft masks or transparency groups affect exported source assets",
+          "decoders": [
+            "Pillow complete raster load",
+            "FFmpeg complete RGB24 raster decode, no warnings"
+          ],
+          "browser_compatible_renderer": "Skia via @napi-rs/canvas complete image draws and pixel reads; all exports visually inspected at original pixel dimensions",
+          "jpeg_colour": "All 12 JPEGs baseline RGB/sRGB with 72 dpi nonzero density; no CMYK source assets among exports",
+          "png_colour": "One original lossless grayscale PNG retained",
+          "whole_issue_image_reconciliation": "incomplete because A Quiet Place to Stand is blocked; its one logical image (two appearances) deliberately not exported",
+          "source_credit_uncertainty": "Page-2 masthead gives a general artists list and Some images © 2001-2003 www.arttoday.com, without assigning individual illustrations. No image-specific licence inferred.",
+          "source_resolution": "PDF embeds these images at approximately 72 dpi; original native dimensions retained without upscaling."
+        },
+        "title_match_review": [
+          {
+            "title": "Primitive Christianity",
+            "existing_id": "6dc8b6bd-0d37-462e-9c0a-f8f735b56a0b",
+            "existing_issue_id": "e782e138-2ae7-4159-adcb-8df536c52447",
+            "existing_issue": "January/February/March 2007",
+            "resolution": "Distinct printed version: e.g. 2007 Join’d versus 2003 Joined, and different illustrations; not a corrected copy of same issue."
+          },
+          {
+            "title": "The Revival We Need",
+            "existing_id": "d098b1ec-c6db-4295-83e8-4d07b0c4097f",
+            "existing_issue_id": "535e096a-7dbd-4c94-9d0b-76b121c8bed1",
+            "resolution": "Different article by Andrew Murray; 2003 is Andrew Weaver book review of Oswald J. Smith."
+          },
+          {
+            "title": "Precious Letters from Our Readers",
+            "resolution": "Recurring section in 20 existing issue records, different issue letters; new content."
+          }
+        ],
+        "footnotes": "No footnotes found; ordinary source/publication notes and article sidebars remain in owning article.",
+        "remaining_uncertainty": [
+          "Article sequence 3 cannot be transcribed because of a content filter block; whole-issue publication is incomplete.",
+          "Most individual image creators and licences are not identified in the source. Native low-resolution assets are preserved without inventing detail."
+        ],
+        "partial_delivery_authorization": "The project owner explicitly approved a draft pull request containing the ten completed articles, with A Quiet Place to Stand clearly recorded as missing, on 2026-10-02."
+      }
     }
   ],
   "categories": [
