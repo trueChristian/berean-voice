@@ -22520,6 +22520,1220 @@
         "source_text_defects": "On page 8, Moody numbered points 3–7 contain visibly truncated first lines ending in stude, prep, t, love o, and po. Both independent renderers and the original PDF content stream confirm the same literal fragments; no hidden remainder exists. All visible source characters and these five line boundaries are retained without conjectural completion, ellipsis, or editorial insertion. Verification describes fidelity to the supplied PDF, not completeness of the intended prose.",
         "remaining_uncertainty": "The intended words absent from the five defective page-8 lines cannot be recovered from this PDF and have not been invented. The page-36 poem/title and translucent panel are irreversibly baked into its sole mountain-image raster; the exact source appearance is retained under the documented overlay exception. Individual image creators/licences are not inferred from the general masthead credit."
       }
+    },
+    {
+      "id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "May / June 2002",
+        "year": 2002,
+        "months": [
+          5,
+          6
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 8,
+      "issue_number": 3,
+      "source_id": "heartbeat-remnant-2002-05",
+      "slug": "heartbeat-remnant-2002-05",
+      "source": {
+        "filename": "2002-05-remnant(1).pdf",
+        "sha256": "adcadca4a532452381a712d5386ef9942d3fbaf0cb0acf9f6eee1ba901a84f2b",
+        "pdf_page_count": 40,
+        "printed_page_range": "2-39; front and back covers (logical pages 1 and 40) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "contents_reconciliation": {
+          "candidate_count": 15,
+          "included_count": 14,
+          "skipped_count": 1,
+          "note": "All twelve contents entries accounted for, plus the signed Tape Ministry Road Team report, signed Home Histories note, and back-cover poem My Name is I AM. Caught by the Word continues on page 19; The Dangers of Drama continues on page 32. The Power of the Spirit is excluded in full because its individual copyright notice falls within the printed issue reprint exception."
+        },
+        "source_date_note": "Cover, contents issue context and content-page running dates establish May / June 2002, Volume 8 Number 3. Page 2 incorrectly carries March/April 2001 in its running footer; retained here as source provenance, not used as the issue date.",
+        "page_by_page_visual_review": "completed_all_40_pages",
+        "independent_text_review": "All 14 included pieces independently compared by two AI readers against every source page and continuation.",
+        "footnotes": "Every included article inspected through its final line; no footnotes are present.",
+        "page_inventory": [
+          {
+            "page": 1,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "front cover"
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "table of contents and masthead"
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "title": "A Different Kind of War",
+                "disposition": "included",
+                "article_id": "fde2ec1d-a132-446d-a20b-c6cb645f3994"
+              }
+            ]
+          },
+          {
+            "page": 4,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "title": "A Different Kind of War",
+                "disposition": "included",
+                "article_id": "fde2ec1d-a132-446d-a20b-c6cb645f3994"
+              }
+            ]
+          },
+          {
+            "page": 5,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "title": "A Different Kind of War",
+                "disposition": "included",
+                "article_id": "fde2ec1d-a132-446d-a20b-c6cb645f3994"
+              }
+            ]
+          },
+          {
+            "page": 6,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "title": "A Different Kind of War",
+                "disposition": "included",
+                "article_id": "fde2ec1d-a132-446d-a20b-c6cb645f3994"
+              }
+            ]
+          },
+          {
+            "page": 7,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "title": "A Different Kind of War",
+                "disposition": "included",
+                "article_id": "fde2ec1d-a132-446d-a20b-c6cb645f3994"
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "title": "Caught by the Word",
+                "disposition": "included",
+                "article_id": "0c60bcb6-1921-4744-9f4b-5f4128b27e9e"
+              }
+            ]
+          },
+          {
+            "page": 9,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "title": "I Am a Soldier",
+                "disposition": "included",
+                "article_id": "7598a2fc-0558-40c6-a62a-1d0395ac542f"
+              }
+            ]
+          },
+          {
+            "page": 10,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "title": "Growing in Gratitude",
+                "disposition": "included",
+                "article_id": "e32f63e4-1228-4a9c-9af1-8207097ca4b9"
+              }
+            ]
+          },
+          {
+            "page": 11,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "title": "Growing in Gratitude",
+                "disposition": "included",
+                "article_id": "e32f63e4-1228-4a9c-9af1-8207097ca4b9"
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 5,
+                "title": "TAPE MINISTRY ROAD TEAM",
+                "disposition": "included",
+                "article_id": "6af6714c-d807-49da-b0fd-d0ee20c37915"
+              }
+            ]
+          },
+          {
+            "page": 13,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 5,
+                "title": "TAPE MINISTRY ROAD TEAM",
+                "disposition": "included",
+                "article_id": "6af6714c-d807-49da-b0fd-d0ee20c37915"
+              },
+              {
+                "sequence": 6,
+                "title": "Home Histories",
+                "disposition": "included",
+                "article_id": "0bf1b51d-876c-4dea-b470-2be1ea1bfbe3"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "Revival Meetings advertisement"
+              }
+            ]
+          },
+          {
+            "page": 14,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "title": "If You Faced Death Right Now",
+                "disposition": "included",
+                "article_id": "5d827809-6784-42c9-9745-03944a506b5c"
+              }
+            ]
+          },
+          {
+            "page": 15,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "title": "If You Faced Death Right Now",
+                "disposition": "included",
+                "article_id": "5d827809-6784-42c9-9745-03944a506b5c"
+              }
+            ]
+          },
+          {
+            "page": 16,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "title": "If You Faced Death Right Now",
+                "disposition": "included",
+                "article_id": "5d827809-6784-42c9-9745-03944a506b5c"
+              }
+            ]
+          },
+          {
+            "page": 17,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "title": "If You Faced Death Right Now",
+                "disposition": "included",
+                "article_id": "5d827809-6784-42c9-9745-03944a506b5c"
+              }
+            ]
+          },
+          {
+            "page": 18,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "title": "If You Faced Death Right Now",
+                "disposition": "included",
+                "article_id": "5d827809-6784-42c9-9745-03944a506b5c"
+              }
+            ]
+          },
+          {
+            "page": 19,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "title": "Caught by the Word",
+                "disposition": "included",
+                "article_id": "0c60bcb6-1921-4744-9f4b-5f4128b27e9e"
+              },
+              {
+                "sequence": 7,
+                "title": "If You Faced Death Right Now",
+                "disposition": "included",
+                "article_id": "5d827809-6784-42c9-9745-03944a506b5c"
+              }
+            ]
+          },
+          {
+            "page": 20,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 8,
+                "title": "I Am Living Under the Law...",
+                "disposition": "included",
+                "article_id": "307ef532-c67e-4056-9de6-770f1415b1cb"
+              }
+            ]
+          },
+          {
+            "page": 21,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 8,
+                "title": "I Am Living Under the Law...",
+                "disposition": "included",
+                "article_id": "307ef532-c67e-4056-9de6-770f1415b1cb"
+              }
+            ]
+          },
+          {
+            "page": 22,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "title": "The World Didn’t Satisfy Me",
+                "disposition": "included",
+                "article_id": "e284aecb-ae49-4104-8a5c-065b053dda57"
+              }
+            ]
+          },
+          {
+            "page": 23,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "title": "The World Didn’t Satisfy Me",
+                "disposition": "included",
+                "article_id": "e284aecb-ae49-4104-8a5c-065b053dda57"
+              }
+            ]
+          },
+          {
+            "page": 24,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "title": "The Dangers of Drama",
+                "disposition": "included",
+                "article_id": "56d0d022-65e9-40de-b478-d7d701c03661"
+              }
+            ]
+          },
+          {
+            "page": 25,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "title": "The Dangers of Drama",
+                "disposition": "included",
+                "article_id": "56d0d022-65e9-40de-b478-d7d701c03661"
+              }
+            ]
+          },
+          {
+            "page": 26,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "title": "The Dangers of Drama",
+                "disposition": "included",
+                "article_id": "56d0d022-65e9-40de-b478-d7d701c03661"
+              }
+            ]
+          },
+          {
+            "page": 27,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "title": "The Dangers of Drama",
+                "disposition": "included",
+                "article_id": "56d0d022-65e9-40de-b478-d7d701c03661"
+              }
+            ]
+          },
+          {
+            "page": 28,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 11,
+                "title": "The Longing Prayers of a Sister",
+                "disposition": "included",
+                "article_id": "e082db11-12b2-4198-be95-1fa751c3cbff"
+              }
+            ]
+          },
+          {
+            "page": 29,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 11,
+                "title": "The Longing Prayers of a Sister",
+                "disposition": "included",
+                "article_id": "e082db11-12b2-4198-be95-1fa751c3cbff"
+              }
+            ]
+          },
+          {
+            "page": 30,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 12,
+                "title": "The Power of the Spirit",
+                "disposition": "skipped"
+              }
+            ]
+          },
+          {
+            "page": 31,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 12,
+                "title": "The Power of the Spirit",
+                "disposition": "skipped"
+              }
+            ]
+          },
+          {
+            "page": 32,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "title": "The Dangers of Drama",
+                "disposition": "included",
+                "article_id": "56d0d022-65e9-40de-b478-d7d701c03661"
+              },
+              {
+                "sequence": 12,
+                "title": "The Power of the Spirit",
+                "disposition": "skipped"
+              }
+            ]
+          },
+          {
+            "page": 33,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 13,
+                "title": "Hopes and Dreams Under His Wings",
+                "disposition": "included",
+                "article_id": "d53ed5d5-4e01-429e-b1a1-966f7137f2c4"
+              }
+            ]
+          },
+          {
+            "page": 34,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 13,
+                "title": "Hopes and Dreams Under His Wings",
+                "disposition": "included",
+                "article_id": "d53ed5d5-4e01-429e-b1a1-966f7137f2c4"
+              }
+            ]
+          },
+          {
+            "page": 35,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 13,
+                "title": "Hopes and Dreams Under His Wings",
+                "disposition": "included",
+                "article_id": "d53ed5d5-4e01-429e-b1a1-966f7137f2c4"
+              }
+            ]
+          },
+          {
+            "page": 36,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 13,
+                "title": "Hopes and Dreams Under His Wings",
+                "disposition": "included",
+                "article_id": "d53ed5d5-4e01-429e-b1a1-966f7137f2c4"
+              }
+            ]
+          },
+          {
+            "page": 37,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 13,
+                "title": "Hopes and Dreams Under His Wings",
+                "disposition": "included",
+                "article_id": "d53ed5d5-4e01-429e-b1a1-966f7137f2c4"
+              }
+            ]
+          },
+          {
+            "page": 38,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 14,
+                "title": "Precious Letters from Our Readers",
+                "disposition": "included",
+                "article_id": "868090cf-a78d-4dee-b495-fae65e5b30e6"
+              }
+            ]
+          },
+          {
+            "page": 39,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 14,
+                "title": "Precious Letters from Our Readers",
+                "disposition": "included",
+                "article_id": "868090cf-a78d-4dee-b495-fae65e5b30e6"
+              }
+            ]
+          },
+          {
+            "page": 40,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 15,
+                "title": "My Name is I AM",
+                "disposition": "included",
+                "article_id": "69583771-9cc5-4b3e-aff1-e6c5968f7f50"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "mailing panel and decorative cover frame"
+              }
+            ]
+          }
+        ],
+        "image_census": [
+          {
+            "page": 1,
+            "items": [
+              {
+                "description": "Cover soldier illustration, masthead and tiled blue gradient frame",
+                "disposition": "omitted",
+                "reason": "cover excluded from issue inventory",
+                "source_pdf_objects": [
+                  253,
+                  229,
+                  230,
+                  231,
+                  232,
+                  233,
+                  234,
+                  235,
+                  236,
+                  237,
+                  238,
+                  239,
+                  240,
+                  252
+                ]
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 2,
+            "items": [
+              {
+                "description": "Six article thumbnails: soldier, armored man, stoning scene, oval portrait, kneeling woman and child, mailbox",
+                "disposition": "omitted",
+                "reason": "table of contents/masthead excluded from issue inventory",
+                "source_pdf_objects": [
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 3,
+            "items": [
+              {
+                "description": "A kneeling armored soldier holds a sword.",
+                "owner_article_id": "fde2ec1d-a132-446d-a20b-c6cb645f3994",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/fde2ec1d-a132-446d-a20b-c6cb645f3994-1.jpg",
+                "source_pdf_object": 13
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 4,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 5,
+            "items": [
+              {
+                "description": "Repeated kneeling armored soldier",
+                "owner_article_id": "fde2ec1d-a132-446d-a20b-c6cb645f3994",
+                "disposition": "represented_once",
+                "canonical_source_page": 3,
+                "source_pdf_object": 151,
+                "repository_path": "public/images/articles/fde2ec1d-a132-446d-a20b-c6cb645f3994-1.jpg"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 6,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 7,
+            "items": [
+              {
+                "description": "Repeated kneeling armored soldier",
+                "owner_article_id": "fde2ec1d-a132-446d-a20b-c6cb645f3994",
+                "disposition": "represented_once",
+                "canonical_source_page": 3,
+                "source_pdf_object": 151,
+                "repository_path": "public/images/articles/fde2ec1d-a132-446d-a20b-c6cb645f3994-1.jpg"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 8,
+            "items": [
+              {
+                "description": "A seated man reads and writes at a desk beside a window.",
+                "owner_article_id": "0c60bcb6-1921-4744-9f4b-5f4128b27e9e",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/0c60bcb6-1921-4744-9f4b-5f4128b27e9e-1.jpg",
+                "source_pdf_object": 29
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 9,
+            "items": [
+              {
+                "description": "An armored soldier holds a sword and a shield marked with a cross.",
+                "owner_article_id": "7598a2fc-0558-40c6-a62a-1d0395ac542f",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/7598a2fc-0558-40c6-a62a-1d0395ac542f-1.jpg",
+                "source_pdf_object": 33
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 10,
+            "items": [
+              {
+                "description": "A man and a woman bow their heads in a field.",
+                "owner_article_id": "e32f63e4-1228-4a9c-9af1-8207097ca4b9",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/e32f63e4-1228-4a9c-9af1-8207097ca4b9-1.png",
+                "source_pdf_object": 37
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 11,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 12,
+            "items": [
+              {
+                "description": "John, Anna, and Mary Joy Weaver stand beside a Tape Ministry trailer.",
+                "owner_article_id": "6af6714c-d807-49da-b0fd-d0ee20c37915",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6af6714c-d807-49da-b0fd-d0ee20c37915-1.jpg",
+                "source_pdf_object": 45
+              },
+              {
+                "description": "Visitors stand at a Tape Ministry booth displaying recordings and literature.",
+                "owner_article_id": "6af6714c-d807-49da-b0fd-d0ee20c37915",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/6af6714c-d807-49da-b0fd-d0ee20c37915-2.jpg",
+                "source_pdf_object": 44
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 13,
+            "items": [
+              {
+                "description": "Tape Ministry financial table and Home Histories text panel",
+                "disposition": "semantic_HTML",
+                "reason": "typeset table and textual note; no raster/vector illustration to export"
+              },
+              {
+                "description": "Revival Meetings advertisement panel",
+                "disposition": "omitted",
+                "reason": "advertisement excluded from issue inventory"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 14,
+            "items": [
+              {
+                "description": "A kneeling man is surrounded by men holding stones.",
+                "owner_article_id": "5d827809-6784-42c9-9745-03944a506b5c",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/5d827809-6784-42c9-9745-03944a506b5c-1.jpg",
+                "source_pdf_object": 52
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 15,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 16,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 17,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 18,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 19,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 20,
+            "items": [
+              {
+                "description": "A burdened traveler stands before a doorway marked THE LAW.",
+                "owner_article_id": "307ef532-c67e-4056-9de6-770f1415b1cb",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/307ef532-c67e-4056-9de6-770f1415b1cb-1.jpg",
+                "source_pdf_object": 71
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 21,
+            "items": [
+              {
+                "description": "Unique closing statement in gray box",
+                "disposition": "semantic_HTML",
+                "reason": "substantive text, not a pictorial image"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 22,
+            "items": [
+              {
+                "description": "An oval portrait of a young woman.",
+                "owner_article_id": "e284aecb-ae49-4104-8a5c-065b053dda57",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/e284aecb-ae49-4104-8a5c-065b053dda57-1.jpg",
+                "source_pdf_object": 78
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 23,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 24,
+            "items": [
+              {
+                "description": "Costumed performers appear in a theater scene.",
+                "owner_article_id": "56d0d022-65e9-40de-b478-d7d701c03661",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/56d0d022-65e9-40de-b478-d7d701c03661-1.jpg",
+                "source_pdf_object": 85
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 25,
+            "items": [
+              {
+                "description": "Two theater masks show smiling and frowning expressions.",
+                "owner_article_id": "56d0d022-65e9-40de-b478-d7d701c03661",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/56d0d022-65e9-40de-b478-d7d701c03661-2.jpg",
+                "source_pdf_object": 158
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 26,
+            "items": [
+              {
+                "description": "Repeated pale theater-mask background",
+                "owner_article_id": "56d0d022-65e9-40de-b478-d7d701c03661",
+                "disposition": "represented_once",
+                "canonical_source_page": 25,
+                "source_pdf_object": 158,
+                "repository_path": "public/images/articles/56d0d022-65e9-40de-b478-d7d701c03661-2.jpg"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 27,
+            "items": [
+              {
+                "description": "Repeated pale theater-mask background",
+                "owner_article_id": "56d0d022-65e9-40de-b478-d7d701c03661",
+                "disposition": "represented_once",
+                "canonical_source_page": 25,
+                "source_pdf_object": 158,
+                "repository_path": "public/images/articles/56d0d022-65e9-40de-b478-d7d701c03661-2.jpg"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 28,
+            "items": [
+              {
+                "description": "A woman and child kneel with their hands clasped.",
+                "owner_article_id": "e082db11-12b2-4198-be95-1fa751c3cbff",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/e082db11-12b2-4198-be95-1fa751c3cbff-1.jpg",
+                "source_pdf_object": 98
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 29,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 30,
+            "items": [
+              {
+                "description": "Men gathered in prayer illustration",
+                "disposition": "excluded_with_skipped_article",
+                "owner_article_title": "The Power of the Spirit",
+                "source_pdf_object": 105,
+                "reason": "article-specific Copyright 1971 within issue explicit copyright reprint exception"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 31,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 32,
+            "items": [
+              {
+                "description": "Book attribution panel and diamond dividers",
+                "disposition": "excluded_with_skipped_article",
+                "owner_article_title": "The Power of the Spirit",
+                "reason": "belongs to restricted article; typeset publisher panel, not separately exported"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 33,
+            "items": [
+              {
+                "description": "A bird spreads its wings.",
+                "owner_article_id": "d53ed5d5-4e01-429e-b1a1-966f7137f2c4",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/d53ed5d5-4e01-429e-b1a1-966f7137f2c4-1.jpg",
+                "source_pdf_object": 115
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 34,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 35,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 36,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 37,
+            "items": [
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 38,
+            "items": [
+              {
+                "description": "A mailbox stands on a post with a flowering vine.",
+                "owner_article_id": "868090cf-a78d-4dee-b495-fae65e5b30e6",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/868090cf-a78d-4dee-b495-fae65e5b30e6-1.png",
+                "source_pdf_object": 131
+              },
+              {
+                "description": "Separately painted rounded title panel and letter-divider strips",
+                "disposition": "omitted",
+                "reason": "standalone decorative magazine furniture"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 39,
+            "items": [
+              {
+                "description": "Repeated gradient letter-divider strips",
+                "disposition": "omitted",
+                "reason": "standalone decorative magazine furniture"
+              },
+              {
+                "description": "Running page rules, footers/page numbers, section/title bars and plain text-panel fills where present",
+                "disposition": "omitted",
+                "reason": "nonsemantic print-layout furniture; not substantive imagery"
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          },
+          {
+            "page": 40,
+            "items": [
+              {
+                "description": "A lightning storm and a mountain above a lake accompany the printed poem My Name is I AM.",
+                "owner_article_id": "69583771-9cc5-4b3e-aff1-e6c5968f7f50",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/69583771-9cc5-4b3e-aff1-e6c5968f7f50-1.jpg",
+                "source_pdf_object": 140
+              },
+              {
+                "description": "Lightning landscape and mountain/lake photograph are both constituents of the single exported collage",
+                "disposition": "represented_once",
+                "owner_article_id": "69583771-9cc5-4b3e-aff1-e6c5968f7f50",
+                "source_pdf_object": 140,
+                "repository_path": "public/images/articles/69583771-9cc5-4b3e-aff1-e6c5968f7f50-1.jpg"
+              },
+              {
+                "description": "Blue gradient tiled outer frame, magazine masthead, mailing panel, postage box",
+                "disposition": "omitted",
+                "reason": "standalone decorative frame and mailing panel excluded from issue inventory",
+                "source_pdf_objects": [
+                  229,
+                  230,
+                  231,
+                  232,
+                  233,
+                  234,
+                  235,
+                  236,
+                  237,
+                  238,
+                  239,
+                  240,
+                  138,
+                  139
+                ]
+              }
+            ],
+            "visual_review": "reviewed every rendered page; no additional image beyond listed items"
+          }
+        ],
+        "image_reconciliation": {
+          "exported_count": 15,
+          "repeated_uses_represented_once": "Kneeling soldier on pages 5 and 7; theater masks on pages 26 and 27; both page 40 photograph constituents retained in the single source collage.",
+          "restricted_image_count": 1,
+          "overlay_exceptions": "The page 40 title, poem and byline are irreversibly baked into the sole collage raster. Pale tones in the page 9 soldier, pages 25–27 masks, and page 33 wings, plus the page 22 oval vignette, are already encoded in their only source rasters. No separable overlay or reliable inverse-blend evidence exists; original pixels/tones retained and documented. No synthesis or speculative retouching."
+        },
+        "remaining_uncertainty": "No unresolved text, metadata or rights decision. No individual image credit or licence is printed; none is inferred. Unavoidable source-raster treatments are explicitly documented in each affected image record."
+      }
     }
   ],
   "categories": [

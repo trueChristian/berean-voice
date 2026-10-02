@@ -86208,6 +86208,1101 @@
         "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations, including wording, punctuation, paragraphs and meaningful emphasis; no discrepancies remain.",
         "image_review": "Complete page census reconciled; final assets compared with rendered pages and source objects, opened at full useful resolution and fully decoded by Pillow, ImageMagick and WebKit canvas. Image-specific transformations and unavoidable source exceptions are recorded with each asset."
       }
+    },
+    {
+      "id": "fde2ec1d-a132-446d-a20b-c6cb645f3994",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 1,
+      "title": "A Different Kind of War",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 7
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "0648d4df-242a-5815-8d22-08b555d1b542"
+        ]
+      },
+      "topics": [
+        "4198e6fb-4793-5bd3-afc8-0b75b031cdfd"
+      ],
+      "html": {
+        "repository_path": "content/articles/fde2ec1d-a132-446d-a20b-c6cb645f3994.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fde2ec1d-a132-446d-a20b-c6cb645f3994-1.jpg",
+          "public_path": "/images/articles/fde2ec1d-a132-446d-a20b-c6cb645f3994-1.jpg",
+          "source_page": 3,
+          "role": "illustration",
+          "alt": "A kneeling armored soldier holds a sword.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Original gray backdrop is part of source xref 13. The same illustration appears at reduced size on pages 5 and 7 (xref 151) and is represented once.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 13,
+          "width": 154,
+          "height": 197,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 154x197 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 154×197",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Distinct issue appearance of the work also published under article UUID 7323f3a0-75b1-4692-bfc1-372a9af298a1; this May/June 2002 source differs in wording, capitalization, punctuation, layout and images and was verified independently. Exact original variants include “They see”, “loses”, “enemies most subtle”, “father of them”, “Yeah”, “two edged”, “seen clear”, “a Name”, “lamb”, “Holy Strategies in the War”, “all wise” and “lay down your life”. Duplicate pull quotes on pages 5 and 7 omitted; their complete wording is in the body. The kneeling armored soldier on pages 5 and 7 repeats the page 3 image and is represented once. No restrictions in pages 3–7.",
+        "text_review": "All source pages and continuation visually compared with final HTML for wording, punctuation, paragraph boundaries, meaningful emphasis and reading order; no unresolved text. No footnotes.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains."
+      }
+    },
+    {
+      "id": "0c60bcb6-1921-4744-9f4b-5f4128b27e9e",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 2,
+      "title": "Caught by the Word",
+      "subtitle": "A Reader’s Testimony",
+      "section": null,
+      "byline": {
+        "raw": "Irina Azar",
+        "authors": [
+          {
+            "name": "Irina Azar"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 19,
+        "pages": [
+          8,
+          19
+        ]
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "9673646c-3954-5324-9acb-3e3f17647e91"
+      ],
+      "html": {
+        "repository_path": "content/articles/0c60bcb6-1921-4744-9f4b-5f4128b27e9e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/0c60bcb6-1921-4744-9f4b-5f4128b27e9e-1.jpg",
+          "public_path": "/images/articles/0c60bcb6-1921-4744-9f4b-5f4128b27e9e-1.jpg",
+          "source_page": 8,
+          "role": "illustration",
+          "alt": "A seated man reads and writes at a desk beside a window.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Separate title panel and page furniture omitted.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 29,
+          "width": 241,
+          "height": 270,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 241x270 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 241×270",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete letter and nonconsecutive page 19 continuation retained, including exact italic sign-off and editor’s response. Byline is the printed closing signature; no location stated. Page 19 upper article belongs to another candidate and is not part of this letter. No footnotes or restrictions.",
+        "text_review": "All source pages and continuation visually compared with final HTML for wording, punctuation, paragraph boundaries, meaningful emphasis and reading order; no unresolved text. No footnotes.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "7598a2fc-0558-40c6-a62a-1d0395ac542f",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 3,
+      "title": "I Am a Soldier",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 9
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "4198e6fb-4793-5bd3-afc8-0b75b031cdfd",
+        "bf6aa1d7-d4cc-5eb8-8e5a-23fb2055f914"
+      ],
+      "html": {
+        "repository_path": "content/articles/7598a2fc-0558-40c6-a62a-1d0395ac542f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7598a2fc-0558-40c6-a62a-1d0395ac542f-1.jpg",
+          "public_path": "/images/articles/7598a2fc-0558-40c6-a62a-1d0395ac542f-1.jpg",
+          "source_page": 9,
+          "role": "illustration",
+          "alt": "An armored soldier holds a sword and a shield marked with a cross.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Separate article text omitted. The pale appearance is already encoded in the sole source raster; the source contains no soft mask, separable opacity wash, or reliable original black-point evidence for an exact inverse. Source tones retained as the unavoidable baked-treatment exception.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 33,
+          "width": 505,
+          "height": 681,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 505x681 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 505×681",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Devotional declaration; no author is printed. Opening italic scripture and six prose paragraphs with bold lead phrases preserved; paragraph line wraps are print layout. Exact ellipsis and final “Here I stand….will you” punctuation retained. No footnotes or restrictions.",
+        "text_review": "All source pages and continuation visually compared with final HTML for wording, punctuation, paragraph boundaries, meaningful emphasis and reading order; no unresolved text. No footnotes.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "e32f63e4-1228-4a9c-9af1-8207097ca4b9",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 4,
+      "title": "Growing in Gratitude",
+      "subtitle": null,
+      "section": "- A Spiritual Exercise -",
+      "byline": {
+        "raw": "by Andrew & Elisabeth Weaver",
+        "authors": [
+          {
+            "name": "Andrew Weaver"
+          },
+          {
+            "name": "Elisabeth Weaver"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 11
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": []
+      },
+      "topics": [
+        "10340eb3-62f2-5d38-8c0e-36ca3bd2503d",
+        "6c7b3485-0894-5c43-9ca5-dfb913e45c90"
+      ],
+      "html": {
+        "repository_path": "content/articles/e32f63e4-1228-4a9c-9af1-8207097ca4b9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e32f63e4-1228-4a9c-9af1-8207097ca4b9-1.png",
+          "public_path": "/images/articles/e32f63e4-1228-4a9c-9af1-8207097ca4b9-1.png",
+          "source_page": 10,
+          "role": "illustration",
+          "alt": "A man and a woman bow their heads in a field.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Source xref 37 recovered with its published oval clipping path. Separately painted oval outline, title, byline, and section banner omitted.",
+          "transformations": [
+            "Original 333×291 image pixels preserved; source cubic oval clip represented by alpha mask at original dimensions; separately painted outline omitted."
+          ],
+          "source_pdf_object": 37,
+          "width": 333,
+          "height": 291,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "PNG 333x291 sRGB None 28.35x28.35",
+            "browser": "WebKit image.decode() succeeded at 333×291",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire article through final sentence visually checked. Source title begins beneath section label. One p10 oval illustration; no illustrations on p11. No footnotes or article-specific permission notice. All body paragraphs regular weight; title/byline omitted from HTML under metadata contract.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "6af6714c-d807-49da-b0fd-d0ee20c37915",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 5,
+      "title": "TAPE MINISTRY ROAD TEAM",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "--Bro. Denny",
+        "authors": [
+          {
+            "name": "Bro. Denny"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 13
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [
+        "b71d2eed-1b6b-5ca4-84e5-3ea0f3448e82",
+        "0ade9728-d895-5710-84b2-09af80abdc84"
+      ],
+      "html": {
+        "repository_path": "content/articles/6af6714c-d807-49da-b0fd-d0ee20c37915.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6af6714c-d807-49da-b0fd-d0ee20c37915-1.jpg",
+          "public_path": "/images/articles/6af6714c-d807-49da-b0fd-d0ee20c37915-1.jpg",
+          "source_page": 12,
+          "role": "photograph",
+          "alt": "John, Anna, and Mary Joy Weaver stand beside a Tape Ministry trailer.",
+          "caption": "John, Anna, and Mary Joy Weaver—\nthe Tape Ministry road team",
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean source xref 45 recovered. Separate overlaid caption and rounded gray frame omitted; intrinsic trailer signage retained.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 45,
+          "width": 371,
+          "height": 243,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 371x243 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 371×243",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/6af6714c-d807-49da-b0fd-d0ee20c37915-2.jpg",
+          "public_path": "/images/articles/6af6714c-d807-49da-b0fd-d0ee20c37915-2.jpg",
+          "source_page": 12,
+          "role": "photograph",
+          "alt": "Visitors stand at a Tape Ministry booth displaying recordings and literature.",
+          "caption": "The Tape\nMinistry booth at\na homeschool\ncurriculum fair",
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean source xref 44 recovered. Separate overlaid caption and rounded gray frame omitted; intrinsic booth signage retained.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 44,
+          "width": 372,
+          "height": 258,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 372x258 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 372×258",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Signed substantive ministry report on pp12–13; includes two p12 photographs/captions and p13 financial table, transcribed semantically with printed values and bold totals preserved. Italic final sign-off retained. Separate Home Histories note and Revival Meetings advertisement not part of this report. No article-specific permission notice.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "0bf1b51d-876c-4dea-b470-2be1ea1bfbe3",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 6,
+      "title": "Home Histories",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "--Bro. Denny",
+        "authors": [
+          {
+            "name": "Bro. Denny"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 13
+      },
+      "categories": {
+        "primary": "9514e8ea-e431-5806-a5f3-0953a922c074",
+        "additional": []
+      },
+      "topics": [
+        "76b8f216-8c11-5378-90f6-37fe3f41d329"
+      ],
+      "html": {
+        "repository_path": "content/articles/0bf1b51d-876c-4dea-b470-2be1ea1bfbe3.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Substantive signed editorial note included despite announcing absence of a regular historical article. Salutation, two paragraphs, and italic sign-off verified. Gray panel and frame are layout furniture; no image. No article-specific permission notice.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "Source article visually inspected; no associated image is present."
+      }
+    },
+    {
+      "id": "5d827809-6784-42c9-9745-03944a506b5c",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 7,
+      "title": "If You Faced Death Right Now",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Keith Daniel",
+        "authors": [
+          {
+            "name": "Keith Daniel"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 19
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "94dddad2-cc75-5292-86c4-8f450af98ad4"
+        ]
+      },
+      "topics": [
+        "220fa5b4-8cd4-53ca-ba1c-e06e36c60b58",
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "280f7e50-0dcd-51d6-a13f-3b69f197f4b7"
+      ],
+      "html": {
+        "repository_path": "content/articles/5d827809-6784-42c9-9745-03944a506b5c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/5d827809-6784-42c9-9745-03944a506b5c-1.jpg",
+          "public_path": "/images/articles/5d827809-6784-42c9-9745-03944a506b5c-1.jpg",
+          "source_page": 14,
+          "role": "illustration",
+          "alt": "A kneeling man is surrounded by men holding stones.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean source xref 52 recovered; no image overlay.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 52,
+          "width": 243,
+          "height": 217,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 243x217 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 243×217",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Full article visually read on printed pages 14–19 through its final line; wording, punctuation, paragraphs and emphasis compared with authored HTML. Source Revelations, my self, and unmatched quotation marks retained. The my self word division was verified with a 4× page-region render.",
+        "formatting_review": "Two italic opening scripture quotations and their references retained, including Revelations 20:11-15. Two bold you words on page 15 preserved. Three unique bold section headings retained; duplicate decorative pullquotes on page 17 right and page 19 right omitted. Column/page sentence joins and discretionary hyphens normalized; no footnotes.",
+        "inventory_note": "Article starts page 14 and ends above Caught by the Word continuation on page 19. One illustration on page 14 belongs to this article; no other imagery on pages 15–19. No printed image caption or individual credit and no article-specific reuse restriction.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "307ef532-c67e-4056-9de6-770f1415b1cb",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 8,
+      "title": "I Am Living Under the Law...",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "f4fa872c-34fa-5c6f-baaa-5559ebddf537",
+        "3b69fdad-e957-5e8b-a946-db683c653271"
+      ],
+      "html": {
+        "repository_path": "content/articles/307ef532-c67e-4056-9de6-770f1415b1cb.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/307ef532-c67e-4056-9de6-770f1415b1cb-1.jpg",
+          "public_path": "/images/articles/307ef532-c67e-4056-9de6-770f1415b1cb-1.jpg",
+          "source_page": 20,
+          "role": "illustration",
+          "alt": "A burdened traveler stands before a doorway marked THE LAW.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean source xref 71 recovered. THE LAW lettering is intrinsic substantive image content and retained.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 71,
+          "width": 216,
+          "height": 304,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 216x304 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 216×304",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All fourteen bold conditional headings and explanatory paragraphs visually verified through final line. Italic fully preserved. Final bold boxed conclusion is unique substantive text and is included once after the final paragraph. Illustration p20 has intrinsic THE LAW lettering. No byline or article-specific permission notice, and no footnotes.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "e284aecb-ae49-4104-8a5c-065b053dda57",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 9,
+      "title": "The World Didn’t Satisfy Me",
+      "subtitle": null,
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Penny Tindall",
+        "authors": [
+          {
+            "name": "Penny Tindall"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 23
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "05c2dfac-6ad8-5ea0-99ef-d6022f8cb346"
+      ],
+      "html": {
+        "repository_path": "content/articles/e284aecb-ae49-4104-8a5c-065b053dda57.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e284aecb-ae49-4104-8a5c-065b053dda57-1.jpg",
+          "public_path": "/images/articles/e284aecb-ae49-4104-8a5c-065b053dda57-1.jpg",
+          "source_page": 22,
+          "role": "portrait",
+          "alt": "An oval portrait of a young woman.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Source xref 78 retains its baked oval vignette and white surroundings; larger PDF clip does not cut the source image.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 78,
+          "width": 204,
+          "height": 271,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 204x271 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 204×271",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Complete source article visually compared with HTML, including continuations, exact wording, punctuation, paragraph boundaries and meaningful emphasis. Print-only column/page breaks and discretionary hyphens joined.",
+        "inventory_note": "Full testimony, introductory Psalm quotation and closing sign-off retained. Source phrases “came to me and starting praying,” “had been searching!” and “the Master to used for His glory” preserved unchanged.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "56d0d022-65e9-40de-b478-d7d701c03661",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 10,
+      "title": "The Dangers of Drama",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 32,
+        "pages": [
+          24,
+          25,
+          26,
+          27,
+          32
+        ]
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "topics": [
+        "23cce848-88a2-5732-8bfd-e371b31d81d3",
+        "b43eaaa6-ba48-5bc1-b5bb-4c86e586adf4"
+      ],
+      "html": {
+        "repository_path": "content/articles/56d0d022-65e9-40de-b478-d7d701c03661.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/56d0d022-65e9-40de-b478-d7d701c03661-1.jpg",
+          "public_path": "/images/articles/56d0d022-65e9-40de-b478-d7d701c03661-1.jpg",
+          "source_page": 24,
+          "role": "illustration",
+          "alt": "Costumed performers appear in a theater scene.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean source xref 85 recovered; no image overlay.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 85,
+          "width": 360,
+          "height": 242,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 360x242 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 360×242",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/56d0d022-65e9-40de-b478-d7d701c03661-2.jpg",
+          "public_path": "/images/articles/56d0d022-65e9-40de-b478-d7d701c03661-2.jpg",
+          "source_page": 25,
+          "role": "illustration",
+          "alt": "Two theater masks show smiling and frowning expressions.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean source xref 158 recovered without separate body text and pull quote. Same background is repeated on pages 26 and 27 and represented once. Pale tones are encoded in the sole source raster; no soft mask, separable wash, or reliable black-point evidence exists for an exact inverse, so published tones retained.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 158,
+          "width": 263,
+          "height": 233,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 263x233 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 263×233",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Complete source article visually compared with HTML, including continuations, exact wording, punctuation, paragraph boundaries and meaningful emphasis. Print-only column/page breaks and discretionary hyphens joined.",
+        "inventory_note": "Nonconsecutive continuation from page 27 to page 32 included. Tozer quotation and all seven subheadings retained. Repeated decorative pull quote on page 25 omitted because it repeats substantive body wording; its abbreviated punctuation is a layout treatment. Three repeated background masks uses represented once by image specialist. No footnotes.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "e082db11-12b2-4198-be95-1fa751c3cbff",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 11,
+      "title": "The Longing Prayers of a Sister",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 29
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "be5ecbbb-b97b-5534-b066-beb46cabe236"
+      ],
+      "html": {
+        "repository_path": "content/articles/e082db11-12b2-4198-be95-1fa751c3cbff.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e082db11-12b2-4198-be95-1fa751c3cbff-1.jpg",
+          "public_path": "/images/articles/e082db11-12b2-4198-be95-1fa751c3cbff-1.jpg",
+          "source_page": 28,
+          "role": "illustration",
+          "alt": "A woman and child kneel with their hands clasped.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean source xref 98 recovered; no image overlay.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 98,
+          "width": 163,
+          "height": 219,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 163x219 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 163×219",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Complete source article visually compared with HTML, including continuations, exact wording, punctuation, paragraph boundaries and meaningful emphasis. Print-only column/page breaks and discretionary hyphens joined.",
+        "inventory_note": "No byline printed. All six italic subsection headings, inline bold invocations and final bold italic prayer retained. Source “separation form the world” and “I brings these prayers” preserved unchanged.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "d53ed5d5-4e01-429e-b1a1-966f7137f2c4",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 13,
+      "title": "Hopes and Dreams Under His Wings",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Daniel Kenaston",
+        "authors": [
+          {
+            "name": "Daniel Kenaston"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 37
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": []
+      },
+      "topics": [
+        "bd34abbc-25f2-5c08-87bf-2245fcc82609",
+        "c987aaa5-9902-5dc1-abf1-1d58331a330f"
+      ],
+      "html": {
+        "repository_path": "content/articles/d53ed5d5-4e01-429e-b1a1-966f7137f2c4.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d53ed5d5-4e01-429e-b1a1-966f7137f2c4-1.jpg",
+          "public_path": "/images/articles/d53ed5d5-4e01-429e-b1a1-966f7137f2c4-1.jpg",
+          "source_page": 33,
+          "role": "illustration",
+          "alt": "A bird spreads its wings.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean source xref 115 recovered without title or white publisher panels. Pale tones are encoded in the sole source raster; no separable wash or reliable original black-point evidence exists for an exact inverse, so published tones retained.",
+          "transformations": [
+            "DeviceGray JPEG converted to three-channel sRGB baseline JPEG at original dimensions, quality 98, 4:4:4, 72 dpi; no inversion required."
+          ],
+          "source_pdf_object": 115,
+          "width": 504,
+          "height": 119,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 504x119 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 504×119",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Title occupies two equally styled lines: “Hopes and Dreams” and “Under His Wings”. Opening Psalms 36:7-9 quotation, four italic section headings and concluding family sign-off retained. Source spellings and errors retained, including “peddling”, “rather than the on the things”, “technology. The”, and missing punctuation between “throne” and “The thought”. No footnotes or article-specific restriction.",
+        "text_review": "Every source page visually compared against the complete HTML; only print layout joins and discretionary hyphens normalized. Source punctuation, case, paragraph structure, headings, scripture quotation and sign-offs preserved.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "868090cf-a78d-4dee-b495-fae65e5b30e6",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 14,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 38,
+        "end": 39
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": []
+      },
+      "topics": [
+        "fcaa8e3f-d0bd-5591-8638-314cf1c87857"
+      ],
+      "html": {
+        "repository_path": "content/articles/868090cf-a78d-4dee-b495-fae65e5b30e6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/868090cf-a78d-4dee-b495-fae65e5b30e6-1.png",
+          "public_path": "/images/articles/868090cf-a78d-4dee-b495-fae65e5b30e6-1.png",
+          "source_page": 38,
+          "role": "illustration",
+          "alt": "A mailbox stands on a post with a flowering vine.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Original PNG extracted from FlateDecode source xref 131. Source-gray backdrop and intrinsic mailbox lettering retained; separate rounded panel, title, and decorative letter-divider strips omitted.",
+          "transformations": [
+            "Original embedded asset bytes retained without recompression."
+          ],
+          "source_pdf_object": 131,
+          "width": 98,
+          "height": 157,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "PNG 98x157 Gray None 37.8x37.8",
+            "browser": "WebKit image.decode() succeeded at 98×157",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Editorial introduction, five-item list and Waiting to hear… --The Editors sign-off retained, followed by all eight letters in column reading order. Sign-offs/locations preserved: Richmond, TX; A Brother and Sister in Christ; Middletown, PA; Idaho; El Paso, IL; Belleville, IL; South Africa; Alexandria, SD. Source errors “of the on the front covers” and “as we playing” retained. Decorative grayscale divider strips omitted as standalone decorative matter. No footnotes or permission restriction.",
+        "text_review": "Every source page visually compared against the complete HTML; only print layout joins and discretionary hyphens normalized. Source punctuation, case, paragraph structure, headings, scripture quotation and sign-offs preserved.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
+    },
+    {
+      "id": "69583771-9cc5-4b3e-aff1-e6c5968f7f50",
+      "language": "en",
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 15,
+      "title": "My Name is I AM",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Helen Mallicoa",
+        "authors": [
+          {
+            "name": "Helen Mallicoa"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 40,
+        "end": 40
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "9538d8fb-7c90-57aa-b14d-af52754f5f6c"
+      ],
+      "html": {
+        "repository_path": "content/articles/69583771-9cc5-4b3e-aff1-e6c5968f7f50.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/69583771-9cc5-4b3e-aff1-e6c5968f7f50-1.jpg",
+          "public_path": "/images/articles/69583771-9cc5-4b3e-aff1-e6c5968f7f50-1.jpg",
+          "source_page": 40,
+          "role": "illustration",
+          "alt": "A lightning storm and a mountain above a lake accompany the printed poem My Name is I AM.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Sole source xref 140 is a flattened collage containing lightning and mountain/lake photographs plus title, poem, and Helen Mallicoa byline. No clean photograph constituents or separable typography exist in the PDF. Full original source raster content retained as an explicit unavoidable baked-typography exception; no pixels synthesized. Separate outer decorative frame and mailing panel omitted.",
+          "transformations": [
+            "Source RGB JPEG had one trailing newline byte after EOI; re-encoded as standard baseline sRGB JPEG, 72 dpi, quality 98, 4:4:4 at unchanged 504×503 dimensions. Full published collage preserved."
+          ],
+          "source_pdf_object": 140,
+          "width": 504,
+          "height": 503,
+          "verification": {
+            "decoders": [
+              "Pillow complete raster load",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 504x503 sRGB None 72x72",
+            "browser": "WebKit image.decode() succeeded at 504×503",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Substantive titled poem on back cover retained, with three stanzas of four, four and three lines. The printed surname “Mallicoa” verified from enlarged original raster and preserved without adding a final t. Mailing panel, publication logo and decorative outer framing excluded. No footnotes or permission restriction.",
+        "text_review": "Every source page visually compared against the complete HTML; only print layout joins and discretionary hyphens normalized. Source punctuation, case, paragraph structure, headings, scripture quotation and sign-offs preserved.",
+        "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations for exact wording, punctuation, paragraph boundaries and meaningful emphasis. Confirmed discrepancies were corrected; no unresolved text or formatting discrepancy remains.",
+        "image_review": "All 40 source pages visually inventoried. Every associated image is represented once in this HTML, fully decoded by Pillow and ImageMagick without warnings, and decoded and visually checked in WebKit. Source objects, published crops, transformations and unavoidable baked treatments are documented per image."
+      }
     }
   ],
   "skipped": [
@@ -87554,6 +88649,23 @@
       "reason": "The closing source notice explicitly says the poem is printed by permission from Above Rubies; the complete two-page poem and its spanning illustration are excluded.",
       "detected_notices": [
         "Printed by permission from\nAbove Rubies\nPO Box 681687\nFranklin, TN 37068-1687"
+      ],
+      "html_exported": false,
+      "images_exported": false
+    },
+    {
+      "issue_id": "3fba45ba-eb36-49bf-9272-4767bc5087d3",
+      "sequence": 12,
+      "title": "The Power of the Spirit",
+      "byline": "by Andrew Weaver",
+      "source_pages": {
+        "start": 30,
+        "end": 32
+      },
+      "reason": "The review’s closing publisher box carries an individual copyright notice, and this issue’s explicit reprint policy excludes material where a copyright is indicated. Separate permission is therefore not established under the publisher’s general reuse authorization; the entire review and its page 30 illustration are excluded. William Law is the reviewed book’s author; Andrew Weaver is the review byline.",
+      "detected_notices": [
+        "This edition edited by Dave Hunt\nCopyright 1971",
+        "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address."
       ],
       "html_exported": false,
       "images_exported": false
