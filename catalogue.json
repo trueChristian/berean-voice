@@ -17900,6 +17900,1341 @@
         ],
         "partial_delivery_authorization": "The project owner explicitly approved a draft pull request containing the ten completed articles, with A Quiet Place to Stand clearly recorded as missing, on 2026-10-02."
       }
+    },
+    {
+      "id": "fda64a2f-faeb-4516-9c08-4259c95e88c5",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "May/June 2003",
+        "year": 2003,
+        "months": [
+          5,
+          6
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 9,
+      "issue_number": 3,
+      "source_id": "heartbeat-remnant-2003-05",
+      "slug": "heartbeat-remnant-2003-05",
+      "source": {
+        "filename": "2003-05-remnant.pdf",
+        "sha256": "2ad02883fd8a2469f2384fce0fe305e2fd2337c44db6873c17f97b066d8b0774",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers (logical pages 1 and 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "page_by_page_visual_review": "completed_all_36_pages",
+        "contents_reconciliation": {
+          "candidate_count": 11,
+          "included_count": 10,
+          "skipped_count": 1,
+          "note": "All eleven contents entries accounted for. Article pages override contents simplifications: Spirit continues on page 10; Allegiance continues on page 35; Anabaptism ends on page 28. The book review is by Dean Taylor, while Watchman Nee is the reviewed book author. The poem title retains its printed mixed case."
+        },
+        "page_inventory": [
+          {
+            "page": 1,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "front cover"
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "table of contents and general masthead"
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 4,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 5,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 6,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 7,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "disposition": "skipped_article_specific_restriction"
+              }
+            ]
+          },
+          {
+            "page": 9,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 2,
+                "disposition": "skipped_article_specific_restriction"
+              }
+            ]
+          },
+          {
+            "page": 10,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 1,
+                "article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+                "disposition": "included"
+              },
+              {
+                "sequence": 2,
+                "disposition": "skipped_article_specific_restriction"
+              }
+            ]
+          },
+          {
+            "page": 11,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "article_id": "012668c1-7a56-4da9-8230-f5e11951ac57",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "article_id": "012668c1-7a56-4da9-8230-f5e11951ac57",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 13,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "article_id": "012668c1-7a56-4da9-8230-f5e11951ac57",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 14,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 3,
+                "article_id": "012668c1-7a56-4da9-8230-f5e11951ac57",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 15,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 16,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 17,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 18,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 19,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 20,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 21,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 5,
+                "article_id": "a796463b-e5b4-45fe-bf64-af91daa42aed",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 22,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "ministry financial appeal and tape advertisement"
+              }
+            ]
+          },
+          {
+            "page": 23,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 6,
+                "article_id": "b8d1f881-2f87-4891-afb9-b9dc18852c3a",
+                "disposition": "included"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "upper-page tape advertisements"
+              }
+            ]
+          },
+          {
+            "page": 24,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "article_id": "530039b4-05cd-48ab-b133-f10cb1b4d7c3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 25,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "article_id": "530039b4-05cd-48ab-b133-f10cb1b4d7c3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 26,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "article_id": "530039b4-05cd-48ab-b133-f10cb1b4d7c3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 27,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 7,
+                "article_id": "530039b4-05cd-48ab-b133-f10cb1b4d7c3",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 28,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 8,
+                "article_id": "5f082857-caff-4a9c-a0a6-7c35388a887b",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 29,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "meeting advertisement"
+              }
+            ]
+          },
+          {
+            "page": 30,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "article_id": "15353286-be34-4e21-a4d9-d57f0584a70e",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 31,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 9,
+                "article_id": "15353286-be34-4e21-a4d9-d57f0584a70e",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 32,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "article_id": "a32a9763-ddd5-4613-bf57-e9bbbbbb8310",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 33,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 10,
+                "article_id": "a32a9763-ddd5-4613-bf57-e9bbbbbb8310",
+                "disposition": "included"
+              },
+              {
+                "disposition": "omitted",
+                "reason": "separate book ordering/online-access advertisement"
+              }
+            ]
+          },
+          {
+            "page": 34,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 11,
+                "article_id": "d7444a40-68ff-4745-8687-38b97b984178",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 35,
+            "visual_review": "completed",
+            "items": [
+              {
+                "sequence": 4,
+                "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "disposition": "included"
+              },
+              {
+                "sequence": 11,
+                "article_id": "d7444a40-68ff-4745-8687-38b97b984178",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "page": 36,
+            "visual_review": "completed",
+            "items": [
+              {
+                "disposition": "omitted",
+                "reason": "back cover, scripture arrangement and mailing panel"
+              }
+            ]
+          }
+        ],
+        "footnotes": "No source footnotes found in eligible articles; source sidebars and closing author notes retained in their owning articles.",
+        "title_match_review": [
+          {
+            "title": "A Change of Allegiance",
+            "existing_id": "4d5189ec-c866-4cdc-8ba1-749ec3c1afa4",
+            "resolution": "Distinct May/June 2003 Dean & Tania Taylor testimony; the existing article is a 2008 Special Edition David Bercot book review."
+          },
+          {
+            "title": "Precious Letters from Our Readers",
+            "resolution": "Recurring section; all five May/June 2003 letters are new and differ from the 21 indexed reader columns."
+          }
+        ],
+        "remaining_uncertainty": [
+          "Individual image creators and licences are not identified; the general masthead stock-image credit does not assign particular assets.",
+          "Three images retain an unavoidable pale wash flattened into the sole source raster (lion, woodland steps, mountain/lake). Native low-resolution source pixels were preserved without synthetic restoration."
+        ],
+        "page_by_page_image_census": [
+          {
+            "page": 1,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Colored outer cover field and burning-houses cover collage",
+                "pdf_objects": [
+                  207,
+                  211
+                ],
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "front cover"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 2,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Six small article thumbnails (lion, woman and child, family, gambling, martyrdom, portrait)",
+                "pdf_objects": [
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ],
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "table of contents and general masthead"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 3,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Roaring lion behind heading, byline and scripture",
+                "owner_article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+                "pdf_object": 13,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/e94f1b0c-ab32-4323-8d3b-4bc60ea82ace-1.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 4,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 5,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 6,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Man wrestling lion illustration",
+                "owner_article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+                "pdf_object": 23,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/e94f1b0c-ab32-4323-8d3b-4bc60ea82ace-2.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 7,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 8,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Prophet addressing listeners illustration",
+                "pdf_object": 30,
+                "owner_article_title": "Picture of a Prophet",
+                "disposition": "excluded with skipped article",
+                "reason": "Individual ©1994 by Leonard Ravenhill, Lindale, TX notice combined with printed masthead policy excludes this article; no UUID or export."
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 9,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 10,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 11,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Woman and young child illustration",
+                "owner_article_id": "012668c1-7a56-4da9-8230-f5e11951ac57",
+                "pdf_object": 40,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/012668c1-7a56-4da9-8230-f5e11951ac57-1.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 1
+          },
+          {
+            "page": 12,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 13,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 14,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 15,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Soldiers photograph",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 53,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-1.jpg"
+              },
+              {
+                "description": "Family photograph in published oval crop",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 54,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-2.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 2
+          },
+          {
+            "page": 16,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated soldiers thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 146,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-1.jpg"
+              },
+              {
+                "description": "Repeated oval family thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 145,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-2.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 2
+          },
+          {
+            "page": 17,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated soldiers thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 146,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-1.jpg"
+              },
+              {
+                "description": "Repeated oval family thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 145,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-2.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 2
+          },
+          {
+            "page": 18,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated soldiers thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 146,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-1.jpg"
+              },
+              {
+                "description": "Repeated oval family thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 145,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-2.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 2
+          },
+          {
+            "page": 19,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated soldiers thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 146,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-1.jpg"
+              },
+              {
+                "description": "Repeated oval family thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 145,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-2.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 2
+          },
+          {
+            "page": 20,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated soldiers thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 146,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-1.jpg"
+              },
+              {
+                "description": "Repeated oval family thumbnail",
+                "owner_article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+                "pdf_object": 145,
+                "disposition": "represented once because repeated use of same image",
+                "canonical_export": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-2.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 2
+          },
+          {
+            "page": 21,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Woodland stone steps background photograph",
+                "owner_article_id": "a796463b-e5b4-45fe-bf64-af91daa42aed",
+                "pdf_object": 73,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/a796463b-e5b4-45fe-bf64-af91daa42aed-1.jpg"
+              }
+            ],
+            "layout_note": "Base image object73 painted first inside rectangular clip. Separate CCITT stencil objects74–80 form twelve painted frame segments, followed by separate poem/title text. Frame, title and poem typography omitted. Only source raster contains flattened pale wash, retained and documented. No soft mask, transparency group, second base or exact blend evidence exists.",
+            "image_count": 1
+          },
+          {
+            "page": 22,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Cassette and magazine cover illustrations",
+                "pdf_objects": [
+                  84,
+                  85
+                ],
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "ministry financial appeal, tape advertisement"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 23,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Mountain, woodland and lakes background photograph",
+                "owner_article_id": "b8d1f881-2f87-4891-afb9-b9dc18852c3a",
+                "pdf_object": 89,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/b8d1f881-2f87-4891-afb9-b9dc18852c3a-1.jpg"
+              }
+            ],
+            "layout_note": "Separate top tape announcements excluded as advertisement. Base object89 lies inside rectangular clip; title, poem text and decorative frame are separately painted and omitted. Flattened source pale wash retained and documented; no soft mask, transparency group, second base or exact blend evidence exists.",
+            "image_count": 1
+          },
+          {
+            "page": 24,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Roulette table illustration",
+                "owner_article_id": "530039b4-05cd-48ab-b133-f10cb1b4d7c3",
+                "pdf_object": 93,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/530039b4-05cd-48ab-b133-f10cb1b4d7c3-1.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 25,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 26,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 27,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 28,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Martyrdom illustration",
+                "owner_article_id": "5f082857-caff-4a9c-a0a6-7c35388a887b",
+                "pdf_object": 106,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/5f082857-caff-4a9c-a0a6-7c35388a887b-1.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 29,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Meeting notice decorative border and shaded panel",
+                "pdf_objects": [],
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "meeting advertisement"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          },
+          {
+            "page": 30,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 31,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 32,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Watchman Nee portrait",
+                "owner_article_id": "a32a9763-ddd5-4613-bf57-e9bbbbbb8310",
+                "pdf_object": 119,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/a32a9763-ddd5-4613-bf57-e9bbbbbb8310-1.jpg"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 1
+          },
+          {
+            "page": 33,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 34,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Mailbox illustration",
+                "owner_article_id": "d7444a40-68ff-4745-8687-38b97b984178",
+                "pdf_object": 126,
+                "disposition": "exported",
+                "canonical_export": "public/images/articles/d7444a40-68ff-4745-8687-38b97b984178-1.png"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 1
+          },
+          {
+            "page": 35,
+            "visually_inspected": true,
+            "images": [],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported. Separate shaded pull-quote/panel backgrounds, bars, header treatments and letter dividers are publisher layout and omitted; no source illustration is concealed by treating these as images.",
+            "image_count": 0,
+            "visual_finding": "No photograph, illustration, article image background, score or substantive graphic is visible."
+          },
+          {
+            "page": 36,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Colored outer back-cover field and orange-tree picture with lettering",
+                "pdf_objects": [
+                  207,
+                  133
+                ],
+                "disposition": "omitted under issue-inventory exclusion",
+                "exclusion": "back cover and mailing panel"
+              }
+            ],
+            "layout_note": "Running footer, page number, rules and typographic layout are not exported.",
+            "image_count": 1
+          }
+        ],
+        "image_verification": {
+          "final_export_count": 11,
+          "final_images_against_pdf": "verified_by_ai",
+          "complete_decoders": [
+            "Pillow complete raster load",
+            "ImageMagick complete raster decode"
+          ],
+          "browser_compatible_verification": {
+            "renderer": "Skia via @napi-rs/canvas, complete raster decode, drawImage and canvas readback",
+            "checks": [
+              {
+                "path": "public/images/articles/e94f1b0c-ab32-4323-8d3b-4bc60ea82ace-1.jpg",
+                "width": 242,
+                "height": 429,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/e94f1b0c-ab32-4323-8d3b-4bc60ea82ace-2.jpg",
+                "width": 287,
+                "height": 358,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/012668c1-7a56-4da9-8230-f5e11951ac57-1.jpg",
+                "width": 243,
+                "height": 194,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-1.jpg",
+                "width": 234,
+                "height": 229,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/7b42b079-836b-4a7b-aef5-dc377f6830f3-2.jpg",
+                "width": 309,
+                "height": 257,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/a796463b-e5b4-45fe-bf64-af91daa42aed-1.jpg",
+                "width": 492,
+                "height": 668,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/b8d1f881-2f87-4891-afb9-b9dc18852c3a-1.jpg",
+                "width": 496,
+                "height": 453,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/530039b4-05cd-48ab-b133-f10cb1b4d7c3-1.jpg",
+                "width": 330,
+                "height": 247,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/5f082857-caff-4a9c-a0a6-7c35388a887b-1.jpg",
+                "width": 156,
+                "height": 377,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/a32a9763-ddd5-4613-bf57-e9bbbbbb8310-1.jpg",
+                "width": 171,
+                "height": 226,
+                "complete_canvas_readback": true
+              },
+              {
+                "path": "public/images/articles/d7444a40-68ff-4745-8687-38b97b984178-1.png",
+                "width": 98,
+                "height": 157,
+                "complete_canvas_readback": true
+              }
+            ]
+          },
+          "jpeg_colour": "Ten baseline RGB/sRGB JPEGs, nonzero 72 dpi density; no CMYK source assets or inversion.",
+          "png_colour": "One original lossless grayscale PNG mailbox illustration.",
+          "whole_issue_image_reconciliation": "complete",
+          "image_evidence": [
+            {
+              "article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+              "sequence": 1,
+              "object": 13,
+              "source_page": 3,
+              "source_size": [
+                245,
+                431
+              ],
+              "final_size": [
+                242,
+                429
+              ],
+              "native_pixel_crop": [
+                1,
+                1,
+                243,
+                430
+              ],
+              "logical_position": "before first paragraph",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": true,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 242x429",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "retained_documented_flattened_source_wash"
+            },
+            {
+              "article_id": "e94f1b0c-ab32-4323-8d3b-4bc60ea82ace",
+              "sequence": 2,
+              "object": 23,
+              "source_page": 6,
+              "source_size": [
+                289,
+                360
+              ],
+              "final_size": [
+                287,
+                358
+              ],
+              "native_pixel_crop": [
+                1,
+                1,
+                288,
+                359
+              ],
+              "logical_position": "before Lions in the Street heading",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": false,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 287x358",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "separable_layout_removed"
+            },
+            {
+              "article_id": "012668c1-7a56-4da9-8230-f5e11951ac57",
+              "sequence": 1,
+              "object": 40,
+              "source_page": 11,
+              "source_size": [
+                246,
+                196
+              ],
+              "final_size": [
+                243,
+                194
+              ],
+              "native_pixel_crop": [
+                1,
+                1,
+                244,
+                195
+              ],
+              "logical_position": "before first paragraph",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": false,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 243x194",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "separable_layout_removed"
+            },
+            {
+              "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+              "sequence": 1,
+              "object": 53,
+              "source_page": 15,
+              "source_size": [
+                236,
+                230
+              ],
+              "final_size": [
+                234,
+                229
+              ],
+              "native_pixel_crop": [
+                1,
+                0,
+                235,
+                229
+              ],
+              "logical_position": "before first Dean heading",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": false,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 234x229",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "separable_layout_removed"
+            },
+            {
+              "article_id": "7b42b079-836b-4a7b-aef5-dc377f6830f3",
+              "sequence": 2,
+              "object": 54,
+              "source_page": 15,
+              "source_size": [
+                311,
+                259
+              ],
+              "final_size": [
+                309,
+                257
+              ],
+              "native_pixel_crop": null,
+              "logical_position": "after first Dean section, before first Tania heading",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": false,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 309x257",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "separable_layout_removed"
+            },
+            {
+              "article_id": "a796463b-e5b4-45fe-bf64-af91daa42aed",
+              "sequence": 1,
+              "object": 73,
+              "source_page": 21,
+              "source_size": [
+                493,
+                669
+              ],
+              "final_size": [
+                492,
+                668
+              ],
+              "native_pixel_crop": [
+                0,
+                0,
+                492,
+                668
+              ],
+              "logical_position": "before poem",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": true,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 492x668",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "retained_documented_flattened_source_wash"
+            },
+            {
+              "article_id": "b8d1f881-2f87-4891-afb9-b9dc18852c3a",
+              "sequence": 1,
+              "object": 89,
+              "source_page": 23,
+              "source_size": [
+                499,
+                455
+              ],
+              "final_size": [
+                496,
+                453
+              ],
+              "native_pixel_crop": [
+                1,
+                1,
+                497,
+                454
+              ],
+              "logical_position": "before poem",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": true,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 496x453",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "retained_documented_flattened_source_wash"
+            },
+            {
+              "article_id": "530039b4-05cd-48ab-b133-f10cb1b4d7c3",
+              "sequence": 1,
+              "object": 93,
+              "source_page": 24,
+              "source_size": [
+                331,
+                247
+              ],
+              "final_size": [
+                330,
+                247
+              ],
+              "native_pixel_crop": [
+                0,
+                0,
+                330,
+                247
+              ],
+              "logical_position": "before first paragraph",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": false,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 330x247",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "separable_layout_removed"
+            },
+            {
+              "article_id": "5f082857-caff-4a9c-a0a6-7c35388a887b",
+              "sequence": 1,
+              "object": 106,
+              "source_page": 28,
+              "source_size": [
+                157,
+                378
+              ],
+              "final_size": [
+                156,
+                377
+              ],
+              "native_pixel_crop": [
+                0,
+                0,
+                156,
+                377
+              ],
+              "logical_position": "before editorial introduction",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": false,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 156x377",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "separable_layout_removed"
+            },
+            {
+              "article_id": "a32a9763-ddd5-4613-bf57-e9bbbbbb8310",
+              "sequence": 1,
+              "object": 119,
+              "source_page": 32,
+              "source_size": [
+                172,
+                227
+              ],
+              "final_size": [
+                171,
+                226
+              ],
+              "native_pixel_crop": [
+                0,
+                0,
+                171,
+                226
+              ],
+              "logical_position": "after first paragraph",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": false,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "sRGB 171x226",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "separable_layout_removed"
+            },
+            {
+              "article_id": "d7444a40-68ff-4745-8687-38b97b984178",
+              "sequence": 1,
+              "object": 126,
+              "source_page": 34,
+              "source_size": [
+                98,
+                157
+              ],
+              "final_size": [
+                98,
+                157
+              ],
+              "native_pixel_crop": null,
+              "logical_position": "before editorial invitation",
+              "source_has_soft_mask": false,
+              "flattened_wash_retained": false,
+              "full_decode_pillow": "passed",
+              "full_decode_imagemagick": "passed",
+              "encoded_colour_and_size": "Gray 98x157",
+              "visual_comparison": "verified_by_ai_against_source_page_and_raw_object",
+              "overlay_audit": "separable_layout_removed"
+            }
+          ]
+        }
+      }
     }
   ],
   "categories": [
