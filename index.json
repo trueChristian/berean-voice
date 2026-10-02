@@ -80053,6 +80053,831 @@
       "publication_notes": [
         "The source prints no title; the poem begins “Hast thou no scar?” and is signed Amy Carmichael."
       ]
+    },
+    {
+      "id": "5d6c9c57-8916-4fb2-9492-1e56540d164c",
+      "language": "en",
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "sequence": 1,
+      "title": "Matthew Henry’s Home Life",
+      "subtitle": "PHILLIP HENRY\nFATHER OF A COMMENTATOR",
+      "section": "Home Histories",
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 10
+      },
+      "categories": {
+        "primary": "9514e8ea-e431-5806-a5f3-0953a922c074",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-1.jpg",
+          "public_path": "/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-1.jpg",
+          "source_page": 3,
+          "role": "portrait",
+          "alt": "Portrait of Phillip Henry.",
+          "caption": "Phillip Henry",
+          "credit": null,
+          "rights_note": "No portrait-specific credit or licence is printed. The general masthead states “Some images © 2001-2003 www.arttoday.com” without identifying individual assets, so no particular source or licence is inferred. Clean underlying image object 12 was exported without the separately painted caption, border or surrounding gray panel; printed caption is preserved separately. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 12. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate caption, outline and surrounding gray panel omitted; caption retained in HTML.",
+          "transformation": "PDF base image object 12. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate caption, outline and surrounding gray panel omitted; caption retained in HTML.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-2.jpg",
+          "public_path": "/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-2.jpg",
+          "source_page": 3,
+          "role": "portrait",
+          "alt": "Portrait captioned Katherine Henry.",
+          "caption": "Katherine Henry",
+          "credit": null,
+          "rights_note": "No portrait-specific credit or licence is printed. The general masthead states “Some images © 2001-2003 www.arttoday.com” without identifying individual assets, so no particular source or licence is inferred. Clean underlying image object 13 was exported without the separately painted caption, border or surrounding gray panel; printed caption is preserved separately. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 13. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate caption, outline and surrounding gray panel omitted; caption retained in HTML.",
+          "transformation": "PDF base image object 13. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate caption, outline and surrounding gray panel omitted; caption retained in HTML.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-3.jpg",
+          "public_path": "/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-3.jpg",
+          "source_page": 3,
+          "role": "portrait",
+          "alt": "Portrait of Matthew Henry.",
+          "caption": "Matthew Henry",
+          "credit": null,
+          "rights_note": "No portrait-specific credit or licence is printed. The general masthead states “Some images © 2001-2003 www.arttoday.com” without identifying individual assets, so no particular source or licence is inferred. Clean underlying image object 14 was exported without the separately painted caption, border or surrounding gray panel; printed caption is preserved separately. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 14. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate caption, outline and surrounding gray panel omitted; caption retained in HTML.",
+          "transformation": "PDF base image object 14. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate caption, outline and surrounding gray panel omitted; caption retained in HTML.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Every page 3–10 was visually read and the complete article compared with the source, including all continuation paragraphs, list headings, italic Scripture quotations and the final bibliographic credit. Three portrait images on page 3 are represented once in left-to-right order at the opening paragraph boundary; no other article images are present. Repeated pull quotes on pages 4, 6 and 10 duplicate body passages and are not duplicated. Running headers, folios, rules, gray callout panels and the terminal square are magazine furniture. No footnotes.",
+        "source_oddities_note": "Source wording retained, including “principle thing,” “their affect,” and “and well as his wife.” The middle portrait’s printed “Katherine Henry” caption is retained without attempting to correct the image identification.",
+        "rights_review_note": "The page-10 credit explicitly identifies the resource volume The Lives of Phillip and Matthew Henry, its publisher Banner of Truth Trust ©1974 and ISBN 85151-178-3. This is a bibliographic copyright attribution to the studied book, not a notice claiming copyright in Denny Kenaston’s original article or requiring separate reuse permission. The body itself identifies Kenaston’s study and reflections on that resource. The general page-2 reprint policy was reviewed separately; no article-specific restriction is present. All bibliographic wording is retained verbatim.",
+        "image_visual_note": "All three final portrait JPEGs were opened and visually compared with printed page 3. Clean underlying portraits retain the complete printed image area and omit separately painted captions, frames and gray panel.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks.",
+        "independent_text_review": "A second AI reader compared every source page with the complete HTML, including wording, punctuation, apparent source errors, paragraph order, meaningful emphasis, poetry lines, sign-offs and continuation joins. Final transcription and formatting match the source."
+      },
+      "publication_notes": [
+        "This study was taken from the volume:\nThe Lives of Phillip and Matthew Henry\npublished by\nBanner of Truth Trust ©1974\nISBN 85151-178-3"
+      ]
+    },
+    {
+      "id": "6e69ccfa-3d58-4e0b-a3bb-ac72114e2b9c",
+      "language": "en",
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "sequence": 2,
+      "title": "THE FATHER’S HAND",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "- Ida L. Cornett -",
+        "authors": [
+          {
+            "name": "Ida L. Cornett",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 11
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "b1950920-8da5-5695-87e1-74a9c63e402c",
+        "8ada4a0d-a538-532f-a615-13434b3cd997"
+      ],
+      "html": {
+        "repository_path": "content/articles/6e69ccfa-3d58-4e0b-a3bb-ac72114e2b9c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6e69ccfa-3d58-4e0b-a3bb-ac72114e2b9c-1.jpg",
+          "public_path": "/images/articles/6e69ccfa-3d58-4e0b-a3bb-ac72114e2b9c-1.jpg",
+          "source_page": 11,
+          "role": "poem background photograph",
+          "alt": "Two hands clasped together.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific permission restriction, image credit or image-specific license is printed. No image source or license is inferred. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 39. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate title, poem text and text shadows omitted; intrinsic photographic focus/blur retained.",
+          "transformation": "PDF base image object 39. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate title, poem text and text shadows omitted; intrinsic photographic focus/blur retained.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete poem visually transcribed and rechecked on printed page 11. Five four-line stanzas, bold poem text, exact punctuation, and final italic author attribution preserved. One background photograph belongs to the poem. The doubled text layer arises from separately painted shadow typography and is represented once. No footnotes or article-specific reuse restriction.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks.",
+        "independent_text_review": "Root independently compared poem page 11 and Parenthood pages 12–14 and 19 with the completed HTML, confirming exact words, punctuation, source errors, emphasis, stanza lines and continuation order."
+      }
+    },
+    {
+      "id": "f11097cf-8054-4ecf-886b-1e8cee008b76",
+      "language": "en",
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "sequence": 3,
+      "title": "Parenthood",
+      "subtitle": "A SACRED TRUST",
+      "section": null,
+      "byline": {
+        "raw": "Selected from a 1905 writing by Ella Kellog\nRevised and edited by Rachel Weaver",
+        "authors": [
+          {
+            "name": "Ella Kellog",
+            "location": null,
+            "role": null
+          },
+          {
+            "name": "Rachel Weaver",
+            "location": null,
+            "role": "Revised and edited"
+          }
+        ],
+        "note": "Selected from a 1905 writing by Ella Kellog"
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 19,
+        "pages": [
+          12,
+          13,
+          14,
+          19
+        ]
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [
+        "b834013d-7b5e-59cd-9cf6-3cedee692313",
+        "e8455dc3-9ea9-50ad-8b49-ca5277a6a3fd"
+      ],
+      "series": {
+        "id": "adfb4b51-2bb8-465a-bb9a-d044630c1ad3",
+        "part": 1,
+        "total_parts": null
+      },
+      "publication_notes": [
+        "Part I"
+      ],
+      "html": {
+        "repository_path": "content/articles/f11097cf-8054-4ecf-886b-1e8cee008b76.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f11097cf-8054-4ecf-886b-1e8cee008b76-1.jpg",
+          "public_path": "/images/articles/f11097cf-8054-4ecf-886b-1e8cee008b76-1.jpg",
+          "source_page": 12,
+          "role": "article illustration",
+          "alt": "An illustration of a seated mother with a baby and two children.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific permission restriction, image credit or image-specific license is printed. No image source or license is inferred. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 43. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate gray title panel and surrounding frame omitted.",
+          "transformation": "PDF base image object 43. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate gray title panel and surrounding frame omitted.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete Part I visually transcribed and rechecked on printed pages 12–14 and its page 19 continuation. Exact Kellog spelling and apparent source errors retained. Eight topic headings, Bible quotation italics, ARE and SAY bold emphasis, final To be continued... and closing four-line prayer retained. Decorative pull quotes on pages 13 and 14 repeat body text and are represented only in the original body passages. Their rules and text panels are layout furniture, not article illustrations. No footnotes or article-specific reuse restriction.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks.",
+        "independent_text_review": "Root independently compared poem page 11 and Parenthood pages 12–14 and 19 with the completed HTML, confirming exact words, punctuation, source errors, emphasis, stanza lines and continuation order."
+      }
+    },
+    {
+      "id": "a83f4d02-131a-45c4-a89b-4a5835baa6df",
+      "language": "en",
+      "sequence": 4,
+      "title": "The Family That God Put Back Together",
+      "subtitle": null,
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Mike & Lynn O’Donnell",
+        "authors": [
+          {
+            "name": "Mike O’Donnell",
+            "location": null,
+            "role": null
+          },
+          {
+            "name": "Lynn O’Donnell",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 19
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [
+        "112f373a-5505-599b-b945-2e35ced472c4",
+        "05c2dfac-6ad8-5ea0-99ef-d6022f8cb346",
+        "0340164f-6a52-520d-9306-954c5b73592e"
+      ],
+      "html": {
+        "repository_path": "content/articles/a83f4d02-131a-45c4-a89b-4a5835baa6df.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a83f4d02-131a-45c4-a89b-4a5835baa6df-1.jpg",
+          "public_path": "/images/articles/a83f4d02-131a-45c4-a89b-4a5835baa6df-1.jpg",
+          "source_page": 15,
+          "role": "article photograph",
+          "alt": "A family of seven standing together in front of bookshelves.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or separate permission notice is printed. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning this source to individual images; no image-specific source or licence is inferred. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 53. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate frame, drop shadow, section label and article heading omitted.",
+          "transformation": "PDF base image object 53. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate frame, drop shadow, section label and article heading omitted.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The entire article on pages 15–19 was visually checked through the final italic thanks, before assigning its UUID. No article-specific reuse notice. The two testimonies are one titled, jointly credited article. Preserved original “compliment”, “alright”, “TV antennae”, “father” in Mark 11:26, “never drank”, all punctuation and paragraph boundaries. Joined only column/page splits and discretionary line-end hyphens. Retained distinct headings “Lynn’s Testimony” and “Mike’s Testimony:”; closing scripture and thanks remain italic. No footnotes. Duplicate pull-quote text on pages 16 and 18 appears once in body reading order. End-of-article square and p17 continuation arrows omitted as magazine furniture. Parenthood continuation below the p19 dividing bar is a separate article.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks.",
+        "independent_text_review": "A second AI reader compared every source page with the complete HTML, including wording, punctuation, apparent source errors, paragraph order, meaningful emphasis, poetry lines, sign-offs and continuation joins. Final transcription and formatting match the source."
+      },
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4"
+    },
+    {
+      "id": "2b4a8985-16eb-4c16-a3f0-fcc962b1d84d",
+      "language": "en",
+      "title": "SACRIFICE",
+      "subtitle": "The Highest Form of Worship",
+      "section": null,
+      "byline": {
+        "raw": "Your Adopted Son",
+        "authors": [
+          {
+            "name": "Your Adopted Son",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/2b4a8985-16eb-4c16-a3f0-fcc962b1d84d.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire prayer visually read through its page-21 closing sign-off. No reuse restriction or footnotes. Three-column reading order joined; all paragraphs and italic closing sign-off retained. Source wording 'I praise you will all my life breath', mixed Savior/Saviour spellings and varying capitalization remain unchanged. No named author is printed; the prayer is signed 'Your Adopted Son'.",
+        "independent_text_review": "A second AI reader compared every source page with the complete HTML, including wording, punctuation, apparent source errors, paragraph order, meaningful emphasis, poetry lines, sign-offs and continuation joins. Final transcription and formatting match the source.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks."
+      },
+      "sequence": 5,
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/2b4a8985-16eb-4c16-a3f0-fcc962b1d84d-1.jpg",
+          "public_path": "/images/articles/2b4a8985-16eb-4c16-a3f0-fcc962b1d84d-1.jpg",
+          "source_page": 20,
+          "role": "article illustration",
+          "alt": "A man kneeling in prayer on a rooftop overlooking boats.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No item-specific source, credit or reuse restriction is printed. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 69. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate gray frame and article title omitted.",
+          "transformation": "PDF base image object 69. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate gray frame and article title omitted.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "275410f3-88d3-42c6-a774-edd7f30e7861",
+      "language": "en",
+      "title": "My Passion",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "- Geoffrey Lehmann",
+        "authors": [
+          {
+            "name": "Geoffrey Lehmann",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/275410f3-88d3-42c6-a774-edd7f30e7861.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Whole item including Geoffrey Lehmann attribution and the source-book credit visually checked. Eleven printed poem lines retained with meaningful breaks. The credit 'taken from' is a source attribution and contains no permission restriction. No footnotes. The foreground praying-Jesus illustration is repeated as an enlarged faded background; represent the logical image once using the complete foreground source asset.",
+        "independent_text_review": "A second AI reader compared every source page with the complete HTML, including wording, punctuation, apparent source errors, paragraph order, meaningful emphasis, poetry lines, sign-offs and continuation joins. Final transcription and formatting match the source.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks."
+      },
+      "publication_notes": [
+        "The item credits “The Himalayan Heartbeat” by Ken Anderson as its source."
+      ],
+      "sequence": 6,
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/275410f3-88d3-42c6-a774-edd7f30e7861-1.jpg",
+          "public_path": "/images/articles/275410f3-88d3-42c6-a774-edd7f30e7861-1.jpg",
+          "source_page": 22,
+          "role": "article illustration",
+          "alt": "Jesus kneeling in prayer beside a rock.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No item-specific source, credit or reuse restriction is printed. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 77. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate white frame and poem text omitted. Enlarged faded background object 76 is a repeated crop of this complete illustration with no unique image content and is represented once by this clean foreground asset.",
+          "transformation": "PDF base image object 77. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate white frame and poem text omitted. Enlarged faded background object 76 is a repeated crop of this complete illustration with no unique image content and is represented once by this clean foreground asset.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "8679afaa-05ca-48fc-949b-4161b8b06886",
+      "language": "en",
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "sequence": 7,
+      "title": "Grace Awakening",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Michael McDaniel",
+        "authors": [
+          {
+            "name": "Michael McDaniel",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 31
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "2930d7e0-3f5e-5299-b27e-fa8f21d15595",
+        "0077042a-c127-5c03-a910-92dc63cb4356"
+      ],
+      "html": {
+        "repository_path": "content/articles/8679afaa-05ca-48fc-949b-4161b8b06886.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/8679afaa-05ca-48fc-949b-4161b8b06886-1.jpg",
+          "public_path": "/images/articles/8679afaa-05ca-48fc-949b-4161b8b06886-1.jpg",
+          "source_page": 24,
+          "role": "article illustration",
+          "alt": "A robed man standing beside a chariot and its seated passenger.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No item-specific credit or image-specific license is stated. The general masthead states “Some images © 2001-2003 www.arttoday.com” without assigning that source to individual images; no particular source or license is inferred. Clean underlying image object 84 is exported without the separately painted article title/byline panel or other page furniture. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 84. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate title panel, gradient, author and article text omitted.",
+          "transformation": "PDF base image object 84. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate title panel, gradient, author and article text omitted.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All pages 24–31 visually inspected in full before export and compared with the completed transcription. All body paragraphs and continuations, three numbered section headings, the indented Luke quotation, italic and bold emphasis, underlined Scripture phrases, and the p30 bibliographic citation are preserved. The chariot illustration on p24 is the sole article image and was visually checked against the final JPEG. Shaded pull quotes on pp25,26,29,30,31 repeat body wording and are not duplicated. Title panel, rules, running footers and terminal square are magazine furniture. No footnote markers or footnotes are printed; the p30 source citation is an adjacent attribution for the preceding quotation.",
+        "source_oddities_note": "Retained source “afore mentioned”, “unmistakenly”, missing closing quotation mark after Ephesians 2:8-9, opening-form closing quotation mark after James 4:6, repeated repentance wording, and lower-case “him” in “I arose with him”. Ellipses, case differences in repeated Ephesians quotations and citation punctuation remain as printed.",
+        "rights_review_note": "Whole-article eligibility reviewed including the p24 illustration and p30 bibliographic attribution. The attribution names Charles Colson in Christianity Today and Max Lucado’s In The Grip of Grace with publication data but contains no reuse restriction. No article-specific permission wording is present.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks.",
+        "independent_text_review": "A second AI reader compared all words, punctuation, paragraph order and meaningful emphasis with source pages 24–31. Thirty-five fine emphasis-boundary corrections were applied and visually rechecked without changing the body text. No omitted text or unresolved reading remains."
+      }
+    },
+    {
+      "id": "e42b9bfa-1aad-46ca-8c89-7d19535e7eea",
+      "language": "en",
+      "title": "Beyond Humiliation: The Way of the Cross",
+      "subtitle": null,
+      "section": "Book Review",
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 35,
+        "pages": [
+          32,
+          33,
+          35
+        ]
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/e42b9bfa-1aad-46ca-8c89-7d19535e7eea.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire review including the nonconsecutive page-35 continuation and concluding availability paragraph/contact details visually checked. No reuse restriction or footnotes. Italic quotations and self emphasis retained. Apparent source errors 'lays hidden', 'a through work', 'Commentating' and 'to destroy to worthless' retained, as are differing three-dot and ellipsis forms. Two page-32 images belong to the review: the crowning-with-thorns illustration and Gregory Mantle portrait. The page-35 continuation label is layout furniture.",
+        "independent_text_review": "A second AI reader compared every source page with the complete HTML, including wording, punctuation, apparent source errors, paragraph order, meaningful emphasis, poetry lines, sign-offs and continuation joins. Final transcription and formatting match the source.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks."
+      },
+      "publication_notes": [
+        "The reviewed book is credited “by Gregory Mantle” beneath its title; Dean Taylor is the reviewer."
+      ],
+      "sequence": 8,
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e42b9bfa-1aad-46ca-8c89-7d19535e7eea-1.jpg",
+          "public_path": "/images/articles/e42b9bfa-1aad-46ca-8c89-7d19535e7eea-1.jpg",
+          "source_page": 32,
+          "role": "article illustration",
+          "alt": "Jesus seated while men press a crown of thorns onto his head.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No item-specific source, credit or reuse restriction is printed. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 110. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate title and surrounding typography omitted.",
+          "transformation": "PDF base image object 110. Grayscale source converted to baseline RGB JPEG, quality 95, native dimensions and crop, standard 96 dpi density; no rotation, flip or retouching. Separate title and surrounding typography omitted.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/e42b9bfa-1aad-46ca-8c89-7d19535e7eea-2.png",
+          "public_path": "/images/articles/e42b9bfa-1aad-46ca-8c89-7d19535e7eea-2.png",
+          "source_page": 32,
+          "role": "portrait",
+          "alt": "Portrait of Gregory Mantle holding an open book.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No item-specific source, credit or reuse restriction is printed. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 109. Native 143×165 PNG raster rendered from the original image and exact published Bezier oval clipping path; separate gray backing ellipse and black outline omitted. No other page content rendered. Separate gray backing ellipse and black border omitted. The pale feathered oval vignette is baked into the sole source raster and retained; it is not claimed to have been removed.",
+          "transformation": "PDF base image object 109. Native 143×165 PNG raster rendered from the original image and exact published Bezier oval clipping path; separate gray backing ellipse and black outline omitted. No other page content rendered. Separate gray backing ellipse and black border omitted. The pale feathered oval vignette is baked into the sole source raster and retained; it is not claimed to have been removed.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGBA PNG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "5670e17c-1ff8-4119-a676-0513a2bc41bc",
+      "language": "en",
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/5670e17c-1ff8-4119-a676-0513a2bc41bc.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Publisher invitation, five-item list, editor sign-off and all five reader letters visually transcribed. Letters are identified by their printed locations: Georgia, South Dakota, Alaska, Illinois, Georgia. Column/page continuations joined in order; italic locations and magazine name retained. Source errors 'would never imagined', 'lost ,' and 'As a man' retained. No reuse restriction, footnotes or named reader bylines. Diamond letter separators are decorative layout furniture; mailbox illustration belongs to article.",
+        "independent_text_review": "A second AI reader compared every source page with the complete HTML, including wording, punctuation, apparent source errors, paragraph order, meaningful emphasis, poetry lines, sign-offs and continuation joins. Final transcription and formatting match the source.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks."
+      },
+      "sequence": 9,
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/5670e17c-1ff8-4119-a676-0513a2bc41bc-1.png",
+          "public_path": "/images/articles/5670e17c-1ff8-4119-a676-0513a2bc41bc-1.png",
+          "source_page": 34,
+          "role": "article illustration",
+          "alt": "A roadside mailbox with flowers growing around its post.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No item-specific source, credit or reuse restriction is printed. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 117. Lossless grayscale PNG from source raster; intrinsic tiny mailbox wording retained. Separate gray section panel and heading omitted. Publication name/address and gray background are intrinsic to the small raster and retained.",
+          "transformation": "PDF base image object 117. Lossless grayscale PNG from source raster; intrinsic tiny mailbox wording retained. Separate gray section panel and heading omitted. Publication name/address and gray background are intrinsic to the small raster and retained.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "grayscale PNG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "6675e3be-25f0-4595-aa7e-ddb2fbed6722",
+      "language": "en",
+      "title": "Parental Love",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/6675e3be-25f0-4595-aa7e-ddb2fbed6722.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Substantive titled unsigned poem on unfoliated back cover, logical page 36. All five stanzas, fourteen printed lines, punctuation and uniform bold text visually transcribed from the raster because there is no corresponding poem text layer. No reuse notice, footnotes or captions. Mailing panel and publication address are excluded furniture. Flower-covered hillside background belongs to the poem.",
+        "independent_text_review": "A second AI reader compared every source page with the complete HTML, including wording, punctuation, apparent source errors, paragraph order, meaningful emphasis, poetry lines, sign-offs and continuation joins. Final transcription and formatting match the source.",
+        "image_census_note": "Full 36-page visual census reconciled in issue verification. Every owned image has one canonical export referenced in HTML; repeat and excluded uses are documented. All final assets passed visual, complete-decoder and browser-compatible render checks."
+      },
+      "sequence": 10,
+      "issue_id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6675e3be-25f0-4595-aa7e-ddb2fbed6722-1.jpg",
+          "public_path": "/images/articles/6675e3be-25f0-4595-aa7e-ddb2fbed6722-1.jpg",
+          "source_page": 36,
+          "role": "article photograph",
+          "alt": "Pink flowering shrubs cover a green hillside beneath a blue sky.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No item-specific source, credit or reuse restriction is printed. No image-specific licence is inferred. The masthead states “Some images © 2001-2003 www.arttoday.com” without assigning the source to individual assets. PDF base image object 124. Unobstructed lower landscape crop (18,422)-(630,810) from 650×828 RGB source, resulting 612×388. Top poem text is irreversibly baked in sole raster; meaningful lower landscape retained. Page bleed excluded, separately painted postal overlays omitted. No pixels synthesized. Separate postal/publisher overlays omitted. Irreversibly baked poem text lies outside the meaningful lower-landscape crop; the exact poem is independently transcribed in HTML.",
+          "transformation": "PDF base image object 124. Unobstructed lower landscape crop (18,422)-(630,810) from 650×828 RGB source, resulting 612×388. Top poem text is irreversibly baked in sole raster; meaningful lower landscape retained. Page bleed excluded, separately painted postal overlays omitted. No pixels synthesized. Separate postal/publisher overlays omitted. Irreversibly baked poem text lies outside the meaningful lower-landscape crop; the exact poem is independently transcribed in HTML.",
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB JPEG",
+            "complete_decoders": [
+              "Pillow",
+              "ImageMagick"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, canvas paint and full raster readback passed.",
+            "independent_image_review": "A second AI reader opened this final image and compared it with the raw PDF object and rendered source page, including centre, edges and corners. Any intrinsic source limitation and removed overlays are recorded in transformation."
+          }
+        }
+      ]
     }
   ],
   "skipped": [

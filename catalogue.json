@@ -16111,6 +16111,515 @@
           "The only page-36 raster contains the poem typography and shadows embedded in the hands/crown-of-thorns illustration. The complete inner panel is retained with this explicit unavoidable-overlay exception; the surrounding frame, shadow and page gradient are cropped away without synthesizing pixels."
         ]
       }
+    },
+    {
+      "id": "6ab5d255-b656-4f16-9b92-5391f9c679d4",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "November/December 2003",
+        "year": 2003,
+        "months": [
+          11,
+          12
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 9,
+      "issue_number": 6,
+      "source": {
+        "filename": "2003-11-remnant(1).pdf",
+        "sha256": "42e1c4d991885f204ab6d627c6f7f5e68ee2e888ebef56bfd71560d0202a969d",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front cover and back-cover poem (logical page 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2003-11",
+      "slug": "heartbeat-remnant-2003-11",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 10,
+        "skipped_article_count": 0,
+        "exported_image_count": 13,
+        "inventory_note": "All 36 PDF pages visually inspected. Included all nine contents entries plus the substantive raster-only back-cover poem Parental Love. Parenthood continues from page 14 to page 19; the Book Review continues from page 33 to page 35. Cover, contents/masthead, page 23 seminar advertisement, mailing panel and standalone decorative furniture excluded. All articles pass the whole-article eligibility gate. The Home Histories ©1974 attribution identifies the cited source book and its ISBN, not an article copyright or reuse restriction; exact credit retained. All text/formatting visually checked, with independent second readings. No footnotes occur. Existing category/topic/Parenthood series identities reused.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "5d6c9c57-8916-4fb2-9492-1e56540d164c",
+            "title": "Matthew Henry’s Home Life",
+            "subtitle": "PHILLIP HENRY\nFATHER OF A COMMENTATOR",
+            "source_pages": {
+              "start": 3,
+              "end": 10
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 2,
+            "article_id": "6e69ccfa-3d58-4e0b-a3bb-ac72114e2b9c",
+            "title": "THE FATHER’S HAND",
+            "subtitle": null,
+            "source_pages": {
+              "start": 11,
+              "end": 11
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 3,
+            "article_id": "f11097cf-8054-4ecf-886b-1e8cee008b76",
+            "title": "Parenthood",
+            "subtitle": "A SACRED TRUST",
+            "source_pages": {
+              "start": 12,
+              "end": 19,
+              "pages": [
+                12,
+                13,
+                14,
+                19
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 4,
+            "article_id": "a83f4d02-131a-45c4-a89b-4a5835baa6df",
+            "title": "The Family That God Put Back Together",
+            "subtitle": null,
+            "source_pages": {
+              "start": 15,
+              "end": 19
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 5,
+            "article_id": "2b4a8985-16eb-4c16-a3f0-fcc962b1d84d",
+            "title": "SACRIFICE",
+            "subtitle": "The Highest Form of Worship",
+            "source_pages": {
+              "start": 20,
+              "end": 21
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 6,
+            "article_id": "275410f3-88d3-42c6-a774-edd7f30e7861",
+            "title": "My Passion",
+            "subtitle": null,
+            "source_pages": {
+              "start": 22,
+              "end": 22
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 7,
+            "article_id": "8679afaa-05ca-48fc-949b-4161b8b06886",
+            "title": "Grace Awakening",
+            "subtitle": null,
+            "source_pages": {
+              "start": 24,
+              "end": 31
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 8,
+            "article_id": "e42b9bfa-1aad-46ca-8c89-7d19535e7eea",
+            "title": "Beyond Humiliation: The Way of the Cross",
+            "subtitle": null,
+            "source_pages": {
+              "start": 32,
+              "end": 35,
+              "pages": [
+                32,
+                33,
+                35
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 9,
+            "article_id": "5670e17c-1ff8-4119-a676-0513a2bc41bc",
+            "title": "Precious Letters from Our Readers",
+            "subtitle": null,
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 10,
+            "article_id": "6675e3be-25f0-4595-aa7e-ddb2fbed6722",
+            "title": "Parental Love",
+            "subtitle": null,
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "printed_page": 1,
+            "images": [
+              {
+                "description": "Hands forming clay on a pottery wheel, full-page cover photograph",
+                "owner": "Cover",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Cover"
+              }
+            ]
+          },
+          {
+            "printed_page": 2,
+            "images": [
+              {
+                "description": "Five content thumbnails: Henry portrait, holding hands, family, praying figure, and Christ illustration",
+                "owner": "Table of contents",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Table of contents; each substantive image is represented by its article export"
+              }
+            ]
+          },
+          {
+            "printed_page": 3,
+            "images": [
+              {
+                "description": "Portrait of Phillip Henry",
+                "owner": "Matthew Henry’s Home Life",
+                "disposition": "exported",
+                "pdf_object": 12,
+                "repository_path": "public/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Separate caption and frame removed; printed caption belongs in figcaption: Phillip Henry."
+              },
+              {
+                "description": "Portrait of Katherine Henry",
+                "owner": "Matthew Henry’s Home Life",
+                "disposition": "exported",
+                "pdf_object": 13,
+                "repository_path": "public/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-2.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Separate caption and frame removed; printed caption belongs in figcaption: Katherine Henry."
+              },
+              {
+                "description": "Portrait of Matthew Henry",
+                "owner": "Matthew Henry’s Home Life",
+                "disposition": "exported",
+                "pdf_object": 14,
+                "repository_path": "public/images/articles/5d6c9c57-8916-4fb2-9492-1e56540d164c-3.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Separate caption and frame removed; printed caption belongs in figcaption: Matthew Henry."
+              }
+            ]
+          },
+          {
+            "printed_page": 4,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 5,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 6,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 7,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 8,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 9,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 10,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 11,
+            "images": [
+              {
+                "description": "Adult and child hands held together, full-page poem background",
+                "owner": "The Father’s Hand",
+                "disposition": "exported",
+                "pdf_object": 39,
+                "repository_path": "public/images/articles/6e69ccfa-3d58-4e0b-a3bb-ac72114e2b9c-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Clean raw object contains no title, poem, sign-off, text shadow, footer or bar; all such separate text/layout omitted."
+              }
+            ]
+          },
+          {
+            "printed_page": 12,
+            "images": [
+              {
+                "description": "Mother and children illustration",
+                "owner": "Parenthood: A Sacred Trust",
+                "disposition": "exported",
+                "pdf_object": 43,
+                "repository_path": "public/images/articles/f11097cf-8054-4ecf-886b-1e8cee008b76-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Clean raw object excludes the separate heading/backing panel and page furniture."
+              }
+            ]
+          },
+          {
+            "printed_page": 13,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 14,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 15,
+            "images": [
+              {
+                "description": "O’Donnell family photograph",
+                "owner": "The Family That God Put Back Together",
+                "disposition": "exported",
+                "pdf_object": 53,
+                "repository_path": "public/images/articles/a83f4d02-131a-45c4-a89b-4a5835baa6df-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Clean raw object excludes black frame/drop shadow and section furniture."
+              }
+            ]
+          },
+          {
+            "printed_page": 16,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 17,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 18,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 19,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 20,
+            "images": [
+              {
+                "description": "Man kneeling in prayer by a harbor",
+                "owner": "Sacrifice: The Highest Form of Worship",
+                "disposition": "exported",
+                "pdf_object": 69,
+                "repository_path": "public/images/articles/2b4a8985-16eb-4c16-a3f0-fcc962b1d84d-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Clean raw object excludes separate outer frame and title; narrow white source border is part of the only raster."
+              }
+            ]
+          },
+          {
+            "printed_page": 21,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 22,
+            "images": [
+              {
+                "description": "Jesus kneeling in prayer",
+                "owner": "My Passion",
+                "disposition": "exported",
+                "pdf_object": 77,
+                "repository_path": "public/images/articles/275410f3-88d3-42c6-a774-edd7f30e7861-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Full clean foreground illustration; separate frame removed."
+              },
+              {
+                "description": "Faded enlargement of praying Jesus as poem background",
+                "owner": "My Passion",
+                "disposition": "represented_once_as_repeated_image",
+                "pdf_object": 76,
+                "represented_by_object": 77,
+                "repository_path": "public/images/articles/275410f3-88d3-42c6-a774-edd7f30e7861-1.jpg",
+                "notes": "Opened raw 76 and 77 alongside full page: object76 is a magnified faded crop of object77, without unique visual content. Full original scene is retained in canonical 77 export."
+              }
+            ]
+          },
+          {
+            "printed_page": 23,
+            "images": [
+              {
+                "description": "Leadership seminar display advertisement, decorative banner/border",
+                "owner": "Leadership seminar advertisement",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Advertisement"
+              }
+            ]
+          },
+          {
+            "printed_page": 24,
+            "images": [
+              {
+                "description": "Biblical scene with men beside a chariot",
+                "owner": "Grace Awakening",
+                "disposition": "exported",
+                "pdf_object": 84,
+                "repository_path": "public/images/articles/8679afaa-05ca-48fc-949b-4161b8b06886-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Raw base illustration only; title-gradient layout panel omitted."
+              }
+            ]
+          },
+          {
+            "printed_page": 25,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 26,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 27,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 28,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 29,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 30,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 31,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 32,
+            "images": [
+              {
+                "description": "Christ with figures surrounding him",
+                "owner": "Beyond Humiliation: The Way of the Cross",
+                "disposition": "exported",
+                "pdf_object": 110,
+                "repository_path": "public/images/articles/e42b9bfa-1aad-46ca-8c89-7d19535e7eea-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Raw illustration; no separately painted article text or heading furniture included."
+              },
+              {
+                "description": "Gregory Mantle portrait in oval published crop",
+                "owner": "Beyond Humiliation: The Way of the Cross",
+                "disposition": "exported",
+                "pdf_object": 109,
+                "repository_path": "public/images/articles/e42b9bfa-1aad-46ca-8c89-7d19535e7eea-2.png",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Exact PDF Bezier clip preserved as transparent PNG. Separate backing ellipse and black stroke omitted. The pale feathered oval edge is already baked into the source raster and remains; no pixels synthesized. No separate clean unfaded portrait object identified."
+              }
+            ]
+          },
+          {
+            "printed_page": 33,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 34,
+            "images": [
+              {
+                "description": "Illustrated mailbox on a flowering post",
+                "owner": "Precious Letters from Our Readers",
+                "disposition": "exported",
+                "pdf_object": 117,
+                "repository_path": "public/images/articles/5670e17c-1ff8-4119-a676-0513a2bc41bc-1.png",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Tiny mailbox wording and gray raster background belong to only original raster and remain. Separate large introductory panel is absent."
+              }
+            ]
+          },
+          {
+            "printed_page": 35,
+            "images": [],
+            "other_visual_matter": "No substantive source image visible; only typography, rules, pull-quote panels, or other print layout."
+          },
+          {
+            "printed_page": 36,
+            "images": [
+              {
+                "description": "Pink flowers on a grassy hillside",
+                "owner": "Parental Love",
+                "disposition": "exported",
+                "pdf_object": 124,
+                "repository_path": "public/images/articles/6675e3be-25f0-4595-aa7e-ddb2fbed6722-1.jpg",
+                "visual_comparison": "Final file opened at native useful resolution and compared with raw PDF object and rendered source page.",
+                "notes": "Source raster includes irreversibly baked title and poem. Meaningful unobstructed crop (18,422)-(630,810) excludes those lines and page bleed, retains useful flowered hill, and contains no separately painted publisher/postal marks."
+              },
+              {
+                "description": "Publisher/address and postal-permit text",
+                "owner": "Back-cover mailing panel",
+                "disposition": "omitted_under_issue_inventory_exclusion",
+                "exclusion": "Mailing panel; separate text/line objects not part of the clean lower landscape raster"
+              }
+            ]
+          }
+        ],
+        "image_review_note": "Inspected rendered contact views of every page 1–36; separately inspected full-resolution renders of every content image page (3,11,12,15,20,22,24,32,34,36). Opened all 14 raw source rasters including repeated object76, and all 13 final exports at useful native resolution. Inspected p22 and p32 paint/clipping streams.",
+        "image_limitations": [
+          "Individual image sources/licenses generally unstated; no attribution inferred from the unassigned masthead stock-image notice.",
+          "Portrait object109 retains its intrinsic baked edge vignette; the separately painted border and backing ellipse were removed.",
+          "Parental Love image124 contains irreversibly baked poem text; an unobstructed lower-landscape crop preserves a meaningful image without synthesized pixels. Full poem text transcribed from the raster."
+        ],
+        "footnotes": "No source footnotes; no footnotes section required."
+      }
     }
   ],
   "categories": [
