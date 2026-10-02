@@ -13010,6 +13010,786 @@
           "The sleeping-man, chain and blacksmith gray grounds and family-photo white edge vignette are irreversibly baked into the only source rasters. The boat engraving also has faint reversed print show-through intrinsic to its source scan. These source treatments and artifacts are retained and documented; no synthetic reconstruction or unsupported inverse blend was used. No unresolved article text or rights-gate uncertainty remains."
         ]
       }
+    },
+    {
+      "id": "07955de4-6574-4a4b-9c1b-f216374c02ee",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "July / August 2004",
+        "year": 2004,
+        "months": [
+          7,
+          8
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 10,
+      "issue_number": 4,
+      "source": {
+        "filename": "2004-07-remnant.pdf",
+        "sha256": "2b0718acb422109eef1b8f5e213edd2f44872c51fc0fece4286a158e7db8fd7e",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front cover and back-page poem unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "source_id": "heartbeat-remnant-2004-07",
+      "slug": "heartbeat-remnant-2004-07",
+      "verification": {
+        "inventory_complete": true,
+        "included_article_count": 12,
+        "skipped_article_count": 0,
+        "exported_image_count": 10,
+        "inventory_note": "All 36 pages visually inspected. Ten contents-listed pieces plus ALL THE ROCKS on page 7 and the signed Authority poem on the unnumbered back cover are included. Front cover, contents/masthead, general mailing furniture and typographic ornaments are excluded. Power from On High continues from page 16 to page 35; The Church Must First Repent continues from page 25 to page 32. Each entire candidate including credits, captions and continuations passed the article-specific restriction gate. The July 2004 Youth Girls article is a distinct printed version of a later 2007 Special Edition reprint; the existing later article remains unchanged.",
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "THE Personal Testimony",
+            "subtitle": null,
+            "article_id": "f896076d-76e2-4e42-8532-6cb2a3c029f0",
+            "source_pages": {
+              "start": 3,
+              "end": 7
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 2,
+            "title": "ALL THE ROCKS",
+            "subtitle": null,
+            "article_id": "cac00fd8-ab2b-4033-92c7-bef44b4341db",
+            "source_pages": {
+              "start": 7,
+              "end": 7
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 3,
+            "title": "Soul Nourishment FIRST",
+            "subtitle": null,
+            "article_id": "048f1671-ed06-4ba0-8509-b288af569cfc",
+            "source_pages": {
+              "start": 8,
+              "end": 9
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 4,
+            "title": "POWER FROM ON HIGH",
+            "subtitle": "The Moravians and Count Zinzendorf",
+            "article_id": "7b699913-16ec-4087-9e0c-ca867e750d90",
+            "source_pages": {
+              "start": 10,
+              "end": 35,
+              "pages": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                35
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 5,
+            "title": "Past Redemption Point",
+            "subtitle": null,
+            "article_id": "1f294c3b-4295-4493-8a52-a33af40f298b",
+            "source_pages": {
+              "start": 17,
+              "end": 17
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 6,
+            "title": "How Do We Prepare Our Youth Girls For the Future?",
+            "subtitle": null,
+            "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+            "source_pages": {
+              "start": 18,
+              "end": 21
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 7,
+            "title": "Little Trouble Maker",
+            "subtitle": null,
+            "article_id": "8cbcdd10-5627-42b1-b948-ee7f93c1d648",
+            "source_pages": {
+              "start": 22,
+              "end": 22
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 8,
+            "title": "The Church Must First Repent",
+            "subtitle": null,
+            "article_id": "4e8ea007-f957-4120-ad93-54df11c824c6",
+            "source_pages": {
+              "start": 23,
+              "end": 32,
+              "pages": [
+                23,
+                24,
+                25,
+                32
+              ]
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 9,
+            "title": "Turmoil to Peace",
+            "subtitle": "A Teenager’s Story",
+            "article_id": "f838e04e-5633-4a29-9d34-793f456248a6",
+            "source_pages": {
+              "start": 26,
+              "end": 32
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 10,
+            "title": "Two Young Girls",
+            "subtitle": null,
+            "article_id": "3b86d0e0-ebd7-4521-92f4-5d7f8a89e901",
+            "source_pages": {
+              "start": 33,
+              "end": 33
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 11,
+            "title": "Precious Letters from Our Readers",
+            "subtitle": null,
+            "article_id": "88345a38-6c33-495a-8407-f0fda29b67e0",
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 12,
+            "title": "Authority",
+            "subtitle": null,
+            "article_id": "713c3d95-5295-421e-9ca7-3cd2cc1643d9",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "Front cover globe/candle/text composition (object214)",
+                "disposition": "omitted: cover"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present. Publication logos/waveform and mailing-panel typography excluded as cover/masthead/mailing furniture.",
+            "article_sequences": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "images": [
+              {
+                "description": "Four contents thumbnails (objects4,5,124,6)",
+                "count": 4,
+                "disposition": "omitted: table of contents"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present. Publication logos/waveform and mailing-panel typography excluded as cover/masthead/mailing furniture.",
+            "article_sequences": [],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "images": [
+              {
+                "description": "A horse pulling a two-wheeled carriage driven by a man.",
+                "object": 10,
+                "article_id": "f896076d-76e2-4e42-8532-6cb2a3c029f0",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f896076d-76e2-4e42-8532-6cb2a3c029f0-1.jpg"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "images": [
+              {
+                "description": "Two men sitting beside a table with books.",
+                "object": 17,
+                "article_id": "f896076d-76e2-4e42-8532-6cb2a3c029f0",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f896076d-76e2-4e42-8532-6cb2a3c029f0-2.jpg"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              1
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "images": [
+              {
+                "description": "A sailing ship passing rocks near the coast.",
+                "object": 24,
+                "article_id": "cac00fd8-ab2b-4033-92c7-bef44b4341db",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/cac00fd8-ab2b-4033-92c7-bef44b4341db-1.jpg"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              1,
+              2
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              3
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              4
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "images": [
+              {
+                "description": "Waterfalls seen from a rocky overlook with several figures.",
+                "object": 55,
+                "article_id": "1f294c3b-4295-4493-8a52-a33af40f298b",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/1f294c3b-4295-4493-8a52-a33af40f298b-1.jpg"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              5
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "images": [
+              {
+                "description": "A close-up of a rose.",
+                "object": 59,
+                "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/c6596509-ad91-49b6-a55b-d850c3b72c14-1.jpg"
+              },
+              {
+                "description": "Faded enlarged rose background (object134), same photograph as object59 with shorter crop and no unique content",
+                "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+                "count": 1,
+                "disposition": "represented once by canonical rose export"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "images": [
+              {
+                "description": "Faded enlarged rose background (object134), same photograph as object59 with shorter crop and no unique content",
+                "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+                "count": 1,
+                "disposition": "represented once by canonical rose export"
+              },
+              {
+                "description": "Repeated rose section-header thumbnails (object124), same photograph",
+                "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+                "count": 4,
+                "disposition": "represented once by canonical rose export"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "images": [
+              {
+                "description": "Faded enlarged rose background (object134), same photograph as object59 with shorter crop and no unique content",
+                "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+                "count": 1,
+                "disposition": "represented once by canonical rose export"
+              },
+              {
+                "description": "Repeated rose section-header thumbnails (object124), same photograph",
+                "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+                "count": 5,
+                "disposition": "represented once by canonical rose export"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "images": [
+              {
+                "description": "Faded enlarged rose background (object134), same photograph as object59 with shorter crop and no unique content",
+                "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+                "count": 1,
+                "disposition": "represented once by canonical rose export"
+              },
+              {
+                "description": "Repeated rose section-header thumbnails (object124), same photograph",
+                "article_id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+                "count": 3,
+                "disposition": "represented once by canonical rose export"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              6
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              7
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              8
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "images": [
+              {
+                "description": "A smiling young woman wearing glasses beside a tree.",
+                "object": 84,
+                "article_id": "f838e04e-5633-4a29-9d34-793f456248a6",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f838e04e-5633-4a29-9d34-793f456248a6-1.jpg"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "images": [
+              {
+                "description": "Seven people standing outdoors in front of trees.",
+                "object": 88,
+                "article_id": "f838e04e-5633-4a29-9d34-793f456248a6",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/f838e04e-5633-4a29-9d34-793f456248a6-2.jpg"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              8,
+              9
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "images": [
+              {
+                "description": "An engraving of two women wearing wreaths being led through a crowd.",
+                "object": 108,
+                "article_id": "3b86d0e0-ebd7-4521-92f4-5d7f8a89e901",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/3b86d0e0-ebd7-4521-92f4-5d7f8a89e901-1.jpg"
+              },
+              {
+                "description": "Enlarged horizontally mirrored lower-left engraving crop (object107); visual/normalized correlation match after mirroring",
+                "article_id": "3b86d0e0-ebd7-4521-92f4-5d7f8a89e901",
+                "count": 1,
+                "disposition": "represented once by complete object108 export"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present.",
+            "article_sequences": [
+              10
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "images": [
+              {
+                "description": "A mailbox on a post with flowers growing around it.",
+                "object": 112,
+                "article_id": "88345a38-6c33-495a-8407-f0fda29b67e0",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/88345a38-6c33-495a-8407-f0fda29b67e0-1.jpg"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present. Standalone floral typographic separators omitted; not raster illustrations.",
+            "article_sequences": [
+              11
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "images": [],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present. Standalone floral typographic separators omitted; not raster illustrations.",
+            "image_disposition": "No photographs, illustrations, scores or substantive vector graphics on this page.",
+            "article_sequences": [
+              4,
+              11
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "A mountain, trees and a lake behind the printed poem Authority.",
+                "object": 119,
+                "article_id": "713c3d95-5295-421e-9ca7-3cd2cc1643d9",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/713c3d95-5295-421e-9ca7-3cd2cc1643d9-1.jpg"
+              }
+            ],
+            "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present. Publication logos/waveform and mailing-panel typography excluded as cover/masthead/mailing furniture.",
+            "article_sequences": [
+              12
+            ],
+            "visual_check": "completed",
+            "article_specific_permission_notices": []
+          }
+        ],
+        "image_census_totals": {
+          "raster_image_appearances": 32,
+          "canonical_exports": 10,
+          "repeated_appearances_represented_by_existing_canonical_export": 17,
+          "permitted_inventory_exclusions": 5,
+          "balanced": true
+        },
+        "image_verification": {
+          "visual_page_census": "All 36 PDF pages inspected in reading order; meaningful raster image appearances balanced below. Typography, page furniture, frames, rules, pull-quote panels and standalone floral separators are named layout exclusions.",
+          "source_inspection": "All 17 raw image objects checked; article object streams, paint order, clipping paths and ExtGState inspected. No source-image soft masks or transparency groups and no unused clean alternate background for Authority.",
+          "final_images": "Every final JPEG opened and compared to PDF and raw source; centre, edges and corners inspected for overlays, clipping, text, corruption and orientation.",
+          "colour": "All ten final JPEGs baseline RGB/sRGB with embedded sRGB ICC profile and 150 dpi nonzero density. All grayscale source artwork converted to neutral RGB without tonal change; no CMYK source assets for content articles.",
+          "decoders": "Every final JPEG completely loaded by Pillow/libjpeg and independent ffmpeg native MJPEG decoder with zero warnings/errors. Pixel differences <=3/255 between decoders.",
+          "browser_compatible_renderer": "Every final JPEG fully decoded, painted at natural dimensions and read back through Skia Canvas (@napi-rs/canvas).",
+          "overlay_exceptions": [
+            "Authority object119 irreversibly includes poem, translucent panel and drop shadow, retained explicitly; no useful crop preserves the mountain/scene.",
+            "Ship object24 and mailbox112 contain gray tonal backgrounds in their sole source rasters; no separate original or exact inverse evidence exists, so preserved with uncertainty."
+          ],
+          "general_image_credit": "General masthead: “Some images © 2001-2004 www.arttoday.com”. It does not identify individual assets; recorded as uncertainty for every export."
+        },
+        "independent_review": "An additional reader reviewed all 36 pages and checked article endings, nonconsecutive continuations, unique side matter, credits, the complete readers column and all 20 Authority poem lines against the HTML. Source anomalies and meaningful emphasis were retained; no unresolved text reading or article-specific reuse notice remains."
+      }
     }
   ],
   "categories": [

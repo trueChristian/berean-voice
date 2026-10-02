@@ -76094,6 +76094,819 @@
         "independent_text_review": "Two additional AI readers compared the complete article against every source page for wording, punctuation, apparent source errors, paragraph boundaries, meaningful emphasis, poem lineation and financial-table labels and values as applicable; no unresolved discrepancy remains."
       },
       "issue_id": "31ff8309-abc1-4f84-895f-360ca46feb05"
+    },
+    {
+      "id": "f896076d-76e2-4e42-8532-6cb2a3c029f0",
+      "language": "en",
+      "sequence": 1,
+      "title": "THE Personal Testimony",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Charles T. Studd",
+        "authors": [
+          {
+            "name": "Charles T. Studd"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 7
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/f896076d-76e2-4e42-8532-6cb2a3c029f0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f896076d-76e2-4e42-8532-6cb2a3c029f0-1.jpg",
+          "public_path": "/images/articles/f896076d-76e2-4e42-8532-6cb2a3c029f0-1.jpg",
+          "source_page": 3,
+          "role": "illustration",
+          "alt": "A horse pulling a two-wheeled carriage driven by a man.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded base object 10; original 622×305 rectangular framing, orientation and underlying source pixels retained. The separately painted irregular layout clipping path is omitted: it otherwise hides parts of the artwork; no content was synthesized. All separately painted article text and page furniture omitted. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 622,
+          "height": 305,
+          "source_object": 10,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/f896076d-76e2-4e42-8532-6cb2a3c029f0-2.jpg",
+          "public_path": "/images/articles/f896076d-76e2-4e42-8532-6cb2a3c029f0-2.jpg",
+          "source_page": 5,
+          "role": "illustration",
+          "alt": "Two men sitting beside a table with books.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded base object 17; original 379×343 rectangular framing, orientation and underlying source pixels retained. The separately painted irregular layout clipping path is omitted: it otherwise hides parts of the artwork; no content was synthesized. All separately painted article text and page furniture omitted. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 379,
+          "height": 343,
+          "source_object": 17,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All five pages visually read through final line before UUID assignment; no article-specific reuse restriction. Body wording, punctuation, paragraph boundaries, quotations and plain body formatting compared with rendered PDF. The p3 introductory pull quote and p4/p6 central pull quotes repeat body text and are not duplicated. Two illustrations belong to this article, horse and driver on p3 and two men at a table on p5; p7 ship and ALL THE ROCKS belong to a separate vignette. Preserved apparent source irregularities including “anyone he had ever had” (p4), the unmatched single quote in “verse—‘shall have everlasting life?” (p5), lowercase “he” and “him” in passages referring to Christ/God (p6), absent closing quotation mark following “the Lord will lead you.” (p6), “I had God to give them as plain to go back.” (p6), and “in search of better.” (p7). End-of-article square omitted as print furniture.",
+        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
+      },
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee"
+    },
+    {
+      "id": "cac00fd8-ab2b-4033-92c7-bef44b4341db",
+      "language": "en",
+      "sequence": 2,
+      "title": "ALL THE ROCKS",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 7
+      },
+      "categories": {
+        "primary": "400977eb-3421-51cc-992f-b947d2cda0f4",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/cac00fd8-ab2b-4033-92c7-bef44b4341db.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/cac00fd8-ab2b-4033-92c7-bef44b4341db-1.jpg",
+          "public_path": "/images/articles/cac00fd8-ab2b-4033-92c7-bef44b4341db-1.jpg",
+          "source_page": 7,
+          "role": "illustration",
+          "alt": "A sailing ship passing rocks near the coast.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Sole embedded base object 24; full published image content and orientation preserved. Separately painted article text, rules, frame and background layout omitted. Artist mark retained. The gray tonal background is baked into the only source raster; whether it was an earlier publisher treatment is unstated, and no clean alternate or exact inverse evidence exists. It is preserved without claiming an untinted original. The article title and prose are separate PDF text and omitted. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 750,
+          "height": 540,
+          "source_object": 24,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete independently titled vignette after the Testimony end-marker, visually verified. No byline or article-specific restriction appears. Capital “Captain” preserved. Source line wrapping is layout, represented as one prose paragraph. Its sailing-ship illustration is separate from the Testimony images; title and vignette text are separately transcribed, not embedded in the image.",
+        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
+      },
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee"
+    },
+    {
+      "id": "048f1671-ed06-4ba0-8509-b288af569cfc",
+      "language": "en",
+      "sequence": 3,
+      "title": "Soul Nourishment FIRST",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by George Müller",
+        "authors": [
+          {
+            "name": "George Müller"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 9
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/048f1671-ed06-4ba0-8509-b288af569cfc.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Both complete pages visually read before UUID assignment; no article-specific reuse restriction. Exact byline uses Müller, although contents page says Muller. Three-column prose is joined in printed reading order and all paragraph boundaries preserved, including p8–p9 continuation. The italic phrase “have my soul happy in the Lord.” is preserved; the preceding “to” remains roman as printed. The large p9 pull quote duplicates body wording and is not repeated. There are no photographs, illustrations, backgrounds, diagrams or other article images on either page. End-of-article square omitted as print furniture."
+      },
+      "publication_notes": "Printed date beneath the byline: “May 9 1841”.",
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee"
+    },
+    {
+      "id": "7b699913-16ec-4087-9e0c-ca867e750d90",
+      "language": "en",
+      "sequence": 4,
+      "title": "POWER FROM ON HIGH",
+      "subtitle": "The Moravians and Count Zinzendorf",
+      "section": "A MODERN PENTECOST",
+      "byline": {
+        "raw": "by John Greenfield",
+        "authors": [
+          {
+            "name": "John Greenfield"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 35,
+        "pages": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          35
+        ]
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [
+        "3071fe03-5111-5c92-b54a-c774d84dfac2",
+        "c3153996-8271-5167-b21e-2fa3c0e8df1d",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "83aa35f7-eafc-5468-a36d-196ceb1d875c"
+      ],
+      "html": {
+        "repository_path": "content/articles/7b699913-16ec-4087-9e0c-ca867e750d90.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article on pages 10–16 and nonconsecutive continuation on page 35 visually read through its final adaptation/source credit before UUID assignment; no permission restriction. Every source paragraph, subheading, ordinal superscript, punctuation mark, and credit checked against 180 dpi page renders after transcription. All body source irregularities retained, including “When the Spirit came Prayer precedes Pentecost.”, “heir loving Savior”, “produced a flood sacred song”, “become Moravian missionaries”, “revival in of the”, and mismatched quotation marks. The quoted hymn on page 15 is printed as a prose paragraph and is preserved that way. No body italics/bold emphasis is printed. Source subtitle uses small capitals with enlarged title initials. Main headline and section label are visually capitals. Shaded pull quotes on pages 10–16 repeat body passages and are not duplicated; they are typography, not article image assets. Running heads, continuation locator, page furniture and terminal ornamental square excluded as nonsemantic layout. Closing adaptation credit retained with its three printed lines.",
+        "image_visual_note": "Page-by-page visual census completed: pages 10–16 and the page-35 continuation contain no photographs, illustrations, or substantive vector images. Shaded text quote panels and headline frame are publisher typography/layout. The floral separators in the top of page 35 belong to the separate letters section.",
+        "independent_text_review": "A second AI reader visually compared all source pages, including the nonconsecutive continuation where present, with the complete HTML; wording, punctuation, paragraph boundaries and meaningful formatting match."
+      },
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee"
+    },
+    {
+      "id": "1f294c3b-4295-4493-8a52-a33af40f298b",
+      "language": "en",
+      "sequence": 5,
+      "title": "Past Redemption Point",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": "94dddad2-cc75-5292-86c4-8f450af98ad4",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "0077042a-c127-5c03-a910-92dc63cb4356",
+        "220fa5b4-8cd4-53ca-ba1c-e06e36c60b58",
+        "b074afdf-90ed-58c5-b843-3e274c46e17b"
+      ],
+      "html": {
+        "repository_path": "content/articles/1f294c3b-4295-4493-8a52-a33af40f298b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/1f294c3b-4295-4493-8a52-a33af40f298b-1.jpg",
+          "public_path": "/images/articles/1f294c3b-4295-4493-8a52-a33af40f298b-1.jpg",
+          "source_page": 17,
+          "role": "illustration",
+          "alt": "Waterfalls seen from a rocky overlook with several figures.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded base object 55; original 554×572 rectangular framing, orientation and underlying source pixels retained. The separately painted irregular layout clipping path is omitted: it otherwise hides parts of the artwork; no content was synthesized. All separately painted article text and page furniture omitted. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 554,
+          "height": 572,
+          "source_object": 55,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete unsigned article on page 17 checked for restrictions through its final line and accompanying waterfall engraving before UUID assignment; no article-specific permission wording. All six paragraphs visually compared with the 180 dpi page render after transcription. Exact irregular source wording preserved, including “any yearning, human heart”, “so badly braved”, “but beyond it not human being”, and “even though”. Scripture punctuation/case, meaningful em dashes and quotation marks preserved. No meaningful body emphasis appears. Running footer and terminal ornamental square excluded.",
+        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note.",
+        "independent_text_review": "A second AI reader visually compared all source pages, including the nonconsecutive continuation where present, with the complete HTML; wording, punctuation, paragraph boundaries and meaningful formatting match."
+      },
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee"
+    },
+    {
+      "id": "c6596509-ad91-49b6-a55b-d850c3b72c14",
+      "language": "en",
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee",
+      "sequence": 6,
+      "title": "How Do We Prepare Our Youth Girls For the Future?",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Helen Leibee",
+        "authors": [
+          {
+            "name": "Helen Leibee"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 21
+      },
+      "categories": {
+        "primary": "85b345ae-ce23-56a2-9249-2cfa79293657",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca",
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "bad0e42a-5e78-5b7d-bd28-65042ae509d4",
+        "7f06bc78-5f35-5a70-b5a2-2ccd07dd0015",
+        "5ea0db0d-b944-52a3-a188-ec4e08de1277",
+        "5f8f9b13-91da-537a-a547-e6e82bc7b78d"
+      ],
+      "html": {
+        "repository_path": "content/articles/c6596509-ad91-49b6-a55b-d850c3b72c14.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c6596509-ad91-49b6-a55b-d850c3b72c14-1.jpg",
+          "public_path": "/images/articles/c6596509-ad91-49b6-a55b-d850c3b72c14-1.jpg",
+          "source_page": 18,
+          "role": "photograph",
+          "alt": "A close-up of a rose.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean title rose base object 59, cropped to source-pixel rectangle (0, 0, 682, 1029) for the published clipping rectangle. Separately painted title, byline and text shadow omitted. The same rose photograph is represented once: faded enlarged background object 134 on pages 18–21 and twelve repeated section thumbnails from object 124 on pages 19–21 add no unique scene content and are omitted. Source grayscale tonal appearance preserved; no inferred contrast reversal. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 682,
+          "height": 1029,
+          "source_object": 59,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article, all twelve subheadings, ending scripture banner, byline and rose imagery on pages 18–21 visually inspected; no article-specific reuse restriction. Exact July/August 2004 source wording retained, including “born again”, “self sufficient”, “someone’s lives”, “Receiving correction.” and Psalm 116:165. Meaningful italic and bold-italic emphasis retained; the unique Proverbs 22:6 banner is represented once at the end. This separately printed 2004 version precedes the indexed 2007 Special Edition version fd4b0e3a-4e95-4927-ada8-70576e3bf708; wording, punctuation, emphasis and rose illustration differ, so it has its own issue-specific article record rather than replacing the 2007 version.",
+        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
+      }
+    },
+    {
+      "id": "8cbcdd10-5627-42b1-b948-ee7f93c1d648",
+      "language": "en",
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee",
+      "sequence": 7,
+      "title": "Little Trouble Maker",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Carl Giordano",
+        "authors": [
+          {
+            "name": "Carl Giordano"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "78d8ed5b-bad4-58ae-ae10-a49f738e29d8"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/8cbcdd10-5627-42b1-b948-ee7f93c1d648.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article and Berean Publishers credit/address visually checked on page 22. No permission wording is printed and no image belongs to the article; page border is nonsemantic print furniture. The unusual closing opening quote and space in “Sir “, the printed “loveable”, punctuation, capitalization and paragraph boundaries are retained."
+      }
+    },
+    {
+      "id": "4e8ea007-f957-4120-ad93-54df11c824c6",
+      "language": "en",
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee",
+      "sequence": 8,
+      "title": "The Church Must First Repent",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by J. Edwin Orr",
+        "authors": [
+          {
+            "name": "J. Edwin Orr"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 32,
+        "pages": [
+          23,
+          24,
+          25,
+          32
+        ]
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/4e8ea007-f957-4120-ad93-54df11c824c6.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire article on pages 23–25 and nonconsecutive continuation on page 32 visually checked through the final line; no article-specific reuse notice or article images. Preserved opening Revelation 3:19 quotation, five numbered items, fourteen bullet items, two italic scripture block quotations and individual italic terms. Printed anomalies retained, including “individual heats”, “Ulster Revival Of”, “Welsh Revival Of”, mixed quote marks, four-dot repent...., mixed dot/ellipsis in “If any man.…”, and numeral 0 in “Search me, 0 God,”. Continuation labels, end ornaments, running furniture and list-bullet shapes are represented by semantic reading order/list structure rather than duplicated text."
+      }
+    },
+    {
+      "id": "f838e04e-5633-4a29-9d34-793f456248a6",
+      "language": "en",
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee",
+      "sequence": 9,
+      "title": "Turmoil to Peace",
+      "subtitle": "A Teenager’s Story",
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Jessica M. Draur",
+        "authors": [
+          {
+            "name": "Jessica M. Draur"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 26,
+        "end": 32
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+          "85b345ae-ce23-56a2-9249-2cfa79293657"
+        ]
+      },
+      "topics": [
+        "05c2dfac-6ad8-5ea0-99ef-d6022f8cb346",
+        "b074afdf-90ed-58c5-b843-3e274c46e17b",
+        "326bca9f-b5fe-56cb-b54e-f3e1447ae818"
+      ],
+      "html": {
+        "repository_path": "content/articles/f838e04e-5633-4a29-9d34-793f456248a6.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f838e04e-5633-4a29-9d34-793f456248a6-1.jpg",
+          "public_path": "/images/articles/f838e04e-5633-4a29-9d34-793f456248a6-1.jpg",
+          "source_page": 26,
+          "role": "photograph",
+          "alt": "A smiling young woman wearing glasses beside a tree.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Base image object 84 repainted alone through its exact published vector clipping path on the original 281×412 pixel grid; white outside the published clipping path. All separately painted article text and layout furniture omitted. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 281,
+          "height": 412,
+          "source_object": 84,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/f838e04e-5633-4a29-9d34-793f456248a6-2.jpg",
+          "public_path": "/images/articles/f838e04e-5633-4a29-9d34-793f456248a6-2.jpg",
+          "source_page": 27,
+          "role": "photograph",
+          "alt": "Seven people standing outdoors in front of trees.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base object 88, cropped to source-pixel rectangle (1, 1, 514, 421) to reproduce the published rectangular clipping path; separately painted border omitted. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 513,
+          "height": 420,
+          "source_object": 88,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Every page of this article (26–32) visually inspected through the closing song quotation; no article-specific reuse restriction found. Text, punctuation, paragraph boundaries and type treatment compared with the PDF. Pull quotes on pages 28, 30 and 31 duplicate body words and are represented only in their body paragraphs. Printed anomalies including “December 29,1988”, “peer-dependant”, “J. R. Tolkien’s”, “Lord of the Ring”, “Amanda drug me”, “my books and I”, “(we love to talk together,)” and the closing quotation mark before “And my prayer” on page 30 are preserved. Source small-cap heading is represented in title case. Page 32 lower continuation belongs to The Church Must First Repent and is not part of this article. Two photographs belong to this article, on pages 26 and 27. No images occur on pages 28–32.",
+        "independent_text_review": "A second AI reader visually compared the complete article against pages 26–32 at 125 and 190 dpi and found no wording, punctuation, paragraph or meaningful-emphasis discrepancy. Unusual source forms and the right-curly quotation mark in “both—”And” were checked; images verified separately.",
+        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
+      }
+    },
+    {
+      "id": "3b86d0e0-ebd7-4521-92f4-5d7f8a89e901",
+      "language": "en",
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee",
+      "sequence": 10,
+      "title": "Two Young Girls",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "taken from the Martyr’s Mirror",
+        "authors": []
+      },
+      "source_pages": {
+        "start": 33,
+        "end": 33
+      },
+      "categories": {
+        "primary": "59e78031-c269-52d1-9b00-08dba0398cb4",
+        "additional": []
+      },
+      "topics": [
+        "494add59-7a1e-504d-ab65-b626610b684d",
+        "d98d2776-11d0-5852-be8d-67a88feaeb5e"
+      ],
+      "html": {
+        "repository_path": "content/articles/3b86d0e0-ebd7-4521-92f4-5d7f8a89e901.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/3b86d0e0-ebd7-4521-92f4-5d7f8a89e901-1.jpg",
+          "public_path": "/images/articles/3b86d0e0-ebd7-4521-92f4-5d7f8a89e901-1.jpg",
+          "source_page": 33,
+          "role": "illustration",
+          "alt": "An engraving of two women wearing wreaths being led through a crowd.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean embedded base object 108; full published image content and orientation preserved. Separately painted article text, rules, frame and background layout omitted. The lower-page detail (object 107) is an enlarged horizontally mirrored crop of the lower-left part of this engraving, with no unique image content; represented once by the complete scene from object 108. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 450,
+          "height": 358,
+          "source_object": 108,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire page 33 article visually inspected through final line and both engraving placements; no article-specific restriction found. The source credit is “taken from the Martyr’s Mirror”; no individual author is printed. Text, paragraphs and punctuation preserved, including “The girl’s adversaries” and “power: They”. The lower detail repeats content of the main engraving and is represented once after raw-image confirmation. Panel background, frame and end ornament are print furniture.",
+        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
+      }
+    },
+    {
+      "id": "88345a38-6c33-495a-8407-f0fda29b67e0",
+      "language": "en",
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee",
+      "sequence": 11,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": [
+          "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61"
+        ]
+      },
+      "topics": [
+        "fcaa8e3f-d0bd-5591-8638-314cf1c87857",
+        "46c3d0eb-21b7-5812-8b12-335d5badc3d4"
+      ],
+      "html": {
+        "repository_path": "content/articles/88345a38-6c33-495a-8407-f0fda29b67e0.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/88345a38-6c33-495a-8407-f0fda29b67e0-1.jpg",
+          "public_path": "/images/articles/88345a38-6c33-495a-8407-f0fda29b67e0-1.jpg",
+          "source_page": 34,
+          "role": "illustration",
+          "alt": "A mailbox on a post with flowers growing around it.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Sole embedded base object 112; full published image content and orientation preserved. Separately painted article text, rules, frame and background layout omitted. The mailbox lettering and gray background are baked into the only source raster and retained; any earlier gray layout blend cannot be separated or deterministically reversed from PDF evidence. No caption or individual credit is printed. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 180,
+          "height": 290,
+          "source_object": 112,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Entire reader column on page 34 and upper part of page 35 visually inspected; no article-specific reuse restriction found. Editorial introduction, five-item list, editor sign-off and four full letters included. State sign-offs remain italic. Printed apparent errors “tinkling symbols”, “bough”, “ceases to amaze” and “heart..” retained. Letter-spanning column/page breaks joined; flower separators omitted as decorative print ornaments. The lower page 35 continuation of Power from On High is a separate article. Mailbox illustration belongs to the reader column.",
+        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
+      }
+    },
+    {
+      "id": "713c3d95-5295-421e-9ca7-3cd2cc1643d9",
+      "language": "en",
+      "issue_id": "07955de4-6574-4a4b-9c1b-f216374c02ee",
+      "sequence": 12,
+      "title": "Authority",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Anonymous",
+        "authors": [
+          {
+            "name": "Anonymous"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "eac8ecde-81f6-551a-9170-1b8577740623"
+      ],
+      "html": {
+        "repository_path": "content/articles/713c3d95-5295-421e-9ca7-3cd2cc1643d9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/713c3d95-5295-421e-9ca7-3cd2cc1643d9-1.jpg",
+          "public_path": "/images/articles/713c3d95-5295-421e-9ca7-3cd2cc1643d9-1.jpg",
+          "source_page": 36,
+          "role": "poem_background",
+          "alt": "A mountain, trees and a lake behind the printed poem Authority.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Only source is flattened RGB object 119, cropped to source-pixel rectangle (38, 38, 1313, 1688) to reproduce the printed page. The poem, translucent reading panel and drop shadow are irreversibly baked into this sole raster; no alternate base, pieces, soft mask or transparency group exists. A crop removing the panel would discard the mountain and most of the scene, so the faithful source is retained with this explicit unavoidable-overlay exception. Separate publication/address/postage typography and vector mailing furniture omitted. No inpainting, synthesis or tonal inverse performed. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 1275,
+          "height": 1650,
+          "source_object": 119,
+          "verification": {
+            "visual_against_pdf": "verified_by_ai",
+            "overlay_audit": "verified_by_ai",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The complete signed back-cover poem was found by visual inspection although absent from the PDF text layer. Title, author and five four-line stanzas transcribed from the rendered raster, with a 216 dpi close-up for punctuation verification. Bold italic body and stanza/line boundaries preserved. Source “way.” has a period, “Whate’er”, “Whene’er”, and “Jesus name” retained exactly. Page 36 is unnumbered; source_pages uses PDF page 36. The full-page mountain/lake photograph belongs to the poem; magazine and postal/address elements are mailing furniture. No article-specific restriction appears.",
+        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
+      }
     }
   ],
   "skipped": [
