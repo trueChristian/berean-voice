@@ -81766,6 +81766,635 @@
           }
         }
       ]
+    },
+    {
+      "id": "883ef855-5122-41ca-a892-eff8766f71b2",
+      "language": "en",
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "sequence": 1,
+      "title": "RESOLVES",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by\nCotton Mather 1663-1728",
+        "authors": [
+          {
+            "name": "Cotton Mather",
+            "location": null,
+            "life_dates": "1663-1728"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 33,
+        "pages": [
+          3,
+          4,
+          33
+        ]
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/883ef855-5122-41ca-a892-eff8766f71b2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/883ef855-5122-41ca-a892-eff8766f71b2-1.jpg",
+          "public_path": "/images/articles/883ef855-5122-41ca-a892-eff8766f71b2-1.jpg",
+          "source_page": 3,
+          "role": "opening illustration",
+          "alt": "Family gathered around a table.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 13 was used. The article heading and gray title panel are separate page furniture and were omitted. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "All ten points and the editors comments were visually compared with pages 3, 4 and the continuation at the bottom of page 33. Point #8 joins across the nonconsecutive continuation. Source wording including “its possible”, “abase”, “His councils”, and the closing quotation mark after “ages.” is preserved. No footnotes occur.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly.",
+        "image_review": "Opened all final exported images and visually compared them with their rendered source pages; no caption or image credit is printed."
+      }
+    },
+    {
+      "id": "0b740419-f5ec-4b0d-9baf-02e430cadbf8",
+      "language": "en",
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "sequence": 2,
+      "title": "Samuel Logan Brengle’s Home Life",
+      "subtitle": "APOSTLE OF HOLINESS",
+      "section": "Home Histories",
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 5,
+        "end": 8
+      },
+      "categories": {
+        "primary": "9514e8ea-e431-5806-a5f3-0953a922c074",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/0b740419-f5ec-4b0d-9baf-02e430cadbf8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/0b740419-f5ec-4b0d-9baf-02e430cadbf8-1.jpg",
+          "public_path": "/images/articles/0b740419-f5ec-4b0d-9baf-02e430cadbf8-1.jpg",
+          "source_page": 5,
+          "role": "portrait",
+          "alt": "Portrait of Samuel Logan Brengle.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 20 was used. The source portrait has an intrinsic white vignette; it was retained. Separate headings and page rules were omitted. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/0b740419-f5ec-4b0d-9baf-02e430cadbf8-2.jpg",
+          "public_path": "/images/articles/0b740419-f5ec-4b0d-9baf-02e430cadbf8-2.jpg",
+          "source_page": 7,
+          "role": "illustration",
+          "alt": "People gathered inside a room as a man addresses them.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 27 was used. The thin peripheral outline is intrinsic to the only source raster and was retained; no separately painted page text or rules were included. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "All text, six section headings, paragraph boundaries, quotations, book-title italics, and scripture italics were visually compared with pages 5–8. The bottom-page pull quote on page 8 repeats the Conclusion verbatim and is represented once in the body. No footnotes occur.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly.",
+        "image_review": "Opened all final exported images and visually compared them with their rendered source pages; no caption or image credit is printed."
+      }
+    },
+    {
+      "id": "ba78ab40-e1d1-4b82-9b71-194439cd6f86",
+      "language": "en",
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "sequence": 4,
+      "title": "God’s Faithfulness Through Tragedy",
+      "subtitle": null,
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Doris Nolt",
+        "authors": [
+          {
+            "name": "Doris Nolt",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 12,
+        "end": 14
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/ba78ab40-e1d1-4b82-9b71-194439cd6f86.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/ba78ab40-e1d1-4b82-9b71-194439cd6f86-1.jpg",
+          "public_path": "/images/articles/ba78ab40-e1d1-4b82-9b71-194439cd6f86-1.jpg",
+          "source_page": 13,
+          "role": "portrait",
+          "alt": "Nathanael seated for a portrait.",
+          "caption": "Nathanael",
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 49 was used. The separately painted caption label, frame, and drop shadow were omitted from the photograph; the caption is represented in HTML. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/ba78ab40-e1d1-4b82-9b71-194439cd6f86-2.jpg",
+          "public_path": "/images/articles/ba78ab40-e1d1-4b82-9b71-194439cd6f86-2.jpg",
+          "source_page": 13,
+          "role": "family photograph",
+          "alt": "Warren and Doris Nolt with their children.",
+          "caption": "Warren & Doris Nolt and family\nleft to right: Zachary, Douglas, Shawn, Micaiah",
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 48 was used. The clean full source photograph was recovered beneath the overlapping child portrait. Separate frame, shadow and caption were omitted from the raster. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Article spans printed pages 12–14 in uninterrupted reading order. The following financial report on page 15 is separate. Full article, captions, and final line checked; no article-specific permission or reprint restriction detected. No footnotes occur.",
+        "text_review": "Every paragraph was visually compared with rendered pages 12–14. Nineteen source paragraphs and their column/page continuations are retained. Italics in both occurrences of Remnant and the two scripture quotations are preserved. Only nonsemantic line-end hyphens and column/page breaks are joined; end ornament omitted.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly."
+      }
+    },
+    {
+      "id": "f3b6d2e3-f25b-42da-a140-5208ab236aa7",
+      "language": "en",
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "sequence": 5,
+      "title": "Primitive Christianity",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Charles Wesley",
+        "authors": [
+          {
+            "name": "Charles Wesley",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 16,
+        "end": 17
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "8d7646c9-072b-51ea-a1ef-cff3f7f50285"
+        ]
+      },
+      "topics": [
+        "15fded78-2bae-5612-8e6d-863871109109",
+        "f396833d-db0d-5879-8fc7-0b9e43bd718d"
+      ],
+      "html": {
+        "repository_path": "content/articles/f3b6d2e3-f25b-42da-a140-5208ab236aa7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f3b6d2e3-f25b-42da-a140-5208ab236aa7-1.jpg",
+          "public_path": "/images/articles/f3b6d2e3-f25b-42da-a140-5208ab236aa7-1.jpg",
+          "source_page": 16,
+          "role": "opening illustration",
+          "alt": "Illustration of a man preaching to a gathered crowd.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 61 was used. The separate frame, title panel, and page border were omitted. The faded repeat object 65 on page 17 adds no unique image content and is represented once by this clean image; no faded duplicate was exported. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Thirty four-line stanzas retained in column reading order, with the printed Part 2. heading after stanza fourteen. Source readings Propriety, Are ‘minished, and Thou knowest tis are preserved. The page 17 faded background repeats the page 16 illustration and is represented once by its clean base image. Same-titled poem in the January/February/March 2007 issue has distinct issue provenance and illustrations; this record describes the July/August 2003 printing.",
+        "text_review": "Every source page visually read through the final line and compared with the authored HTML. A whitespace-normalized text-layer comparison was used only as a validation aid after visual transcription. No footnotes occur.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly."
+      }
+    },
+    {
+      "id": "f0aa735d-e0b7-43fe-86d7-8e97d01f8178",
+      "language": "en",
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "sequence": 6,
+      "title": "A Personal Interview with George Mueller",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Pastor Charles R. Parsons\n1897",
+        "authors": [
+          {
+            "name": "Charles R. Parsons",
+            "role": "Pastor",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 22
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [
+        "3639e3c0-6b3d-5723-b94a-6a1b62c91cf5",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
+        "8ada4a0d-a538-532f-a615-13434b3cd997"
+      ],
+      "html": {
+        "repository_path": "content/articles/f0aa735d-e0b7-43fe-86d7-8e97d01f8178.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/f0aa735d-e0b7-43fe-86d7-8e97d01f8178-1.jpg",
+          "public_path": "/images/articles/f0aa735d-e0b7-43fe-86d7-8e97d01f8178-1.jpg",
+          "source_page": 18,
+          "role": "portrait",
+          "alt": "Portrait of George Mueller.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 69 was used. The separately painted frame, drop shadow and gray title panel were omitted. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete five-page interview, including both Secret of George Mueller sidebars and From the editor... note signed —Bro. Denny. The Long Life sidebar follows the paragraph spanning pages 21–22, preserving its complete sentence before the sidebar. Repeated decorative pull quotes on pages 19, 20 and 22 are omitted because their wording already appears in the body. Apparent printed errors and quotation mismatches are retained, including “the old self’ and “0 Lord. The two verse lines preserve italics; the first wraps typographically in print and is joined as one verse line. Title byline includes the printed historical year 1897; no exact date is inferred.",
+        "text_review": "Every source page visually read through the final line and compared with the authored HTML. A whitespace-normalized text-layer comparison was used only as a validation aid after visual transcription. No footnotes occur.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly."
+      },
+      "publication_notes": [
+        "1897 is printed beneath the author byline."
+      ]
+    },
+    {
+      "id": "b8c8f161-1019-4249-b4a3-0cdcb53a2399",
+      "language": "en",
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "sequence": 7,
+      "title": "The Church Fire",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 24
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/b8c8f161-1019-4249-b4a3-0cdcb53a2399.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/b8c8f161-1019-4249-b4a3-0cdcb53a2399-1.jpg",
+          "public_path": "/images/articles/b8c8f161-1019-4249-b4a3-0cdcb53a2399-1.jpg",
+          "source_page": 23,
+          "role": "opening illustration",
+          "alt": "Firefighters directing water onto a burning building.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 85 was used. The separate dark title panel and article title were omitted. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Both pages fully inspected including final sign-off. The p24 pull quote repeats body wording and is represented once in the body. Source wording “If it continues to do, so” and “What for men are they?” retained. Sign-off remains in the body. One opening firefighting illustration, no caption; no footnotes.",
+        "text_review": "AI visually compared all source pages with manually authored HTML; exact wording and meaningful formatting retained. PDF text layer and font spans used only as secondary character/emphasis verification aids. No footnotes occur. Secondary character comparison of manually selected source blocks matched all article text after excluding whitespace, discretionary line-end hyphens and the closing printer ornament; source hyphens and spacing independently checked visually.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly."
+      }
+    },
+    {
+      "id": "6f2a677e-f161-4cf2-af5d-58fb97254702",
+      "language": "en",
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "sequence": 8,
+      "title": "The Vibrant, Organic Church",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Craig Schaaf",
+        "authors": [
+          {
+            "name": "Craig Schaaf",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 25,
+        "end": 35,
+        "pages": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          35
+        ]
+      },
+      "categories": {
+        "primary": "8d7646c9-072b-51ea-a1ef-cff3f7f50285",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/6f2a677e-f161-4cf2-af5d-58fb97254702.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6f2a677e-f161-4cf2-af5d-58fb97254702-1.jpg",
+          "public_path": "/images/articles/6f2a677e-f161-4cf2-af5d-58fb97254702-1.jpg",
+          "source_page": 25,
+          "role": "opening illustration",
+          "alt": "Garden plants around a stone doorway.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 92 was used. The thin peripheral outline is intrinsic to the only source raster and was retained; separate article typography was omitted. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/6f2a677e-f161-4cf2-af5d-58fb97254702-2.jpg",
+          "public_path": "/images/articles/6f2a677e-f161-4cf2-af5d-58fb97254702-2.jpg",
+          "source_page": 29,
+          "role": "dictionary excerpt",
+          "alt": "Greek dictionary entry for charis.",
+          "caption": null,
+          "credit": "Strong’s Concordance",
+          "rights_note": "The immediately preceding article paragraph identifies the source as Strong’s Concordance. No separate permission notice or licence terms are printed. Clean embedded PDF image object 105 was used. The dictionary text is intrinsic, substantive image content and was preserved exactly in the source raster. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Pages 25–29 continue on page 35 after the reader letters. Both decorative pull quotes on pages 25 and 27 repeat article wording and are represented once in the body. Eight subheadings, scriptural quotations, emphasis, Ephesians underlining, conclusion, Tozer quotation and final booklet adaptation note retained. Printed “Bankmanagers” and “Hebrews 6: 1” retained. Two images: p25 garden doorway and p29 substantive dictionary excerpt. No footnotes.",
+        "text_review": "AI visually compared all source pages with manually authored HTML; exact wording and meaningful formatting retained. PDF text layer and font spans used only as secondary character/emphasis verification aids. No footnotes occur. Secondary character comparison of manually selected source blocks matched all article text after excluding whitespace, discretionary line-end hyphens and the closing printer ornament; source hyphens and spacing independently checked visually.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly."
+      },
+      "publication_notes": [
+        "This article was adapted from the booklet, The Organic Church by Craig Schaaf, 11671 Coates Hwy., Brethren, MI 49619. The exact note remains in the HTML."
+      ]
+    },
+    {
+      "id": "86c51292-42f6-489e-83f6-1af47bd09750",
+      "language": "en",
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "sequence": 9,
+      "title": "My Life, My All",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 30
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/86c51292-42f6-489e-83f6-1af47bd09750.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All 42 poem lines and the three-line dedication retained, together with the distinct Isaiah sidebar. No author is printed. The source sidebar wording “hear am I” is retained. Grayscale panels and ornamental perimeter are layout furniture, not article imagery; no exports. No footnotes.",
+        "text_review": "AI visually compared all source pages with manually authored HTML; exact wording and meaningful formatting retained. PDF text layer and font spans used only as secondary character/emphasis verification aids. No footnotes occur. Secondary character comparison of manually selected source blocks matched all article text after excluding whitespace, discretionary line-end hyphens and the closing printer ornament; source hyphens and spacing independently checked visually.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly."
+      }
+    },
+    {
+      "language": "en",
+      "subtitle": null,
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/194d7463-f32d-418e-a5df-b5669abd2a7d-1.jpg",
+          "public_path": "/images/articles/194d7463-f32d-418e-a5df-b5669abd2a7d-1.jpg",
+          "source_page": 31,
+          "role": "portrait",
+          "alt": "Portrait of Oswald J. Smith.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 119 was used. The publisher’s rounded-corner clip and outline were omitted; the original rectangular portrait is preserved. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/194d7463-f32d-418e-a5df-b5669abd2a7d-2.jpg",
+          "public_path": "/images/articles/194d7463-f32d-418e-a5df-b5669abd2a7d-2.jpg",
+          "source_page": 32,
+          "role": "photograph",
+          "alt": "A man standing at a pulpit among chairs inside a tent.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 123 was used. The publisher’s rounded-corner clip and outline were omitted; the original rectangular photograph is preserved. The grayscale source was re-encoded as a baseline RGB/sRGB JPEG at its original pixel dimensions with nonzero 72 dpi density; no CMYK inversion was needed. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "id": "194d7463-f32d-418e-a5df-b5669abd2a7d",
+      "sequence": 10,
+      "title": "The Revival We Need",
+      "section": "Book Review",
+      "byline": {
+        "raw": "by Andrew Weaver",
+        "authors": [
+          {
+            "name": "Andrew Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 33
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": [
+          "dda0cbb3-457a-5412-a60f-abb389b827e0"
+        ]
+      },
+      "topics": [
+        "bb09b9e8-bdc6-5150-bec7-ae616c7622d7"
+      ],
+      "publication_notes": [
+        "Reviewed book: The Revival We Need, by Oswald J. Smith. The reviewer is Andrew Weaver; the contents-page credit names the book author."
+      ],
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full book review pp31–33 and final availability sidebar included; Resolves continuation on lower p33 is a separate article. No footnotes. Existing Andrew Murray article with the same title has different author, issue and body.",
+        "text_review": "Compared authored HTML visually with full rendered pages 31–33. Source wording “and this as the most”, “Chas G. Finney”, capitalized “Godliness” and irregular ellipses retained. Quotation emphasis and roman book title within Goforth quotation preserved.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly."
+      },
+      "html": {
+        "repository_path": "content/articles/194d7463-f32d-418e-a5df-b5669abd2a7d.html"
+      }
+    },
+    {
+      "language": "en",
+      "subtitle": null,
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "issue_id": "5f14401b-358f-4995-8dfe-a5c590c7cf33",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6f47869b-59cb-4c25-8754-44ac48de6098-1.png",
+          "public_path": "/images/articles/6f47869b-59cb-4c25-8754-44ac48de6098-1.png",
+          "source_page": 34,
+          "role": "section illustration",
+          "alt": "Mailbox decorated with climbing flowers.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-specific credit or permission notice is printed. Clean embedded PDF image object 130 was used. The printed mailbox address is intrinsic to the sole source illustration and retained. Separate heading and rounded panel were omitted; the gray field is baked into the only source raster and was retained without synthetic retouching. Original lossless grayscale PNG retained without conversion. The general masthead credit “Some images © 2001-2003 www.arttoday.com” does not identify individual assets; no individual licence inferred."
+        }
+      ],
+      "id": "6f47869b-59cb-4c25-8754-44ac48de6098",
+      "sequence": 11,
+      "title": "Precious Letters from Our Readers",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Editorial invitation and five-item list, sign-off, and all six letters retained: Pennsylvania, North Carolina, Florida, Kenya, Texas, Wisconsin. Lower page35 Vibrant Church continuation belongs to its own article. No footnotes.",
+        "text_review": "Compared all body text and emphasis against full page34–35 renders; source errors including “lottery an”, “what use to be”, “Personally, It”, “write you a let” and missing period after “made me to be” retained. Semantic sections replace decorative diamond separators.",
+        "image_census_note": "Owning article images reconciled with all source pages and inserted in HTML exactly once; source objects, removable overlays, native resolution, complete decoding and Skia rendering checked. Full issue census records the separate blocked article explicitly."
+      },
+      "html": {
+        "repository_path": "content/articles/6f47869b-59cb-4c25-8754-44ac48de6098.html"
+      }
     }
   ],
   "skipped": [
