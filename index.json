@@ -90281,6 +90281,759 @@
         "image_visual_review": "All five associated final assets were opened at full native resolution and compared with the rendered source pages. Exact clipped children and boy portraits, stationery stencil, lighthouse, and complete sunset/crucifixion composition match. Irreversibly baked frame/typography exceptions are documented in image metadata; separate page furniture is omitted.",
         "independent_second_reader": "Complete article wording and meaningful formatting independently compared against every source page, including final figures and exact captions; corrections applied and rechecked."
       }
+    },
+    {
+      "id": "479fe3f1-65fb-437f-93b2-41f0794d47d2",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 3,
+      "title": "The Church and the World",
+      "subtitle": "~Century 21~",
+      "section": null,
+      "byline": {
+        "raw": "~Phil Haines",
+        "authors": [
+          {
+            "name": "Phil Haines",
+            "location": "near Waynesboro, Georgia",
+            "role": "works in the food business"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 12
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "522d3c51-cb40-574e-a1b0-e0e823a8cad5",
+        "71b4f992-d7ff-5b6a-b1d5-2f08160b4dfa"
+      ],
+      "publication_note": "The author note says the article was originally written for A Call to Holy Living and is the eighth in that series.",
+      "html": {
+        "repository_path": "content/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-1.png",
+          "public_path": "/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-1.png",
+          "source_page": 8,
+          "role": "opening poem illustration",
+          "alt": "A woman in a pale dress stands by a steep garden stairway",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific permission notice is printed. Exported under publisher permission reported by the project owner. The printed woman and stairs comprise source objects 26, 28, and 29 at their original PDF placements. The visible horizontal source join was retained."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-2.png",
+          "public_path": "/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-2.png",
+          "source_page": 8,
+          "role": "opening poem illustration",
+          "alt": "A man in a light suit stands by a garden walkway",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific permission notice is printed. Exported under publisher permission reported by the project owner. The printed man and walkway comprise source objects 27, 30, and 31 at their original PDF placements. The visible vertical source join was retained; Separation/Black samples were converted according to PDF decode into RGB."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-3.png",
+          "public_path": "/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-3.png",
+          "source_page": 11,
+          "role": "article collage",
+          "alt": "A couple holding a rose with two figures walking away in the background",
+          "caption": "The expectant bride of a heavenly groom has morphed into the harlot of the World!",
+          "credit": null,
+          "rights_note": "No article-specific permission notice is printed. Exported under publisher permission reported by the project owner. The printed couple and walking figures comprise source objects 107–111 at their original PDF placements; the Separation/Black component was converted according to PDF decode into RGB."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-4.jpg",
+          "public_path": "/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-4.jpg",
+          "source_page": 12,
+          "role": "cartoon",
+          "alt": "Ink illustration of a woman speaking to a man",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No article-specific permission notice is printed. Exported under publisher permission reported by the project owner. Exact embedded p12 cartoon base xref115, converted from Separation/Black to RGB JPEG at the same dimensions. A lower-right signature/date is visible but its artist name is not reliably legible; credit remains unresolved. A separate pull quote repeats the article body and was not duplicated."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Rendered pages 8–12 independently checked for poem stanzas, prose, formatting, captions, all four images, and the referenced final note. Page 12 cartoon signature remains unreadable; see image rights note."
+      }
+    },
+    {
+      "id": "05f07674-20dd-446e-aa36-5c7e43cef66d",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 4,
+      "title": "Tempted",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-by Marita Horst",
+        "authors": [
+          {
+            "name": "Marita Horst",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 13
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "d7a404e4-268b-546a-a83a-47097cbfd5aa"
+      ],
+      "html": {
+        "repository_path": "content/articles/05f07674-20dd-446e-aa36-5c7e43cef66d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/05f07674-20dd-446e-aa36-5c7e43cef66d-1.jpg",
+          "public_path": "/images/articles/05f07674-20dd-446e-aa36-5c7e43cef66d-1.jpg",
+          "source_page": 13,
+          "role": "repeated opening floral illustration",
+          "alt": "Cluster of roses",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Clean bouquet base represents both printed uses; the second is a faded repeat."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/05f07674-20dd-446e-aa36-5c7e43cef66d-2.jpg",
+          "public_path": "/images/articles/05f07674-20dd-446e-aa36-5c7e43cef66d-2.jpg",
+          "source_page": 13,
+          "role": "poem illustration",
+          "alt": "Single rose with dark petals at its center",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Clean single-rose source object; source tonal treatment retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Source pages and image ownership inventoried; rendered pages independently verified for source text, formatting, and image ownership."
+      }
+    },
+    {
+      "id": "166f8dd0-43b4-4418-9b54-f06cff16142a",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 5,
+      "title": "Forklift Theology",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Michael McDaniel",
+        "authors": [
+          {
+            "name": "Michael McDaniel",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 16
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [
+        "1404e2c2-852e-5d57-a2ac-dc54d2d91357",
+        "1a6d8df1-7179-53c8-969e-274ba40d4d4f"
+      ],
+      "html": {
+        "repository_path": "content/articles/166f8dd0-43b4-4418-9b54-f06cff16142a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-1.jpg",
+          "public_path": "/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-1.jpg",
+          "source_page": 14,
+          "role": "forklift control diagram",
+          "alt": "A hand holding two forklift control levers",
+          "caption": "Down\nUp",
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Original embedded hand/levers image; separately painted arrows and labels omitted from pixels and represented as caption."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-2.jpg",
+          "public_path": "/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-2.jpg",
+          "source_page": 15,
+          "role": "illustration",
+          "alt": "Ornate high backed chair with a large decorative letter I",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Original source image contains a baked oversized decorative I that cannot be removed without destroying the throne illustration."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-3.jpg",
+          "public_path": "/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-3.jpg",
+          "source_page": 16,
+          "role": "author photograph",
+          "alt": "Michael and Kayra McDaniel standing together in front of bookshelves",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Original author photograph; duplicate PDF paint object represented once."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Source pages and image ownership inventoried; rendered pages independently verified for source text, formatting, and image ownership."
+      }
+    },
+    {
+      "id": "17930b42-95a6-4302-99b7-51ed2390ef9b",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 6,
+      "title": "Tricki Complex",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Chester Lehman",
+        "authors": [
+          {
+            "name": "Chester Lehman",
+            "location": "near Odon, IN",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": [
+          "85b345ae-ce23-56a2-9249-2cfa79293657"
+        ]
+      },
+      "topics": [
+        "5f8f9b13-91da-537a-a547-e6e82bc7b78d"
+      ],
+      "html": {
+        "repository_path": "content/articles/17930b42-95a6-4302-99b7-51ed2390ef9b.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/17930b42-95a6-4302-99b7-51ed2390ef9b-1.jpg",
+          "public_path": "/images/articles/17930b42-95a6-4302-99b7-51ed2390ef9b-1.jpg",
+          "source_page": 17,
+          "role": "opening illustration",
+          "alt": "A dog sitting with its tongue showing",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. PDF Separation/Black source samples inverted to match PDF decode and normalized to baseline RGB/sRGB JPEG."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Source pages and image ownership inventoried; rendered pages independently verified for source text, formatting, and image ownership."
+      }
+    },
+    {
+      "id": "7dd42356-1c1b-47e5-935c-5768fa14684a",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 7,
+      "title": "Youth Bible School 2009 Report",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "~ Paul Lamicela",
+        "authors": [
+          {
+            "name": "Paul Lamicela",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 23
+      },
+      "categories": {
+        "primary": "85b345ae-ce23-56a2-9249-2cfa79293657",
+        "additional": []
+      },
+      "topics": [
+        "55fff2dd-3f79-5c7f-a7fa-73e125bfbfec",
+        "1c8422c8-b487-5a14-801c-b4f0d4842088"
+      ],
+      "html": {
+        "repository_path": "content/articles/7dd42356-1c1b-47e5-935c-5768fa14684a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-1.png",
+          "public_path": "/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-1.png",
+          "source_page": 18,
+          "role": "school gathering photograph",
+          "alt": "Bible School attendees seated in a large hall",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Original first crowd image; no separate credit is printed."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-2.png",
+          "public_path": "/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-2.png",
+          "source_page": 19,
+          "role": "second gathering photograph",
+          "alt": "A second view of Bible School attendees seated in the hall",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Original distinct second crowd image; no separate credit is printed."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-3.png",
+          "public_path": "/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-3.png",
+          "source_page": 23,
+          "role": "prayer group photograph",
+          "alt": "Students seated in a Bible School prayer group",
+          "caption": "The wonderful clearing of burdens as the Lord directed different ones to give up or lay aside various things!",
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Original prayer group photograph; printed caption is preserved."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Rendered pages 18–23 independently checked for text, formatting, testimony sequence, image placements, and caption; p19 and p20 corrections incorporated."
+      }
+    },
+    {
+      "id": "733b601a-ebf9-4754-a61f-ceff6ac13ace",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 8,
+      "title": "Judgement Day Is Not a Theology Test",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 27
+      },
+      "categories": {
+        "primary": "94dddad2-cc75-5292-86c4-8f450af98ad4",
+        "additional": []
+      },
+      "topics": [
+        "71ed5d17-92f3-5075-9fe0-6c2605d6c813",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/733b601a-ebf9-4754-a61f-ceff6ac13ace.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/733b601a-ebf9-4754-a61f-ceff6ac13ace-1.jpg",
+          "public_path": "/images/articles/733b601a-ebf9-4754-a61f-ceff6ac13ace-1.jpg",
+          "source_page": 24,
+          "role": "opening courtroom illustration",
+          "alt": "A historic illustration of a courtroom with judges and a person standing before them",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Inverted grayscale PDF source samples corrected according to PDF /Decode and normalized to baseline RGB/sRGB JPEG."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/733b601a-ebf9-4754-a61f-ceff6ac13ace-2.png",
+          "public_path": "/images/articles/733b601a-ebf9-4754-a61f-ceff6ac13ace-2.png",
+          "source_page": 27,
+          "role": "quiz illustration",
+          "alt": "Drawing of a pencil pointing to a sheet of paper",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Clean source scroll/pencil artwork; article quiz and answer key transcribed as text."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Rendered pages 24–27 independently checked for text, emphasis, quiz, all eleven final footnotes and image cleanliness; printed Judgement/Judgment spellings retained."
+      }
+    },
+    {
+      "id": "d7032b93-35bf-48f4-a53b-05a7dbe7ae4a",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 9,
+      "title": "Will the Theologians Please Sit Down",
+      "subtitle": null,
+      "section": "The Book Shelf",
+      "byline": {
+        "raw": "A book review by Mike Atnip",
+        "authors": [
+          {
+            "name": "Mike Atnip",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 30
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": []
+      },
+      "topics": [
+        "649d37ab-7011-545e-8f58-c9f374fd3bfe"
+      ],
+      "html": {
+        "repository_path": "content/articles/d7032b93-35bf-48f4-a53b-05a7dbe7ae4a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/d7032b93-35bf-48f4-a53b-05a7dbe7ae4a-1.jpg",
+          "public_path": "/images/articles/d7032b93-35bf-48f4-a53b-05a7dbe7ae4a-1.jpg",
+          "source_page": 28,
+          "role": "book cover",
+          "alt": "Cover of David Bercot’s Will the Theologians Please Sit Down",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Original book-cover source; book title and creator lettering are intrinsic to the cover. Separate bookshelf recurring-column art is decorative heading furniture."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "The contents lists The Book Shelf - Will the Theologians Please Sit Down; the in-article bookshelf header is the recurring section and the book-cover title is the reviewed work. The shelf drawing is decorative heading furniture."
+      }
+    },
+    {
+      "id": "14a3e3e5-448e-495a-9e00-c5316912c679",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 10,
+      "title": "Like Fallen Leaves",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "—J. from Ky.",
+        "authors": [
+          {
+            "name": "J.",
+            "location": "Ky.",
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 30
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "d51df41b-8b1f-59d9-9fd5-8524bca0dd3b",
+        "d94be34d-7eb9-5e9b-9902-d42cc6c36aae"
+      ],
+      "html": {
+        "repository_path": "content/articles/14a3e3e5-448e-495a-9e00-c5316912c679.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Source pages and image ownership inventoried; rendered pages independently verified for source text, formatting, and image ownership."
+      }
+    },
+    {
+      "id": "e3722d8a-3c6d-4420-a813-6c42cb460570",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 11,
+      "title": "Seeds of the Kingdom",
+      "subtitle": "Seed Sower Award",
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 33
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": []
+      },
+      "topics": [
+        "280f7e50-0dcd-51d6-a13f-3b69f197f4b7",
+        "1afb2b04-7870-5ee0-b6fd-a939d3d2cd8a"
+      ],
+      "html": {
+        "repository_path": "content/articles/e3722d8a-3c6d-4420-a813-6c42cb460570.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-1.jpg",
+          "public_path": "/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-1.jpg",
+          "source_page": 31,
+          "role": "opening sower illustration",
+          "alt": "Illustration of a person scattering seed in a field",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. The p31 /Separation /Black source image was rendered from its exact PDF image rectangle at 150 dpi through the printed tint into RGB, then adjusted by one pixel to the native 360×417 dimensions; the resulting tone visually matches the printed page without text overlays."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-2.jpg",
+          "public_path": "/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-2.jpg",
+          "source_page": 32,
+          "role": "riverbank photograph",
+          "alt": "Improvised shelter beside the Rimac River in Lima",
+          "caption": "Some 2,000 children live in improvised shelters like this one along the Rimac River that flows through Lima, Peru. In the bottom photo (and the front cover), Chris Armstrong shares a snack with the boys and the one 9-year-old girl (in blue on cover photo) that lived with them.",
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Clean riverbank photo; the printed caption appears to describe the lower photo differently, and is retained unchanged."
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-3.jpg",
+          "public_path": "/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-3.jpg",
+          "source_page": 32,
+          "role": "second shelter photograph",
+          "alt": "Children beneath a shelter beside a rocky riverbank",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Clean distinct second shelter view."
+        },
+        {
+          "sequence": 4,
+          "repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-4.jpg",
+          "public_path": "/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-4.jpg",
+          "source_page": 33,
+          "role": "children photograph",
+          "alt": "Three children standing near the river in Lima",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Three exact PDF photo tiles reassembled at their published coordinates; separately painted scripture quotation is HTML text."
+        },
+        {
+          "sequence": 5,
+          "repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-5.jpg",
+          "public_path": "/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-5.jpg",
+          "source_page": 33,
+          "role": "family and chapel photograph",
+          "alt": "Chris Armstrong with Angélica and Enrique outside their chapel",
+          "caption": "Chris, his wife Angélica, and their adopted son, Enrique, in front of the chapel where they have Sunday School for about 40-50 children from their community.",
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Clean source family photograph; printed caption retained."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Rendered pages 31–33 independently checked. P32 caption is preserved verbatim although its reference to the lower/front-cover photo does not appear to match the lower printed view; no correction inferred. P31 sower tint matched to source PDF."
+      }
+    },
+    {
+      "id": "4a6c3692-ef19-4f15-9f56-69dc686f5ed5",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 12,
+      "title": "Gott Mit Uns (God With Us)",
+      "subtitle": "Whose side is God on?",
+      "section": null,
+      "byline": {
+        "raw": "~Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "0648d4df-242a-5815-8d22-08b555d1b542",
+        "additional": []
+      },
+      "topics": [
+        "9f4b8447-4b90-5bef-9a56-46fa6f3fb825",
+        "9bb25764-72c4-5ffa-98de-ea207fdbe27f"
+      ],
+      "html": {
+        "repository_path": "content/articles/4a6c3692-ef19-4f15-9f56-69dc686f5ed5.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/4a6c3692-ef19-4f15-9f56-69dc686f5ed5-1.jpg",
+          "public_path": "/images/articles/4a6c3692-ef19-4f15-9f56-69dc686f5ed5-1.jpg",
+          "source_page": 35,
+          "role": "historical photograph",
+          "alt": "Traudl Junge walking beside three uniformed men",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Clean embedded source photograph; no individual photographer or licence is printed."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Source pages and image ownership inventoried; rendered pages independently verified for source text, formatting, and image ownership."
+      }
+    },
+    {
+      "id": "e02adb88-4d36-4b8b-bd39-406cc23e16f3",
+      "language": "en",
+      "issue_id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "sequence": 13,
+      "title": null,
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Johann Cruger",
+        "authors": [
+          {
+            "name": "Johann Cruger",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [
+        "a10c92ad-c7aa-5bb3-b3ad-9d419ad43fff",
+        "c3153996-8271-5167-b21e-2fa3c0e8df1d"
+      ],
+      "html": {
+        "repository_path": "content/articles/e02adb88-4d36-4b8b-bd39-406cc23e16f3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e02adb88-4d36-4b8b-bd39-406cc23e16f3-1.jpg",
+          "public_path": "/images/articles/e02adb88-4d36-4b8b-bd39-406cc23e16f3-1.jpg",
+          "source_page": 36,
+          "role": "hymn background photograph",
+          "alt": "Sunbeams breaking through a cloudy sky above dark hills",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No individual source, licence, or article-specific permission notice is printed. Exported under the publisher permission reported by the project owner. Clean full-page cloud photograph from embedded PDF object 414; separately painted hymn, mailing panel, logo and postal text omitted from the image."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Source pages and image ownership inventoried; rendered pages independently verified for source text, formatting, and image ownership."
+      },
+      "publication_note": "Praxis Pietatis Melica, 1648"
     }
   ],
   "skipped": [

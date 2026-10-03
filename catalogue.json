@@ -26337,6 +26337,997 @@
         "text_and_formatting_review": "All twelve included articles received complete visual transcription review and an independent second reading against source pages. Exact source spelling, capitalization, punctuation, apparent errors, meaningful emphasis, lists, verse lines, captions and sign-offs preserved. No article contains footnotes.",
         "remaining_uncertainty": "No unresolved wording, article boundary or eligibility decision. Individual image credits and licences are not identified in the source; none inferred. Original low-resolution artwork and unavoidable baked image treatments are preserved and documented."
       }
+    },
+    {
+      "id": "c2131dad-e542-435d-b25f-41b6106cc717",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Ministries",
+      "date": {
+        "label": "January/February 2010",
+        "year": 2010,
+        "months": [
+          1,
+          2
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 16,
+      "issue_number": 1,
+      "source_id": "heartbeat-remnant-2010-01",
+      "slug": "heartbeat-remnant-2010-01",
+      "source": {
+        "filename": "2010-01-Remnant.pdf",
+        "sha256": "bd858897ae1144f0e2a543a49afcf1e41e82230ee29e088010ef50b5a2aebb3d",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety, unless we used it by permission or a copyright is indicated. Please include our full name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W. Main St. Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "page_by_page_visual_review": "completed_all_36_pages_for_inventory; included_articles_verified_by_ai; owner_authorized_partial_delivery",
+        "contents_reconciliation": {
+          "candidate_count": 13,
+          "included_count": 11,
+          "skipped_count": 0,
+          "note": "The contents entries correspond to sequences 1–12; the substantive attributed back-cover hymn is sequence 13. The Bonhoeffer article resumes on pages 34–35. The owner explicitly authorized partial delivery excluding sequences 1 and 2 because exact transcription could not be completed. The omitted articles are not rights-restricted and are not represented as skipped rights records.",
+          "omitted_by_owner_count": 2
+        },
+        "page_inventory": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "content": [],
+            "exclusions": [
+              "Front cover, its photographs, promotional captions, issue branding and design."
+            ]
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "content": [],
+            "exclusions": [
+              "Contents, publisher masthead, general policy and subscription information."
+            ]
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "content": [
+              {
+                "sequence": 1,
+                "title": "From the Editor",
+                "disposition": "omitted by explicit owner authorization; exact transcription incomplete"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "content": [
+              {
+                "sequence": 2,
+                "title": "The Tragedy of Dietrich Bonhoeffer",
+                "disposition": "omitted by explicit owner authorization; exact transcription incomplete"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "content": [
+              {
+                "sequence": 2,
+                "title": "The Tragedy of Dietrich Bonhoeffer",
+                "disposition": "omitted by explicit owner authorization; exact transcription incomplete"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "content": [
+              {
+                "sequence": 2,
+                "title": "The Tragedy of Dietrich Bonhoeffer",
+                "disposition": "omitted by explicit owner authorization; exact transcription incomplete"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "content": [
+              {
+                "sequence": 2,
+                "title": "The Tragedy of Dietrich Bonhoeffer",
+                "disposition": "omitted by explicit owner authorization; exact transcription incomplete"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "content": [
+              {
+                "sequence": 3,
+                "title": "The Church and the World",
+                "disposition": "included",
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "content": [
+              {
+                "sequence": 3,
+                "title": "The Church and the World",
+                "disposition": "included",
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "content": [
+              {
+                "sequence": 3,
+                "title": "The Church and the World",
+                "disposition": "included",
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "content": [
+              {
+                "sequence": 3,
+                "title": "The Church and the World",
+                "disposition": "included",
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "content": [
+              {
+                "sequence": 3,
+                "title": "The Church and the World",
+                "disposition": "included",
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "content": [
+              {
+                "sequence": 4,
+                "title": "Tempted",
+                "disposition": "included",
+                "article_id": "05f07674-20dd-446e-aa36-5c7e43cef66d"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "content": [
+              {
+                "sequence": 5,
+                "title": "Forklift Theology",
+                "disposition": "included",
+                "article_id": "166f8dd0-43b4-4418-9b54-f06cff16142a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "content": [
+              {
+                "sequence": 5,
+                "title": "Forklift Theology",
+                "disposition": "included",
+                "article_id": "166f8dd0-43b4-4418-9b54-f06cff16142a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "content": [
+              {
+                "sequence": 5,
+                "title": "Forklift Theology",
+                "disposition": "included",
+                "article_id": "166f8dd0-43b4-4418-9b54-f06cff16142a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "content": [
+              {
+                "sequence": 6,
+                "title": "Tricki Complex",
+                "disposition": "included",
+                "article_id": "17930b42-95a6-4302-99b7-51ed2390ef9b"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "content": [
+              {
+                "sequence": 7,
+                "title": "Youth Bible School 2009 Report",
+                "disposition": "included",
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "content": [
+              {
+                "sequence": 7,
+                "title": "Youth Bible School 2009 Report",
+                "disposition": "included",
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "content": [
+              {
+                "sequence": 7,
+                "title": "Youth Bible School 2009 Report",
+                "disposition": "included",
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "content": [
+              {
+                "sequence": 7,
+                "title": "Youth Bible School 2009 Report",
+                "disposition": "included",
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "content": [
+              {
+                "sequence": 7,
+                "title": "Youth Bible School 2009 Report",
+                "disposition": "included",
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "content": [
+              {
+                "sequence": 7,
+                "title": "Youth Bible School 2009 Report",
+                "disposition": "included",
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "content": [
+              {
+                "sequence": 8,
+                "title": "Judgement Day Is Not a Theology Test",
+                "disposition": "included",
+                "article_id": "733b601a-ebf9-4754-a61f-ceff6ac13ace"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "content": [
+              {
+                "sequence": 8,
+                "title": "Judgement Day Is Not a Theology Test",
+                "disposition": "included",
+                "article_id": "733b601a-ebf9-4754-a61f-ceff6ac13ace"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "content": [
+              {
+                "sequence": 8,
+                "title": "Judgement Day Is Not a Theology Test",
+                "disposition": "included",
+                "article_id": "733b601a-ebf9-4754-a61f-ceff6ac13ace"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "content": [
+              {
+                "sequence": 8,
+                "title": "Judgement Day Is Not a Theology Test",
+                "disposition": "included",
+                "article_id": "733b601a-ebf9-4754-a61f-ceff6ac13ace"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "content": [
+              {
+                "sequence": 9,
+                "title": "Will the Theologians Please Sit Down",
+                "disposition": "included",
+                "article_id": "d7032b93-35bf-48f4-a53b-05a7dbe7ae4a"
+              }
+            ],
+            "exclusions": [
+              "Decorative bookshelf recurring-column heading is represented by the section metadata."
+            ]
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "content": [
+              {
+                "sequence": 9,
+                "title": "Will the Theologians Please Sit Down",
+                "disposition": "included",
+                "article_id": "d7032b93-35bf-48f4-a53b-05a7dbe7ae4a"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "content": [
+              {
+                "sequence": 9,
+                "title": "Will the Theologians Please Sit Down",
+                "disposition": "included",
+                "article_id": "d7032b93-35bf-48f4-a53b-05a7dbe7ae4a"
+              },
+              {
+                "sequence": 10,
+                "title": "Like Fallen Leaves",
+                "disposition": "included",
+                "article_id": "14a3e3e5-448e-495a-9e00-c5316912c679"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "content": [
+              {
+                "sequence": 11,
+                "title": "Seeds of the Kingdom",
+                "disposition": "included",
+                "article_id": "e3722d8a-3c6d-4420-a813-6c42cb460570"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "content": [
+              {
+                "sequence": 11,
+                "title": "Seeds of the Kingdom",
+                "disposition": "included",
+                "article_id": "e3722d8a-3c6d-4420-a813-6c42cb460570"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "content": [
+              {
+                "sequence": 11,
+                "title": "Seeds of the Kingdom",
+                "disposition": "included",
+                "article_id": "e3722d8a-3c6d-4420-a813-6c42cb460570"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "content": [
+              {
+                "sequence": 2,
+                "title": "The Tragedy of Dietrich Bonhoeffer",
+                "disposition": "omitted by explicit owner authorization; exact transcription incomplete"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "content": [
+              {
+                "sequence": 2,
+                "title": "The Tragedy of Dietrich Bonhoeffer",
+                "disposition": "omitted by explicit owner authorization; exact transcription incomplete"
+              },
+              {
+                "sequence": 12,
+                "title": "Gott Mit Uns (God With Us)",
+                "disposition": "included",
+                "article_id": "4a6c3692-ef19-4f15-9f56-69dc686f5ed5"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "content": [
+              {
+                "sequence": 13,
+                "title": null,
+                "disposition": "included",
+                "article_id": "e02adb88-4d36-4b8b-bd39-406cc23e16f3"
+              }
+            ],
+            "exclusions": [
+              "Postal mailing panel and publication masthead."
+            ]
+          }
+        ],
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "Cover composition: Bible School crowd, Peru children/shelter scene, promotional book graphic and masthead.",
+                "disposition": "omitted",
+                "exclusion": "front cover"
+              }
+            ],
+            "visual_review": "review_in_progress"
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "images": [
+              {
+                "description": "Publication logo and contents/masthead graphics.",
+                "disposition": "omitted",
+                "exclusion": "contents and masthead"
+              }
+            ],
+            "visual_review": "review_in_progress"
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "images": [
+              {
+                "description": "Decorative editorial page ornament and print furniture.",
+                "disposition": "omitted",
+                "exclusion": "standalone decorative matter"
+              }
+            ],
+            "visual_review": "review_in_progress"
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "images": [
+              {
+                "description": "Group photograph accompanying Bonhoeffer article.",
+                "sequence": 2,
+                "disposition": "excluded with owner-authorized omitted article"
+              }
+            ],
+            "visual_review": "review_in_progress"
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "images": [],
+            "visual_review": "review_in_progress",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "images": [],
+            "visual_review": "review_in_progress",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "images": [
+              {
+                "description": "Camp photograph accompanying Bonhoeffer article.",
+                "sequence": 2,
+                "disposition": "excluded with owner-authorized omitted article"
+              }
+            ],
+            "visual_review": "review_in_progress"
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "images": [
+              {
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2",
+                "canonical_repository_path": "public/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-1.png",
+                "disposition": "exported",
+                "description": "opening poem illustration: A woman in a pale dress stands by a steep garden stairway"
+              },
+              {
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2",
+                "canonical_repository_path": "public/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-2.png",
+                "disposition": "exported",
+                "description": "opening poem illustration: A man in a light suit stands by a garden walkway"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "Four visible illustration constituents are represented as two composite scenes; clean source constituents preserved in reading order."
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "images": [],
+            "visual_review": "verified_by_ai",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "images": [],
+            "visual_review": "verified_by_ai",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "images": [
+              {
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2",
+                "canonical_repository_path": "public/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-3.png",
+                "disposition": "exported",
+                "description": "article collage: A couple holding a rose with two figures walking away in the background"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "Couple-and-background collage is one canonical composite export."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "images": [
+              {
+                "article_id": "479fe3f1-65fb-437f-93b2-41f0794d47d2",
+                "canonical_repository_path": "public/images/articles/479fe3f1-65fb-437f-93b2-41f0794d47d2-4.jpg",
+                "disposition": "exported",
+                "description": "cartoon: Ink illustration of a woman speaking to a man"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "images": [
+              {
+                "article_id": "05f07674-20dd-446e-aa36-5c7e43cef66d",
+                "canonical_repository_path": "public/images/articles/05f07674-20dd-446e-aa36-5c7e43cef66d-1.jpg",
+                "disposition": "exported",
+                "description": "repeated opening floral illustration: Cluster of roses"
+              },
+              {
+                "article_id": "05f07674-20dd-446e-aa36-5c7e43cef66d",
+                "canonical_repository_path": "public/images/articles/05f07674-20dd-446e-aa36-5c7e43cef66d-2.jpg",
+                "disposition": "exported",
+                "description": "poem illustration: Single rose with dark petals at its center"
+              },
+              {
+                "article_id": "05f07674-20dd-446e-aa36-5c7e43cef66d",
+                "canonical_repository_path": "public/images/articles/05f07674-20dd-446e-aa36-5c7e43cef66d-1.jpg",
+                "disposition": "represented once because repeated image",
+                "description": "Second use of the same top floral source image."
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "The upper bouquet is repeated in the page design; one canonical export represents both uses. The lower rose is distinct."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "images": [
+              {
+                "article_id": "166f8dd0-43b4-4418-9b54-f06cff16142a",
+                "canonical_repository_path": "public/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-1.jpg",
+                "disposition": "exported",
+                "description": "forklift control diagram: A hand holding two forklift control levers"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "images": [
+              {
+                "article_id": "166f8dd0-43b4-4418-9b54-f06cff16142a",
+                "canonical_repository_path": "public/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-2.jpg",
+                "disposition": "exported",
+                "description": "illustration: Ornate high backed chair with a large decorative letter I"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "The large initial I is inseparable from the embedded throne illustration; documented on the image metadata."
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "images": [
+              {
+                "article_id": "166f8dd0-43b4-4418-9b54-f06cff16142a",
+                "canonical_repository_path": "public/images/articles/166f8dd0-43b4-4418-9b54-f06cff16142a-3.jpg",
+                "disposition": "exported",
+                "description": "author photograph: Michael and Kayra McDaniel standing together in front of bookshelves"
+              },
+              {
+                "description": "Graphic border around a duplicate article pull quote.",
+                "disposition": "omitted",
+                "exclusion": "separable decorative layout around text already transcribed"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "The article quotation is text; decorative layout is not an independent image."
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "images": [
+              {
+                "article_id": "17930b42-95a6-4302-99b7-51ed2390ef9b",
+                "canonical_repository_path": "public/images/articles/17930b42-95a6-4302-99b7-51ed2390ef9b-1.jpg",
+                "disposition": "exported",
+                "description": "opening illustration: A dog sitting with its tongue showing"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "images": [
+              {
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a",
+                "canonical_repository_path": "public/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-1.png",
+                "disposition": "exported",
+                "description": "school gathering photograph: Bible School attendees seated in a large hall"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "images": [
+              {
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a",
+                "canonical_repository_path": "public/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-2.png",
+                "disposition": "exported",
+                "description": "second gathering photograph: A second view of Bible School attendees seated in the hall"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "images": [],
+            "visual_review": "verified_by_ai",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "images": [],
+            "visual_review": "verified_by_ai",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "images": [],
+            "visual_review": "verified_by_ai",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "images": [
+              {
+                "article_id": "7dd42356-1c1b-47e5-935c-5768fa14684a",
+                "canonical_repository_path": "public/images/articles/7dd42356-1c1b-47e5-935c-5768fa14684a-3.png",
+                "disposition": "exported",
+                "description": "prayer group photograph: Students seated in a Bible School prayer group"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "images": [
+              {
+                "article_id": "733b601a-ebf9-4754-a61f-ceff6ac13ace",
+                "canonical_repository_path": "public/images/articles/733b601a-ebf9-4754-a61f-ceff6ac13ace-1.jpg",
+                "disposition": "exported",
+                "description": "opening courtroom illustration: A historic illustration of a courtroom with judges and a person standing before them"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "images": [],
+            "visual_review": "verified_by_ai",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "images": [],
+            "visual_review": "verified_by_ai",
+            "notes": "No independent article photograph, illustration, collage or background image on this page; text and print furniture only."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "images": [
+              {
+                "article_id": "733b601a-ebf9-4754-a61f-ceff6ac13ace",
+                "canonical_repository_path": "public/images/articles/733b601a-ebf9-4754-a61f-ceff6ac13ace-2.png",
+                "disposition": "exported",
+                "description": "quiz illustration: Drawing of a pencil pointing to a sheet of paper"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "images": [
+              {
+                "article_id": "d7032b93-35bf-48f4-a53b-05a7dbe7ae4a",
+                "canonical_repository_path": "public/images/articles/d7032b93-35bf-48f4-a53b-05a7dbe7ae4a-1.jpg",
+                "disposition": "exported",
+                "description": "book cover: Cover of David Bercot’s Will the Theologians Please Sit Down"
+              },
+              {
+                "description": "Bookshelf vector art surrounding The Book Shelf column label.",
+                "disposition": "omitted",
+                "exclusion": "decorative recurring-column heading"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "Book cover is exported; the bookshelf is decorative column furniture."
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "images": [
+              {
+                "description": "Decorative pull-quote treatment, with words repeated in the article body.",
+                "disposition": "omitted",
+                "exclusion": "duplicate decorative pull quote"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "images": [
+              {
+                "description": "Shaded poem panel around Like Fallen Leaves.",
+                "disposition": "omitted",
+                "exclusion": "decorative layout; poem transcribed as text"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "The review pull quote is repeated text and the poem is transcribed separately; panel styling is omitted."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "images": [
+              {
+                "article_id": "e3722d8a-3c6d-4420-a813-6c42cb460570",
+                "canonical_repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-1.jpg",
+                "disposition": "exported",
+                "description": "opening sower illustration: Illustration of a person scattering seed in a field"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "images": [
+              {
+                "article_id": "e3722d8a-3c6d-4420-a813-6c42cb460570",
+                "canonical_repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-2.jpg",
+                "disposition": "exported",
+                "description": "riverbank photograph: Improvised shelter beside the Rimac River in Lima"
+              },
+              {
+                "article_id": "e3722d8a-3c6d-4420-a813-6c42cb460570",
+                "canonical_repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-3.jpg",
+                "disposition": "exported",
+                "description": "second shelter photograph: Children beneath a shelter beside a rocky riverbank"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "images": [
+              {
+                "article_id": "e3722d8a-3c6d-4420-a813-6c42cb460570",
+                "canonical_repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-4.jpg",
+                "disposition": "exported",
+                "description": "children photograph: Three children standing near the river in Lima"
+              },
+              {
+                "article_id": "e3722d8a-3c6d-4420-a813-6c42cb460570",
+                "canonical_repository_path": "public/images/articles/e3722d8a-3c6d-4420-a813-6c42cb460570-5.jpg",
+                "disposition": "exported",
+                "description": "family and chapel photograph: Chris Armstrong with Angélica and Enrique outside their chapel"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "Three PDF tiles of one children photograph were reassembled into one canonical export; separate scripture text remains HTML."
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "images": [
+              {
+                "description": "Decorative pull-quote treatment, with words repeated in the Bonhoeffer article.",
+                "disposition": "omitted",
+                "exclusion": "owner-authorized omitted Bonhoeffer article; duplicate decorative pull quote"
+              }
+            ],
+            "visual_review": "review_in_progress"
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "images": [
+              {
+                "description": "Fisher family author-biography photograph accompanying Bonhoeffer article.",
+                "sequence": 2,
+                "disposition": "excluded with owner-authorized omitted article"
+              },
+              {
+                "article_id": "4a6c3692-ef19-4f15-9f56-69dc686f5ed5",
+                "canonical_repository_path": "public/images/articles/4a6c3692-ef19-4f15-9f56-69dc686f5ed5-1.jpg",
+                "disposition": "exported",
+                "description": "historical photograph: Traudl Junge walking beside three uniformed men"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "Bonhoeffer family photo is excluded with its owner-authorized omitted article; the separate Gott Mit Uns photograph is indexed."
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "images": [
+              {
+                "article_id": "e02adb88-4d36-4b8b-bd39-406cc23e16f3",
+                "canonical_repository_path": "public/images/articles/e02adb88-4d36-4b8b-bd39-406cc23e16f3-1.jpg",
+                "disposition": "exported",
+                "description": "hymn background photograph: Sunbeams breaking through a cloudy sky above dark hills"
+              },
+              {
+                "description": "Logo, postal box, return address and other mailing typography.",
+                "disposition": "omitted",
+                "exclusion": "mailing panel and masthead"
+              }
+            ],
+            "visual_review": "verified_by_ai",
+            "notes": "Clean cloud photograph exported; separately painted hymn text is HTML and postal matter is excluded."
+          }
+        ],
+        "image_reconciliation": {
+          "indexed_local_export_count": 23,
+          "held_with_incomplete_article_count": 3,
+          "note": "All content pages were checked for visible images, including repeated, composited, tiled and layered artwork. Canonical image paths are for locally indexed articles. Three Bonhoeffer images are prepared locally but held with the incomplete article. Source images from the cover, masthead, mailing panel and decorative layout are recorded as omissions. Final issue-wide image verification and publication are pending."
+        },
+        "remaining_uncertainty": "The owner authorized omission of the page 3 editorial and Bonhoeffer article because their exact transcription is incomplete. The artist signature on the page 12 cartoon is not reliably legible; its individual credit remains unresolved. No article-specific restrictive notice was found. The 11 included articles have completed visual text, formatting, and image reviews.",
+        "owner_authorized_partial_delivery": {
+          "omitted_sequences": [
+            1,
+            2
+          ],
+          "reason": "Exact transcription could not be completed for the editorial on page 3 and the Bonhoeffer continuation on page 7; the owner instructed that those two entire articles be left out. No HTML or images belonging to either article are published.",
+          "rights_skipped_count": 0
+        }
+      }
     }
   ],
   "categories": [
