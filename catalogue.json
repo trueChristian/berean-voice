@@ -23734,6 +23734,788 @@
         },
         "remaining_uncertainty": "No unresolved text, metadata or rights decision. No individual image credit or licence is printed; none is inferred. Unavoidable source-raster treatments are explicitly documented in each affected image record."
       }
+    },
+    {
+      "id": "c53b0f7b-c173-4882-b9b2-5e9fd1f4083d",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "March / April 2002",
+        "year": 2002,
+        "months": [
+          3,
+          4
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 8,
+      "issue_number": 2,
+      "source_id": "heartbeat-remnant-2002-03",
+      "slug": "heartbeat-remnant-2002-03",
+      "source": {
+        "filename": "2002-03-remnant.pdf",
+        "sha256": "f4c60221eeb4a8d1fc746c738649fdd3e7be6d75f48ae5aff04d8c8c54d353f0",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers (logical pages 1 and 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "page_by_page_visual_review": "completed_all_36_pages",
+        "contents_reconciliation": {
+          "candidate_count": 13,
+          "included_count": 13,
+          "skipped_count": 0,
+          "note": "All eleven table-of-contents entries reconciled with actual articles. Readers’ letters and the untitled back-cover scripture meditation are two additional substantive pieces. The book review continues on page 35; its author is Andrew Weaver, while Arthur Wallis is the reviewed book author."
+        },
+        "page_inventory": [
+          {
+            "pages": [
+              1
+            ],
+            "disposition": "omitted",
+            "reason": "front cover"
+          },
+          {
+            "pages": [
+              2
+            ],
+            "disposition": "omitted",
+            "reason": "contents, masthead and general publication policies"
+          },
+          {
+            "pages": [
+              3,
+              4,
+              5
+            ],
+            "sequence": 1,
+            "title": "DYING TO LIVE",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              6,
+              7,
+              8,
+              9
+            ],
+            "sequence": 2,
+            "title": "A. T. Pierson’s Home Life",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              10,
+              11,
+              12,
+              13
+            ],
+            "sequence": 3,
+            "title": "Separating from the Fashions of the World",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              14,
+              15,
+              16,
+              17,
+              18
+            ],
+            "sequence": 4,
+            "title": "Young Ladies and Their Thought Life",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              19,
+              20
+            ],
+            "sequence": 5,
+            "title": "Sharpened Words for Little Ones",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              21,
+              22,
+              23
+            ],
+            "sequence": 6,
+            "title": "The Hidden Man of the Heart",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              24,
+              25,
+              26,
+              27
+            ],
+            "sequence": 7,
+            "title": "Treasures of Darkness",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              28
+            ],
+            "sequence": 8,
+            "title": "Humility",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              29,
+              30
+            ],
+            "sequence": 9,
+            "title": "Three Days of Corporate Fasting and Prayer",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              31,
+              35
+            ],
+            "sequence": 10,
+            "title": "In the Day of Thy Power",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              32,
+              33
+            ],
+            "sequence": 11,
+            "title": "Our Volunteer Family",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              34,
+              35
+            ],
+            "sequence": 12,
+            "title": "Precious Letters from Our Readers",
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              36
+            ],
+            "sequence": 13,
+            "title": null,
+            "disposition": "included"
+          },
+          {
+            "pages": [
+              33
+            ],
+            "disposition": "omitted",
+            "reason": "Three tape-set advertisements following the ministry report sign-off; repeated cassette row belongs to this advertisement area."
+          },
+          {
+            "pages": [
+              36
+            ],
+            "disposition": "omitted",
+            "reason": "Back-cover mailing panel, general masthead and decorative outer frame; the substantive scripture meditation is included separately."
+          }
+        ],
+        "page_by_page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "Cover hammer-and-nail photograph, typography and tiled gradient shadow surround.",
+                "owner": "front cover",
+                "disposition": "omitted",
+                "exclusion": "cover; standalone cover decoration",
+                "source_pdf_objects": [
+                  245,
+                  217,
+                  218,
+                  219,
+                  220,
+                  221,
+                  222,
+                  223,
+                  224,
+                  225,
+                  226,
+                  227,
+                  228,
+                  242,
+                  243,
+                  244
+                ]
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "images": [
+              {
+                "description": "Seven table-of-contents thumbnails: Pierson portrait, woman with mirror, formal man, young woman with flowers, Lamicela family, review engraving and volunteer group.",
+                "owner": "contents",
+                "disposition": "omitted",
+                "exclusion": "table of contents",
+                "source_pdf_objects": [
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10
+                ]
+              },
+              {
+                "description": "Publication masthead and information panels.",
+                "owner": "general masthead",
+                "disposition": "omitted",
+                "exclusion": "general masthead"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "images": [
+              {
+                "description": "An illustration of men nailing a man to a wooden cross.",
+                "owner_article_id": "962e7a33-244d-483d-bcdc-c173fb5f47c6",
+                "disposition": "exported",
+                "source_pdf_object": 15,
+                "repository_path": "public/images/articles/962e7a33-244d-483d-bcdc-c173fb5f47c6-1.png"
+              },
+              {
+                "description": "An ornate cross surrounded by flowers.",
+                "owner_article_id": "962e7a33-244d-483d-bcdc-c173fb5f47c6",
+                "disposition": "exported",
+                "source_pdf_object": 14,
+                "repository_path": "public/images/articles/962e7a33-244d-483d-bcdc-c173fb5f47c6-2.jpg"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Source order is Old Cross object 15 first, New Cross object 14 second; PDF paint order is reversed and is not reading order. Separate gradient title panel, image boxes and captions omitted from image pixels; captions retained semantically.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "images": [
+              {
+                "description": "Portrait of A. T. Pierson.",
+                "owner_article_id": "012aa548-e949-4010-aa9f-12c3456afa62",
+                "disposition": "exported",
+                "source_pdf_object": 25,
+                "repository_path": "public/images/articles/012aa548-e949-4010-aa9f-12c3456afa62-1.png"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Oval crop retained through exact source clip alpha; decorative oval strokes omitted.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "images": [
+              {
+                "description": "A man wearing a formal jacket and bow tie.",
+                "owner_article_id": "19f3094d-111e-4703-b85e-13c1a575c290",
+                "disposition": "exported",
+                "source_pdf_object": 38,
+                "repository_path": "public/images/articles/19f3094d-111e-4703-b85e-13c1a575c290-1.png"
+              },
+              {
+                "description": "A woman wearing a hat and looking into a hand mirror.",
+                "owner_article_id": "19f3094d-111e-4703-b85e-13c1a575c290",
+                "disposition": "exported",
+                "source_pdf_object": 39,
+                "repository_path": "public/images/articles/19f3094d-111e-4703-b85e-13c1a575c290-2.png"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "images": [
+              {
+                "description": "A young woman holding a bouquet of flowers.",
+                "owner_article_id": "73ba01b5-1c1e-41aa-8e27-94af551b4fab",
+                "disposition": "exported",
+                "source_pdf_object": 52,
+                "repository_path": "public/images/articles/73ba01b5-1c1e-41aa-8e27-94af551b4fab-1.jpg"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Separately painted rectangular frame and drop shadow omitted.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "images": [
+              {
+                "description": "Three children holding books.",
+                "owner_article_id": "4e5dd38f-b961-431b-a0dd-6dfb18dbeacc",
+                "disposition": "exported",
+                "source_pdf_object": 68,
+                "repository_path": "public/images/articles/4e5dd38f-b961-431b-a0dd-6dfb18dbeacc-1.png"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Children and baked circular frame are inseparable in sole source raster; exact printed oval clipping retained and baked-frame exception recorded.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "images": [
+              {
+                "description": "Two women and a bearded man within a heart-shaped illustration.",
+                "owner_article_id": "da3f11ff-c914-44c2-afe1-3c482a8d745e",
+                "disposition": "exported",
+                "source_pdf_object": 75,
+                "repository_path": "public/images/articles/da3f11ff-c914-44c2-afe1-3c482a8d745e-1.jpg"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Two women and bearded man are constituents of one flattened heart collage; one canonical export retains all three portraits.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "images": [
+              {
+                "description": "Ron and Christine Lamicela with their four children.",
+                "owner_article_id": "ee637ae6-fbf9-4691-b886-d90abd0e6136",
+                "disposition": "exported",
+                "source_pdf_object": 85,
+                "repository_path": "public/images/articles/ee637ae6-fbf9-4691-b886-d90abd0e6136-1.png"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Source family photograph has baked name and glow. Printed rounded clipping retained; separate border omitted; unavoidable baked lettering exception recorded.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "images": [
+              {
+                "description": "Full-page ornamental gray frame surrounding the poem; raw object contains only the empty frame.",
+                "owner_article_id": "db843985-881d-46b7-9730-62a66089c97b",
+                "disposition": "omitted",
+                "exclusion": "genuinely standalone decorative matter; publisher frame",
+                "source_pdf_object": 98
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "images": [
+              {
+                "description": "A robed man addresses a gathering beside large stone buildings.",
+                "owner_article_id": "77bbe6c1-3915-4a17-abf7-46ba4004491d",
+                "disposition": "exported",
+                "source_pdf_object": 102,
+                "repository_path": "public/images/articles/77bbe6c1-3915-4a17-abf7-46ba4004491d-1.jpg"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "images": [
+              {
+                "description": "No photographs or illustrations.",
+                "disposition": "none_present"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Shaded pull-quote, heading or reading panels are removable publisher layout treatments, not separate image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "images": [
+              {
+                "description": "An engraving of people gathered indoors around a seated woman.",
+                "owner_article_id": "cd75e08d-b5b2-43c3-a69d-2a840daa35bb",
+                "disposition": "exported",
+                "source_pdf_object": 109,
+                "repository_path": "public/images/articles/cd75e08d-b5b2-43c3-a69d-2a840daa35bb-1.png"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "images": [
+              {
+                "description": "A group photograph of the ministry volunteers.",
+                "owner_article_id": "2d79c71a-d46e-4391-b7c4-d4e85179e665",
+                "disposition": "exported",
+                "source_pdf_object": 113,
+                "repository_path": "public/images/articles/2d79c71a-d46e-4391-b7c4-d4e85179e665-1.jpg"
+              },
+              {
+                "description": "An audio cassette.",
+                "owner_article_id": "2d79c71a-d46e-4391-b7c4-d4e85179e665",
+                "disposition": "exported",
+                "source_pdf_object": 114,
+                "repository_path": "public/images/articles/2d79c71a-d46e-4391-b7c4-d4e85179e665-2.jpg"
+              },
+              {
+                "description": "Charity Christian Missions globe logo with the words The World is Waiting.",
+                "owner_article_id": "2d79c71a-d46e-4391-b7c4-d4e85179e665",
+                "disposition": "exported",
+                "source_pdf_object": 115,
+                "repository_path": "public/images/articles/2d79c71a-d46e-4391-b7c4-d4e85179e665-3.png"
+              },
+              {
+                "description": "Repeated typographic The Heartbeat of The Remnant publication masthead; no photographic illustration.",
+                "owner": "publication masthead",
+                "disposition": "omitted",
+                "exclusion": "general masthead repeated inside column"
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "images": [
+              {
+                "description": "Eight repeated cassette illustrations in the separator above three tape-set advertisements.",
+                "owner": "tape-set advertisements",
+                "disposition": "omitted",
+                "exclusion": "advertisement; repeated decorative separator",
+                "source_pdf_object": 119,
+                "visible_uses": 8
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "images": [
+              {
+                "description": "A mailbox on a flower-covered post.",
+                "owner_article_id": "9628060d-d00d-4897-958d-62665f77d507",
+                "disposition": "exported",
+                "source_pdf_object": 123,
+                "repository_path": "public/images/articles/9628060d-d00d-4897-958d-62665f77d507-1.png"
+              },
+              {
+                "description": "Five rows of nine small flower separators between reader letters.",
+                "owner_article_id": "9628060d-d00d-4897-958d-62665f77d507",
+                "disposition": "omitted",
+                "exclusion": "genuinely standalone decorative matter",
+                "visible_uses": 45
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "images": [
+              {
+                "description": "Two rows of nine small flower separators between reader letters; no image in the book-review continuation.",
+                "owner_article_id": "9628060d-d00d-4897-958d-62665f77d507",
+                "disposition": "omitted",
+                "exclusion": "genuinely standalone decorative matter",
+                "visible_uses": 18
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "A desert landscape and a profile of John the Baptist accompany printed scripture passages.",
+                "owner_article_id": "268417aa-9fc3-49d2-973e-d92dac80d8a3",
+                "disposition": "exported",
+                "source_pdf_object": 132,
+                "repository_path": "public/images/articles/268417aa-9fc3-49d2-973e-d92dac80d8a3-1.jpg"
+              },
+              {
+                "description": "Tiled outer shadow surround, publication masthead and lower mailing/postage panel.",
+                "owner": "back-cover furniture",
+                "disposition": "omitted",
+                "exclusion": "standalone decorative cover matter; mailing panel; general masthead",
+                "source_pdf_objects": [
+                  130,
+                  131,
+                  217,
+                  218,
+                  219,
+                  220,
+                  221,
+                  222,
+                  223,
+                  224,
+                  225,
+                  226,
+                  227,
+                  228
+                ]
+              }
+            ],
+            "notes": "All visible photographic, illustrative, background, vector and repeated decorative elements inspected against the full rendered page. Desert photograph, John silhouette and scripture type are flattened constituents of one substantive devotional graphic; one canonical export retains the complete graphic. No isolated clean underlying constituents exist.",
+            "visual_review": "verified_by_ai"
+          }
+        ],
+        "image_reconciliation": {
+          "exported_count": 16,
+          "owning_article_count": 12,
+          "note": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
+          "overlay_exceptions": "The children’s circular treatment, portrait-collage fades, Lamicela photograph lettering/glow, mailbox raster backdrop/lettering, and back-cover devotional typography are baked into their sole source rasters. Their exact source pixels are retained and exceptions documented per image. Separately painted panels, frames, shadows and page furniture omitted."
+        },
+        "remaining_uncertainty": "No unresolved source wording or article-eligibility decision. No separate image creator credit or licence is printed for any included asset; none inferred from general masthead artists. Unavoidable baked image treatments and original low resolution are documented per image."
+      }
     }
   ],
   "categories": [
