@@ -88364,6 +88364,1021 @@
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
         "independent_text_review": "A second AI reader independently compared the complete HTML against every source page, including nonconsecutive continuations, for wording, punctuation, paragraph order and meaningful emphasis. No unresolved discrepancy remains."
       }
+    },
+    {
+      "id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+      "language": "en",
+      "sequence": 1,
+      "title": "William Law",
+      "subtitle": "A Divine Fruit Inspector",
+      "section": null,
+      "byline": {
+        "raw": "-The Editor",
+        "authors": [
+          {
+            "name": null,
+            "role": "The Editor"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 8
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": [
+          "64bf1f79-9265-5370-8de2-47084d62cece"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "publication_notes": [
+        "Excerpts taken from William Law on Christian Perfection, edited and abridged by Erwin Rudolph."
+      ],
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete editorial introduction and six numbered sections form one article across pp3–8. The Editor sign-off and final excerpt attribution retained. All pp3–8 visually read for permission gate; no restrictions. No footnotes. Scripture stanza lineation, italic quotation, book-title emphasis, three scripture underlines and the p7 soul underline retained. Source wording “face of and nature”, “can not”, “fill our souls ... empty it”, “in the which” and “Judging ... becomes a new creature” preserved. Two repeated body pull quotes on pp4 and 8 omitted. Four dots after “plausible name....” retained. Headings use source small-cap initial capitalization without decorative font.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-1.jpg",
+          "public_path": "/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-1.jpg",
+          "source_page": 3,
+          "role": "illustration",
+          "alt": "Thorns and grape clusters surrounding the words Do men gather grapes of thorns?",
+          "caption": "Do men gather grapes of thorns?",
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Source object 14. Question lettering is intrinsic substantive text in the only source raster and is retained; no separately painted title typography is included.",
+          "transformations": [
+            "Grayscale source JPEG expanded to RGB and encoded as standard baseline sRGB JPEG, quality 98, 4:4:4, nonzero 72 dpi; source pixel dimensions and orientation retained. No CMYK inversion required."
+          ],
+          "source_pdf_object": 14,
+          "width": 279,
+          "height": 279,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 279x279 sRGB None 72x72",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-2.jpg",
+          "public_path": "/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-2.jpg",
+          "source_page": 3,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean base object 13. Separate white article-reading panel and all article typography omitted, preserving the complete underlying grapevine.",
+          "transformations": [
+            "Grayscale source JPEG expanded to RGB and encoded as standard baseline sRGB JPEG, quality 98, 4:4:4, nonzero 72 dpi; source pixel dimensions and orientation retained. No CMYK inversion required."
+          ],
+          "source_pdf_object": 13,
+          "width": 232,
+          "height": 676,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 232x676 sRGB None 72x72",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-3.jpg",
+          "public_path": "/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-3.jpg",
+          "source_page": 4,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean base object 152, represented once for six identical uses on pages 4 (twice), 5, 6 and 7 (twice).",
+          "transformations": [
+            "Grayscale source JPEG expanded to RGB and encoded as standard baseline sRGB JPEG, quality 98, 4:4:4, nonzero 72 dpi; source pixel dimensions and orientation retained. No CMYK inversion required."
+          ],
+          "source_pdf_object": 152,
+          "width": 119,
+          "height": 63,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 119x63 sRGB None 72x72",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bdd8164b-b590-4fcb-b58b-fa9c940cc80c",
+      "language": "en",
+      "sequence": 2,
+      "title": "Sharpened Words for Little Ones",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-The Editors",
+        "authors": [
+          {
+            "name": null,
+            "role": "The Editors"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 9,
+        "end": 10
+      },
+      "categories": {
+        "primary": "400977eb-3421-51cc-992f-b947d2cda0f4",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/bdd8164b-b590-4fcb-b58b-fa9c940cc80c.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Editorial introduction and four lesson sections form one article pp9–10. All source pages visually read for permission gate; no restrictions. Entire introduction italic; final blessing bold italic. Two five-item numbered lists preserved. Printed “childrens ear”, “The present, is”, “one the children”, and “Boom!” punctuation retained. No footnotes. Lesson gray boxes, title strips and dotted perimeter are layout treatments, not illustrations.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bdd8164b-b590-4fcb-b58b-fa9c940cc80c-1.png",
+          "public_path": "/images/articles/bdd8164b-b590-4fcb-b58b-fa9c940cc80c-1.png",
+          "source_page": 9,
+          "role": "illustration",
+          "alt": "Illustration of three children.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Source object 33 with its original oval PDF clipping path. Gray circular frame and soft inner edge are irreversibly baked into the only source raster; retained as an explicit unavoidable overlay exception because removing them by cropping would cut the children. No synthetic reconstruction or retouching.",
+          "transformations": [
+            "Original source raster dimensions and orientation preserved; exact original PDF clipping path applied as an antialiased alpha mask without synthesizing image pixels."
+          ],
+          "source_pdf_object": 33,
+          "width": 233,
+          "height": 212,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "PNG 233x212 sRGB None 28.350000000000001421x28.350000000000001421",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+      "language": "en",
+      "sequence": 3,
+      "title": "Godly Homes of the Martyrs",
+      "subtitle": "Home Life",
+      "section": "Home Histories",
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 16
+      },
+      "categories": {
+        "primary": "9514e8ea-e431-5806-a5f3-0953a922c074",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "59e78031-c269-52d1-9b00-08dba0398cb4",
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+          "public_path": "/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+          "source_page": 11,
+          "role": "illustration",
+          "alt": "Engraving of a person bound to a ladder being lowered toward a fire while people watch.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean base object 40 with the original rounded PDF clipping path. The repeated heading icon object 154 is a crop of this same engraving with no unique image content; its eight uses on pages 12–16 are represented by this canonical export. Separate heading boxes, borders and text are omitted.",
+          "transformations": [
+            "Original source raster dimensions and orientation preserved; exact original PDF clipping path applied as an antialiased alpha mask without synthesizing image pixels."
+          ],
+          "source_pdf_object": 40,
+          "width": 327,
+          "height": 252,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "PNG 327x252 sRGB None 28.350000000000001421x28.350000000000001421",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-2.png",
+          "public_path": "/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-2.png",
+          "source_page": 14,
+          "role": "illustration",
+          "alt": "Engraving of an execution scene with figures and an axe in a town square.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean base object 50 with its original rounded PDF clipping path; separate page furniture omitted.",
+          "transformations": [
+            "Original source raster dimensions and orientation preserved; exact original PDF clipping path applied as an antialiased alpha mask without synthesizing image pixels."
+          ],
+          "source_pdf_object": 50,
+          "width": 321,
+          "height": 250,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "PNG 321x250 sRGB None 28.350000000000001421x28.350000000000001421",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete six-page article including eight section headings, four italic block quotations, four italic bullet items, final italic prayer and final book/reference sidebar. Source spellings and constructions including “powerful affect”, “Wheras”, “grace has flown” and “and known to be true” retained. Hidden text-layer A HOUSE ON FIRE heading is not visibly printed and is omitted. Repeated small martyr illustration crops accompanying the section headings have no unique content and are represented once by the full page-11 illustration. No footnotes or restrictive notice.",
+        "text_review": "Read and visually compared every article page, including the complete final line. Words, punctuation, paragraph order, emphasis, quotations and lists checked against rendered PDF. Only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
+        "image_review": "Page-by-page census reconciled to five canonical exports plus eight repeated martyr-heading icon uses. Every final image opened and compared with the rendered article pages; alpha, source-object and two-decoder verification recorded separately by image-export reviewer. Browser rendering remains for the whole-issue final gate.",
+        "independent_text_review": "A second AI reader independently compared all complete HTML text and meaningful formatting with every corresponding rendered source page, including page 33 continuation. No correction or unresolved discrepancy found.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870"
+    },
+    {
+      "id": "e66e5c41-b9e5-42f4-bb96-266f6979fd95",
+      "language": "en",
+      "sequence": 4,
+      "title": "Cold Door Evangelism",
+      "subtitle": null,
+      "section": "- A Spiritual Exercise -",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 18
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": [
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/e66e5c41-b9e5-42f4-bb96-266f6979fd95.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e66e5c41-b9e5-42f4-bb96-266f6979fd95-1.png",
+          "public_path": "/images/articles/e66e5c41-b9e5-42f4-bb96-266f6979fd95-1.png",
+          "source_page": 17,
+          "role": "illustration",
+          "alt": "A young woman standing at a wooden door with her hand raised to knock.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean base object 60 with original rectangular PDF clipping; section banner, title and page furniture omitted.",
+          "transformations": [
+            "Original source raster dimensions and orientation preserved; exact original PDF clipping path applied as an antialiased alpha mask without synthesizing image pixels."
+          ],
+          "source_pdf_object": 60,
+          "width": 245,
+          "height": 237,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "PNG 245x237 sRGB None 28.350000000000001421x28.350000000000001421",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article ends in upper portion of page 18 before the Konkomba continuation. Italic dialogue and italic sample greeting preserved. Page-18 decorative pull quote duplicates the final paragraph and is represented once in the body. No printed byline, footnotes or restrictive notice.",
+        "text_review": "Read and visually compared every article page, including the complete final line. Words, punctuation, paragraph order, emphasis, quotations and lists checked against rendered PDF. Only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
+        "image_review": "Page-by-page census reconciled to five canonical exports plus eight repeated martyr-heading icon uses. Every final image opened and compared with the rendered article pages; alpha, source-object and two-decoder verification recorded separately by image-export reviewer. Browser rendering remains for the whole-issue final gate.",
+        "independent_text_review": "A second AI reader independently compared all complete HTML text and meaningful formatting with every corresponding rendered source page, including page 33 continuation. No correction or unresolved discrepancy found.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870"
+    },
+    {
+      "id": "4a200147-9ca5-45cd-ae85-8c9467e51eea",
+      "language": "en",
+      "sequence": 5,
+      "title": "My Lord, and My lord",
+      "subtitle": null,
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Christy Kenaston",
+        "authors": [
+          {
+            "name": "Christy Kenaston"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 19,
+        "end": 20
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+          "917c7782-d876-59a2-9959-e33a50d14cca"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/4a200147-9ca5-45cd-ae85-8c9467e51eea.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/4a200147-9ca5-45cd-ae85-8c9467e51eea-1.png",
+          "public_path": "/images/articles/4a200147-9ca5-45cd-ae85-8c9467e51eea-1.png",
+          "source_page": 19,
+          "role": "photograph",
+          "alt": "A man standing behind a seated woman holding a baby in a garden.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean RGB base object 67 with its original oval PDF clipping path. No photograph credit or individual caption is printed; no identities are inferred in alt text.",
+          "transformations": [
+            "Original source raster dimensions and orientation preserved; exact original PDF clipping path applied as an antialiased alpha mask without synthesizing image pixels."
+          ],
+          "source_pdf_object": 67,
+          "width": 192,
+          "height": 359,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "PNG 192x359 sRGB None 28.350000000000001421x28.350000000000001421",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Title follows the article heading including the comma and lowercase final lord; contents-page uppercase variation does not override the article heading. Source “Many woman” retained. Paragraphs continue across page/column breaks; elliptical page-20 pull quote duplicates body text and is not repeated. Final italic two-line sign-off preserved. No footnotes or restrictive notice.",
+        "text_review": "Read and visually compared every article page, including the complete final line. Words, punctuation, paragraph order, emphasis, quotations and lists checked against rendered PDF. Only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
+        "image_review": "Page-by-page census reconciled to five canonical exports plus eight repeated martyr-heading icon uses. Every final image opened and compared with the rendered article pages; alpha, source-object and two-decoder verification recorded separately by image-export reviewer. Browser rendering remains for the whole-issue final gate.",
+        "independent_text_review": "A second AI reader independently compared all complete HTML text and meaningful formatting with every corresponding rendered source page, including page 33 continuation. No correction or unresolved discrepancy found.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870"
+    },
+    {
+      "id": "81aa0995-da0a-4a50-a2a2-3294bcee616e",
+      "language": "en",
+      "sequence": 6,
+      "title": "A Solemn Assembly",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "-Brother Denny",
+        "authors": [
+          {
+            "name": "Brother Denny"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 21,
+        "end": 33,
+        "pages": [
+          21,
+          33
+        ]
+      },
+      "categories": {
+        "primary": "dda0cbb3-457a-5412-a60f-abb389b827e0",
+        "additional": [
+          "85b345ae-ce23-56a2-9249-2cfa79293657"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/81aa0995-da0a-4a50-a2a2-3294bcee616e.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/81aa0995-da0a-4a50-a2a2-3294bcee616e-1.jpg",
+          "public_path": "/images/articles/81aa0995-da0a-4a50-a2a2-3294bcee616e-1.jpg",
+          "source_page": 21,
+          "role": "illustration",
+          "alt": "Engraving of a standing speaker addressing a gathered crowd among monumental buildings.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No separate image credit or licence is printed. Clean base object 74. Separate gray border and offset shadow omitted; underlying image retained.",
+          "transformations": [
+            "Grayscale source JPEG expanded to RGB and encoded as standard baseline sRGB JPEG, quality 98, 4:4:4, nonzero 72 dpi; source pixel dimensions and orientation retained. No CMYK inversion required."
+          ],
+          "source_pdf_object": 74,
+          "width": 214,
+          "height": 277,
+          "verification": {
+            "decoders": [
+              "Pillow complete RGBA raster load, no warnings",
+              "ImageMagick complete RGBA raster decode, no warnings"
+            ],
+            "encoding": "JPEG 214x277 sRGB None 72x72",
+            "visual_against_source": "verified_by_ai",
+            "visual_against_raw_object": "verified_by_ai",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note",
+            "corruption_orientation_crop_colour": "verified_by_ai",
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Article continues in the bottom section of page 33. Opening seven-line italic scripture quotation and bold italic reference retain source lineation. Source “cancelation” retained. Final italic -Brother Denny sign-off included, without expanding the printed name. No footnotes or restrictive notice.",
+        "text_review": "Read and visually compared every article page, including the complete final line. Words, punctuation, paragraph order, emphasis, quotations and lists checked against rendered PDF. Only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
+        "image_review": "Page-by-page census reconciled to five canonical exports plus eight repeated martyr-heading icon uses. Every final image opened and compared with the rendered article pages; alpha, source-object and two-decoder verification recorded separately by image-export reviewer. Browser rendering remains for the whole-issue final gate.",
+        "independent_text_review": "A second AI reader independently compared all complete HTML text and meaningful formatting with every corresponding rendered source page, including page 33 continuation. No correction or unresolved discrepancy found.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870"
+    },
+    {
+      "id": "53e9d8d0-3a14-4cb9-9940-513f65f859b5",
+      "title": "Konkomba Villages Waiting for the Words of Life",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Daniel Kenaston",
+        "authors": [
+          {
+            "name": "Daniel Kenaston",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 18,
+        "pages": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          18
+        ]
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": []
+      },
+      "html": {
+        "repository_path": "content/articles/53e9d8d0-3a14-4cb9-9940-513f65f859b5.html"
+      },
+      "language": "en",
+      "topics": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "notes": [
+          "All source pages visually read, including nonconsecutive continuation on printed page 18. The continuation header incorrectly prints page ??; this running continuation furniture is omitted.",
+          "Repeated article pull quotes and repeated running header omitted; the distinctive concluding Remember paragraph on page 18 is preserved. Scripture quotations retain bold italics. The long village quotation and concluding prayer/sign-off retain italics.",
+          "Source name spellings intentionally preserved: closing prose Damankudo differs from graphic Damonkudo. No footnotes.",
+          "All final image assets visually compared with source pages by article agent as well as image exporter; exact exported images and unavoidable raster overlays recorded in image metadata. Browser-render QA remains root responsibility.",
+          "Source pages retain logical start 22, final continuation 18, and explicit reading order [22, 23, 24, 25, 26, 18]."
+        ],
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/53e9d8d0-3a14-4cb9-9940-513f65f859b5-1.jpg",
+          "public_path": "/images/articles/53e9d8d0-3a14-4cb9-9940-513f65f859b5-1.jpg",
+          "source_page": 22,
+          "role": "opening photograph",
+          "alt": "Group of people with the printed labels Jambogung, Bilaagbam, Chabaatung, Nabila, Naanduli, Damonkudo, and ????????",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate licence is printed. Extracted sole PDF image object 78 (504 × 504); cropped to its upper photographic region [0, 0, 504, 287], omitting the lower black article-title/byline panel. The village-name labels and narrow black boundary are irreversibly baked into the only source raster; labels are retained as the documented unavoidable-overlay exception, and the article expressly discusses those names. No clean unlabeled base, soft mask, or transparency layer exists. Grayscale source converted to baseline sRGB JPEG with native crop dimensions and nonzero 72-dpi density; no CMYK inversion or synthesized pixels.",
+          "width": 504,
+          "height": 287,
+          "embedded_text": "Jambogung\nBilaagbam\nChabaatung\nNabila\nNaanduli\nDamonkudo\n????????",
+          "verification": {
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
+          }
+        }
+      ],
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "sequence": 7
+    },
+    {
+      "id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
+      "title": "Year End Financial Report",
+      "subtitle": "January – December 2001",
+      "section": "Charity Gospel Tape Ministry &\nThe Heartbeat of The Remnant",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 27,
+        "end": 29,
+        "pages": [
+          27,
+          28,
+          29
+        ]
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": []
+      },
+      "html": {
+        "repository_path": "content/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981.html"
+      },
+      "language": "en",
+      "topics": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "notes": [
+          "Complete substantive report narrative transcribed from pages 27–28, with exact financial table from page 29 retained after report prose. The separately titled New Tape Sets catalogue on pages 28–29 is excluded as an advertisement.",
+          "New Family Joins Charity Ministries remains the opening body subheading. Both six-item lists retain italic emphasis. No author is printed. No footnotes.",
+          "All final image assets visually compared with source pages by article agent as well as image exporter; exact exported images and unavoidable raster overlays recorded in image metadata. Browser-render QA remains root responsibility."
+        ],
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-1.jpg",
+          "public_path": "/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-1.jpg",
+          "source_page": 27,
+          "role": "report header illustration",
+          "alt": "Grayscale illustration of women with covered heads",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate licence is printed. Extracted clean grayscale base object 100 (76 × 95) from the miniature issue cover in the report heading. The separately painted issue masthead/date/motto, border, shadow tiles (objects 94–99), and surrounding report furniture are omitted. Underlying composition and orientation retained; no embedded text or opaque reading panel remains. Grayscale source converted to baseline sRGB JPEG with native dimensions and nonzero 72-dpi density; no CMYK inversion or synthesized pixels.",
+          "width": 76,
+          "height": 95,
+          "verification": {
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
+          }
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-2.jpg",
+          "public_path": "/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-2.jpg",
+          "source_page": 27,
+          "role": "report header illustration",
+          "alt": "Audio cassette tilted counterclockwise",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate licence is printed. Extracted cassette base object 160 (58 × 37) and rendered only that object with its published transform [55.9431, 14.9884, -9.4089, 35.1179] at native effective resolution, producing 66 × 51 pixels and retaining the approximately 15-degree counterclockwise orientation. White canvas accommodates the rotation; no content was synthesized. The same cassette is used twice in the excluded New Tape Sets advertisement on page 28; those ad instances are not additional article exports. Baseline sRGB JPEG with nonzero 72-dpi density.",
+          "width": 66,
+          "height": 51,
+          "verification": {
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
+          }
+        },
+        {
+          "sequence": 3,
+          "repository_path": "public/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-3.jpg",
+          "public_path": "/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-3.jpg",
+          "source_page": 27,
+          "role": "family photograph",
+          "alt": "Six people standing together in a room lined with cassette boxes",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate licence is printed. Extracted sole family-photo base object 101 (385 × 277), in published upright orientation. The white rounded corners and softened photo edge are baked into this raster and are retained as an unavoidable layout treatment because no rectangular clean base exists; separately painted outer article frame/shadows are omitted. No title, caption, or text overlay is present. Grayscale source converted to baseline sRGB JPEG with native dimensions and nonzero 72-dpi density; no CMYK inversion or synthesized pixels.",
+          "width": 385,
+          "height": 277,
+          "verification": {
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
+          }
+        }
+      ],
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "sequence": 8
+    },
+    {
+      "id": "df9d7334-d576-4ae3-9604-e644fe082d73",
+      "language": "en",
+      "title": "Royal Insignia",
+      "subtitle": "by Edwin & Lillian Harvey",
+      "section": "Book Review",
+      "byline": {
+        "raw": "by Andrew Weaver",
+        "authors": [
+          {
+            "name": "Andrew Weaver"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 31
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/df9d7334-d576-4ae3-9604-e644fe082d73.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full book review and the associated publisher-availability box retained. The decorative large extract beginning “Humility does not rest” duplicates the complete body quotation and is represented once in that paragraph. The book-author line is retained as printed subtitle; Andrew Weaver is the review author. Source “advertisment” and “God wants-” are preserved. No footnotes, image, or permission restriction.",
+        "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "sequence": 9
+    },
+    {
+      "id": "494ad7cd-d4b9-41d4-b393-52c277f86298",
+      "language": "en",
+      "title": "If Christ is My Life",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Jennifer René Daniel",
+        "authors": [
+          {
+            "name": "Jennifer René Daniel"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 31
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/494ad7cd-d4b9-41d4-b393-52c277f86298.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/494ad7cd-d4b9-41d4-b393-52c277f86298-1.jpg",
+          "public_path": "/images/articles/494ad7cd-d4b9-41d4-b393-52c277f86298-1.jpg",
+          "source_page": 31,
+          "role": "poem illustration",
+          "alt": "Mountain road and buildings with the printed poem over the landscape",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate licence is printed. Extracted the only image object 122 (504 × 321), preserving the complete landscape and orientation. The title, full poem, and author name are irreversibly baked into this single source raster; no clean background, separate mask, or text overlay exists. Removing them by crop would discard most of the composed illustration, so the exact source composition is retained under the documented unavoidable-overlay exception. The thin separately painted page rule/frame is omitted. The poem is also transcribed as semantic HTML. Grayscale source converted to baseline sRGB JPEG with native dimensions and nonzero 72-dpi density; no CMYK inversion or synthesized pixels.",
+          "width": 504,
+          "height": 321,
+          "verification": {
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Three four-line stanzas and bottom author sign-off retained with bold emphasis. Text is baked into sole native grayscale JPEG object122 and absent from the PDF text layer; visually read from the original raster and enlarged rendered region. No footnotes or permission restriction. Source full landscape and poem graphic retained under sole-raster baked-typography exception.",
+        "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "sequence": 10
+    },
+    {
+      "id": "682f0bfb-d8b8-4b96-ba4f-3ab86066033c",
+      "language": "en",
+      "title": "Fragments",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by\nRachel\nWeaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 33
+      },
+      "categories": {
+        "primary": "917c7782-d876-59a2-9959-e33a50d14cca",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/682f0bfb-d8b8-4b96-ba4f-3ab86066033c.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/682f0bfb-d8b8-4b96-ba4f-3ab86066033c-1.jpg",
+          "public_path": "/images/articles/682f0bfb-d8b8-4b96-ba4f-3ab86066033c-1.jpg",
+          "source_page": 32,
+          "role": "opening illustration",
+          "alt": "Engraving of a crowd receiving food outdoors",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate licence is printed. Extracted clean base object 126 (216 × 264), retaining the complete upright engraving. The separately painted Fragments heading across its upper left and adjacent byline are omitted; no text, page furniture, mask, or additional overlay remains. Grayscale source converted to baseline sRGB JPEG with native dimensions and nonzero 72-dpi density; no CMYK inversion or synthesized pixels.",
+          "width": 216,
+          "height": 264,
+          "verification": {
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete pp32–33 article with six-item main list and six-item concluding list. Emphasis in the quoted counsel and the underlined “can” retained. Printed “God gave enough of food”, “so full of Him others”, and punctuation preserved. Lower p33 continues A Solemn Assembly and belongs to that separate article. No footnotes or permission restriction.",
+        "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "sequence": 11
+    },
+    {
+      "id": "992b01b6-fa76-4785-84ee-045ff7ef6cc9",
+      "language": "en",
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 34,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/992b01b6-fa76-4785-84ee-045ff7ef6cc9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/992b01b6-fa76-4785-84ee-045ff7ef6cc9-1.png",
+          "public_path": "/images/articles/992b01b6-fa76-4785-84ee-045ff7ef6cc9-1.png",
+          "source_page": 34,
+          "role": "opening illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate licence is printed. Decoded original 435 × 323 one-bit PDF stencil object 133 and painted it with the source page’s CalRGB fill [0.161, 0.145, 0.149] on white paper, at its native dimensions (about 300 dpi at the printed size). This preserves the published dark stationery-and-pen illustration instead of exporting the inverted raw stencil. Adjacent heading, page furniture, and text are omitted. Lossless RGB PNG; no synthesized pixels.",
+          "width": 435,
+          "height": 323,
+          "verification": {
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Editorial introduction, five-item list, Waiting to hear… and -The Editors sign-off retained, followed by all six letters in column reading order. Source sign-offs/locations: Corozal, Puerto Rica; Minnesota; Pascagoula, MS; Warminster, PA; Troy, WV; Italy. Printed Puerto Rica, judgement, Thank-you, Papas, and lower-case word are preserved. First letter continues from p34 to p35; Workers and Remnant Staff letters continue across columns. Decorative snowflake divider rows omitted as standalone decorative matter; semantic sections preserve letter divisions. No footnotes or permission restriction.",
+        "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "sequence": 12
+    },
+    {
+      "id": "96a4b941-e99e-4705-89c4-3d1c505f9c27",
+      "language": "en",
+      "title": "The Prayer of St. Francis",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "Francis of Assisi",
+        "authors": [
+          {
+            "name": "Francis of Assisi"
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/96a4b941-e99e-4705-89c4-3d1c505f9c27.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/96a4b941-e99e-4705-89c4-3d1c505f9c27-1.jpg",
+          "public_path": "/images/articles/96a4b941-e99e-4705-89c4-3d1c505f9c27-1.jpg",
+          "source_page": 36,
+          "role": "devotional illustration",
+          "alt": "Prayer text over a mountain landscape beside a robed man",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image credit or separate licence is printed. Extracted sole devotional-composition object 140 (504 × 503). The prayer title, text, attribution, mountain photograph, and robed-figure artwork are flattened into this only source raster; no clean photograph or separate figure base exists. Cropping away the text would remove most of the composed devotional image, so the complete source composition is retained under the documented unavoidable-overlay exception. The separately painted outer green/pink frame, raster shadow tiles (objects 231–242), and mailing panel are omitted. The prayer is also transcribed as semantic HTML. Original RGB JPEG had an extra trailing newline after its EOI marker; re-encoded as a standards-normalized baseline sRGB JPEG with nonzero 72-dpi density, unchanged dimensions and orientation, without CMYK inversion or synthesized content.",
+          "width": 504,
+          "height": 503,
+          "verification": {
+            "browser_render": "verified_by_ai_in_Chromium",
+            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
+            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
+          }
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Substantive titled and signed back-cover prayer included. Two seven-line stanzas retain plain lead lines and italic responses; bottom author sign-off retained. Printed “dispair” and lowercase “thy” preserved. Text is baked into sole full source image object140 and absent from the text layer, visually read from the original raster and enlarged region. Source image collage has inherent prayer text and is retained under the explicit baked-typography exception; outer cover framing/shadow and mailing panel excluded. No footnotes or permission restriction.",
+        "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
+        "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
+      },
+      "issue_id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "sequence": 13
     }
   ],
   "skipped": [

@@ -24516,6 +24516,1095 @@
         },
         "remaining_uncertainty": "No unresolved source wording or article-eligibility decision. No separate image creator credit or licence is printed for any included asset; none inferred from general masthead artists. Unavoidable baked image treatments and original low resolution are documented per image."
       }
+    },
+    {
+      "id": "c438f95a-c3cd-46ee-bbd5-a2d904c41870",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "January / February 2002",
+        "year": 2002,
+        "months": [
+          1,
+          2
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 8,
+      "issue_number": 1,
+      "source_id": "heartbeat-remnant-2002-01",
+      "slug": "heartbeat-remnant-2002-01",
+      "source": {
+        "filename": "2002-01-remnant.pdf",
+        "sha256": "3862a994cd947c4dfc757ca2c2800b066981408bafce878cf47a22380492d12d",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers (logical pages 1 and 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in it’s entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "page_by_page_visual_review": "completed_all_36_pages",
+        "contents_reconciliation": {
+          "candidate_count": 13,
+          "included_count": 13,
+          "skipped_count": 0,
+          "note": "All eleven contents entries reconciled with actual articles; substantive Year End Financial Report and The Prayer of St. Francis add two pieces not listed. Article headings and review-author bylines take precedence over contents shorthand. Konkomba concludes on page 18; A Solemn Assembly continues on page 33."
+        },
+        "page_inventory": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "content": [],
+            "exclusions": [
+              "Front cover and cover motto; not a substantive article."
+            ]
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "content": [],
+            "exclusions": [
+              "Contents, masthead, publication policies, and contents thumbnails."
+            ]
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "content": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "sequence": 1,
+                "title": "William Law",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "content": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "sequence": 1,
+                "title": "William Law",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "content": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "sequence": 1,
+                "title": "William Law",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "content": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "sequence": 1,
+                "title": "William Law",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "content": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "sequence": 1,
+                "title": "William Law",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "content": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "sequence": 1,
+                "title": "William Law",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "content": [
+              {
+                "article_id": "bdd8164b-b590-4fcb-b58b-fa9c940cc80c",
+                "sequence": 2,
+                "title": "Sharpened Words for Little Ones",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "content": [
+              {
+                "article_id": "bdd8164b-b590-4fcb-b58b-fa9c940cc80c",
+                "sequence": 2,
+                "title": "Sharpened Words for Little Ones",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "content": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "sequence": 3,
+                "title": "Godly Homes of the Martyrs",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "content": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "sequence": 3,
+                "title": "Godly Homes of the Martyrs",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "content": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "sequence": 3,
+                "title": "Godly Homes of the Martyrs",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "content": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "sequence": 3,
+                "title": "Godly Homes of the Martyrs",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "content": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "sequence": 3,
+                "title": "Godly Homes of the Martyrs",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "content": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "sequence": 3,
+                "title": "Godly Homes of the Martyrs",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "content": [
+              {
+                "article_id": "e66e5c41-b9e5-42f4-bb96-266f6979fd95",
+                "sequence": 4,
+                "title": "Cold Door Evangelism",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "content": [
+              {
+                "article_id": "e66e5c41-b9e5-42f4-bb96-266f6979fd95",
+                "sequence": 4,
+                "title": "Cold Door Evangelism",
+                "disposition": "included"
+              },
+              {
+                "article_id": "53e9d8d0-3a14-4cb9-9940-513f65f859b5",
+                "sequence": 7,
+                "title": "Konkomba Villages Waiting for the Words of Life",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "content": [
+              {
+                "article_id": "4a200147-9ca5-45cd-ae85-8c9467e51eea",
+                "sequence": 5,
+                "title": "My Lord, and My lord",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "content": [
+              {
+                "article_id": "4a200147-9ca5-45cd-ae85-8c9467e51eea",
+                "sequence": 5,
+                "title": "My Lord, and My lord",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "content": [
+              {
+                "article_id": "81aa0995-da0a-4a50-a2a2-3294bcee616e",
+                "sequence": 6,
+                "title": "A Solemn Assembly",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "content": [
+              {
+                "article_id": "53e9d8d0-3a14-4cb9-9940-513f65f859b5",
+                "sequence": 7,
+                "title": "Konkomba Villages Waiting for the Words of Life",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "content": [
+              {
+                "article_id": "53e9d8d0-3a14-4cb9-9940-513f65f859b5",
+                "sequence": 7,
+                "title": "Konkomba Villages Waiting for the Words of Life",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "content": [
+              {
+                "article_id": "53e9d8d0-3a14-4cb9-9940-513f65f859b5",
+                "sequence": 7,
+                "title": "Konkomba Villages Waiting for the Words of Life",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "content": [
+              {
+                "article_id": "53e9d8d0-3a14-4cb9-9940-513f65f859b5",
+                "sequence": 7,
+                "title": "Konkomba Villages Waiting for the Words of Life",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "content": [
+              {
+                "article_id": "53e9d8d0-3a14-4cb9-9940-513f65f859b5",
+                "sequence": 7,
+                "title": "Konkomba Villages Waiting for the Words of Life",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "content": [
+              {
+                "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
+                "sequence": 8,
+                "title": "Year End Financial Report",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "content": [
+              {
+                "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
+                "sequence": 8,
+                "title": "Year End Financial Report",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": [
+              "New Tape Sets catalogue advertisement."
+            ]
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "content": [
+              {
+                "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
+                "sequence": 8,
+                "title": "Year End Financial Report",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": [
+              "New Tape Sets catalogue advertisement."
+            ]
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "content": [
+              {
+                "article_id": "df9d7334-d576-4ae3-9604-e644fe082d73",
+                "sequence": 9,
+                "title": "Royal Insignia",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "content": [
+              {
+                "article_id": "df9d7334-d576-4ae3-9604-e644fe082d73",
+                "sequence": 9,
+                "title": "Royal Insignia",
+                "disposition": "included"
+              },
+              {
+                "article_id": "494ad7cd-d4b9-41d4-b393-52c277f86298",
+                "sequence": 10,
+                "title": "If Christ is My Life",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "content": [
+              {
+                "article_id": "682f0bfb-d8b8-4b96-ba4f-3ab86066033c",
+                "sequence": 11,
+                "title": "Fragments",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "content": [
+              {
+                "article_id": "81aa0995-da0a-4a50-a2a2-3294bcee616e",
+                "sequence": 6,
+                "title": "A Solemn Assembly",
+                "disposition": "included"
+              },
+              {
+                "article_id": "682f0bfb-d8b8-4b96-ba4f-3ab86066033c",
+                "sequence": 11,
+                "title": "Fragments",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "content": [
+              {
+                "article_id": "992b01b6-fa76-4785-84ee-045ff7ef6cc9",
+                "sequence": 12,
+                "title": "Precious Letters from Our Readers",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "content": [
+              {
+                "article_id": "992b01b6-fa76-4785-84ee-045ff7ef6cc9",
+                "sequence": 12,
+                "title": "Precious Letters from Our Readers",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": []
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "content": [
+              {
+                "article_id": "96a4b941-e99e-4705-89c4-3d1c505f9c27",
+                "sequence": 13,
+                "title": "The Prayer of St. Francis",
+                "disposition": "included"
+              }
+            ],
+            "exclusions": [
+              "Mailing panel, publication masthead, outer frame and shadow; substantive prayer retained."
+            ]
+          }
+        ],
+        "page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "Cover illustration of two women with covered heads (object 254), tiled surround (objects 231–242), and cover masthead/date/motto.",
+                "disposition": "omitted",
+                "exclusion": "front cover"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "images": [
+              {
+                "description": "Six contents thumbnails: grapes (4), martyr (5), family portrait (7), Konkomba group (6), crowd illustration (8), stationery stencil (9).",
+                "disposition": "omitted",
+                "exclusion": "contents and masthead"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "images": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "canonical_repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-1.jpg",
+                "source_pdf_object": 14,
+                "disposition": "exported",
+                "description": "Thorn-and-grape illustration at upper left; intrinsic question retained."
+              },
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "canonical_repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-2.jpg",
+                "source_pdf_object": 13,
+                "disposition": "exported",
+                "description": "Tall grapevine along right edge; clean base, white reading-panel overlay omitted."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "images": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "canonical_repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-3.jpg",
+                "source_pdf_object": 152,
+                "disposition": "exported",
+                "description": "Grape cluster above section 1."
+              },
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "canonical_repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-3.jpg",
+                "source_pdf_object": 152,
+                "disposition": "represented once because repeated image",
+                "description": "Same grape cluster above section 2."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "images": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "canonical_repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-3.jpg",
+                "source_pdf_object": 152,
+                "disposition": "represented once because repeated image",
+                "description": "Same grape cluster above section 3."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "images": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "canonical_repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-3.jpg",
+                "source_pdf_object": 152,
+                "disposition": "represented once because repeated image",
+                "description": "Same grape cluster above section 4."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "images": [
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "canonical_repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-3.jpg",
+                "source_pdf_object": 152,
+                "disposition": "represented once because repeated image",
+                "description": "Same grape cluster above section 5."
+              },
+              {
+                "article_id": "a0845312-06a2-4d8b-82ed-076c7305fcc1",
+                "canonical_repository_path": "public/images/articles/a0845312-06a2-4d8b-82ed-076c7305fcc1-3.jpg",
+                "source_pdf_object": 152,
+                "disposition": "represented once because repeated image",
+                "description": "Same grape cluster above section 6."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "images": [],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "images": [
+              {
+                "article_id": "bdd8164b-b590-4fcb-b58b-fa9c940cc80c",
+                "canonical_repository_path": "public/images/articles/bdd8164b-b590-4fcb-b58b-fa9c940cc80c-1.png",
+                "source_pdf_object": 33,
+                "disposition": "exported",
+                "description": "Three children, with original oval crop and unavoidable baked circular frame."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "images": [],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "images": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 40,
+                "disposition": "exported",
+                "description": "Engraving of ladder-bound martyr and fire."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "images": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 154,
+                "disposition": "represented once because repeated image",
+                "description": "Repeated close crop of ladder-bound figure from object 40 beside Love and Unity in Marriage; no unique image content."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "images": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 154,
+                "disposition": "represented once because repeated image",
+                "description": "Repeated close crop of ladder-bound figure from object 40 beside The True Faith; no unique image content."
+              },
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 154,
+                "disposition": "represented once because repeated image",
+                "description": "Repeated close crop of ladder-bound figure from object 40 beside The Word of God; no unique image content."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "images": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 154,
+                "disposition": "represented once because repeated image",
+                "description": "Repeated close crop of ladder-bound figure from object 40 beside WANTED: Humble Parents; no unique image content."
+              },
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 154,
+                "disposition": "represented once because repeated image",
+                "description": "Repeated close crop of ladder-bound figure from object 40 beside A Life of Devotion; no unique image content."
+              },
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-2.png",
+                "source_pdf_object": 50,
+                "disposition": "exported",
+                "description": "Engraving of execution scene with axe."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "images": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 154,
+                "disposition": "represented once because repeated image",
+                "description": "Repeated close crop of ladder-bound figure from object 40 beside We Hate Sin and the World; no unique image content."
+              },
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 154,
+                "disposition": "represented once because repeated image",
+                "description": "Repeated close crop of ladder-bound figure from object 40 beside Prevailing Love; no unique image content."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "images": [
+              {
+                "article_id": "fb8d442c-115b-4c05-ac30-525fae5a0b89",
+                "canonical_repository_path": "public/images/articles/fb8d442c-115b-4c05-ac30-525fae5a0b89-1.png",
+                "source_pdf_object": 154,
+                "disposition": "represented once because repeated image",
+                "description": "Repeated close crop of ladder-bound figure from object 40 beside Blessed Poverty; no unique image content."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "images": [
+              {
+                "article_id": "e66e5c41-b9e5-42f4-bb96-266f6979fd95",
+                "canonical_repository_path": "public/images/articles/e66e5c41-b9e5-42f4-bb96-266f6979fd95-1.png",
+                "source_pdf_object": 60,
+                "disposition": "exported",
+                "description": "Illustration of young woman at a wooden door."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "images": [],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "images": [
+              {
+                "article_id": "4a200147-9ca5-45cd-ae85-8c9467e51eea",
+                "canonical_repository_path": "public/images/articles/4a200147-9ca5-45cd-ae85-8c9467e51eea-1.png",
+                "source_pdf_object": 67,
+                "disposition": "exported",
+                "description": "Family photograph with original oval crop."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "images": [],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "images": [
+              {
+                "article_id": "81aa0995-da0a-4a50-a2a2-3294bcee616e",
+                "canonical_repository_path": "public/images/articles/81aa0995-da0a-4a50-a2a2-3294bcee616e-1.jpg",
+                "source_pdf_object": 74,
+                "disposition": "exported",
+                "description": "Engraving of a speaker and gathered crowd; separable gray border and shadow omitted."
+              }
+            ],
+            "notes": "No additional visible article photograph, illustration, score, collage or background image. Text, pull-quote panels, typography and page furniture are not standalone image assets.",
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "images": [
+              {
+                "description": "Group photograph with village-name labels in title panel",
+                "disposition": "exported",
+                "article_id": "53e9d8d0-3a14-4cb9-9940-513f65f859b5",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/53e9d8d0-3a14-4cb9-9940-513f65f859b5-1.jpg"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "images": [
+              {
+                "description": "Pull-quote/header bands and rules; no photographs or illustrations",
+                "disposition": "omitted",
+                "reason": "Print-layout typography only"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "images": [
+              {
+                "description": "Pull-quote/header bands and rules; no photographs or illustrations",
+                "disposition": "omitted",
+                "reason": "Print-layout typography only"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "images": [
+              {
+                "description": "Pull-quote/header bands and rules; no photographs or illustrations",
+                "disposition": "omitted",
+                "reason": "Print-layout typography only"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "images": [
+              {
+                "description": "Pull-quote/header bands and rules; no photographs or illustrations",
+                "disposition": "omitted",
+                "reason": "Print-layout typography only"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "images": [
+              {
+                "description": "Issue-cover thumbnail base illustration",
+                "disposition": "exported",
+                "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-1.jpg"
+              },
+              {
+                "description": "Tilted cassette illustration",
+                "disposition": "exported",
+                "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-2.jpg"
+              },
+              {
+                "description": "Family photograph",
+                "disposition": "exported",
+                "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-3.jpg"
+              },
+              {
+                "description": "Issue thumbnail framing and shadow tiles 94–99, report outer frame and title bands",
+                "disposition": "omitted",
+                "reason": "Separable print-layout furniture omitted around exported base illustrations"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "images": [
+              {
+                "description": "Two repeated tilted cassette illustrations (object 160)",
+                "disposition": "omitted",
+                "reason": "Both belong to excluded New Tape Sets advertisement; the distinct report-header use is exported on page 27"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "images": [
+              {
+                "description": "Financial table raster border pieces 109–115",
+                "disposition": "omitted",
+                "reason": "Decorative print-layout frame omitted; substantive financial table is transcribed as HTML within the report"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "images": [
+              {
+                "description": "Book Review title plaque and gradient",
+                "disposition": "omitted",
+                "reason": "Separable title typography/background layout, not article artwork"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "images": [
+              {
+                "description": "Landscape photograph with irreversibly baked poem text",
+                "disposition": "exported",
+                "article_id": "494ad7cd-d4b9-41d4-b393-52c277f86298",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/494ad7cd-d4b9-41d4-b393-52c277f86298-1.jpg"
+              },
+              {
+                "description": "Publisher contact plaque and thin poem boundary rule",
+                "disposition": "omitted",
+                "reason": "Separable layout furniture; publication contact text handled by article owner"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "images": [
+              {
+                "description": "Engraving below separate Fragments title",
+                "disposition": "exported",
+                "article_id": "682f0bfb-d8b8-4b96-ba4f-3ab86066033c",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/682f0bfb-d8b8-4b96-ba4f-3ab86066033c-1.jpg"
+              },
+              {
+                "description": "Flower-shaped list bullets",
+                "disposition": "omitted",
+                "reason": "Meaningful list typography represented by semantic HTML lists, not separate images"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "images": [
+              {
+                "description": "Flower-shaped list bullets and continuation bar",
+                "disposition": "omitted",
+                "reason": "List typography and continuation furniture, not separate images"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "images": [
+              {
+                "description": "Stationery and pen stencil illustration",
+                "disposition": "exported",
+                "article_id": "992b01b6-fa76-4785-84ee-045ff7ef6cc9",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/992b01b6-fa76-4785-84ee-045ff7ef6cc9-1.png"
+              },
+              {
+                "description": "Arrow-shaped list bullets",
+                "disposition": "omitted",
+                "reason": "Meaningful list typography represented by semantic HTML lists"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "images": [
+              {
+                "description": "Repeated snowflake-shaped letter separators",
+                "disposition": "omitted",
+                "reason": "Standalone decorative dividers; no photograph or substantive illustration"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": null,
+            "images": [
+              {
+                "description": "Flattened mountain landscape, robed figure, and prayer text composition",
+                "disposition": "exported",
+                "article_id": "96a4b941-e99e-4705-89c4-3d1c505f9c27",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/96a4b941-e99e-4705-89c4-3d1c505f9c27-1.jpg"
+              },
+              {
+                "description": "Outer multicolour frame/shadow tiles 231–242 and mailing panel",
+                "disposition": "omitted",
+                "reason": "Separable cover frame and excluded mailing panel"
+              }
+            ],
+            "visual_review": "verified_by_ai"
+          }
+        ],
+        "image_reconciliation": {
+          "exported_count": 17,
+          "owning_article_count": 12,
+          "note": "All 36 source pages visually inspected. Seventeen canonical image exports, with thirteen additional repeated uses in pages 3–21 represented by their canonical source images. Contents thumbnails, front cover, New Tape Sets advertisement illustrations, separable layout frames and mailing furniture explicitly excluded. Every export visually compared with raw base/paint evidence and source pages; final native-sized Chromium gallery inspected. Pillow and ImageMagick completely decoded all final rasters without warnings; all eleven JPEGs are baseline RGB/sRGB with nonzero density; six PNGs preserve source clips/stencil. No CMYK images or synthesized image content. Original low-resolution artwork retained without upscaling.",
+          "overlay_exceptions": "Intrinsic thorn question; children’s baked circular frame; Konkomba village labels; family photo rounded/softened edges; complete baked poem and back-cover prayer typography/composition. All exceptions documented per asset. Separable overlays omitted."
+        },
+        "remaining_uncertainty": "No unresolved wording, article boundaries, or article-eligibility decisions. No individual image credits or licences are printed; none inferred. Original low image resolution and unavoidable baked layout treatments retained and documented."
+      }
     }
   ],
   "categories": [
