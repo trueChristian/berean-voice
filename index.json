@@ -97205,6 +97205,793 @@
         "image_review": "Every final associated image opened at useful native resolution and compared with source render and raw image object. Page-by-page census reconciled. Pillow and ImageMagick complete raster decodes and browser-compatible Skia loadImage/drawImage/getImageData rendering passed; RGB/sRGB encoding and final centres, edges and corners verified. Source limitations recorded per image and in issue audit.",
         "independent_text_review": "Entire transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain."
       }
+    },
+    {
+      "id": "50e1ed2b-e63c-4459-b2d9-73eb6825a7b8",
+      "language": "en",
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "sequence": 1,
+      "title": "THE ACTS OF THE APOSTLES",
+      "subtitle": "Blueprint for World Missions",
+      "section": null,
+      "byline": {
+        "raw": "by A.T. Pierson",
+        "authors": [
+          {
+            "name": "A.T. Pierson",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 12,
+        "pages": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          12
+        ]
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": []
+      },
+      "topics": [
+        "c3153996-8271-5167-b21e-2fa3c0e8df1d",
+        "280f7e50-0dcd-51d6-a13f-3b69f197f4b7",
+        "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e"
+      ],
+      "html": {
+        "repository_path": "content/articles/50e1ed2b-e63c-4459-b2d9-73eb6825a7b8.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/50e1ed2b-e63c-4459-b2d9-73eb6825a7b8-1.jpg",
+          "public_path": "/images/articles/50e1ed2b-e63c-4459-b2d9-73eb6825a7b8-1.jpg",
+          "source_page": 3,
+          "role": "opening collage",
+          "alt": "An open Bible surrounded by scenes of people from different regions.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Clean embedded grayscale JPEG xref 13, with intrinsic regional labels retained. Converted to baseline RGB JPEG with nonzero 72 dpi density; no crop or overlay removal required."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/50e1ed2b-e63c-4459-b2d9-73eb6825a7b8-2.jpg",
+          "public_path": "/images/articles/50e1ed2b-e63c-4459-b2d9-73eb6825a7b8-2.jpg",
+          "source_page": 5,
+          "role": "illustration",
+          "alt": "Jesus and several men in a boat on rough water.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Clean embedded grayscale JPEG xref 20. Converted to baseline RGB JPEG with nonzero 72 dpi density; no crop or overlay removal required."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full article read through p12 conclusion before assigning UUID; continues directly from pp3–7 to p12 below the unrelated Wanted... Earnest Parents advertisement. Two associated images: p3 missions/Bible collage and p5 boat illustration. No footnotes, captions, image credits or article-specific reuse notice. Final publication note is an ordinary attribution to The New Acts of the Apostles (1892), signed -Bro. Denny.",
+        "text_review": "AI-authored semantic HTML visually proofread page by page a second time against all six source pages at 180 dpi. Preserved source wording including persona (p4), this book left incomplete and Joel’s perdition (p6), Margquesan and Broadman (p7), lower-case his cradle (p6), unusual punctuation, ellipses and all paragraph boundaries. Discretionary line-end hyphens and column/page breaks joined only as nonsemantic layout handling.",
+        "formatting_review": "Original italic text preserved: ne plus ultra; quoted began and continued, both to do and teach; extended Acts quotation plus latter and after; Pneumatologia; all flesh, is fulfilled and this is that quotation; filled; all three subsequent Acts quotation passages; final publication note italics surrounding its plain book title. P4 decorative pull quote repeats body wording and was not duplicated. No footnotes. Running headers, continuation furniture and terminal square omitted.",
+        "independent_text_review": "Second AI reader review_front independently compared every source page and all finished HTML; found no wording, punctuation, paragraph, reading-order or emphasis discrepancies and confirmed clear article-specific rights gate.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      }
+    },
+    {
+      "id": "bfcca410-8df6-47aa-ab47-928d39747088",
+      "language": "en",
+      "title": "Corrie and Betsie ten Boom’s Home Life",
+      "subtitle": "A House That Stands in Persecution",
+      "section": "Home Histories",
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 8,
+        "end": 16,
+        "pages": [
+          8,
+          9,
+          10,
+          11,
+          16
+        ]
+      },
+      "categories": {
+        "primary": "9514e8ea-e431-5806-a5f3-0953a922c074",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/bfcca410-8df6-47aa-ab47-928d39747088.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Full Home Histories article spans pages 8–11 with final continuation at the bottom of page 16. Introductory Matthew quotation, five main section headings, six fatherhood points and six concluding list items preserved. Source errors “dominate influence”, “Corrie ten Boom suffered ... throughout her mothering years”, and “Mr. and Mrs. ten Boon” retained exactly. No article-specific permission notice, footnotes or image caption. The upper deck is recorded as subtitle; Home Life completes the main title.",
+        "text_review": "Complete article visually inspected before UUID assignment. AI-authored HTML then re-read and compared in a second pass with every rendered source page. Wording, punctuation, paragraph and column continuations, italic scripture quotation and book titles, headings and list order verified. Running headers, page furniture and end ornament omitted; discretionary line-end hyphens joined.",
+        "independent_text_review": "Entire finished HTML independently compared by a second AI reader with every source page; wording, punctuation, paragraph boundaries, emphasis, heading and list structures verified.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "sequence": 2,
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/bfcca410-8df6-47aa-ab47-928d39747088-1.jpg",
+          "public_path": "/images/articles/bfcca410-8df6-47aa-ab47-928d39747088-1.jpg",
+          "source_page": 8,
+          "role": "portrait",
+          "alt": "Portrait of Corrie ten Boom.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Embedded grayscale JPEG xref 30; the oval edge fade is already in the only source raster and is retained without alteration. Converted to baseline RGB JPEG with nonzero 72 dpi density; surrounding heading and text omitted."
+        }
+      ]
+    },
+    {
+      "id": "64555f1c-017c-4ac5-a941-3b577cf58ff3",
+      "language": "en",
+      "title": "FelloWSHIp WITH me",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "- Ann Brubaker -",
+        "authors": [
+          {
+            "name": "Ann Brubaker",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 13
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/64555f1c-017c-4ac5-a941-3b577cf58ff3.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete five-stanza poem, five lines per stanza. Printed mixed-case title lettering FelloWSHIp / WITH me retained; terminal italic attribution retained at the bottom of the body and also recorded as metadata byline. Opening and closing quotation marks, ellipses and uppercase ME preserved. No footnotes or article-specific permission notice. The two distinct hand illustrations are assigned to this poem; separately painted page frame and background are layout.",
+        "text_review": "Entire poem visually inspected before UUID assignment. AI-authored HTML then compared line by line in a second pass with page 13; all 25 lines, stanza breaks, punctuation and final uppercase ME verified.",
+        "independent_text_review": "Entire finished HTML independently compared by a second AI reader with every source page; wording, punctuation, paragraph boundaries, emphasis, lists and stanza lineation verified. The exact terminal italic Ann Brubaker attribution is retained in the poem body and byline metadata.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "sequence": 3,
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/64555f1c-017c-4ac5-a941-3b577cf58ff3-1.jpg",
+          "public_path": "/images/articles/64555f1c-017c-4ac5-a941-3b577cf58ff3-1.jpg",
+          "source_page": 13,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Left-facing outstretched hand from clean embedded grayscale JPEG xref 63. Its gray background is intrinsic to the only source raster. Separate page border, heading and poem text omitted. Converted to baseline RGB JPEG with nonzero 72 dpi density."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/64555f1c-017c-4ac5-a941-3b577cf58ff3-2.jpg",
+          "public_path": "/images/articles/64555f1c-017c-4ac5-a941-3b577cf58ff3-2.jpg",
+          "source_page": 13,
+          "role": "decorative illustration",
+          "alt": "",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Right-facing outstretched hand from clean embedded grayscale JPEG xref 62. This is a distinct drawing, not a duplicate of the other hand. Its gray background is intrinsic to the only source raster. Separate page border, heading and poem text omitted. Converted to baseline RGB JPEG with nonzero 72 dpi density."
+        }
+      ]
+    },
+    {
+      "id": "44e21429-6c19-43e1-b109-561b612a00ed",
+      "language": "en",
+      "sequence": 4,
+      "title": "Satan’s Secret Playground",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Helen Leibee",
+        "authors": [
+          {
+            "name": "Helen Leibee",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 14,
+        "end": 16,
+        "pages": [
+          14,
+          15,
+          16
+        ]
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "cb0c6e89-5a7b-5693-b6b6-0b47f5e46408"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/44e21429-6c19-43e1-b109-561b612a00ed.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Source spelling and apparent errors retained, including judgement, involved large picture, and Still another popular but unbiblical themes is. Bold italic statements and italic book titles, tolerant, will and never preserved. The unrelated Corrie and Betsie continuation below the final line on page 16 belongs to the other article.",
+        "text_review": "Complete candidate visually inspected through its final line before assigning UUID. AI-authored semantic HTML compared in a second visual pass with every source page, preserving words, punctuation, paragraphs and emphasis. Only nonsemantic column/page wraps and discretionary line-end hyphens normalized. No footnotes, captions or article-specific permission notice.",
+        "independent_text_review": "A second AI reader independently compared every word, paragraph and meaningful emphasis against all source pages (14–21 as applicable), including complete continuation passages, 13 poem stanzas and both scripture quotations; no corrections or unresolved readings remain.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/44e21429-6c19-43e1-b109-561b612a00ed-1.jpg",
+          "public_path": "/images/articles/44e21429-6c19-43e1-b109-561b612a00ed-1.jpg",
+          "source_page": 14,
+          "role": "opening illustration",
+          "alt": "A woman reading to two children beside a window.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Clean embedded grayscale JPEG xref 67. Converted to baseline RGB JPEG with nonzero 72 dpi density; no crop or overlay removal required."
+        }
+      ]
+    },
+    {
+      "id": "0100060c-06cf-45aa-a9b2-062abcd353b4",
+      "language": "en",
+      "sequence": 5,
+      "title": "How to Pray for Your Children",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by William Law",
+        "authors": [
+          {
+            "name": "William Law",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 19,
+        "pages": [
+          17,
+          19
+        ]
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "1706ffa6-a4d1-5e68-af38-d56888d6a2a2"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/0100060c-06cf-45aa-a9b2-062abcd353b4.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Nonconsecutive continuation joins page 17 to page 19 bottom after José’s Feet; Parental Intercession heading and italic general/own preserved. Printed parents’ heart, ashamed to lake, means for elevating, and Jas 5:16 preserved. Distinct 2002 source version of the separately indexed 2005-01 reprint (dc778209-927f-4585-954d-9400f1ea40df): words, passages and illustration differ.",
+        "text_review": "Complete candidate visually inspected through its final line before assigning UUID. AI-authored semantic HTML compared in a second visual pass with every source page, preserving words, punctuation, paragraphs and emphasis. Only nonsemantic column/page wraps and discretionary line-end hyphens normalized. No footnotes, captions or article-specific permission notice.",
+        "independent_text_review": "A second AI reader independently compared every word, paragraph and meaningful emphasis against all source pages (14–21 as applicable), including complete continuation passages, 13 poem stanzas and both scripture quotations; no corrections or unresolved readings remain.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/0100060c-06cf-45aa-a9b2-062abcd353b4-1.jpg",
+          "public_path": "/images/articles/0100060c-06cf-45aa-a9b2-062abcd353b4-1.jpg",
+          "source_page": 17,
+          "role": "opening illustration",
+          "alt": "Two girls seated outdoors.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Clean embedded grayscale JPEG xref 77. Separate drop shadow, border, heading and article text omitted. Converted to baseline RGB JPEG with nonzero 72 dpi density."
+        }
+      ]
+    },
+    {
+      "id": "37c2ae1a-af9f-40d8-aa76-746566c608cf",
+      "language": "en",
+      "sequence": 6,
+      "title": "JoSèÍS FeeT",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rodney Roberson",
+        "authors": [
+          {
+            "name": "Rodney Roberson",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19,
+        "pages": [
+          18,
+          19
+        ]
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/37c2ae1a-af9f-40d8-aa76-746566c608cf.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Opening content-page heading literally prints JoSèÍS / FeeT in Castellar48, retained as JoSèÍS FeeT including the source capitalization and malformed accented glyphs. The contents prints JOSÉ’S FEET and the body consistently prints José; these are recorded without correcting the authoritative content-page heading. Italic thoughts/prayers preserved. Source errors retained: black and whites, insisted I did, bowl of full warm soapy water, athletic type soaks. Page 19 upper section ends before the How to Pray continuation.",
+        "text_review": "Complete candidate visually inspected through its final line before assigning UUID. AI-authored semantic HTML compared in a second visual pass with every source page, preserving words, punctuation, paragraphs and emphasis. Only nonsemantic column/page wraps and discretionary line-end hyphens normalized. No footnotes, captions or article-specific permission notice.",
+        "independent_text_review": "A second AI reader independently compared every word, paragraph and meaningful emphasis against all source pages (14–21 as applicable), including complete continuation passages, 13 poem stanzas and both scripture quotations; no corrections or unresolved readings remain.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/37c2ae1a-af9f-40d8-aa76-746566c608cf-1.jpg",
+          "public_path": "/images/articles/37c2ae1a-af9f-40d8-aa76-746566c608cf-1.jpg",
+          "source_page": 18,
+          "role": "opening illustration",
+          "alt": "Two bare feet.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Reconstructed only grayscale base objects xref 81 and 82 in their original PDF paint order, coordinates and rectangular clips. Separately painted title, byline, gray backing panels and frame omitted. The pale gray treatment is baked into both only-source rasters; no unfaded source or exact reversible blend is available, so it is retained explicitly. Normalized baseline RGB JPEG, 72 dpi.",
+          "transformation": "Exact PDF base-object reconstruction at 72 dpi using xref 81 then 82, original matrices and clipping rectangles; cropped to the base illustration bounds."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/37c2ae1a-af9f-40d8-aa76-746566c608cf-2.jpg",
+          "public_path": "/images/articles/37c2ae1a-af9f-40d8-aa76-746566c608cf-2.jpg",
+          "source_page": 19,
+          "role": "illustration",
+          "alt": "A pair of lace-up boots.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Embedded grayscale JPEG xref 86. Separate article text omitted. The pale wash and rectangular gray backdrop are irreversibly baked into the only source raster; no clean base or exact reversible blend is present. Retained exactly without synthetic repair, then encoded as baseline RGB JPEG with nonzero 72 dpi density."
+        }
+      ]
+    },
+    {
+      "id": "c5598678-c20f-4ae3-a545-c89431a15900",
+      "language": "en",
+      "sequence": 7,
+      "title": "A Godly Woman",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "- Janice Etter -",
+        "authors": [
+          {
+            "name": "Janice Etter",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 21,
+        "pages": [
+          20,
+          21
+        ]
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/c5598678-c20f-4ae3-a545-c89431a15900.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Thirteen poem stanzas retained with 51 lines (twelve four-line stanzas and the printed three-line penultimate stanza), ending Janice Etter sign-off, followed by italic Titus 2:3-5 and Proverbs 31:10-11 quotations. Decorative repeated T/W initials are not duplicated. Source other’s, mien, lowercase thou, and all punctuation retained. Same woman-reading illustration repeated on page 21 represented once. Distinct shorter 2002 version of the 2013-05 reprint 928398a6-8e23-4cd3-8069-33a9cfd68f23; 2002 lacks the later fashion stanza and fourth penultimate line but has scripture quotation blocks.",
+        "text_review": "Complete candidate visually inspected through its final line before assigning UUID. AI-authored semantic HTML compared in a second visual pass with every source page, preserving words, punctuation, paragraphs and emphasis. Only nonsemantic column/page wraps and discretionary line-end hyphens normalized. No footnotes, captions or article-specific permission notice.",
+        "independent_text_review": "A second AI reader independently compared every word, paragraph and meaningful emphasis against all source pages (14–21 as applicable), including complete continuation passages, 13 poem stanzas and both scripture quotations; no corrections or unresolved readings remain.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/c5598678-c20f-4ae3-a545-c89431a15900-1.jpg",
+          "public_path": "/images/articles/c5598678-c20f-4ae3-a545-c89431a15900-1.jpg",
+          "source_page": 20,
+          "role": "background illustration",
+          "alt": "A seated woman reading a book.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Embedded grayscale JPEG xref 90. Separate poem text, title, gray page panel and rounded frame omitted. The pale wash and gray raster background are irreversibly baked into the only source raster; no clean base or exact reversible blend is present. Page 21 repeats the same illustration as lower-resolution xref 94 and is represented once by this higher-resolution export. Converted to baseline RGB JPEG with nonzero 72 dpi density."
+        }
+      ]
+    },
+    {
+      "id": "ba7f20c3-2e74-4b84-a54c-50d79e57354d",
+      "language": "en",
+      "title": "Charity Gospel Tape Ministry & The Heartbeat of The Remnant",
+      "subtitle": "July-September 2002 Financial Report",
+      "section": null,
+      "byline": {
+        "raw": "The Editor",
+        "authors": [
+          {
+            "name": "The Editor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 22
+      },
+      "categories": {
+        "primary": "9e94ac9c-a808-540e-9c71-be0d8731d5a1",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/ba7f20c3-2e74-4b84-a54c-50d79e57354d.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/ba7f20c3-2e74-4b84-a54c-50d79e57354d-1.jpg",
+          "public_path": "/images/articles/ba7f20c3-2e74-4b84-a54c-50d79e57354d-1.jpg",
+          "source_page": 22,
+          "role": "magazine illustration",
+          "alt": "A cross above a globe.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Reconstructed clean base JPEG xref 107 with the published rotation and clipping path. The separate gray frame/shadow raster xref 106 and separately painted magazine typography were omitted. Baseline RGB JPEG at 72 dpi; no synthesis of hidden pixels.",
+          "transformation": "Source-only PDF rendering at 72 dpi retaining the original xref 107 placement matrix and polygon clip, about 12.74 degrees clockwise."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/ba7f20c3-2e74-4b84-a54c-50d79e57354d-2.jpg",
+          "public_path": "/images/articles/ba7f20c3-2e74-4b84-a54c-50d79e57354d-2.jpg",
+          "source_page": 22,
+          "role": "tape ministry illustration",
+          "alt": "An audio cassette.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Reconstructed clean base JPEG xref 108 with its published rotation. Separate gray backing panel omitted. Baseline RGB JPEG at 72 dpi.",
+          "transformation": "Source-only PDF rendering at 72 dpi retaining the original xref 108 placement matrix, about 15 degrees counterclockwise."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Entire candidate visually inspected through final line before UUID assignment. Manually authored semantic HTML compared in a second visual pass against rendered source pages. Source wording, punctuation, source errors, paragraph boundaries and meaningful emphasis retained; only nonsemantic column/page wraps, discretionary line-end hyphens and page furniture normalized. No footnotes are present.",
+        "independent_text_review": "Root AI independently compared all final HTML wording and meaningful formatting with every source page 22–32 and confirmed no unresolved readings or discrepancies.",
+        "inventory_note": "Substantive titled financial report and signed prayer included. Prayer, sign-off and all table rows and financial figures retained. Opening title wraps after &, represented as one title; subtitle records the exact report period. No article-specific restriction. Two associated image assets on page 22 exported.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "sequence": 8
+    },
+    {
+      "id": "fb9e8f7a-021f-46d1-89c4-4896bbb5b92a",
+      "language": "en",
+      "title": "Freedom from Bondage",
+      "subtitle": null,
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Ben & Rachel Beiler",
+        "authors": [
+          {
+            "name": "Ben Beiler",
+            "location": null,
+            "role": null
+          },
+          {
+            "name": "Rachel Beiler",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 23,
+        "end": 27
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/fb9e8f7a-021f-46d1-89c4-4896bbb5b92a.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fb9e8f7a-021f-46d1-89c4-4896bbb5b92a-1.jpg",
+          "public_path": "/images/articles/fb9e8f7a-021f-46d1-89c4-4896bbb5b92a-1.jpg",
+          "source_page": 23,
+          "role": "portrait",
+          "alt": "Ben and Rachel Beiler seated at a table.",
+          "caption": "“Great is the Lord\nand greatly to be praised.”",
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Embedded grayscale JPEG xref 113 rendered through the exact published oval Bézier clipping path. Separately painted oval border, page rules, heading and text omitted. Baseline RGB JPEG at 72 dpi, with white outside the published oval.",
+          "transformation": "Source-only PDF rendering at 72 dpi preserving original oval clipping path and image placement; cropped to oval bounds."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Entire candidate visually inspected through final line before UUID assignment. Manually authored semantic HTML compared in a second visual pass against rendered source pages. Source wording, punctuation, source errors, paragraph boundaries and meaningful emphasis retained; only nonsemantic column/page wraps, discretionary line-end hyphens and page furniture normalized. No footnotes are present.",
+        "independent_text_review": "Root AI independently compared all final HTML wording and meaningful formatting with every source page 22–32 and confirmed no unresolved readings or discrepancies.",
+        "inventory_note": "Five-page complete testimony, including opening epigraph, alternating Ben/Rachel headings and unique closing Psalm 27:1&4 quotation. Source then, on-going, Word capitalization and chose retained as printed. Closing square and section rules are magazine furniture. Learn To Sing Hymns advertisement below the page 27 conclusion excluded. One associated portrait exported and inserted.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "sequence": 9
+    },
+    {
+      "id": "678b881c-761d-4601-9910-dca46cd9efb7",
+      "language": "en",
+      "title": "Power Through Prayer",
+      "subtitle": null,
+      "section": "Book Review",
+      "byline": {
+        "raw": "by Dean Taylor",
+        "authors": [
+          {
+            "name": "Dean Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 29
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/678b881c-761d-4601-9910-dca46cd9efb7.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/678b881c-761d-4601-9910-dca46cd9efb7-1.jpg",
+          "public_path": "/images/articles/678b881c-761d-4601-9910-dca46cd9efb7-1.jpg",
+          "source_page": 28,
+          "role": "portrait",
+          "alt": "Portrait of Edward M. Bounds.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Embedded grayscale JPEG xref 143. The oval shape and white surround are intrinsic to the source raster and retained. Converted to baseline RGB JPEG with nonzero 72 dpi density; separate headings omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Entire candidate visually inspected through final line before UUID assignment. Manually authored semantic HTML compared in a second visual pass against rendered source pages. Source wording, punctuation, source errors, paragraph boundaries and meaningful emphasis retained; only nonsemantic column/page wraps, discretionary line-end hyphens and page furniture normalized. No footnotes are present.",
+        "independent_text_review": "Root AI independently compared all final HTML wording and meaningful formatting with every source page 22–32 and confirmed no unresolved readings or discrepancies.",
+        "inventory_note": "Complete two-page review including five quoted passages, first title bold italic, final title italic and final informational book-availability sidebar with printed underlined URL. Review author is Dean Taylor; Edward M. Bounds is the author of the reviewed book, with printed life dates 1835-1913. No article-specific restriction. One associated portrait exported and inserted; decorative gradient section/sidebar panels are omitted as layout.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "reviewed_work": {
+        "title": "Power Through Prayer",
+        "byline": "by Edward M. Bounds\n1835-1913",
+        "author": {
+          "name": "Edward M. Bounds",
+          "life_dates": "1835-1913"
+        }
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "sequence": 10
+    },
+    {
+      "id": "3182f020-9e0c-469e-a500-95e760591e01",
+      "language": "en",
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 31
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "88107a5a-274e-53cd-a586-ff44f4ed67cc"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/3182f020-9e0c-469e-a500-95e760591e01.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/3182f020-9e0c-469e-a500-95e760591e01-1.png",
+          "public_path": "/images/articles/3182f020-9e0c-469e-a500-95e760591e01-1.png",
+          "source_page": 30,
+          "role": "opening illustration",
+          "alt": "A mailbox decorated with flowers.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. Embedded lossless grayscale image xref 150. The small magazine name/address on the mailbox is intrinsic to the raster and retained. Separate rounded heading panel and article text omitted. Preserved losslessly as an RGB PNG, with no crop, resampling or synthesized pixels."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Entire candidate visually inspected through final line before UUID assignment. Manually authored semantic HTML compared in a second visual pass against rendered source pages. Source wording, punctuation, source errors, paragraph boundaries and meaningful emphasis retained; only nonsemantic column/page wraps, discretionary line-end hyphens and page furniture normalized. No footnotes are present.",
+        "independent_text_review": "Root AI independently compared all final HTML wording and meaningful formatting with every source page 22–32 and confirmed no unresolved readings or discrepancies.",
+        "inventory_note": "Publisher invitation followed by five readers’ letters in column reading order; all salutations and italic sign-offs/locations retained. Printed errors Thanks you, Thank you for you publication, and effect retained. The source sign-off uses two literal hyphens in --The Editors. No permission notice. Mailbox illustration exported and inserted. Four oval letter-separator ornaments omitted as standalone decorative separators. The independently separated II Corinthians 5:17-21 and globe at bottom of page 31 are standalone decorative scripture matter outside the letter column and omitted under inventory exclusion.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "sequence": 11
+    },
+    {
+      "id": "e87ee0b4-4f29-40f5-a962-00a9f909d206",
+      "language": "en",
+      "title": "A Life Poured Out",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 32,
+        "end": 32
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/e87ee0b4-4f29-40f5-a962-00a9f909d206.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e87ee0b4-4f29-40f5-a962-00a9f909d206-1.jpg",
+          "public_path": "/images/articles/e87ee0b4-4f29-40f5-a962-00a9f909d206-1.jpg",
+          "source_page": 32,
+          "role": "poem background",
+          "alt": "A waterfall among rocks with the printed poem A Life Poured Out.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "The issue masthead states “Some images © 2001-2002 www.arttoday.com” but does not identify individual assets; no asset-specific credit or licence is stated. The sole RGB JPEG xref 158 includes the poem title, all poem text, the word “Adapted”, and any image toning baked into its pixels. No clean underlying waterfall object, masks, separate text or recoverable base layers exist. A crop removing all typography would leave only a narrow, unhelpful fragment; the complete source raster is therefore retained as the documented unavoidable-overlay exception. The extracted JPEG had one trailing newline byte after EOI; it was re-encoded as standards-normalized baseline RGB JPEG at the original 505 × 504 pixel dimensions with nonzero 72 dpi density. Separate outer cover gradient xref 238, masthead and mailing panel are omitted."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "text_review": "Entire candidate visually inspected through final line before UUID assignment. Manually authored semantic HTML compared in a second visual pass against rendered source pages. Source wording, punctuation, source errors, paragraph boundaries and meaningful emphasis retained; only nonsemantic column/page wraps, discretionary line-end hyphens and page furniture normalized. No footnotes are present.",
+        "independent_text_review": "Root AI independently compared all final HTML wording and meaningful formatting with every source page 22–32 and confirmed no unresolved readings or discrepancies.",
+        "inventory_note": "Substantive titled poem on back cover included. Four four-line stanzas, bold body and italic closing Adapted credit retained. No author is named and no permission notice appears. Entire poem, title and credit are baked into the sole waterfall raster; text visually read from rendered page and separately represented in semantic HTML. Source image limitation documented by the image agent. Mailing panel and green/blue cover frame excluded.",
+        "image_review": "All source images reconciled against the complete 32-page visual census. Every final asset visually inspected at native resolution against source pages and raw PDF objects, fully decoded by Pillow, MuPDF and ImageMagick without warnings, and decoded/rendered in Firefox 153.0. All 15 JPEGs are baseline RGB/sRGB with nonzero density; the mailbox is lossless RGB PNG. Baked-source exceptions and source transformations recorded per asset."
+      },
+      "publication_notes": [
+        "Adapted"
+      ],
+      "issue_id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "sequence": 12
     }
   ],
   "skipped": [

@@ -33250,6 +33250,814 @@
         },
         "remaining_uncertainty": "No unresolved article wording, formatting, boundaries or article-specific rights notices. Individual image creators and licences are unstated; native-resolution source artwork and irreversibly baked portrait vignettes retained and documented."
       }
+    },
+    {
+      "id": "9ceb8019-37ee-4c66-8a99-6df0470c2490",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "November / December 2002",
+        "year": 2002,
+        "months": [
+          11,
+          12
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 8,
+      "issue_number": 6,
+      "source_id": "heartbeat-remnant-2002-11",
+      "slug": "heartbeat-remnant-2002-11",
+      "source": {
+        "filename": "2002-11-remnant.pdf",
+        "sha256": "92dfaadc93cf49195b106842314d76680ffefe775ea16b5dd96f0a0e024f09a3",
+        "pdf_page_count": 32,
+        "printed_page_range": "2-31; front and back covers (logical pages 1 and 32) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in its entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "inventory_status": "complete",
+        "pdf_pages_visually_reviewed": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ],
+        "candidate_article_count": 12,
+        "included_article_count": 12,
+        "skipped_article_count": 0,
+        "contents_reconciliation": "All eleven contents entries reconciled with actual pages: ten eligible articles and one excluded meeting advertisement (Wanted... Earnest Parents). Two additional substantive pieces included: page 22 financial report with signed prayer and the page 32 back-cover poem. All three nonconsecutive article continuations are joined and explicitly recorded.",
+        "included_article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "50e1ed2b-e63c-4459-b2d9-73eb6825a7b8",
+            "title": "THE ACTS OF THE APOSTLES",
+            "subtitle": "Blueprint for World Missions",
+            "source_pages": {
+              "start": 3,
+              "end": 12,
+              "pages": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                12
+              ]
+            }
+          },
+          {
+            "sequence": 2,
+            "article_id": "bfcca410-8df6-47aa-ab47-928d39747088",
+            "title": "Corrie and Betsie ten Boom’s Home Life",
+            "subtitle": "A House That Stands in Persecution",
+            "source_pages": {
+              "start": 8,
+              "end": 16,
+              "pages": [
+                8,
+                9,
+                10,
+                11,
+                16
+              ]
+            }
+          },
+          {
+            "sequence": 3,
+            "article_id": "64555f1c-017c-4ac5-a941-3b577cf58ff3",
+            "title": "FelloWSHIp WITH me",
+            "subtitle": null,
+            "source_pages": {
+              "start": 13,
+              "end": 13
+            }
+          },
+          {
+            "sequence": 4,
+            "article_id": "44e21429-6c19-43e1-b109-561b612a00ed",
+            "title": "Satan’s Secret Playground",
+            "subtitle": null,
+            "source_pages": {
+              "start": 14,
+              "end": 16,
+              "pages": [
+                14,
+                15,
+                16
+              ]
+            }
+          },
+          {
+            "sequence": 5,
+            "article_id": "0100060c-06cf-45aa-a9b2-062abcd353b4",
+            "title": "How to Pray for Your Children",
+            "subtitle": null,
+            "source_pages": {
+              "start": 17,
+              "end": 19,
+              "pages": [
+                17,
+                19
+              ]
+            }
+          },
+          {
+            "sequence": 6,
+            "article_id": "37c2ae1a-af9f-40d8-aa76-746566c608cf",
+            "title": "JoSèÍS FeeT",
+            "subtitle": null,
+            "source_pages": {
+              "start": 18,
+              "end": 19,
+              "pages": [
+                18,
+                19
+              ]
+            }
+          },
+          {
+            "sequence": 7,
+            "article_id": "c5598678-c20f-4ae3-a545-c89431a15900",
+            "title": "A Godly Woman",
+            "subtitle": null,
+            "source_pages": {
+              "start": 20,
+              "end": 21,
+              "pages": [
+                20,
+                21
+              ]
+            }
+          },
+          {
+            "sequence": 8,
+            "article_id": "ba7f20c3-2e74-4b84-a54c-50d79e57354d",
+            "title": "Charity Gospel Tape Ministry & The Heartbeat of The Remnant",
+            "subtitle": "July-September 2002 Financial Report",
+            "source_pages": {
+              "start": 22,
+              "end": 22
+            }
+          },
+          {
+            "sequence": 9,
+            "article_id": "fb9e8f7a-021f-46d1-89c4-4896bbb5b92a",
+            "title": "Freedom from Bondage",
+            "subtitle": null,
+            "source_pages": {
+              "start": 23,
+              "end": 27
+            }
+          },
+          {
+            "sequence": 10,
+            "article_id": "678b881c-761d-4601-9910-dca46cd9efb7",
+            "title": "Power Through Prayer",
+            "subtitle": null,
+            "source_pages": {
+              "start": 28,
+              "end": 29
+            }
+          },
+          {
+            "sequence": 11,
+            "article_id": "3182f020-9e0c-469e-a500-95e760591e01",
+            "title": "Precious Letters from Our Readers",
+            "subtitle": null,
+            "source_pages": {
+              "start": 30,
+              "end": 31
+            }
+          },
+          {
+            "sequence": 12,
+            "article_id": "e87ee0b4-4f29-40f5-a962-00a9f909d206",
+            "title": "A Life Poured Out",
+            "subtitle": null,
+            "source_pages": {
+              "start": 32,
+              "end": 32
+            }
+          }
+        ],
+        "inventory_exclusions": [
+          "Front cover; table of contents/masthead including thumbnails; general publication/reprint/subscription notices.",
+          "Wanted... Earnest Parents meeting advertisement and registration solicitation on page 12; Learn To Sing Hymns advertisement, pricing and shipping instructions on page 27.",
+          "Untitled standalone II Corinthians 5:17-21 scripture filler and globe below the horizontal rule on page 31, separate from readers’ letters.",
+          "Four oval letter separators on pages 30–31; page and article borders, panels, shadows, rules, running headers/footers, continuation labels and terminal ornaments.",
+          "Back-cover mailing/postage panel and surrounding gradient frame; substantive A Life Poured Out poem and source composition retained.",
+          "Page 4 Acts pull quote duplicates body wording and is represented once in the body."
+        ],
+        "source_anomalies": [
+          "Content-page heading JoSèÍS FeeT, including the unusual grave/acute characters and mixed case, is preserved literally. The contents prints JOSÉ’S FEET and the prose uses José; neither is substituted for the content-page heading.",
+          "The page 13 title FelloWSHIp WITH me preserves the decorative source capitalization.",
+          "Apparent spelling, grammar and punctuation errors remain as printed; individual verification records document notable cases.",
+          "The 2002 How to Pray for Your Children and A Godly Woman have source-specific text, credits and images differing from already indexed 2005 and 2013 reprints; new issue-specific articles retain this source, with existing reprints unchanged."
+        ],
+        "text_and_formatting_review": "All twelve articles were visually read through their final lines, manually transcribed, proofread against every source page, and independently compared by a second AI reader. No unresolved source reading remains. No article has footnotes.",
+        "rights_review": "Every candidate and its graphics, bylines, final paragraphs and continuations inspected. No article-specific restriction found. Power Through Prayer expressly states that the reviewed book is no longer copyrighted. General masthead stock-image notice is not assigned to unidentified individual assets.",
+        "image_count": 16,
+        "page_by_page_image_census": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Cross above a globe cover artwork and outer colored gradient",
+                "disposition": "omitted: cover",
+                "pdf_xrefs": [
+                  242,
+                  238
+                ]
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Six article preview thumbnails: Bible/world collage, Corrie portrait, mother/children, girls, Beilers, Bounds portrait",
+                "disposition": "omitted: table of contents",
+                "pdf_xrefs": [
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              },
+              {
+                "visible_image": "Publisher masthead graphic",
+                "disposition": "omitted: masthead"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Open Bible and surrounding five geographical scenes, one flattened collage including regional labels",
+                "disposition": "exported",
+                "article_id": "50e1ed2b-e63c-4459-b2d9-73eb6825a7b8",
+                "export": "public/images/articles/50e1ed2b-e63c-4459-b2d9-73eb6825a7b8-1.jpg",
+                "pdf_xrefs": [
+                  13
+                ],
+                "note": "All visible constituent scenes preserved together in their one intrinsic raster."
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Jesus and men in a boat",
+                "disposition": "exported",
+                "article_id": "50e1ed2b-e63c-4459-b2d9-73eb6825a7b8",
+                "export": "public/images/articles/50e1ed2b-e63c-4459-b2d9-73eb6825a7b8-2.jpg",
+                "pdf_xrefs": [
+                  20
+                ]
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Corrie ten Boom portrait",
+                "disposition": "exported",
+                "article_id": "bfcca410-8df6-47aa-ab47-928d39747088",
+                "export": "public/images/articles/bfcca410-8df6-47aa-ab47-928d39747088-1.jpg",
+                "pdf_xrefs": [
+                  30
+                ]
+              },
+              {
+                "visible_image": "Home Histories banner and scroll flourishes",
+                "disposition": "omitted: publisher heading furniture"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Wanted…Earnest Parents announcement panel, no illustration",
+                "disposition": "omitted: advertisement"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Left-facing outstretched arm and hand",
+                "disposition": "exported",
+                "article_id": "64555f1c-017c-4ac5-a941-3b577cf58ff3",
+                "export": "public/images/articles/64555f1c-017c-4ac5-a941-3b577cf58ff3-1.jpg",
+                "pdf_xrefs": [
+                  63
+                ]
+              },
+              {
+                "visible_image": "Right-facing outstretched arm and hand",
+                "disposition": "exported",
+                "article_id": "64555f1c-017c-4ac5-a941-3b577cf58ff3",
+                "export": "public/images/articles/64555f1c-017c-4ac5-a941-3b577cf58ff3-2.jpg",
+                "pdf_xrefs": [
+                  62
+                ]
+              },
+              {
+                "visible_image": "Tiled ornamental border and gray poem panel",
+                "disposition": "omitted: layout frame and reading panel",
+                "pdf_xrefs": [
+                  46,
+                  47,
+                  48,
+                  49,
+                  50,
+                  51,
+                  52,
+                  53,
+                  54,
+                  55,
+                  56,
+                  57,
+                  58,
+                  59,
+                  60,
+                  61
+                ]
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Mother reading to children with window scene",
+                "disposition": "exported",
+                "article_id": "44e21429-6c19-43e1-b109-561b612a00ed",
+                "export": "public/images/articles/44e21429-6c19-43e1-b109-561b612a00ed-1.jpg",
+                "pdf_xrefs": [
+                  67
+                ]
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Two girls seated outdoors",
+                "disposition": "exported",
+                "article_id": "0100060c-06cf-45aa-a9b2-062abcd353b4",
+                "export": "public/images/articles/0100060c-06cf-45aa-a9b2-062abcd353b4-1.jpg",
+                "pdf_xrefs": [
+                  77
+                ]
+              },
+              {
+                "visible_image": "Photo border and drop shadow",
+                "disposition": "omitted: layout frame/shadow"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Two bare feet assembled from two complementary grayscale objects",
+                "disposition": "exported",
+                "article_id": "37c2ae1a-af9f-40d8-aa76-746566c608cf",
+                "export": "public/images/articles/37c2ae1a-af9f-40d8-aa76-746566c608cf-1.jpg",
+                "pdf_xrefs": [
+                  81,
+                  82
+                ]
+              },
+              {
+                "visible_image": "Separate title, byline, gray backing panels and frame over feet",
+                "disposition": "omitted: layout typography, panels and frame"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Pale boots illustration behind article body",
+                "disposition": "exported",
+                "article_id": "37c2ae1a-af9f-40d8-aa76-746566c608cf",
+                "export": "public/images/articles/37c2ae1a-af9f-40d8-aa76-746566c608cf-2.jpg",
+                "pdf_xrefs": [
+                  86
+                ],
+                "note": "Pale wash and gray rectangular backdrop are baked into source raster and documented as unavoidable; overlaid article text omitted."
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Pale seated woman reading behind poem",
+                "disposition": "exported",
+                "article_id": "c5598678-c20f-4ae3-a545-c89431a15900",
+                "export": "public/images/articles/c5598678-c20f-4ae3-a545-c89431a15900-1.jpg",
+                "pdf_xrefs": [
+                  90
+                ],
+                "note": "Pale wash baked into sole source raster retained explicitly."
+              },
+              {
+                "visible_image": "Rounded page frame and gray reading panel",
+                "disposition": "omitted: layout frame/panel"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Smaller repeated woman-reading image",
+                "disposition": "represented once as page 20 image",
+                "article_id": "c5598678-c20f-4ae3-a545-c89431a15900",
+                "export": "public/images/articles/c5598678-c20f-4ae3-a545-c89431a15900-1.jpg",
+                "pdf_xrefs": [
+                  94
+                ],
+                "note": "Same whole illustration resampled smaller; no unique content."
+              },
+              {
+                "visible_image": "Rounded poem frame and panel",
+                "disposition": "omitted: layout frame/panel"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Rotated cross/globe miniature",
+                "disposition": "exported",
+                "article_id": "ba7f20c3-2e74-4b84-a54c-50d79e57354d",
+                "export": "public/images/articles/ba7f20c3-2e74-4b84-a54c-50d79e57354d-1.jpg",
+                "pdf_xrefs": [
+                  107
+                ],
+                "note": "Separate magazine typography and gray shadow/frame base xref106 omitted."
+              },
+              {
+                "visible_image": "Rotated audio cassette",
+                "disposition": "exported",
+                "article_id": "ba7f20c3-2e74-4b84-a54c-50d79e57354d",
+                "export": "public/images/articles/ba7f20c3-2e74-4b84-a54c-50d79e57354d-2.jpg",
+                "pdf_xrefs": [
+                  108
+                ]
+              },
+              {
+                "visible_image": "Ornamental tiled page frame, miniature frame/shadow, background panels and financial table drop shadow",
+                "disposition": "omitted: layout frames, panels and shadows",
+                "pdf_xrefs": [
+                  98,
+                  99,
+                  100,
+                  101,
+                  102,
+                  103,
+                  104,
+                  105,
+                  106
+                ]
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Ben and Rachel Beiler photograph in oval crop",
+                "disposition": "exported",
+                "article_id": "fb9e8f7a-021f-46d1-89c4-4896bbb5b92a",
+                "export": "public/images/articles/fb9e8f7a-021f-46d1-89c4-4896bbb5b92a-1.jpg",
+                "pdf_xrefs": [
+                  113
+                ]
+              },
+              {
+                "visible_image": "Oval photo outline, curved section label and page rules",
+                "disposition": "omitted: layout frame/header/rules"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "visually_inspected": true,
+            "items": [],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Learn to Sing Hymns advertisement and tiled ornamental border",
+                "disposition": "omitted: advertisement",
+                "pdf_xrefs": [
+                  126,
+                  127,
+                  128,
+                  129,
+                  130,
+                  131,
+                  132,
+                  133,
+                  134,
+                  135,
+                  136,
+                  137,
+                  138,
+                  139
+                ]
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Edward M. Bounds portrait",
+                "disposition": "exported",
+                "article_id": "678b881c-761d-4601-9910-dca46cd9efb7",
+                "export": "public/images/articles/678b881c-761d-4601-9910-dca46cd9efb7-1.jpg",
+                "pdf_xrefs": [
+                  143
+                ]
+              },
+              {
+                "visible_image": "Book Review gradient banner",
+                "disposition": "omitted: publisher heading furniture"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Book access notice panel",
+                "disposition": "omitted: layout panel; substantive notice retained as text"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Mailbox with flowers and intrinsic magazine label",
+                "disposition": "exported",
+                "article_id": "3182f020-9e0c-469e-a500-95e760591e01",
+                "export": "public/images/articles/3182f020-9e0c-469e-a500-95e760591e01-1.png",
+                "pdf_xrefs": [
+                  150
+                ]
+              },
+              {
+                "visible_image": "Letter dividers and rounded heading panel",
+                "disposition": "omitted: layout furniture"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Globe beside untitled standalone scripture filler",
+                "disposition": "omitted: standalone decorative matter",
+                "pdf_xrefs": [
+                  154
+                ],
+                "note": "Visually separate from reader letters by horizontal rule; root issue inventory explicitly excludes this untitled filler."
+              },
+              {
+                "visible_image": "Letter dividers and horizontal footer rule",
+                "disposition": "omitted: layout furniture"
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": null,
+            "visually_inspected": true,
+            "items": [
+              {
+                "visible_image": "Waterfall with entire poem flattened into raster",
+                "disposition": "exported",
+                "article_id": "e87ee0b4-4f29-40f5-a962-00a9f909d206",
+                "export": "public/images/articles/e87ee0b4-4f29-40f5-a962-00a9f909d206-1.jpg",
+                "pdf_xrefs": [
+                  158
+                ],
+                "note": "Source has no separate poem-text objects or clean waterfall base. Entire baked raster retained as unavoidable-overlay exception."
+              },
+              {
+                "visible_image": "Outer gradient border, publisher masthead and postal panel",
+                "disposition": "omitted: cover furniture, masthead and mailing panel",
+                "pdf_xrefs": [
+                  238
+                ]
+              }
+            ],
+            "other_furniture": "Running headers, footers, page numbers, divider rules and publisher typography omitted as print furniture."
+          }
+        ],
+        "image_verification": {
+          "source_page_visual_census": "all 32 pages visually inspected using rendered pages",
+          "raw_pdf_audit": "Embedded-object dictionaries, original raw rasters, paint order, placement matrices and clipping paths inspected. Relevant resource dictionaries contain no source soft masks or transparency groups; GS1/GS2 use identity transfer. None of the pale treatments can be removed through a separate PDF opacity state.",
+          "final_image_visual_review": "Every final image individually opened at full native resolution and compared with raw object and page appearance; centers, edges and corners checked. Removable typography, frames, bars, shadows, panels and furniture omitted.",
+          "complete_decoders": [
+            "Pillow complete load",
+            "MuPDF Pixmap raster decode",
+            "ImageMagick convert -regard-warnings to full raster"
+          ],
+          "decode_result": "All 16 pass with no warnings; every file RGB; 15 baseline JPEGs with exact terminal EOI and 72 dpi nonzero JFIF density; mailbox retained as lossless RGB PNG.",
+          "browser_compatible_renderer": "Firefox 153.0 headless: all 16 images fully decoded with HTMLImageElement.decode() and rendered to screenshot; final screenshot visually reviewed",
+          "overlay_exceptions": [
+            "Portrait Corrie: baked oval edge fade retained.",
+            "Fellowship hands: baked gray background retained.",
+            "José feet/boots and Godly Woman: pale wash/background baked into sole rasters; no exact inverse evidence, retained.",
+            "A Life Poured Out: all poem typography baked into sole waterfall raster; retained explicitly."
+          ],
+          "image_credit_uncertainty": "General page-2 masthead credits Some images © 2001-2002 www.arttoday.com but identifies no individual assets; no inferred licence or per-image attribution."
+        }
+      }
     }
   ],
   "categories": [
