@@ -29904,6 +29904,727 @@
           "source_credit_uncertainty": "No individual article image credits/licenses stated. Masthead artists Lisa Weaver and Kate Rutler are general staff credits only."
         }
       }
+    },
+    {
+      "id": "472c9f50-2e8f-460e-8a99-0b7e48a24ab8",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "March / April 2001",
+        "year": 2001,
+        "months": [
+          3,
+          4
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 7,
+      "issue_number": 2,
+      "source_id": "heartbeat-remnant-2001-03",
+      "slug": "heartbeat-remnant-2001-03",
+      "source": {
+        "filename": "2001-03-remnant.pdf",
+        "sha256": "1a91f4ef309ae3bd08161b30934de51657a57d24beb446a094233f112a88b5e4",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers (logical pages 1 and 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in it’s entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "59 S. Groffdale Rd., Leola, PA 17540"
+      },
+      "verification": {
+        "inventory_status": "complete",
+        "pdf_pages_visually_reviewed": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "candidate_article_count": 15,
+        "included_article_count": 15,
+        "skipped_article_count": 0,
+        "contents_reconciliation": "All twelve contents entries reconciled to actual article pages. Additional substantive pieces WHAT KIND OF MOSES? and Spreading the LIGHT on page 14 and signed back-cover poem Afraid Of What? on page 36 are included. All fifteen pieces pass the full-article restriction gate. The Upper Room Fellowship continues on page 28 and Studying a Book of the Bible on page 25; both retain ordered page arrays.",
+        "included_article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "a3a364fe-dde0-4ad2-bffd-e4787e6e020a",
+            "title": "John & Charles Wesley’s Home Life",
+            "source_pages": {
+              "start": 3,
+              "end": 8
+            }
+          },
+          {
+            "sequence": 2,
+            "article_id": "0e25c6e4-cd6e-4765-87af-94be982809d0",
+            "title": "A Chip Off the Old Block",
+            "source_pages": {
+              "start": 9,
+              "end": 9
+            }
+          },
+          {
+            "sequence": 3,
+            "article_id": "a24032ac-2901-4f58-919c-ec43a1430788",
+            "title": "The Upper Room Fellowship",
+            "source_pages": {
+              "start": 10,
+              "end": 28,
+              "pages": [
+                10,
+                11,
+                12,
+                13,
+                28
+              ]
+            }
+          },
+          {
+            "sequence": 4,
+            "article_id": "fdc7d2ee-fd45-42df-a6b0-b30f2747f450",
+            "title": "WHAT KIND OF MOSES?",
+            "source_pages": {
+              "start": 14,
+              "end": 14
+            }
+          },
+          {
+            "sequence": 5,
+            "article_id": "780252ab-48f9-409a-a8dc-785cfba2a2fc",
+            "title": "Spreading the LIGHT",
+            "source_pages": {
+              "start": 14,
+              "end": 14
+            }
+          },
+          {
+            "sequence": 6,
+            "article_id": "f2fe9812-2f4d-4cb6-bdaa-37cd1e1a18b2",
+            "title": "Sharpened Words for Little Ones",
+            "source_pages": {
+              "start": 15,
+              "end": 16
+            }
+          },
+          {
+            "sequence": 7,
+            "article_id": "183ea045-7864-4279-99c2-37aa9f11eac4",
+            "title": "Strangers and Resident Aliens",
+            "source_pages": {
+              "start": 17,
+              "end": 18
+            }
+          },
+          {
+            "sequence": 8,
+            "article_id": "476b0ca1-7039-4dab-98ed-f471fb3a1663",
+            "title": "THE HIDDEN POWER OF A HUMBLE ACT",
+            "source_pages": {
+              "start": 19,
+              "end": 21
+            }
+          },
+          {
+            "sequence": 9,
+            "article_id": "65cde85d-5f09-47af-ac75-0a3ea061d639",
+            "title": "A Chosen Vessel",
+            "source_pages": {
+              "start": 22,
+              "end": 22
+            }
+          },
+          {
+            "sequence": 10,
+            "article_id": "50aff419-1f59-4bbe-a085-daf5b227be73",
+            "title": "Studying a Book of the Bible",
+            "source_pages": {
+              "start": 23,
+              "end": 25,
+              "pages": [
+                23,
+                25
+              ]
+            }
+          },
+          {
+            "sequence": 11,
+            "article_id": "2f50b47f-7258-403c-8c55-57ea6d80560c",
+            "title": "Abide in Christ",
+            "source_pages": {
+              "start": 24,
+              "end": 25
+            }
+          },
+          {
+            "sequence": 12,
+            "article_id": "635b775e-3815-4c17-9c75-bdab9ea88661",
+            "title": "Holy Sacrifices",
+            "source_pages": {
+              "start": 26,
+              "end": 28
+            }
+          },
+          {
+            "sequence": 13,
+            "article_id": "f1e73a1a-059e-4e2a-b3d3-6b5126529cc5",
+            "title": "Snapshots of the Konkomba Church",
+            "source_pages": {
+              "start": 29,
+              "end": 33
+            }
+          },
+          {
+            "sequence": 14,
+            "article_id": "735c828d-831c-4c04-a434-f4e9f2df5bca",
+            "title": "Precious Letters from Our Readers",
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            }
+          },
+          {
+            "sequence": 15,
+            "article_id": "1574be6e-308c-44a6-9d0e-63e8c7a7e5fb",
+            "title": "Afraid Of What?",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            }
+          }
+        ],
+        "inventory_exclusions": [
+          "Front-cover composition, contents/masthead, contents thumbnails and general subscription policy.",
+          "Running heads/footers, page numbers, continuation labels, terminal dingbats, geometric dividers, frames, shadows, reading panels and other separable print-layout furniture.",
+          "Back-cover mailing/postage panel and publication logo; the substantive poem and its clean underlying photograph are included.",
+          "Decorative duplicate pull quotes are represented by their original body passages. Repeated Bible, mission emblem and mailbox artwork is represented once in canonical exports."
+        ],
+        "source_anomalies": [
+          "Page 19 prints subtitle Feet; the table of contents expands it to Feetwashing. Content-page wording is authoritative and retained.",
+          "The Abide in Christ review is by Andrew Weaver; Andrew Murray is the reviewed book author, separately credited as printed.",
+          "Back-cover poem visibly lacks apostrophes in spirit s, Savior s and Heaven s; these source spaces are preserved.",
+          "Apparent source errors, punctuation, spelling and inconsistent case are preserved and noted in article verification. No footnotes occur in the issue."
+        ],
+        "issue_image_credits": "Artists: Lisa Weaver; Kate Rutler. The masthead does not attribute individual images or state individual image licences; no assignments or licences are inferred.",
+        "page_by_page_image_census": [
+          {
+            "page": 1,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Footwashing photograph (object260)",
+                "disposition": "omitted",
+                "reason": "Front cover excluded from issue inventory; article use on p19 handled separately from its published grayscale base."
+              },
+              {
+                "visible_image": "Tiled pale-green gradient border, masthead ECG/logo, frames and date/slogan panels",
+                "disposition": "omitted",
+                "reason": "Front-cover furniture excluded from issue inventory."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 2,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Seven table-of-contents thumbnails: John Wesley, Charles Wesley, upper-room scene, footwashing scene, Bible, priest, envelope/pen (objects4–10)",
+                "disposition": "omitted",
+                "reason": "Contents/masthead excluded from issue inventory; article occurrences handled separately."
+              },
+              {
+                "visible_image": "Publication logo/ECG and masthead panels",
+                "disposition": "omitted",
+                "reason": "General masthead furniture excluded from issue inventory."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 3,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Portrait of John Wesley.",
+                "disposition": "exported",
+                "article_uuid": "a3a364fe-dde0-4ad2-bffd-e4787e6e020a",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/a3a364fe-dde0-4ad2-bffd-e4787e6e020a-1.jpg"
+              },
+              {
+                "visible_image": "Portrait of Charles Wesley.",
+                "disposition": "exported",
+                "article_uuid": "a3a364fe-dde0-4ad2-bffd-e4787e6e020a",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/a3a364fe-dde0-4ad2-bffd-e4787e6e020a-2.jpg"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 4,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 5,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 6,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 7,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 8,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 9,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "A seated man with a young boy beside him.",
+                "disposition": "exported",
+                "article_uuid": "0e25c6e4-cd6e-4765-87af-94be982809d0",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/0e25c6e4-cd6e-4765-87af-94be982809d0-1.png"
+              },
+              {
+                "visible_image": "Tiled ornamental outer poem frame (objects34–47) and separate illustration outline",
+                "disposition": "omitted",
+                "reason": "Separable publisher layout frames omitted."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 10,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Jesus and the disciples gathered around a table.",
+                "disposition": "exported",
+                "article_uuid": "a24032ac-2901-4f58-919c-ec43a1430788",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/a24032ac-2901-4f58-919c-ec43a1430788-1.jpg"
+              },
+              {
+                "visible_image": "Fellowship title lettering and shadow across upper-room image",
+                "disposition": "omitted",
+                "reason": "Separable publisher typography omitted; clean underlying object52 exported."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 11,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 12,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 13,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 14,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Cartoon illustration of Moses holding a staff.",
+                "disposition": "exported",
+                "article_uuid": "fdc7d2ee-fd45-42df-a6b0-b30f2747f450",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/fdc7d2ee-fd45-42df-a6b0-b30f2747f450-1.png"
+              },
+              {
+                "visible_image": "Illustration of a bearded man seated on a rock.",
+                "disposition": "exported",
+                "article_uuid": "fdc7d2ee-fd45-42df-a6b0-b30f2747f450",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/fdc7d2ee-fd45-42df-a6b0-b30f2747f450-2.png"
+              },
+              {
+                "visible_image": "Financial report panel, rules and table typography",
+                "disposition": "omitted",
+                "reason": "Panel is layout; financial report is preserved as semantic article text, not an image."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 15,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Three children looking upward.",
+                "disposition": "exported",
+                "article_uuid": "f2fe9812-2f4d-4cb6-bdaa-37cd1e1a18b2",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/f2fe9812-2f4d-4cb6-bdaa-37cd1e1a18b2-1.png"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 16,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 17,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Otto and Donna Wojcik.",
+                "disposition": "exported",
+                "article_uuid": "183ea045-7864-4279-99c2-37aa9f11eac4",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/183ea045-7864-4279-99c2-37aa9f11eac4-1.png"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 18,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 19,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "A person kneeling to wash another person’s feet.",
+                "disposition": "exported",
+                "article_uuid": "476b0ca1-7039-4dab-98ed-f471fb3a1663",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/476b0ca1-7039-4dab-98ed-f471fb3a1663-1.png"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 20,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Five diamond-and-chevron separator motifs",
+                "disposition": "omitted",
+                "reason": "Genuinely standalone geometric decorative divider/layout furniture; no pictorial content."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 21,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 22,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "An ornate goblet.",
+                "disposition": "exported",
+                "article_uuid": "65cde85d-5f09-47af-ac75-0a3ea061d639",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/65cde85d-5f09-47af-ac75-0a3ea061d639-1.png"
+              },
+              {
+                "visible_image": "A decorated goblet.",
+                "disposition": "exported",
+                "article_uuid": "65cde85d-5f09-47af-ac75-0a3ea061d639",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/65cde85d-5f09-47af-ac75-0a3ea061d639-2.png"
+              },
+              {
+                "visible_image": "A pottery vase with a narrow neck and floral decoration.",
+                "disposition": "exported",
+                "article_uuid": "65cde85d-5f09-47af-ac75-0a3ea061d639",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/65cde85d-5f09-47af-ac75-0a3ea061d639-3.jpg"
+              },
+              {
+                "visible_image": "Gray poem page panel and outer double outline",
+                "disposition": "omitted",
+                "reason": "Separable publisher layout panel/frame omitted; original stencil paint and vase raster retained."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 23,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "A closed Holy Bible with a ribbon bookmark.",
+                "disposition": "exported",
+                "article_uuid": "50aff419-1f59-4bbe-a085-daf5b227be73",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/50aff419-1f59-4bbe-a085-daf5b227be73-1.jpg"
+              },
+              {
+                "visible_image": "Article title lettering over Bible image",
+                "disposition": "omitted",
+                "reason": "Separable publisher typography omitted; clean base163 exported with baked source tonality preserved."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 24,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "decorative illustration",
+                "disposition": "exported",
+                "article_uuid": "2f50b47f-7258-403c-8c55-57ea6d80560c",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/2f50b47f-7258-403c-8c55-57ea6d80560c-1.jpg"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 25,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Bible illustration behind continuation text (object163)",
+                "disposition": "represented once because repeated image",
+                "article_uuid": "50aff419-1f59-4bbe-a085-daf5b227be73",
+                "canonical_image_sequence": 1,
+                "canonical_source_page": 23,
+                "repository_path": "public/images/articles/50aff419-1f59-4bbe-a085-daf5b227be73-1.jpg",
+                "note": "Identical full source image and orientation as p23; no unique crop content. Article body typography omitted."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 26,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "A robed figure standing with raised arms.",
+                "disposition": "exported",
+                "article_uuid": "635b775e-3815-4c17-9c75-bdab9ea88661",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/635b775e-3815-4c17-9c75-bdab9ea88661-1.jpg"
+              },
+              {
+                "visible_image": "Charity African Missions emblem with a globe and outline of Africa.",
+                "disposition": "exported",
+                "article_uuid": "635b775e-3815-4c17-9c75-bdab9ea88661",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/635b775e-3815-4c17-9c75-bdab9ea88661-2.png"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 27,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 28,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 29,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "A group seated together inside a room.",
+                "disposition": "exported",
+                "article_uuid": "f1e73a1a-059e-4e2a-b3d3-6b5126529cc5",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/f1e73a1a-059e-4e2a-b3d3-6b5126529cc5-1.png"
+              },
+              {
+                "visible_image": "White Charity African Missions emblem plus offset dark shadow (two uses of stencil object165)",
+                "disposition": "represented once because repeated image",
+                "article_uuid": "635b775e-3815-4c17-9c75-bdab9ea88661",
+                "canonical_image_sequence": 2,
+                "canonical_source_page": 26,
+                "repository_path": "public/images/articles/635b775e-3815-4c17-9c75-bdab9ea88661-2.png",
+                "note": "Identical source stencil and full composition as p26; no unique image content. White paint and dark offset shadow form a repeated title-banner treatment, represented by the clean p26 emblem once."
+              },
+              {
+                "visible_image": "Rounded title-banner panel, typography and emblem shadow",
+                "disposition": "omitted",
+                "reason": "Separable publisher layout treatments omitted."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 30,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 31,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 32,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 33,
+            "visually_reviewed": true,
+            "items": [],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 34,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "illustration",
+                "disposition": "exported",
+                "article_uuid": "735c828d-831c-4c04-a434-f4e9f2df5bca",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/735c828d-831c-4c04-a434-f4e9f2df5bca-1.png"
+              },
+              {
+                "visible_image": "decorative separator",
+                "disposition": "exported",
+                "article_uuid": "735c828d-831c-4c04-a434-f4e9f2df5bca",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/735c828d-831c-4c04-a434-f4e9f2df5bca-2.png"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 35,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Three additional rows of six mailbox glyphs",
+                "disposition": "represented once because repeated image",
+                "article_uuid": "735c828d-831c-4c04-a434-f4e9f2df5bca",
+                "canonical_image_sequence": 2,
+                "canonical_source_page": 34,
+                "repository_path": "public/images/articles/735c828d-831c-4c04-a434-f4e9f2df5bca-2.png",
+                "note": "Each row repeats the same six Wingdings mailbox glyphs and spacing as p34; first row is canonical. Twenty-four visible mailbox glyphs are accounted for across four rows."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          },
+          {
+            "page": 36,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Flames and smoke rising from a burning house.",
+                "disposition": "exported",
+                "article_uuid": "1574be6e-308c-44a6-9d0e-63e8c7a7e5fb",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/1574be6e-308c-44a6-9d0e-63e8c7a7e5fb-1.jpg"
+              },
+              {
+                "visible_image": "Poem lettering, byline and shadows over burning-house photograph",
+                "disposition": "omitted",
+                "reason": "Separable publisher typography omitted; clean underlying object147 exported."
+              },
+              {
+                "visible_image": "Tiled pale-green cover gradient pieces, picture frame, mailing-panel logo and mailing typography",
+                "disposition": "omitted",
+                "reason": "Back-cover layout and mailing panel excluded; substantive poem and its photograph retained."
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, score, collage or background image visible. Section/title typography, geometric bars/panels, rules, frames, shadows and page-number/footer furniture are print layout."
+          }
+        ],
+        "image_audit": {
+          "canonical_export_count": 20,
+          "repeated_article_image_occurrences_represented_once": 5,
+          "rights_skipped_article_image_count": 0,
+          "pdf_object_audit": "All eligible base images, native dimensions, placement transforms, clipping paths and paint order inspected against source pages. DeviceGray and one CalRGB photograph; no CMYK images. No eligible image soft masks or transparency groups. ExtGState252 uses identity transfer; states2/264 set opacity1, Normal blend and SMask None. Oval/rounded/custom silhouette clips recreated as native-resolution PNG alpha masks over unchanged raw pixels. Stencils94/95/165/136 use original PDF paint converted through PDF CalRGB to sRGB (64,64,65 for vessels;35,31,32 for emblem/letters). Publisher title text, border/frame, panel, shadow and cover-gradient objects omitted. Wingdings mailbox row rendered at600dpi from exact image-only region.",
+          "baked_source_exceptions": [
+            "p3 portrait oval vignettes, objects14/15",
+            "p15 children oval gray ring/soft inner shadow, object70",
+            "p22 vase gray background, object96",
+            "p23/p25 pale Bible, object163; darker57×63 contents thumbnail6 does not establish exact invertible blend",
+            "p24 pale vine, object103"
+          ],
+          "image_verification": "All20 final images opened visually and compared with source page and raw object; alpha assets additionally inspected composited on white. Complete Pillow, MuPDF and ImageMagick raster decodes passed without warnings. All8 JPEGs baseline RGB/sRGB with72dpi density, complete EOI and no trailing bytes. All20 decoded and drawn by browser-compatible Skia Canvas; visual Skia spot checks matched. Source crop/orientation/dimensions and transformations are documented per image.",
+          "source_credit_uncertainty": "No individual article image credits/licenses are printed. Masthead names artists Lisa Weaver and Kate Rutler generally without assigning their individual works."
+        },
+        "remaining_uncertainty": "No unresolved text, article-boundary or article-eligibility questions. Individual image creators/licences are unstated; original baked vignettes, ring/shadow and pale tones are retained as documented."
+      }
     }
   ],
   "categories": [
