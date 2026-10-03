@@ -25605,6 +25605,738 @@
         },
         "remaining_uncertainty": "No unresolved wording, article boundaries, or article-eligibility decisions. No individual image credits or licences are printed; none inferred. Original low image resolution and unavoidable baked layout treatments retained and documented."
       }
+    },
+    {
+      "id": "5a267233-b126-4092-a82b-2cd2ed4884af",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "November / December 2001",
+        "year": 2001,
+        "months": [
+          11,
+          12
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 7,
+      "issue_number": 5,
+      "source_id": "heartbeat-remnant-2001-11",
+      "slug": "heartbeat-remnant-2001-11",
+      "source": {
+        "filename": "2001-11-remnant.pdf",
+        "sha256": "04207dfdfc98152c0dd95e19500ad8caee4be5bf30025fb6d71fdcb95810c680",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front and back covers (logical pages 1 and 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in it’s entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "inventory_status": "complete",
+        "source_anomalies": [
+          "The contents/masthead page 2 footer reads March/April 2001; the cover and content-page footers establish November / December 2001, Volume 7 Number 5."
+        ],
+        "issue_image_credits": "Artists: Lisa Weaver; Kate Rutler; Matthew Weaver • Photography. The masthead does not assign these credits to individual images; no individual source or licence is inferred.",
+        "pdf_pages_visually_reviewed": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "candidate_article_count": 13,
+        "included_article_count": 12,
+        "skipped_article_count": 1,
+        "contents_reconciliation": "All eleven contents entries reconciled to the actual content pages. The substantive signed Quarterly Financial Report on page 8 and the titled back-cover poem They Crucified God on page 36 are also included. Restricted sequence 11 is recorded only in index.json.skipped. Nonconsecutive continuations retain ordered page arrays.",
+        "included_article_inventory": [
+          {
+            "sequence": 1,
+            "article_id": "691f67b8-a430-4420-8b25-499101aec0c3",
+            "title": "Amy Carmichael of Dohnavur",
+            "source_pages": {
+              "start": 3,
+              "end": 6
+            }
+          },
+          {
+            "sequence": 2,
+            "article_id": "d7b56f4a-08a9-4522-b74c-c0942ffdd4ef",
+            "title": "Words Fitly Spoken",
+            "source_pages": {
+              "start": 7,
+              "end": 11,
+              "pages": [
+                7,
+                11
+              ]
+            }
+          },
+          {
+            "sequence": 3,
+            "article_id": "d6c85621-754d-45e6-af4c-da1f66bc9fca",
+            "title": "Quarterly Financial Report",
+            "source_pages": {
+              "start": 8,
+              "end": 8
+            }
+          },
+          {
+            "sequence": 4,
+            "article_id": "38766682-9e4a-4623-9781-760829cefa28",
+            "title": "The Wind Blows in Manitoba",
+            "source_pages": {
+              "start": 9,
+              "end": 11
+            }
+          },
+          {
+            "sequence": 5,
+            "article_id": "a5232cdc-2e95-42b0-85f1-b2bfd9ad160c",
+            "title": "The Sisters Holy Desires",
+            "source_pages": {
+              "start": 12,
+              "end": 17
+            }
+          },
+          {
+            "sequence": 6,
+            "article_id": "85736ac9-811c-4e24-b031-f9b3bf2d37af",
+            "title": "We Will Never Be the Same",
+            "source_pages": {
+              "start": 18,
+              "end": 25,
+              "pages": [
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                25
+              ]
+            }
+          },
+          {
+            "sequence": 7,
+            "article_id": "7575893a-c99d-4436-b195-24abf455f803",
+            "title": "Overcoming Sensuality",
+            "source_pages": {
+              "start": 24,
+              "end": 25
+            }
+          },
+          {
+            "sequence": 8,
+            "article_id": "7700e13c-f4c7-4e5f-9258-9b024ceec66f",
+            "title": "The Remnant",
+            "source_pages": {
+              "start": 26,
+              "end": 27
+            }
+          },
+          {
+            "sequence": 9,
+            "article_id": "c5617ec5-baa3-4f52-afcb-1905afe9d335",
+            "title": "Sharpened Words for Little Ones",
+            "source_pages": {
+              "start": 28,
+              "end": 29
+            }
+          },
+          {
+            "sequence": 10,
+            "article_id": "d850e482-29b8-4e51-87a3-669504525ad2",
+            "title": "Jerry’s Choice",
+            "source_pages": {
+              "start": 30,
+              "end": 33,
+              "pages": [
+                30,
+                33
+              ]
+            }
+          },
+          {
+            "sequence": 12,
+            "article_id": "7ce3bf43-b279-45a5-9805-11db5429a89e",
+            "title": "Precious Letters from Our Readers",
+            "source_pages": {
+              "start": 34,
+              "end": 35
+            }
+          },
+          {
+            "sequence": 13,
+            "article_id": "7a66963a-8f7e-4083-bed3-227b354fae1b",
+            "title": "They Crucified God",
+            "source_pages": {
+              "start": 36,
+              "end": 36
+            }
+          }
+        ],
+        "inventory_exclusions": [
+          "Front cover and cover composition, contents/masthead and contents thumbnails.",
+          "Running heads/footers, page numbers, terminal dingbats, divider rules, decorative frames, shadows, heading panels and other separable print-layout furniture.",
+          "Back-cover mailing/postage panel and publication logo. The substantive poem and its full source illustration are included.",
+          "The image associated with skipped sequence 11 is not exported."
+        ],
+        "page_by_page_image_census": [
+          {
+            "page": 1,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Front-cover composite: hand with cup; cross and crown; hands holding broken bread; tonal background.",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Front cover; associated title/slogan is cover matter.",
+                "source_object": 282
+              },
+              {
+                "description": "Repeated tiled red/gold outer frame.",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Cover decorative frame; raster tile objects260–271."
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 2,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Amy portrait thumbnail",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Table of contents/masthead; article versions accounted separately.",
+                "source_object": 4
+              },
+              {
+                "description": "apples thumbnail",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Table of contents/masthead; article versions accounted separately.",
+                "source_object": 5
+              },
+              {
+                "description": "lighthouse thumbnail",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Table of contents/masthead; article versions accounted separately.",
+                "source_object": 6
+              },
+              {
+                "description": "family thumbnail",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Table of contents/masthead; article versions accounted separately.",
+                "source_object": 7
+              },
+              {
+                "description": "boy portrait thumbnail",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Table of contents/masthead; article versions accounted separately.",
+                "source_object": 8
+              },
+              {
+                "description": "stationery thumbnail",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Table of contents/masthead; article versions accounted separately.",
+                "source_object": 9
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 3,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Oval Amy Carmichael portrait.",
+                "disposition": "exported",
+                "owner": "Amy Carmichael of Dohnavur",
+                "article_id": "691f67b8-a430-4420-8b25-499101aec0c3",
+                "repository_path": "public/images/articles/691f67b8-a430-4420-8b25-499101aec0c3-1.jpg",
+                "source_object": 13
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 4,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 5,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 6,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 7,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Apples background under two-column article text.",
+                "disposition": "exported",
+                "owner": "Words Fitly Spoken",
+                "article_id": "d7b56f4a-08a9-4522-b74c-c0942ffdd4ef",
+                "repository_path": "public/images/articles/d7b56f4a-08a9-4522-b74c-c0942ffdd4ef-1.jpg",
+                "note": "Source pale wash is baked; body text is separate and omitted. Sole article representation here; also repeated p11.",
+                "source_object": 166
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 8,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Rotated audio cassette.",
+                "disposition": "exported",
+                "owner": "Quarterly Financial Report",
+                "article_id": "d6c85621-754d-45e6-af4c-da1f66bc9fca",
+                "repository_path": "public/images/articles/d6c85621-754d-45e6-af4c-da1f66bc9fca-1.png",
+                "source_object": 29
+              },
+              {
+                "description": "Miniature cover communion artwork.",
+                "disposition": "exported",
+                "owner": "Quarterly Financial Report",
+                "article_id": "d6c85621-754d-45e6-af4c-da1f66bc9fca",
+                "repository_path": "public/images/articles/d6c85621-754d-45e6-af4c-da1f66bc9fca-2.jpg",
+                "note": "Tiny intrinsic artwork wording retained; separately painted decorative frame and typography omitted.",
+                "source_object": 36
+              },
+              {
+                "description": "Miniature decorative outer frame tiles.",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Standalone decorative publisher frame; objects30–35."
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "semantic_graphics": "Financial table is printed text/vector rows, transcribed as a semantic HTML table; not an embedded image."
+          },
+          {
+            "page": 9,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 10,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Complete blended photo montage: tent congregation and foreground worshippers; preaching inset; lake baptism scene with standing officiant and people; two lower-right baptism insets.",
+                "disposition": "exported",
+                "owner": "The Wind Blows in Manitoba",
+                "article_id": "38766682-9e4a-4623-9781-760829cefa28",
+                "repository_path": "public/images/articles/38766682-9e4a-4623-9781-760829cefa28-1.jpg",
+                "note": "All visible constituent regions retained together in the single source composite. No assertion about original photograph count.",
+                "source_object": 44
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 11,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated apples background in lower continued Words Fitly Spoken article.",
+                "disposition": "represented once because repeated",
+                "owner": "Words Fitly Spoken",
+                "article_id": "d7b56f4a-08a9-4522-b74c-c0942ffdd4ef",
+                "repository_path": "public/images/articles/d7b56f4a-08a9-4522-b74c-c0942ffdd4ef-1.jpg",
+                "note": "Same source image and full crop as page7.",
+                "source_object": 166
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 12,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Group photograph of women with rounded published corners.",
+                "disposition": "exported",
+                "owner": "The Sisters Holy Desires",
+                "article_id": "a5232cdc-2e95-42b0-85f1-b2bfd9ad160c",
+                "repository_path": "public/images/articles/a5232cdc-2e95-42b0-85f1-b2bfd9ad160c-1.png",
+                "source_object": 51
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 13,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 14,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 15,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 16,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 17,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Painting of three women gleaning.",
+                "disposition": "exported",
+                "owner": "The Sisters Holy Desires",
+                "article_id": "a5232cdc-2e95-42b0-85f1-b2bfd9ad160c",
+                "repository_path": "public/images/articles/a5232cdc-2e95-42b0-85f1-b2bfd9ad160c-2.png",
+                "note": "Flat baked blue outer frame removed by pixel crop[4,4,229,145]; no painting content retouched.",
+                "source_object": 67
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 18,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Family group outdoors with rounded published corners.",
+                "disposition": "exported",
+                "owner": "We Will Never Be the Same",
+                "article_id": "85736ac9-811c-4e24-b031-f9b3bf2d37af",
+                "repository_path": "public/images/articles/85736ac9-811c-4e24-b031-f9b3bf2d37af-1.png",
+                "source_object": 71
+              },
+              {
+                "description": "Pale tilted saxophone behind article text.",
+                "disposition": "exported",
+                "owner": "We Will Never Be the Same",
+                "article_id": "85736ac9-811c-4e24-b031-f9b3bf2d37af",
+                "repository_path": "public/images/articles/85736ac9-811c-4e24-b031-f9b3bf2d37af-2.png",
+                "note": "Baked fade retained explicitly; separate body text omitted. Identical image appears on pages18–23.",
+                "source_object": 186
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 19,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated pale tilted saxophone behind lower article text.",
+                "disposition": "represented once because repeated",
+                "owner": "We Will Never Be the Same",
+                "article_id": "85736ac9-811c-4e24-b031-f9b3bf2d37af",
+                "repository_path": "public/images/articles/85736ac9-811c-4e24-b031-f9b3bf2d37af-2.png",
+                "note": "Same source/crop/tilt as p18. Visually confirmed, including faint p21 lower-left placement.",
+                "source_object": 186
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 20,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated pale tilted saxophone behind lower article text.",
+                "disposition": "represented once because repeated",
+                "owner": "We Will Never Be the Same",
+                "article_id": "85736ac9-811c-4e24-b031-f9b3bf2d37af",
+                "repository_path": "public/images/articles/85736ac9-811c-4e24-b031-f9b3bf2d37af-2.png",
+                "note": "Same source/crop/tilt as p18. Visually confirmed, including faint p21 lower-left placement.",
+                "source_object": 186
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 21,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated pale tilted saxophone behind lower article text.",
+                "disposition": "represented once because repeated",
+                "owner": "We Will Never Be the Same",
+                "article_id": "85736ac9-811c-4e24-b031-f9b3bf2d37af",
+                "repository_path": "public/images/articles/85736ac9-811c-4e24-b031-f9b3bf2d37af-2.png",
+                "note": "Same source/crop/tilt as p18. Visually confirmed, including faint p21 lower-left placement.",
+                "source_object": 186
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 22,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated pale tilted saxophone behind lower article text.",
+                "disposition": "represented once because repeated",
+                "owner": "We Will Never Be the Same",
+                "article_id": "85736ac9-811c-4e24-b031-f9b3bf2d37af",
+                "repository_path": "public/images/articles/85736ac9-811c-4e24-b031-f9b3bf2d37af-2.png",
+                "note": "Same source/crop/tilt as p18. Visually confirmed, including faint p21 lower-left placement.",
+                "source_object": 186
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 23,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Repeated pale tilted saxophone behind lower article text.",
+                "disposition": "represented once because repeated",
+                "owner": "We Will Never Be the Same",
+                "article_id": "85736ac9-811c-4e24-b031-f9b3bf2d37af",
+                "repository_path": "public/images/articles/85736ac9-811c-4e24-b031-f9b3bf2d37af-2.png",
+                "note": "Same source/crop/tilt as p18. Visually confirmed, including faint p21 lower-left placement.",
+                "source_object": 186
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 24,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Armed figure with shield and sword.",
+                "disposition": "exported",
+                "owner": "Overcoming Sensuality",
+                "article_id": "7575893a-c99d-4436-b195-24abf455f803",
+                "repository_path": "public/images/articles/7575893a-c99d-4436-b195-24abf455f803-1.jpg",
+                "source_object": 90
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 25,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 26,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Lighthouse over clouds and water.",
+                "disposition": "exported",
+                "owner": "The Remnant",
+                "article_id": "7700e13c-f4c7-4e5f-9258-9b024ceec66f",
+                "repository_path": "public/images/articles/7700e13c-f4c7-4e5f-9258-9b024ceec66f-1.jpg",
+                "source_object": 97
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 27,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 28,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Three children in an oval with a baked ring/shadow.",
+                "disposition": "exported",
+                "owner": "Sharpened Words for Little Ones",
+                "article_id": "c5617ec5-baa3-4f52-afcb-1905afe9d335",
+                "repository_path": "public/images/articles/c5617ec5-baa3-4f52-afcb-1905afe9d335-1.png",
+                "note": "Published ellipse clip preserved; baked ring retained as explicit unavoidable-frame exception.",
+                "source_object": 104
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 29,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "semantic_graphics": "Four grey boxed family-devotion lessons are text, transcribed semantically; panels are removable layout treatments.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 30,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Boy wearing a hat beside a basket.",
+                "disposition": "exported",
+                "owner": "Jerry’s Choice",
+                "article_id": "d850e482-29b8-4e51-87a3-669504525ad2",
+                "repository_path": "public/images/articles/d850e482-29b8-4e51-87a3-669504525ad2-1.png",
+                "note": "Rounded published crop preserved; separate frame stroke omitted.",
+                "source_object": 111
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 31,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Engraving of a gathered crowd beneath a tree.",
+                "disposition": "excluded with skipped article",
+                "note": "The Pilgrim Church book review is excluded after eligibility review; no final image export.",
+                "source_object": 115
+              },
+              {
+                "description": "Raster decorative frame around engraving.",
+                "disposition": "excluded with skipped article",
+                "note": "The Pilgrim Church; frame objects116–122 not exported."
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 32,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 33,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Raster border around book availability box.",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Book advertisement/order information frame, objects129–142; excluded alongside skipped review."
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 34,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Stationery illustration with envelopes, paper and pen.",
+                "disposition": "exported",
+                "owner": "Precious Letters from Our Readers",
+                "article_id": "7ce3bf43-b279-45a5-9805-11db5429a89e",
+                "repository_path": "public/images/articles/7ce3bf43-b279-45a5-9805-11db5429a89e-1.png",
+                "note": "PDF image mask rendered with exact source polarity and dark ink colour.",
+                "source_object": 146
+              }
+            ],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture."
+          },
+          {
+            "page": 35,
+            "visually_inspected": true,
+            "images": [],
+            "page_furniture": "Running headers, page numbers, rules, section bars, bullets and purely typographic ornaments omitted as publication furniture.",
+            "image_inventory_result": "No photograph, illustration, image background, sheet music or other substantive visual asset on this page."
+          },
+          {
+            "page": 36,
+            "visually_inspected": true,
+            "images": [
+              {
+                "description": "Whole sunset/tree/crucifixion composite containing baked poem typography.",
+                "disposition": "exported",
+                "owner": "They Crucified God",
+                "article_id": "7a66963a-8f7e-4083-bed3-227b354fae1b",
+                "repository_path": "public/images/articles/7a66963a-8f7e-4083-bed3-227b354fae1b-1.jpg",
+                "note": "Full source retained because crop would remove useful composition. Title/poem/toning irreversibly baked; explicit exception. Separate publication logo, mailing panel, outer tiled border omitted.",
+                "source_object": 153
+              },
+              {
+                "description": "Repeated red/gold tiled outer frame.",
+                "disposition": "omitted under issue-inventory exclusion",
+                "note": "Standalone back-cover decorative frame; objects260–271."
+              }
+            ],
+            "page_furniture": "Publication logo, postal/address and mailing-panel information omitted as mailing panel; poem retained as substantive editorial content."
+          }
+        ],
+        "image_reconciliation": {
+          "exported_count": 15,
+          "owning_article_count": 12,
+          "note": "Every visible image on all 36 pages reconciled to an eligible export, repeated representation, skipped article or named inventory exclusion. All 15 exports and corresponding raw PDF objects were independently visually compared with source pages. Pillow and ImageMagick fully decoded every raster without warnings; browser-compatible Skia Canvas 2D decoded, painted and read back every asset. Seven JPEGs are normalized baseline RGB/sRGB with nonzero 72-dpi density; eight PNGs preserve source clipping, stencil or exact frame crop. No pixels synthesized.",
+          "overlay_exceptions": "The apples and saxophone source rasters have irreversibly baked pale washes; the children illustration has a baked oval ring/shadow; the back-cover illustration contains baked title, poem and toning. These are explicitly documented per asset. The full back-cover composition is retained because a text-removal crop would amputate the central figure. The report cover miniature retains tiny intrinsic source wording. All separable overlays omitted."
+        },
+        "text_and_formatting_review": "All twelve included articles received complete visual transcription review and an independent second reading against source pages. Exact source spelling, capitalization, punctuation, apparent errors, meaningful emphasis, lists, verse lines, captions and sign-offs preserved. No article contains footnotes.",
+        "remaining_uncertainty": "No unresolved wording, article boundary or eligibility decision. Individual image credits and licences are not identified in the source; none inferred. Original low-resolution artwork and unavoidable baked image treatments are preserved and documented."
+      }
     }
   ],
   "categories": [
