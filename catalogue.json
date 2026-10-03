@@ -29062,6 +29062,848 @@
         "exported_image_count": 12,
         "user_authorized_omission_count": 1
       }
+    },
+    {
+      "id": "8c7d190e-02b9-427e-9891-346d83e3007a",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "May / June 2001",
+        "year": 2001,
+        "months": [
+          5,
+          6
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 7,
+      "issue_number": 3,
+      "source_id": "heartbeat-remnant-2001-05",
+      "slug": "heartbeat-remnant-2001-05",
+      "source": {
+        "filename": "2001-05-remnant.pdf",
+        "sha256": "8e30f45340921a4bb42e6c65105ba530f0d082114dd6424dc162663b6833bd6b",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-35; front cover (logical page 1) and back cover (logical page 36) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in it’s entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "59 S. Groffdale Rd., Leola, PA 17540"
+      },
+      "verification": {
+        "inventory_note": "All 36 PDF pages visually inspected. Thirteen contents entries plus the substantive signed Quarterly Financial Report on page 24 yield fourteen candidates. Twelve eligible articles are included; two copyrighted-source contributions are excluded in full under the printed reprint policy. God’s Fast continues nonconsecutively from page 21 to page 26.",
+        "excluded_issue_matter": [
+          "Front cover and cover artwork (PDF page 1)",
+          "Contents, masthead, publication policies, and thumbnails (page 2)",
+          "Running headers, footers, page numbers, ordinary rules, publisher decorative frames, and repeated footer flower",
+          "Youth Bible School calendar advertisement and its border (page 26)",
+          "Back cover with untitled unsigned verse, lava photograph, and mailing panel (PDF page 36)"
+        ],
+        "general_image_credit": "The masthead lists artists Lisa Weaver and Kate Rutler without attributing individual illustrations. No individual creator credit or licence is inferred.",
+        "completion_status": "complete",
+        "rights_skipped_article_count": 2,
+        "article_inventory": [
+          {
+            "sequence": 1,
+            "title": "From the Editor’s Desk",
+            "pages": [
+              3
+            ],
+            "status": "included",
+            "article_id": "937a3428-1483-428b-9a58-acf3349b6fc8"
+          },
+          {
+            "sequence": 2,
+            "title": "What Is Revival?",
+            "pages": [
+              4,
+              5,
+              6
+            ],
+            "status": "included",
+            "article_id": "1d9ba623-0908-45a5-b73e-3e9fc4472486"
+          },
+          {
+            "sequence": 3,
+            "title": "Why Revival Tarries",
+            "pages": [
+              7,
+              8
+            ],
+            "status": "skipped"
+          },
+          {
+            "sequence": 4,
+            "title": "Why Revival STILL Tarries",
+            "pages": [
+              9,
+              10,
+              11
+            ],
+            "status": "skipped"
+          },
+          {
+            "sequence": 5,
+            "title": "William & Catherine Booth’s Home Life",
+            "pages": [
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ],
+            "status": "included",
+            "article_id": "bbe1e18d-0b15-470f-80ce-c0ddf9c03a0d"
+          },
+          {
+            "sequence": 6,
+            "title": "Sharpened Words for Little Ones",
+            "pages": [
+              19,
+              20
+            ],
+            "status": "included",
+            "article_id": "7297a2ae-d537-4d63-b165-ff60dbf73eac"
+          },
+          {
+            "sequence": 7,
+            "title": "GOD’S FAST",
+            "pages": [
+              21,
+              26
+            ],
+            "status": "included",
+            "article_id": "1f204aa0-8376-4082-823a-1478ed284d0e"
+          },
+          {
+            "sequence": 8,
+            "title": "If...Then",
+            "pages": [
+              22,
+              23
+            ],
+            "status": "included",
+            "article_id": "59f12ca5-8a89-41b3-af88-f660aa9dca99"
+          },
+          {
+            "sequence": 9,
+            "title": "Quarterly Financial Report",
+            "pages": [
+              24
+            ],
+            "status": "included",
+            "article_id": "926bfde7-3eb5-4bb7-9eca-d38a90d92dab"
+          },
+          {
+            "sequence": 10,
+            "title": "Children or Kids",
+            "pages": [
+              25,
+              26
+            ],
+            "status": "included",
+            "article_id": "498f95c3-9cf2-4b3d-97c6-9d4d15b08972"
+          },
+          {
+            "sequence": 11,
+            "title": "Ministering to Grieving Saints",
+            "pages": [
+              27,
+              28
+            ],
+            "status": "included",
+            "article_id": "e2b1d542-8ff9-4d39-ba63-661a625255d9"
+          },
+          {
+            "sequence": 12,
+            "title": "FROM DARKNESS TO LIGHT!",
+            "pages": [
+              29,
+              30
+            ],
+            "status": "included",
+            "article_id": "1db2adb1-5509-4259-add7-b2b88f6a2922"
+          },
+          {
+            "sequence": 13,
+            "title": "The Wonderful Privilege of Gospel-Spreading",
+            "pages": [
+              31,
+              32,
+              33,
+              34
+            ],
+            "status": "included",
+            "article_id": "54d5a0ed-09dc-4e75-8447-b9e3ad2db302"
+          },
+          {
+            "sequence": 14,
+            "title": "Precious Letters from Our Readers",
+            "pages": [
+              35
+            ],
+            "status": "included",
+            "article_id": "ff756543-8b73-4182-a901-596bfa199152"
+          }
+        ],
+        "page_by_page_visual_image_census": [
+          {
+            "page": 1,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Waterfall cover photograph",
+                "disposition": "omitted",
+                "reason": "front cover excluded from issue inventory"
+              },
+              {
+                "visible_image": "Tiled gradient border pieces",
+                "disposition": "omitted",
+                "reason": "cover layout decoration"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 2,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Revival thumbnail; Pentecost thumbnail; two Booth portraits; praying child; goat; mother and child; envelope and pen",
+                "disposition": "omitted",
+                "reason": "table of contents/masthead excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 3,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Denny Kenaston seated beside a desk.",
+                "disposition": "exported",
+                "article_uuid": "937a3428-1483-428b-9a58-acf3349b6fc8",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/937a3428-1483-428b-9a58-acf3349b6fc8-1.jpg"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 4,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Three men bow together in prayer beneath rising flames.",
+                "disposition": "exported",
+                "article_uuid": "1d9ba623-0908-45a5-b73e-3e9fc4472486",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/1d9ba623-0908-45a5-b73e-3e9fc4472486-1.png"
+              },
+              {
+                "visible_image": "Two flattened gray title-banner strips, objects20/21",
+                "disposition": "omitted",
+                "reason": "separable publisher title overlay; clean complete base object19 exported"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 5,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 6,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 7,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Pentecost illustration",
+                "disposition": "excluded with skipped article",
+                "reason": "Why Revival Tarries: article-specific copyright notice plus issue reprint policy"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 8,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 9,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Couple beside tree and burning house illustration",
+                "disposition": "excluded with skipped article",
+                "reason": "Why Revival STILL Tarries: article-specific copyright notice plus issue reprint policy"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 10,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 11,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 12,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "William Booth.",
+                "disposition": "exported",
+                "article_uuid": "bbe1e18d-0b15-470f-80ce-c0ddf9c03a0d",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/bbe1e18d-0b15-470f-80ce-c0ddf9c03a0d-1.jpg"
+              },
+              {
+                "visible_image": "Catherine Booth.",
+                "disposition": "exported",
+                "article_uuid": "bbe1e18d-0b15-470f-80ce-c0ddf9c03a0d",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/bbe1e18d-0b15-470f-80ce-c0ddf9c03a0d-2.jpg"
+              },
+              {
+                "visible_image": "Two swash flourishes bracketing A House on Fire",
+                "disposition": "omitted",
+                "reason": "genuinely standalone title ornament typography, not an article illustration"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 13,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 14,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 15,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 16,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 17,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 18,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 19,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Three children in a circular illustration.",
+                "disposition": "exported",
+                "article_uuid": "7297a2ae-d537-4d63-b165-ff60dbf73eac",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/7297a2ae-d537-4d63-b165-ff60dbf73eac-1.png"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 20,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 21,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 22,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "decorative background",
+                "disposition": "exported",
+                "article_uuid": "59f12ca5-8a89-41b3-af88-f660aa9dca99",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/59f12ca5-8a89-41b3-af88-f660aa9dca99-1.jpg"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 23,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Mirrored vine background object85",
+                "disposition": "represented once because repeated image",
+                "article_uuid": "59f12ca5-8a89-41b3-af88-f660aa9dca99",
+                "canonical_image_sequence": 1,
+                "canonical_source_page": 22,
+                "note": "same vine composition as object81, mirrored; no unique image content"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 24,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "An audio cassette.",
+                "disposition": "exported",
+                "article_uuid": "926bfde7-3eb5-4bb7-9eca-d38a90d92dab",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/926bfde7-3eb5-4bb7-9eca-d38a90d92dab-1.png"
+              },
+              {
+                "visible_image": "Water cascading through a green woodland.",
+                "disposition": "exported",
+                "article_uuid": "926bfde7-3eb5-4bb7-9eca-d38a90d92dab",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/926bfde7-3eb5-4bb7-9eca-d38a90d92dab-2.jpg"
+              },
+              {
+                "visible_image": "Page frame fragments89–95",
+                "disposition": "omitted",
+                "reason": "separable decorative page border"
+              },
+              {
+                "visible_image": "Miniature cover gradient border fragments97–101 and cover typography/banner",
+                "disposition": "omitted",
+                "reason": "separable publisher layout overlays; clean waterfall base102 exported"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 25,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "A shaggy goat.",
+                "disposition": "exported",
+                "article_uuid": "498f95c3-9cf2-4b3d-97c6-9d4d15b08972",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/498f95c3-9cf2-4b3d-97c6-9d4d15b08972-1.png"
+              },
+              {
+                "visible_image": "A smooth-coated goat.",
+                "disposition": "exported",
+                "article_uuid": "498f95c3-9cf2-4b3d-97c6-9d4d15b08972",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/498f95c3-9cf2-4b3d-97c6-9d4d15b08972-2.png"
+              },
+              {
+                "visible_image": "A child kneeling with hands together in prayer.",
+                "disposition": "exported",
+                "article_uuid": "498f95c3-9cf2-4b3d-97c6-9d4d15b08972",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/498f95c3-9cf2-4b3d-97c6-9d4d15b08972-3.jpg"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 26,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Calendar announcement border fragments and box/banner",
+                "disposition": "omitted",
+                "reason": "Youth Bible School advertisement excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 27,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Women gathered around a seated woman.",
+                "disposition": "exported",
+                "article_uuid": "e2b1d542-8ff9-4d39-ba63-661a625255d9",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/e2b1d542-8ff9-4d39-ba63-661a625255d9-1.jpg"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 28,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 29,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Shannon Hamby holding her daughter.",
+                "disposition": "exported",
+                "article_uuid": "1db2adb1-5509-4259-add7-b2b88f6a2922",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/1db2adb1-5509-4259-add7-b2b88f6a2922-1.jpg"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 30,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 31,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "A sower scattering seed in a field.",
+                "disposition": "exported",
+                "article_uuid": "54d5a0ed-09dc-4e75-8447-b9e3ad2db302",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/54d5a0ed-09dc-4e75-8447-b9e3ad2db302-1.png"
+              },
+              {
+                "visible_image": "Charity African Missions emblem with a globe and outline of Africa.",
+                "disposition": "exported",
+                "article_uuid": "54d5a0ed-09dc-4e75-8447-b9e3ad2db302",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/54d5a0ed-09dc-4e75-8447-b9e3ad2db302-2.png"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 32,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 33,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 34,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "Daniel Kenaston and Matthew with a bicycle beside a round thatched building.",
+                "disposition": "exported",
+                "article_uuid": "54d5a0ed-09dc-4e75-8447-b9e3ad2db302",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/54d5a0ed-09dc-4e75-8447-b9e3ad2db302-3.jpg"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 35,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Repeated footer daisy, object176",
+                "disposition": "omitted",
+                "reason": "running footer furniture excluded from issue inventory"
+              },
+              {
+                "visible_image": "decorative illustration",
+                "disposition": "exported",
+                "article_uuid": "ff756543-8b73-4182-a901-596bfa199152",
+                "image_sequence": 1,
+                "repository_path": "public/images/articles/ff756543-8b73-4182-a901-596bfa199152-1.png"
+              },
+              {
+                "visible_image": "decorative illustration",
+                "disposition": "exported",
+                "article_uuid": "ff756543-8b73-4182-a901-596bfa199152",
+                "image_sequence": 2,
+                "repository_path": "public/images/articles/ff756543-8b73-4182-a901-596bfa199152-2.jpg"
+              },
+              {
+                "visible_image": "decorative background",
+                "disposition": "exported",
+                "article_uuid": "ff756543-8b73-4182-a901-596bfa199152",
+                "image_sequence": 3,
+                "repository_path": "public/images/articles/ff756543-8b73-4182-a901-596bfa199152-3.png"
+              },
+              {
+                "visible_image": "decorative separator",
+                "disposition": "exported",
+                "article_uuid": "ff756543-8b73-4182-a901-596bfa199152",
+                "image_sequence": 4,
+                "repository_path": "public/images/articles/ff756543-8b73-4182-a901-596bfa199152-4.png"
+              },
+              {
+                "visible_image": "Second six-flower separator after A Sister",
+                "disposition": "represented once because repeated image",
+                "article_uuid": "ff756543-8b73-4182-a901-596bfa199152",
+                "canonical_image_sequence": 4,
+                "note": "same six source ZapfDingbats glyphs as separator after A Reader"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          },
+          {
+            "page": 36,
+            "visually_reviewed": true,
+            "items": [
+              {
+                "visible_image": "Lava-flow photograph",
+                "disposition": "omitted",
+                "reason": "back cover/mailing panel excluded from issue inventory"
+              },
+              {
+                "visible_image": "Tiled gradient border pieces",
+                "disposition": "omitted",
+                "reason": "cover layout decoration"
+              }
+            ],
+            "other_artwork": "No other article-owned photograph, illustration, graphic, score or image background visible. Rules, flat text panels, title typography, frames and page numbers are print layout."
+          }
+        ],
+        "image_audit": {
+          "canonical_export_count": 20,
+          "repeated_article_image_occurrences_represented_once": 2,
+          "rights_skipped_article_image_count": 2,
+          "pdf_object_audit": "All article image objects inspected with placement transforms and original content streams. No image soft masks/transparency groups occur in the eligible article assets; GS1 sets stroke adjust, smoothness and identity transfer only. Image masks107/108/146/160 use explicit PDF stencil semantics and original dark CalRGB paint. Vector/font white decorative graphic on p35 separately isolated; neither gray text panel nor body text exported. Raw base rasters compared against published page render for every export.",
+          "baked_source_exceptions": [
+            "p12 portrait oval vignettes48/49",
+            "p19 illustration gradient ring71",
+            "p22 vine pale appearance81 with no established exact inverse blend",
+            "p25 praying-child oval vignette106",
+            "p27 illustration gray ground131"
+          ],
+          "source_credit_uncertainty": "No individual article image credits/licenses stated. Masthead artists Lisa Weaver and Kate Rutler are general staff credits only."
+        }
+      }
     }
   ],
   "categories": [
