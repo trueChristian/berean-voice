@@ -27328,6 +27328,987 @@
           "rights_skipped_count": 0
         }
       }
+    },
+    {
+      "id": "ab61f36f-0db0-43f0-aa47-7ff63f7912a7",
+      "publication": "The Heartbeat of The Remnant",
+      "publisher": "Charity Christian Fellowship",
+      "date": {
+        "label": "September / October 2001",
+        "year": 2001,
+        "months": [
+          9,
+          10
+        ],
+        "precision": "month_range"
+      },
+      "volume_number": 7,
+      "issue_number": 5,
+      "source_id": "heartbeat-remnant-2001-09",
+      "slug": "heartbeat-remnant-2001-09",
+      "source": {
+        "filename": "2001-09-remnant.pdf",
+        "sha256": "c1e6ae1971623a4a41cb68e087e861c0ac523d83eee85da7c9302a14ba7e4c74",
+        "pdf_page_count": 36,
+        "printed_page_range": "2-36; front cover (logical page 1) unnumbered"
+      },
+      "rights": {
+        "publisher_permission_reported_by_project_owner": true,
+        "issue_policy_summary": "All material in this magazine may be copied or reprinted in it’s entirety unless we used it by permission or a copyright is indicated. Please include our name and address.",
+        "automatic_exclusion_rule": "Skip an entire article and all of its images if any article-specific notice says or implies that permission must be obtained before reuse.",
+        "publisher_address": "400 W Main St Ste 1, Ephrata, PA 17522"
+      },
+      "verification": {
+        "complete_pdf_visual_review": "verified_by_ai",
+        "candidate_article_count": 14,
+        "included_article_count": 13,
+        "skipped_article_count": 1,
+        "footnotes": "No source footnotes occur in the eligible articles.",
+        "inventory_notes": [
+          "Contents list reconciled with actual pages. Quarterly Financial Report and both page-19 editorial notices are substantive items omitted from the contents list.",
+          "Letters begin on page 35, although the contents list says page 34.",
+          "Courtship continues on page 28 after pages 20–22. A Sister s Hunger for God continues on pages 33–34 after page 29.",
+          "Page-29 title lacks an apostrophe; that source title is preserved, with the correct continuation heading documented in article metadata.",
+          "The Pursuit of God review is wholly excluded under the individual-copyright exception; its text and shepherd image are not exported."
+        ],
+        "page_inventory": [
+          {
+            "pdf_page": 1,
+            "printed_page": null,
+            "articles": [],
+            "omitted_matter": "Front cover."
+          },
+          {
+            "pdf_page": 2,
+            "printed_page": 2,
+            "articles": [],
+            "omitted_matter": "Table of contents and general masthead."
+          },
+          {
+            "pdf_page": 3,
+            "printed_page": 3,
+            "articles": [
+              {
+                "sequence": 1,
+                "title": "Andrew Murray’s Home Life",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 4,
+            "printed_page": 4,
+            "articles": [
+              {
+                "sequence": 1,
+                "title": "Andrew Murray’s Home Life",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 5,
+            "printed_page": 5,
+            "articles": [
+              {
+                "sequence": 1,
+                "title": "Andrew Murray’s Home Life",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 6,
+            "printed_page": 6,
+            "articles": [
+              {
+                "sequence": 1,
+                "title": "Andrew Murray’s Home Life",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 7,
+            "printed_page": 7,
+            "articles": [
+              {
+                "sequence": 1,
+                "title": "Andrew Murray’s Home Life",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 8,
+            "printed_page": 8,
+            "articles": [
+              {
+                "sequence": 1,
+                "title": "Andrew Murray’s Home Life",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 9,
+            "printed_page": 9,
+            "articles": [
+              {
+                "sequence": 2,
+                "title": "Sharpened Words for Little Ones",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 10,
+            "printed_page": 10,
+            "articles": [
+              {
+                "sequence": 2,
+                "title": "Sharpened Words for Little Ones",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 11,
+            "printed_page": 11,
+            "articles": [
+              {
+                "sequence": 3,
+                "title": "Quarterly Financial Report",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 12,
+            "printed_page": 12,
+            "articles": [
+              {
+                "sequence": 3,
+                "title": "Quarterly Financial Report",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 13,
+            "printed_page": 13,
+            "articles": [
+              {
+                "sequence": 4,
+                "title": "A Very Revealing Exercise",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 14,
+            "printed_page": 14,
+            "articles": [
+              {
+                "sequence": 4,
+                "title": "A Very Revealing Exercise",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 15,
+            "printed_page": 15,
+            "articles": [
+              {
+                "sequence": 5,
+                "title": "Spiritual Addictions",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 16,
+            "printed_page": 16,
+            "articles": [
+              {
+                "sequence": 6,
+                "title": "The Special Act of a Servant’s Heart",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 17,
+            "printed_page": 17,
+            "articles": [
+              {
+                "sequence": 7,
+                "title": "The Pursuit of God",
+                "disposition": "skipped; article-specific copyright exception"
+              }
+            ]
+          },
+          {
+            "pdf_page": 18,
+            "printed_page": 18,
+            "articles": [
+              {
+                "sequence": 7,
+                "title": "The Pursuit of God",
+                "disposition": "skipped; article-specific copyright exception"
+              }
+            ]
+          },
+          {
+            "pdf_page": 19,
+            "printed_page": 19,
+            "articles": [
+              {
+                "sequence": 8,
+                "title": "CHURCH DIVISION NOTICE",
+                "disposition": "included"
+              },
+              {
+                "sequence": 9,
+                "title": "Warnings about C.S. Lewis...",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 20,
+            "printed_page": 20,
+            "articles": [
+              {
+                "sequence": 10,
+                "title": "Courtship Principles in Genesis",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 21,
+            "printed_page": 21,
+            "articles": [
+              {
+                "sequence": 10,
+                "title": "Courtship Principles in Genesis",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 22,
+            "printed_page": 22,
+            "articles": [
+              {
+                "sequence": 10,
+                "title": "Courtship Principles in Genesis",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 23,
+            "printed_page": 23,
+            "articles": [
+              {
+                "sequence": 11,
+                "title": "The Death of a Nation",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 24,
+            "printed_page": 24,
+            "articles": [
+              {
+                "sequence": 11,
+                "title": "The Death of a Nation",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 25,
+            "printed_page": 25,
+            "articles": [
+              {
+                "sequence": 11,
+                "title": "The Death of a Nation",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 26,
+            "printed_page": 26,
+            "articles": [
+              {
+                "sequence": 11,
+                "title": "The Death of a Nation",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 27,
+            "printed_page": 27,
+            "articles": [
+              {
+                "sequence": 11,
+                "title": "The Death of a Nation",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 28,
+            "printed_page": 28,
+            "articles": [
+              {
+                "sequence": 10,
+                "title": "Courtship Principles in Genesis",
+                "disposition": "included"
+              },
+              {
+                "sequence": 11,
+                "title": "The Death of a Nation",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 29,
+            "printed_page": 29,
+            "articles": [
+              {
+                "sequence": 12,
+                "title": "A Sister s Hunger for God",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 30,
+            "printed_page": 30,
+            "articles": [
+              {
+                "sequence": 13,
+                "title": "Dry, Shriveled Seeds or Mature, Productive Plants?",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 31,
+            "printed_page": 31,
+            "articles": [
+              {
+                "sequence": 13,
+                "title": "Dry, Shriveled Seeds or Mature, Productive Plants?",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 32,
+            "printed_page": 32,
+            "articles": [
+              {
+                "sequence": 13,
+                "title": "Dry, Shriveled Seeds or Mature, Productive Plants?",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 33,
+            "printed_page": 33,
+            "articles": [
+              {
+                "sequence": 12,
+                "title": "A Sister s Hunger for God",
+                "disposition": "included"
+              },
+              {
+                "sequence": 13,
+                "title": "Dry, Shriveled Seeds or Mature, Productive Plants?",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 34,
+            "printed_page": 34,
+            "articles": [
+              {
+                "sequence": 12,
+                "title": "A Sister s Hunger for God",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 35,
+            "printed_page": 35,
+            "articles": [
+              {
+                "sequence": 14,
+                "title": "Precious Letters from Our Readers",
+                "disposition": "included"
+              }
+            ]
+          },
+          {
+            "pdf_page": 36,
+            "printed_page": 36,
+            "articles": [
+              {
+                "sequence": 14,
+                "title": "Precious Letters from Our Readers",
+                "disposition": "included"
+              }
+            ],
+            "omitted_matter": "Keith Daniel • Fall 2001 Itinerary event announcement."
+          }
+        ],
+        "visual_image_census": [
+          {
+            "page": 1,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Cover photograph of deer drinking from water.",
+                "source_object": 252,
+                "disposition": "omitted",
+                "named_issue_inventory_exclusion": "cover"
+              }
+            ],
+            "layout_dispositions": [
+              "Publication/issue typography, verse, bottom title banner, outer blue field, olive border and tiled shadow are cover layout, excluded with cover.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 2,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Andrew Murray portrait",
+                "source_object": 4,
+                "disposition": "omitted",
+                "named_issue_inventory_exclusion": "table of contents"
+              },
+              {
+                "description": "Man bending over a stone",
+                "source_object": 5,
+                "disposition": "omitted",
+                "named_issue_inventory_exclusion": "table of contents"
+              },
+              {
+                "description": "Shepherd and sheep illustration",
+                "source_object": 7,
+                "disposition": "omitted",
+                "named_issue_inventory_exclusion": "table of contents"
+              },
+              {
+                "description": "Man at dining table",
+                "source_object": 6,
+                "disposition": "omitted",
+                "named_issue_inventory_exclusion": "table of contents"
+              },
+              {
+                "description": "Three red-orange fruits",
+                "source_object": 8,
+                "disposition": "omitted",
+                "named_issue_inventory_exclusion": "table of contents"
+              },
+              {
+                "description": "Envelope, card and pen illustration",
+                "source_object": 9,
+                "disposition": "omitted",
+                "named_issue_inventory_exclusion": "table of contents"
+              }
+            ],
+            "layout_dispositions": [
+              "Masthead panel, contents heading, rules and headings are table-of-contents/masthead layout.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 3,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Andrew Murray seated in a chair.",
+                "owning_article_id": "4f593864-dfda-4d37-8ec2-c9ab36c9fef2",
+                "source_object": 13,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/4f593864-dfda-4d37-8ec2-c9ab36c9fef2-1.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Home Histories banner and title styling; source scripture remains text.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 4,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Andrew Murray Senior seated in a chair.",
+                "owning_article_id": "4f593864-dfda-4d37-8ec2-c9ab36c9fef2",
+                "source_object": 17,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/4f593864-dfda-4d37-8ec2-c9ab36c9fef2-2.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Section/running headers and rules.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 5,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Section labels and pull-quote rules.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 6,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Section labels and rules.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 7,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Susanna Murray seated beside a table.",
+                "owning_article_id": "4f593864-dfda-4d37-8ec2-c9ab36c9fef2",
+                "source_object": 27,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/4f593864-dfda-4d37-8ec2-c9ab36c9fef2-3.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Section labels and pull-quote rules.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 8,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Section labels and pull-quote rules.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 9,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "A child looking upward.",
+                "owning_article_id": "df398860-b07d-45a2-ae42-4b8ba1f327c1",
+                "source_object": 34,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/df398860-b07d-45a2-ae42-4b8ba1f327c1-1.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Gray lesson panel, heading banner, dotted margin rule and typography.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 10,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Three gray lesson panels, heading bars, margin rule and typography.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 11,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "An audio cassette.",
+                "owning_article_id": "911d7f21-f64f-463f-a9ab-37563b244ba9",
+                "source_object": 41,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/911d7f21-f64f-463f-a9ab-37563b244ba9-1.jpg"
+              },
+              {
+                "description": "A deer drinking from water, with its reflection below.",
+                "owning_article_id": "911d7f21-f64f-463f-a9ab-37563b244ba9",
+                "source_object": 47,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/911d7f21-f64f-463f-a9ab-37563b244ba9-2.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Outer page double-rule border; financial table and its gray reading panel, frame tiles objects48–54; magazine miniature cover publisher typography/date/verse/footer, outer color/shadow tiles42–46 excluded as separable layout overlays. Financial table is represented as semantic text/table, not an image.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 12,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Volunteers arranging tapes into albums along a long table.",
+                "owning_article_id": "911d7f21-f64f-463f-a9ab-37563b244ba9",
+                "source_object": 58,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/911d7f21-f64f-463f-a9ab-37563b244ba9-3.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Outer page double-rule border and section rules.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 13,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Weekday frame and header banner; no substantive illustration.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 14,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "A man bending forward with his hands on a large stone.",
+                "owning_article_id": "b1291702-c5e1-4fb1-930c-4e876cf7af4c",
+                "source_object": 65,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/b1291702-c5e1-4fb1-930c-4e876cf7af4c-1.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Weekday frame and caption typography (caption retained separately).",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 15,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Title/epigraph gray panel and typography; no substantive illustration.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 16,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Ornamental page frame made of eight raster strips/corners72–79, and gray gradient reading panel are publisher layout and omitted. No underlying illustrative image.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 17,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Shepherd with sheep illustration",
+                "source_object": 83,
+                "owning_article_title": "The Pursuit of God",
+                "disposition": "excluded_with_skipped_article",
+                "reason": "Whole-article exclusion: individual copyright notice falls outside the issue’s stated reprint policy."
+              }
+            ],
+            "layout_dispositions": [
+              "Title panel and shepherd frame belong to the excluded book-review article.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 18,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Pull quote oval, source-book box and rules belong to excluded book review.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 19,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "A church and trees inside a heart split down the middle.",
+                "owning_article_id": "af7e8146-e3f6-4ba8-897d-dc009f17d2a5",
+                "source_object": null,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/af7e8146-e3f6-4ba8-897d-dc009f17d2a5-1.png"
+              }
+            ],
+            "layout_dispositions": [
+              "Church Notice gray reading panel and heading rule excluded from graphic render; warnings heading typography. Four source gray background-knockout patches recolored white to match isolated canvas, preserving vector shape.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 20,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Two robed figures beside a stone well.",
+                "owning_article_id": "f57071e6-963e-4b00-b9fc-227e4f678971",
+                "source_object": 93,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/f57071e6-963e-4b00-b9fc-227e4f678971-1.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Section heading and title typography; rounded original image clip retained.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 21,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Text headings only.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 22,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Text headings and continuation cue only.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 23,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "A man eating at a restaurant table while a waiter stands beside him.",
+                "owning_article_id": "415ec6ff-1544-45ee-abb4-4ec57b7ad385",
+                "source_object": 103,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/415ec6ff-1544-45ee-abb4-4ec57b7ad385-1.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Shadowed article title remains metadata; illustrated window lettering remains intrinsic to source graphic.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 24,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Gray scripture panel is semantic text, not an image.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 25,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Gray scripture panel is semantic text, not an image.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 26,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Gray scripture panel is semantic text, not an image.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 27,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Gray scripture panel is semantic text, not an image.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 28,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "A smiling man seated at a dining table with a knife and fork.",
+                "owning_article_id": "415ec6ff-1544-45ee-abb4-4ec57b7ad385",
+                "source_object": 119,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/415ec6ff-1544-45ee-abb4-4ec57b7ad385-2.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "The End heading and continuation divider are typography/rules.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 29,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Shadowed title/headings only.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 30,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Charity African Missions globe logo.",
+                "owning_article_id": "ea463a08-df2c-4fdf-96c4-5833e4100265",
+                "source_object": 126,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/ea463a08-df2c-4fdf-96c4-5833e4100265-1.png"
+              },
+              {
+                "description": "Nine scattered black seed shapes.",
+                "owning_article_id": "ea463a08-df2c-4fdf-96c4-5833e4100265",
+                "source_object": null,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/ea463a08-df2c-4fdf-96c4-5833e4100265-2.png"
+              },
+              {
+                "description": "Three red-orange round fruits.",
+                "owning_article_id": "ea463a08-df2c-4fdf-96c4-5833e4100265",
+                "source_object": 127,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/ea463a08-df2c-4fdf-96c4-5833e4100265-3.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Title/byline typography separated from logo, nine-seed vector cluster and fruit.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 31,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Repeated fruit illustration, same image content with extra white side padding",
+                "source_object": 170,
+                "owning_article_id": "ea463a08-df2c-4fdf-96c4-5833e4100265",
+                "disposition": "represented_once_as_repeated_image",
+                "canonical_image": "public/images/articles/ea463a08-df2c-4fdf-96c4-5833e4100265-3.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 32,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Repeated fruit illustration, same image content with extra white side padding",
+                "source_object": 170,
+                "owning_article_id": "ea463a08-df2c-4fdf-96c4-5833e4100265",
+                "disposition": "represented_once_as_repeated_image",
+                "canonical_image": "public/images/articles/ea463a08-df2c-4fdf-96c4-5833e4100265-3.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 33,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "Repeated fruit illustration, same image content with extra white side padding",
+                "source_object": 170,
+                "owning_article_id": "ea463a08-df2c-4fdf-96c4-5833e4100265",
+                "disposition": "represented_once_as_repeated_image",
+                "canonical_image": "public/images/articles/ea463a08-df2c-4fdf-96c4-5833e4100265-3.jpg"
+              }
+            ],
+            "layout_dispositions": [
+              "Continuation divider and headings.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 34,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 35,
+            "visual_inspection": "completed",
+            "images": [
+              {
+                "description": "An envelope, a blank card, and a pen.",
+                "owning_article_id": "99dcd51d-1634-41ee-bd63-02deb6e8c9a4",
+                "source_object": 143,
+                "disposition": "exported",
+                "canonical_image": "public/images/articles/99dcd51d-1634-41ee-bd63-02deb6e8c9a4-1.png"
+              }
+            ],
+            "layout_dispositions": [
+              "Introductory gray reading panel and dotted letter separators are layout.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          },
+          {
+            "page": 36,
+            "visual_inspection": "completed",
+            "images": [],
+            "layout_dispositions": [
+              "Dotted letter separators and advertisement/itinerary panel; no substantive image in the excluded itinerary.",
+              "Running page footer/number and ordinary rules excluded as page furniture."
+            ]
+          }
+        ],
+        "image_reconciliation": {
+          "census_method": "Every rendered PDF page visually inspected in numeric order. Visible assets cross-checked against embedded images, vector paths, clipping, transform and paint order. PDF object list used only as aid.",
+          "logical_source_image_occurrences": 27,
+          "canonical_exports": 16,
+          "repeated_occurrences_represented_once": 3,
+          "skipped_article_image_occurrences": 1,
+          "cover_or_contents_image_occurrences": 7
+        },
+        "remaining_uncertainty": "No unresolved source text or article eligibility. Individual image credits and licences are not stated. Original low-resolution images and baked oval portrait vignettes are retained and documented; no hidden pixels are synthesized."
+      }
     }
   ],
   "categories": [
