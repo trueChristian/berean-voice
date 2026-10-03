@@ -94586,6 +94586,899 @@
           "rights_note": "PDF base image object 147; source 503×397 pixels. Published rectangular clipping reproduced by native-pixel crop (0, 1, 502, 396); no rotation or flip. Encoded as baseline RGB/sRGB JPEG with nonzero 72 dpi density; source DeviceGray/CalRGB data required no CMYK inversion. Separately painted poem text, byline, typographic shadow, rectangular frame and surrounding green gradient cover-layout pieces omitted; clean CalRGB base exported. No individual image credit or license is printed; no license is inferred. The issue masthead credits artists Lisa Weaver and Kate Rutler generally without assigning individual works."
         }
       ]
+    },
+    {
+      "id": "93373af1-4771-4489-bcb6-cef136f38b02",
+      "language": "en",
+      "title": "John Paton’s Home Life",
+      "subtitle": null,
+      "section": "Home Histories",
+      "byline": {
+        "raw": "by Denny Kenaston",
+        "authors": [
+          {
+            "name": "Denny Kenaston",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 3,
+        "end": 6
+      },
+      "categories": {
+        "primary": "9514e8ea-e431-5806-a5f3-0953a922c074",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+          "11f3b229-ad6c-5d69-b529-82d977f8d000"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/93373af1-4771-4489-bcb6-cef136f38b02.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Whole article visually inspected through final line and adjacent book-order panel before UUID assignment; no article-specific restriction. Five body subheadings, Banner of Truth Trust italics, source punctuation and apparent source errors preserved, including father lead, focus on a bit on, homelife, and em dash followed by hyphen after saw him on page 6. Page 6 standalone book-order advertisement omitted. No footnotes. One page 3 portrait; pages 4–6 have no article images.",
+        "text_review": "Entire article visually read through its final line before UUID assignment. Manually authored semantic HTML compared against page renders, with PDF text layer used only as reading aid; page 6 unusual dash enlarged to 216 dpi. Only nonsemantic line/column/page wraps and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "sequence": 1,
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/93373af1-4771-4489-bcb6-cef136f38b02-1.jpg",
+          "public_path": "/images/articles/93373af1-4771-4489-bcb6-cef136f38b02-1.jpg",
+          "source_page": 3,
+          "role": "portrait",
+          "alt": "Portrait of John Paton with a long white beard.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 12 exported with the published rectangular clip mapped to nearest native pixel bounds [0, 0, 241, 325]; no rotation or flip. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695"
+    },
+    {
+      "id": "66e2e436-2e02-41ca-8dd3-00e0f9b95aa5",
+      "language": "en",
+      "title": "Offended in Christ",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by T. Austin Sparks",
+        "authors": [
+          {
+            "name": "T. Austin Sparks",
+            "location": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 7,
+        "end": 10
+      },
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/66e2e436-2e02-41ca-8dd3-00e0f9b95aa5.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Whole article visually inspected through final line and publication note before UUID assignment; no article-specific restriction. Page 10 source/editorial note and its accompanying free-booklet address retained. Source hyphen in use-scandalize and re-enforced, question mark after Son of God, capital His witness and lowercase he in why does he not act retained. Page 10 separate signed Prayer s Revealing Challenge is a separate article; cover-art explanatory panel is issue furniture. No footnotes. One page 7 illustration; pages 8–10 have no other article images.",
+        "text_review": "Entire article visually read through its final line before UUID assignment. Manually authored semantic HTML compared against page renders, with PDF text layer used only as reading aid. Only nonsemantic line/column/page wraps and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "sequence": 2,
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/66e2e436-2e02-41ca-8dd3-00e0f9b95aa5-1.jpg",
+          "public_path": "/images/articles/66e2e436-2e02-41ca-8dd3-00e0f9b95aa5-1.jpg",
+          "source_page": 7,
+          "role": "illustration",
+          "alt": "A man standing before a group gathered on stone steps.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 25 exported with the published rectangular clip mapped to nearest native pixel bounds [0, 0, 214, 270]; no rotation or flip. Separately painted white curved reading panel and overlaid article text omitted; the underlying base illustration is retained. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "publication_notes": [
+        "This article was edited and condensed for space and readability. It was drawn from a 25-page booklet titled The Blessedness Of The Unoffended, by T. Austin Sparks."
+      ],
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695"
+    },
+    {
+      "id": "8b96ac01-56b0-4b4e-952d-35a209bdd143",
+      "language": "en",
+      "title": "Prayer s Revealing Challenge",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "–Gerard Du Toit",
+        "authors": [
+          {
+            "name": "Gerard Du Toit",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 10,
+        "end": 10
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/8b96ac01-56b0-4b4e-952d-35a209bdd143.html"
+      },
+      "images": [],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Distinct titled and signed page-10 piece outside the contents listing. Visually verified title prints Prayer s without an apostrophe; retained as printed. One paragraph and concluding author signoff retained. No footnotes or article-owned image; geometric decorative frame omitted. Full text and meaningful punctuation checked against the rendered source.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "The complete source piece contains no article-owned photograph or illustration; geometric frame omitted as layout furniture."
+      },
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 3,
+      "categories": {
+        "primary": "88107a5a-274e-53cd-a586-ff44f4ed67cc",
+        "additional": []
+      }
+    },
+    {
+      "id": "4b43368f-07b3-4ebc-bb27-b73bbd47260e",
+      "language": "en",
+      "title": "Sharpened Words for Little Ones",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "--The Editors",
+        "authors": [
+          {
+            "name": "The Editors",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 11,
+        "end": 12
+      },
+      "categories": {
+        "primary": "400977eb-3421-51cc-992f-b947d2cda0f4",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/4b43368f-07b3-4ebc-bb27-b73bbd47260e.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete italic editorial introduction, plain definition within it, --The Editors sign-off, bold italic blessing and five headed lessons retained. Printed helpers without apostrophe, that is begins, Turn back the text, needs, and the importance being open retained exactly. II Corinthians 10: 5 includes the printed space after the colon. No footnotes or article-specific permission notice.",
+        "text_review": "Entire assigned article visually inspected through its final line before UUID assignment. Manually authored semantic HTML compared with full-page renders; p11–12 and p18–19 details additionally enlarged to 180 dpi. Only nonsemantic print wrapping, running furniture, end ornaments and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/4b43368f-07b3-4ebc-bb27-b73bbd47260e-1.jpg",
+          "public_path": "/images/articles/4b43368f-07b3-4ebc-bb27-b73bbd47260e-1.jpg",
+          "source_page": 11,
+          "role": "portrait",
+          "alt": "A child looking upward with hands held together.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 53 exported at original pixel dimensions and orientation. The feathered oval vignette is irreversibly baked into the sole source RGB raster and is retained as an explicit source limitation; no clean unvignetted source exists in this PDF. Outer PDF ellipse clips only white source margins. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 4
+    },
+    {
+      "id": "46c2ae7f-21b8-4afb-99b1-17433a0e76ba",
+      "language": "en",
+      "title": "Praying “The Lord’s Prayer”",
+      "subtitle": null,
+      "section": "- A Spiritual Exercise -",
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 13,
+        "end": 14
+      },
+      "categories": {
+        "primary": "1706ffa6-a4d1-5e68-af38-d56888d6a2a2",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/46c2ae7f-21b8-4afb-99b1-17433a0e76ba.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Opening paragraphs, all six bold prayer headings, explanatory paragraphs and conclusion retained in column order. Printed It is suppose preserved. No author is stated on the article pages. Kneeling-prayer illustration repeats identically on p14 and is represented once at its first occurrence on p13. No footnotes or article-specific permission notice.",
+        "text_review": "Entire assigned article visually inspected through its final line before UUID assignment. Manually authored semantic HTML compared with full-page renders. Only nonsemantic print wrapping, running furniture, end ornaments and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/46c2ae7f-21b8-4afb-99b1-17433a0e76ba-1.jpg",
+          "public_path": "/images/articles/46c2ae7f-21b8-4afb-99b1-17433a0e76ba-1.jpg",
+          "source_page": 13,
+          "role": "illustration",
+          "alt": "A man kneeling in prayer beside a balcony.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 176 exported with the published rectangular clip mapped to nearest native pixel bounds [0, 0, 187, 287]; no rotation or flip. The identical use of object 176 on page 14 is represented once. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 5
+    },
+    {
+      "id": "359d6b0b-b35f-488b-aaaf-7a320b391501",
+      "language": "en",
+      "title": "Noah and a Father’s Faith",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rick Leibee",
+        "authors": [
+          {
+            "name": "Rick Leibee",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 15,
+        "end": 16
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/359d6b0b-b35f-488b-aaaf-7a320b391501.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article ends on p16; p17 is a separate poem. Italic Hebrews quotation and uppercase emphasis retained. Printed history of world, faith- filled, milktoast and other apparent errors preserved. Illustration repeats identically on p16 and is represented once at p15 opening. No footnotes or article-specific permission notice.",
+        "text_review": "Entire assigned article visually inspected through its final line before UUID assignment. Manually authored semantic HTML compared with full-page renders. Only nonsemantic print wrapping, running furniture, end ornaments and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/359d6b0b-b35f-488b-aaaf-7a320b391501-1.jpg",
+          "public_path": "/images/articles/359d6b0b-b35f-488b-aaaf-7a320b391501-1.jpg",
+          "source_page": 15,
+          "role": "illustration",
+          "alt": "People and animals beside an ark as floodwaters rise.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 177 exported with the published rectangular clip mapped to nearest native pixel bounds [0, 0, 286, 146]; no rotation or flip. The identical use of object 177 on page 16 is represented once. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 6
+    },
+    {
+      "id": "7c8596ad-0884-4b79-ba1f-307dccd6d941",
+      "language": "en",
+      "title": "GOD Give Us Women",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by\nMary Troyer",
+        "authors": [
+          {
+            "name": "Mary Troyer",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 17,
+        "end": 17
+      },
+      "categories": {
+        "primary": "14ce3df8-6bae-5930-b2c4-2ab582ee1ea1",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/7c8596ad-0884-4b79-ba1f-307dccd6d941.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "All seven four-line stanzas retained with meaningful line breaks. Printed title capitalization GOD Give Us Women, mixed plural/singular pronouns, and Godly retained. Decorative title treatment and border omitted from the image. No footnotes or article-specific permission notice.",
+        "text_review": "Entire assigned article visually inspected through its final line before UUID assignment. Manually authored semantic HTML compared with full-page renders. Only nonsemantic print wrapping, running furniture, end ornaments and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7c8596ad-0884-4b79-ba1f-307dccd6d941-1.jpg",
+          "public_path": "/images/articles/7c8596ad-0884-4b79-ba1f-307dccd6d941-1.jpg",
+          "source_page": 17,
+          "role": "illustration",
+          "alt": "A woman wearing a scarf over her head.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 80 exported with the published rectangular clip mapped to nearest native pixel bounds [0, 1, 172, 216]; no rotation or flip. Separate poem typography and decorative page frame omitted. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 7
+    },
+    {
+      "id": "a8eea236-e8ed-454b-8769-46f870006ba4",
+      "language": "en",
+      "title": "The Release of the Spirit",
+      "subtitle": null,
+      "section": "Book Review",
+      "byline": {
+        "raw": "by Andrew Weaver",
+        "authors": [
+          {
+            "name": "Andrew Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 18,
+        "end": 19
+      },
+      "categories": {
+        "primary": "69c79b4c-4584-59d0-8d07-a27005d6f940",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/a8eea236-e8ed-454b-8769-46f870006ba4.html"
+      },
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete review with four italic book extracts, bold spirit/soul/body and target emphasis, italic book titles and I pray God retained. Continuation of the long quotation joins pp18–19. Printed ellipses, judgement, purpose- and other spaced hyphen punctuation retained. Integral closing book-availability sidebar and complete publisher address retained. No footnotes or article-specific permission notice.",
+        "text_review": "Entire assigned article visually inspected through its final line before UUID assignment. Manually authored semantic HTML compared with full-page renders; p11–12 and p18–19 details additionally enlarged to 180 dpi. Only nonsemantic print wrapping, running furniture, end ornaments and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/a8eea236-e8ed-454b-8769-46f870006ba4-1.png",
+          "public_path": "/images/articles/a8eea236-e8ed-454b-8769-46f870006ba4-1.png",
+          "source_page": 18,
+          "role": "illustration",
+          "alt": "A bird flying away from an open cage.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 84 exported at original pixel dimensions and orientation. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "publication_notes": [
+        "The reviewed book is credited “by Watchman Nee” beneath its title; the review itself is credited “by Andrew Weaver” in the Book Review heading."
+      ],
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 8
+    },
+    {
+      "id": "6211f468-cc67-4ae6-9f85-95327e088653",
+      "language": "en",
+      "title": "Only God",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Charles & Crystal Taylor",
+        "authors": [
+          {
+            "name": "Charles Taylor",
+            "location": null,
+            "role": null
+          },
+          {
+            "name": "Crystal Taylor",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 20,
+        "end": 23,
+        "pages": [
+          20,
+          21,
+          23
+        ]
+      },
+      "categories": {
+        "primary": "14be14fb-c6ac-5ea1-bfb5-f899109c5ca9",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/6211f468-cc67-4ae6-9f85-95327e088653.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/6211f468-cc67-4ae6-9f85-95327e088653-1.png",
+          "public_path": "/images/articles/6211f468-cc67-4ae6-9f85-95327e088653-1.png",
+          "source_page": 20,
+          "role": "photograph",
+          "alt": "Seven family members posed together.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 91 rendered through the exact published rounded clipping path at native 285 by 206 pixel dimensions; white outside the published clip. No rotation, flip, retouch, or generated pixels. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Both Part 1 and Part 2 retained together; the latter continues on page 23 beneath The Blessing of Authority. The opening byline and final sign-off read Charles & Crystal Taylor, while the page 23 continuation header reads Charles & Christine Taylor; the byline and body sign-off retain Crystal and the discrepancy is recorded here without correction. Source readings including We continue, would not have too, When we arrived at, and $10,000 fund scholarship are retained. Standalone boxed Psalm 55:22 on page 23 is omitted as untitled decorative scripture filler. No footnotes or article-specific restriction.",
+        "text_review": "Entire article visually read through its final line before UUID assignment. Manually authored semantic HTML checked against all assigned full-page source renders; wording, punctuation, paragraphs, reading order and meaningful formatting retained. Only nonsemantic print line/column/page wraps and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 9
+    },
+    {
+      "id": "45c0d16b-fdfd-40d4-acfb-8361b478b0c3",
+      "language": "en",
+      "title": "The Blessing of Authority",
+      "subtitle": null,
+      "section": "The Blessing Corner",
+      "byline": {
+        "raw": "by Andrew & Elisabeth Weaver",
+        "authors": [
+          {
+            "name": "Andrew Weaver",
+            "location": null,
+            "role": null
+          },
+          {
+            "name": "Elisabeth Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 22,
+        "end": 23
+      },
+      "categories": {
+        "primary": "1c75ca28-4f99-5339-b594-085359f81d18",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/45c0d16b-fdfd-40d4-acfb-8361b478b0c3.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/45c0d16b-fdfd-40d4-acfb-8361b478b0c3-1.jpg",
+          "public_path": "/images/articles/45c0d16b-fdfd-40d4-acfb-8361b478b0c3-1.jpg",
+          "source_page": 22,
+          "role": "portrait",
+          "alt": "Andrew and Elisabeth Weaver seated together.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 98 exported with the published rectangular clip mapped to nearest native pixel bounds [0, 1, 169, 234]; no rotation or flip. Separate gray title panel, rules and surrounding frame omitted. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete article occupies page 22 and the upper part of page 23. Source punctuation authority- when retained. No footnotes or article-specific restriction.",
+        "text_review": "Entire article visually read through its final line before UUID assignment. Manually authored semantic HTML checked against all assigned full-page source renders; wording, punctuation, paragraphs, reading order and meaningful formatting retained. Only nonsemantic print line/column/page wraps and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 10
+    },
+    {
+      "id": "fde4d5ac-f94e-4c2f-a84b-4cce243a0022",
+      "language": "en",
+      "title": "The SPIRIT of the HOME",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Rachel Weaver",
+        "authors": [
+          {
+            "name": "Rachel Weaver",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 24,
+        "end": 27
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca",
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/fde4d5ac-f94e-4c2f-a84b-4cce243a0022.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/fde4d5ac-f94e-4c2f-a84b-4cce243a0022-1.png",
+          "public_path": "/images/articles/fde4d5ac-f94e-4c2f-a84b-4cce243a0022-1.png",
+          "source_page": 24,
+          "role": "illustration",
+          "alt": "A snow-covered house among trees, with two white birds in flight.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original PDF image object 119 and its two overpainted vector birds rendered together at 300 dpi from the exact published image rectangle. Raw base raster, vector paths, clipping, paint order, and graphics state inspected: the birds are substantive illustration constituents, not publisher layout overlays; no typography, panels, or page furniture intersects this region. The black arched outline is intrinsic to the base raster. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Five subsection headings retained. Source italics being and doing retained. Source readings so wide and lasting effect, Savior/Saviour, said,”he hath, helping, me focus, husband— ”to harmonize, and all bent our of shape retained without correction. The quoted lyric within prose follows printed paragraph structure rather than adding unprinted stanza breaks. No footnotes or article-specific restriction.",
+        "text_review": "Entire article visually read through its final line before UUID assignment. Manually authored semantic HTML checked against all assigned full-page source renders; wording, punctuation, paragraphs, reading order and meaningful formatting retained. Only nonsemantic print line/column/page wraps and discretionary line-end hyphens normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      },
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 11
+    },
+    {
+      "id": "e2717533-f2de-48a9-94a8-feee73a69a6f",
+      "language": "en",
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 12,
+      "title": "Painful Realities of Missionary Life",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": "by Harold Herr",
+        "authors": [
+          {
+            "name": "Harold Herr",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 28,
+        "end": 30
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/e2717533-f2de-48a9-94a8-feee73a69a6f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/e2717533-f2de-48a9-94a8-feee73a69a6f-1.jpg",
+          "public_path": "/images/articles/e2717533-f2de-48a9-94a8-feee73a69a6f-1.jpg",
+          "source_page": 28,
+          "role": "logo",
+          "alt": "Christ to Haiti Ministries logo.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 132 exported at original pixel dimensions and orientation. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/e2717533-f2de-48a9-94a8-feee73a69a6f-2.png",
+          "public_path": "/images/articles/e2717533-f2de-48a9-94a8-feee73a69a6f-2.png",
+          "source_page": 28,
+          "role": "portrait",
+          "alt": "Portrait of Harold Herr.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 133 rendered through the exact published oval clipping path at native 179 by 245 pixel dimensions; white outside the published clip. No rotation, flip, retouch, or generated pixels. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Three-column reading order and page-spanning paragraphs joined. Introductory four-line verse, italic addition, E. Harold Herr sign-off and concluding six-line mission poem preserved. The source visibly prints Lords without an apostrophe, T-Guoave, want me go back and Wherever you ripe fields behold; these source forms remain unchanged. No footnotes or article-specific reuse restriction.",
+        "text_review": "Entire article inspected visually through its final line before UUID assignment. AI-authored semantic HTML compared with each rendered page; doubtful source forms checked at 216 dpi. Only print line/column/page wraps, discretionary line-end hyphens and layout furniture normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      }
+    },
+    {
+      "id": "1fb1624e-5fee-4f45-9bb9-73728210ff1f",
+      "language": "en",
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 13,
+      "title": "THE YEAR 2000:",
+      "subtitle": "Gifts of Courage, Confirmations, and Concealed Glimpses of the Victory Ahead!",
+      "section": null,
+      "byline": {
+        "raw": "by Daniel Kenaston",
+        "authors": [
+          {
+            "name": "Daniel Kenaston",
+            "location": null,
+            "role": null
+          }
+        ]
+      },
+      "source_pages": {
+        "start": 31,
+        "end": 34
+      },
+      "categories": {
+        "primary": "11f3b229-ad6c-5d69-b529-82d977f8d000",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/1fb1624e-5fee-4f45-9bb9-73728210ff1f.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/1fb1624e-5fee-4f45-9bb9-73728210ff1f-1.png",
+          "public_path": "/images/articles/1fb1624e-5fee-4f45-9bb9-73728210ff1f-1.png",
+          "source_page": 31,
+          "role": "logo",
+          "alt": "Charity African Missions logo.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Original one-bit image-mask object 144 rendered with original PDF stencil semantics and dark CalRGB paint at its native 335 by 241 pixel dimensions (approximately 300 dpi). The inverted raw mask is not used as a visible raster. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        },
+        {
+          "sequence": 2,
+          "repository_path": "public/images/articles/1fb1624e-5fee-4f45-9bb9-73728210ff1f-2.jpg",
+          "public_path": "/images/articles/1fb1624e-5fee-4f45-9bb9-73728210ff1f-2.jpg",
+          "source_page": 31,
+          "role": "illustration",
+          "alt": "A man kneeling beside a fleece spread on the ground.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 143 exported with the published rectangular clip mapped to nearest native pixel bounds [0, 0, 134, 176]; no rotation or flip. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete four-page mission report with three internal headings, italic scripture quotations, concluding hymn and family sign-off. Preserve source forms him?;, about?., Have I been sent?, lightening, bible, alter, what an marvelous, him in How we thank him, fulfil and fulfillment; no editorial corrections. The four printed dots after Israel are encoded as a period plus ellipsis in the source; after trumpet and strengthened they are four periods. No footnotes or article-specific reuse restriction.",
+        "text_review": "Entire article inspected visually through its final line before UUID assignment. AI-authored semantic HTML compared with each rendered page; doubtful source forms checked at 216 dpi. Only print line/column/page wraps, discretionary line-end hyphens and layout furniture normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      }
+    },
+    {
+      "id": "7916b487-3146-40ee-8c65-fd6866726fe9",
+      "language": "en",
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 14,
+      "title": "Precious Letters from Our Readers",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": []
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/7916b487-3146-40ee-8c65-fd6866726fe9.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/7916b487-3146-40ee-8c65-fd6866726fe9-1.jpg",
+          "public_path": "/images/articles/7916b487-3146-40ee-8c65-fd6866726fe9-1.jpg",
+          "source_page": 35,
+          "role": "illustration",
+          "alt": "Envelopes and a sheet of writing paper.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 157 exported at original pixel dimensions and orientation. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Editorial invitation and all five prompts retained as a semantic list, followed by all three readers’ letters in column order. Salutations, publication/article-title italics and sign-offs preserved: Don & Karin Litchfield / Kokomo, IN; Stephen & Laurie Stamper / North East, MD; Linda Weaver / Clark Range, TN. Pencil and sled glyphs, snowflakes, gray introduction panel and repeated snowflake/sled separators are decorative layout furniture; envelope illustration exported. No footnotes or article-specific reuse restriction.",
+        "text_review": "Entire article inspected visually through its final line before UUID assignment. AI-authored semantic HTML compared with each rendered page; doubtful source forms checked at 216 dpi. Only print line/column/page wraps, discretionary line-end hyphens and layout furniture normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      }
+    },
+    {
+      "id": "68c1cbf8-0f14-4f6d-b03b-248e330b2170",
+      "language": "en",
+      "issue_id": "1b71c997-6dfc-4be4-a75f-e14cb1034695",
+      "sequence": 15,
+      "title": "Guarding the Spirit of Your Home",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 36,
+        "end": 36
+      },
+      "categories": {
+        "primary": "2929e2be-19ce-58e2-97aa-0ab40108e60a",
+        "additional": [
+          "917c7782-d876-59a2-9959-e33a50d14cca"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/68c1cbf8-0f14-4f6d-b03b-248e330b2170.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/68c1cbf8-0f14-4f6d-b03b-248e330b2170-1.jpg",
+          "public_path": "/images/articles/68c1cbf8-0f14-4f6d-b03b-248e330b2170-1.jpg",
+          "source_page": 36,
+          "role": "background",
+          "alt": "A bird silhouetted against the sun above the sea.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "Clean base PDF image object 162 exported with the published rectangular clip mapped to nearest native pixel bounds [0, 1, 502, 387]; no rotation or flip. Separate colored article typography omitted; the light and haze are intrinsic to the source photograph. JPEG container normalized to baseline sRGB with nonzero 72 dpi density; no CMYK conversion or sample inversion was needed. No individual image credit or license is printed; the masthead names artists Lisa Weaver and Kate Rutler without identifying their individual works."
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Substantive titled back-cover meditation included; mailing panel excluded. Printed lineation and bold emphasis retained. The gold two-line passage If you do this, you are a hypocrite, / you chase away the Spirit from your home. is absent from the PDF text layer and was transcribed visually. The printed final wording what ever, judgement and differing husbands’/husband’s forms preserved. No author, footnotes or article-specific reuse restriction.",
+        "text_review": "Entire article inspected visually through its final line before UUID assignment. AI-authored semantic HTML compared with each rendered page; doubtful source forms checked at 216 dpi. Only print line/column/page wraps, discretionary line-end hyphens and layout furniture normalized.",
+        "independent_text_review": "Complete transcription and meaningful formatting independently compared with every source page by a second AI reader; no unresolved readings remain.",
+        "image_review": "Final assets visually compared with source pages and raw PDF objects; complete Pillow, MuPDF and ImageMagick decoding and browser-compatible Skia rendering passed. Image census, canonical ownership, HTML references, published crop and overlay audit reconciled. Source transformations and unavoidable source appearances are documented per image.",
+        "independent_image_review": "Every final image independently opened and compared with its rendered source page, raw base-object evidence and published crop by a second AI reader; all 36 census pages reconciled and no removable overlay or unresolved finding remained."
+      }
     }
   ],
   "skipped": [
