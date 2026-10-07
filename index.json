@@ -51779,30 +51779,7 @@
       "html": {
         "repository_path": "content/articles/94dd443b-18d7-49fc-81f5-15b359bc6427.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/94dd443b-18d7-49fc-81f5-15b359bc6427-1.jpg",
-          "public_path": "/images/articles/94dd443b-18d7-49fc-81f5-15b359bc6427-1.jpg",
-          "source_page": 30,
-          "role": "illustrated poem background",
-          "alt": "First page of The Modest Dress over a faded garden photograph",
-          "caption": null,
-          "credit": null,
-          "rights_note": "Original embedded PDF image object xref 118. No separate image-specific permission notice is printed. The issue masthead credits “Some images © 2001-2007 clipart.com / photos.com” without identifying which assets; no individual licence is inferred. Explicit unavoidable-overlay exception: the title/poem typography, reading fade and background treatment are irreversibly baked into this sole source raster. No clean base image or useful unobstructed complete illustration can be recovered. The exact source raster composition is retained; no pixels are synthesized. Grayscale/RGB source encoded as baseline RGB/sRGB JPEG at 72 dpi for browser compatibility; orientation and useful resolution retained."
-        },
-        {
-          "sequence": 2,
-          "repository_path": "public/images/articles/94dd443b-18d7-49fc-81f5-15b359bc6427-2.jpg",
-          "public_path": "/images/articles/94dd443b-18d7-49fc-81f5-15b359bc6427-2.jpg",
-          "source_page": 31,
-          "role": "illustrated poem background",
-          "alt": "Second page of The Modest Dress over a different garden photograph crop",
-          "caption": null,
-          "credit": null,
-          "rights_note": "Original embedded PDF image object xref 122. No separate image-specific permission notice is printed. The issue masthead credits “Some images © 2001-2007 clipart.com / photos.com” without identifying which assets; no individual licence is inferred. Explicit unavoidable-overlay exception: the title/poem typography, reading fade and background treatment are irreversibly baked into this sole source raster. No clean base image or useful unobstructed complete illustration can be recovered. The exact source raster composition is retained; no pixels are synthesized. Grayscale/RGB source encoded as baseline RGB/sRGB JPEG at 72 dpi for browser compatibility; orientation and useful resolution retained."
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -51811,8 +51788,8 @@
         "text_against_pdf": "@politimo",
         "formatting_against_pdf": "@politimo",
         "images_against_pdf": "@politimo",
-        "inventory_note": "Both distinct printed background crops are represented once. Source-object and content-stream inspection found the poem, introductory notes, tonal fades and panels irreversibly baked into the only two rasters; there is no recoverable clean base. Full original rasters are retained under the unavoidable-overlay exception. Exact text is also provided semantically with the sixteen four-line stanzas, editor note and submitted note. The printed “s few months ago” is retained.",
-        "image_encoding_note": "Every final image was visually compared with the source. Pillow and FFmpeg fully decoded all 29 exports without warnings. All JPEGs are baseline RGB/sRGB with nonzero 72 dpi density. Chromium loaded and rendered every final image successfully."
+        "inventory_note": "Two printed background rasters contain the poem, introductory notes, tonal fades and panels irreversibly baked into the images; the original extraction found no recoverable clean base. At the owner’s request, both image exports and their index records were removed to match the text-only article HTML. Exact text remains provided semantically with the sixteen four-line stanzas, editor note and submitted note. The printed “s few months ago” is retained.",
+        "image_encoding_note": "No image exports are retained for this article following the owner-authorized removal."
       },
       "language": "en"
     },
