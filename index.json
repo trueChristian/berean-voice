@@ -55443,6 +55443,7 @@
       "html": {
         "repository_path": "content/articles/afc5e691-313e-46f5-9646-1d685351d3cb.html"
       },
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -55451,8 +55452,8 @@
         "text_against_pdf": "@malachivdm",
         "formatting_against_pdf": "@malachivdm",
         "images_against_pdf": "@malachivdm",
-        "inventory_note": "Both raster-only poem pages visually transcribed in full: 19 three-line stanzas. Printed “forsake” and “th.y” retained. Byline and age preserved as metadata. Both distinct original background panels retained under the unavoidable baked-overlay exception.",
-        "image_encoding_note": "Every final asset visually inspected against the rendered PDF and source image object at useful resolution. All assets fully decoded without warnings in Pillow and FFmpeg and loaded, decoded and rasterized in Chromium 153.0.8010.0. All JPEGs are baseline RGB/sRGB with nonzero 72 dpi density; no CMYK source or inversion. Crops and unavoidable baked treatments documented per image. Image order and ownership reconcile with the 36-page visual census."
+        "inventory_note": "Both raster-only poem pages visually transcribed in full: 19 three-line stanzas. Printed “forsake” and “th.y” retained. Byline and age preserved as metadata. Both background-panel images were removed during human review; the complete poem remains as semantic HTML with no image exports.",
+        "image_encoding_note": "No image exports are retained for this article following human review."
       },
       "language": "en"
     },
