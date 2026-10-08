@@ -57216,8 +57216,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57259,8 +57259,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57302,8 +57302,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57345,8 +57345,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57388,8 +57388,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57431,8 +57431,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57474,8 +57474,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57517,8 +57517,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57534,9 +57534,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete article visually rechecked on printed pages 3–7, including final line and all eight images; no byline or article-specific reuse restriction. Page-3 bold pull quote duplicates the body and is represented once there. Source spellings Mathilde/Mathilda, Anno ja Rauha, When ever, asphalteur, But L-, and the unusual comma in Farewell, thou dearest, daughter are retained. Nonsemantic column/page wraps joined, running furniture and terminal ornament omitted. Italic charisma, page-6 italic sentence, bold Acts quotation, and italic Anno ja Rauha, retained. All eight visible images are mapped in reading order to canonical HTML references.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -57607,8 +57607,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57624,9 +57624,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Entire article pp8–9 visually read and compared with completed HTML, including a 216-dpi recheck of text, bold numbered headings, paragraph structure, spelling and punctuation. No article-specific reuse notice. Page-9 pull quote repeats the numbered point-8 body and is represented only once. Source spellings Issac’s and devils are retained. The full-height gray background strip is publisher layout furniture.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -57705,8 +57705,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57748,8 +57748,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57791,8 +57791,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57834,8 +57834,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57851,9 +57851,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Entire article pp10–14 and p17 visually read and compared with completed HTML, including a 216-dpi column-by-column recheck. No article-specific reuse notice in text or associated graphics. Page-11, page-12 and page-14 pull quotes repeat body and are represented once. The p10 stop-sign shape is a publisher title panel; its printed singular uppercase subtitle CHRISTIAN BEWARE! is preserved in metadata, although the p17 continuation heading uses Christians Beware! The p17 continuation label is print furniture. Apparent source wording and errors, including hear form, C.S.Lewis, for the a, and the printed scripture references, remain unchanged. Intrinsic plaque and magazine-cover lettering stay in their image assets.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -57924,8 +57924,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57967,8 +57967,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -57984,9 +57984,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Entire p15 article visually read and compared with completed HTML at 216 dpi. No article-specific reuse notice. Preserved the missing period after self-abandonment, the printed He doesn’t asks wording, and the double apostrophe in brother’’ anger. Both illustrations are placed in reading order; gray title background and final square end ornament are publisher furniture.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -58058,8 +58058,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58075,9 +58075,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Visually checked pages 16–17. The source wording “out lives”, the distinct spellings “colors” and “colours”, and the ending poem with its italic and bold emphasis are retained.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -58166,8 +58166,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58209,8 +58209,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58226,9 +58226,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Visually checked pages 18–19, preserving printed apparent errors including “form the heart”, “though Christ Jesus”, “fellowship it with”, “on of the deepest”, “The first need emphasis”, and “work ‘prayer’”. The Dryden quotation retains its seven printed lines.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -58299,9 +58299,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Visually checked pages 20–23 and the continuation on page 35. All numbered divisions, selective bold emphasis, and closing scripture are retained. Source references, including “Psalm 136:3”, and reversed opening quotation marks before “Let” and “It” on page 22 remain as printed. No source images belong to this article.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -58392,8 +58392,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58435,8 +58435,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58478,8 +58478,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58495,9 +58495,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Entire article on pages 24–29 visually read and rechecked against manually authored HTML. Six subheadings, paragraph boundaries, quoted passages and apparent source errors retained, including incomplete quotations, “first of all to”, “2. Tim. 1:12”, “Psalm 121:3~5”, “members:”On”, and “How many of you will you”. The repeated text pull quotes on pages 25 and 28 are represented once by their existing body passages; neither is a separate image. Three illustrations have no printed captions or image-specific credits. The illustration on page 24 contains intrinsic initials “WS”.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -58568,8 +58568,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58585,9 +58585,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete article on pages 30 and 32 visually read and rechecked, including all three subheadings and the individually italicized words and quotations. The page-30 pointer says “continued on page 22”, and the page-32 continuation says “continued from page 20, A Promise for Service”; both are erroneous printed navigation furniture. Actual continuity is established by “the message is mere” (page 30) → “clatter.” (page 32), followed through the closing line. Ordered source pages are [30,32]. Source errors “everything we do, need”, “electronic battery”, and “work though you” retained. One telegraph-key illustration; no printed caption or credit. Visible uppercase title and three headings retained despite the PDF text layer’s mixed-case values.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -58655,8 +58655,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58698,8 +58698,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58715,9 +58715,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Entire story visually transcribed and rechecked through the final line on pages 31–32. Its adjoining bold Proverbs 3:5-6 passage is included with the printed six-line structure and separate reference. Page-break sentence joined without alteration; printed question punctuation “you?”, retained. The lower-right Promise for Service continuation on page 32 belongs to its separate article. No restriction notice.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -58784,8 +58784,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58801,9 +58801,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Entire bold editorial invitation over the mailbox picture and both letters visually transcribed and rechecked in column order, including sign-offs From an email and Colorado. Paragraph structure and italic introductory line/sign-offs preserved; decorative square separator represented by a semantic rule. Printed “grocery story”, “I could think”, “contribute”, “1Corinthians”, “5-1/2”, and 1900’s retained exactly. The Soul Idolatry continuation below on page 35 belongs to its separate article. No restriction notice.",
         "image_encoding_note": "All 26 final JPEGs were opened at full useful resolution, compared with PDF page renders and raw source objects, and audited at centre/edges/corners for overlay remnants. Image dictionaries, resources, clipping paths and paint order showed no separate image masks or transparency groups. Published clipping is preserved; page34 uses a useful clean mailbox crop and page36 retains its unavoidable baked poem while omitting separate mailing furniture. Complete Pillow and independent FFmpeg raster decodes passed without corrupt-stream/truncation warnings. ImageMagick confirms baseline sRGB JPEGs with nonzero density. Skia Canvas (@napi-rs/canvas) decoded and painted every JPEG; its rendered rasters agree with Pillow, and the page36 colour render was visually checked. No CMYK assets or sample inversion required. Every content page 3–36 was visually censused; 26 distinct logical article images are exported once. Intrinsic small artist signatures are preserved without guessing names."
       },
@@ -58848,9 +58848,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Original extraction inventory (historical): Substantive titled and signed back-cover poem fully transcribed from the source raster and visually rechecked at high resolution. Four five-line stanzas and bold text preserved. Printed apparent errors “feign”, “The share”, “Who’s lives”, “o’re”, and “‘till” deliberately retained. The author’s name is Katharine A. Hodge. Separately painted mailing/postage matter excluded. No restriction notice. Owner-requested update: The sole image export and its index entry have been removed. The existing four-stanza poem HTML is unchanged and has no image references.",
         "image_encoding_note": "No image exports are retained for this article following the owner-requested removal."
       },
