@@ -58922,8 +58922,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -58966,8 +58966,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59010,8 +59010,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59027,9 +59027,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Entire four-page article visually transcribed and rechecked at higher resolution, including continuation across both page and column breaks. Opening transcription provenance note and italic formatting retained in body. Descending numbered list, bullet lists, and superscript ordinal preserved. Page 5 and 6 pull quotes repeat body text and are represented only in the body. Apparent source errors “I was use”, “whole county”, “it’s dominion”, “leaders resolve”, and “this in an earthly” deliberately preserved. No article-specific reuse restriction in text or four-page image context. Subtitle preserved as the printed capital glyphs “A SPIRITUAL DEFENSE CONDITION”; the initial letters are 18-point and remaining capitals 13.5-point (small-cap typography).",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -59106,8 +59106,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59123,9 +59123,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Entire page visually transcribed and rechecked at higher resolution. Four paragraphs retained. Underlining on “principles” and bold emphasis on “black?” retained. Gray title panel and typographic title color treatments are page layout, not separate images. No article-specific reuse restriction.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -59199,8 +59199,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59243,8 +59243,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59287,8 +59287,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59304,9 +59304,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Visually compared complete text, source paragraphs, headings, scripture quotation italics, bracketed explanatory text and opening scripture lineation across all five printed pages, including higher-resolution review. No article-specific permission wording. Contents lists “JESUS, OUR SCAPEGOATE”; the article heading is “JESUS” with subtitle “Our Scapegoat”, used as authoritative metadata. Deliberately retained apparent source errors and irregular punctuation: “bulls-eye”, no period after “against God” on page 10, unclosed quotation before “ungodly deeds already committed)” on page 10, unclosed quotation after the question ending “fulfilled both?” on page 11, “thing- that is,” across pages 11–12, “whosever will” on page 12, and “What a savior!!”. End-of-article square and other page furniture omitted.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -59348,9 +59348,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Complete page visually read and rechecked at higher resolution. Bold introductory paragraph followed by all 22 unnumbered question paragraphs, preserving printed wording, punctuation and compound hyphens. Source introduction attributes the daily questions to the members of John Wesley’s Holy Club; there is no byline, so no author identity is inferred. Contents label “SELF EXAMINATION TEST” differs from the authoritative article heading “A Self-Examination Test”. Gray panel and vertical gray title bar are separable layout treatments, not article images. No reuse restriction or associated image.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -59438,8 +59438,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59482,8 +59482,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59526,8 +59526,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59570,8 +59570,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59614,8 +59614,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59631,9 +59631,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Article visually read and fully self-reviewed on printed pages 14–19 and its nonconsecutive continuation on page 22, through the final line. No article-specific permission notice or separate image credit appears. PD and Eileen subsection headings retained. The repeated decorative pull quotes on pages 15, 17 and 18 contain only excerpts from the body and are represented once in body text. Running headers, footers, page numbers, continuation pointers and final ornament omitted. Source wording including “I was to young” and “as we begin our courtship” is preserved. Title and full byline are printed within image object 54 and were visually transcribed. No series or part information is printed.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -59679,8 +59679,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59723,8 +59723,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59767,8 +59767,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59815,9 +59815,9 @@
         "repository_path": "content/articles/47d57f17-be5e-4fb0-913c-530c7fc05aa1.html"
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Full article on printed pages 20–22 visually read and self-reviewed against rendered pages at high resolution. Seven-item numbered list and all body italics preserved. Apparent source errors retained: capital “If”, “is another circle”, “one is out of state license plate!”, doubled “God God”, the missing closing quote in 2Co 1:12, “evil.(1Th 5:22)” and the space in “(Mt 23:12 )”. The decorative page 21 pull quote repeats the body and is represented once through the body text. Paragraphs split by columns/pages were rejoined; discretionary hyphens and article-end square furniture omitted. Three distinct associated images identified; no printed captions or separate credits. Complete article inspected through final line; no article-specific restriction notice. Courtship continuation below on page 22 belongs to another article.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       }
@@ -59861,8 +59861,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59905,8 +59905,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -59953,9 +59953,9 @@
         "repository_path": "content/articles/ff94b6a8-a88a-4175-bfe2-8bbe45d2d49c.html"
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Full article on printed pages 23–24 visually read and self-reviewed against rendered pages at high resolution. Heading subtitle is metadata, with “Originally:” roman and the original title italic in print. The decorative page 23 pull quote repeats page 24 body and is represented once through body text. Source space after the opening quotation mark in “ I have no money” retained. Paragraphs split by columns/pages were rejoined; discretionary hyphens and article-end square furniture omitted. Two associated images identified; no printed captions or separate credits. Page 24 illustration has a small intrinsic artist signature, which must remain in the image; no name guessed. Complete article inspected through final line; no article-specific restriction notice.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       }
@@ -60028,8 +60028,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60072,8 +60072,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60116,8 +60116,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60160,8 +60160,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60204,8 +60204,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60221,9 +60221,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "All six complete pages and larger column renders visually read through the final line and compared with HTML. Paragraphs and italic scripture quotations retained, including source superscript in 18th and the isolated italic 9 in 1Pet 1:9. Apparent source errors and unusual references are retained, including partitions, fake hope, have fell, Luabbert Gerritsz versus Lubbert Gerritsz, ones life, his heal, Heb 14, 1Pet 1:9, the double opening parenthesis before Jn 12:31, Rom 3:9 and 19:23, beleiveth, and Jesus death. Five decorative pull quotes repeat body words and are omitted. The final hollow-square end mark and running footer are magazine furniture. No article-specific restriction detected anywhere in the article or its illustrations. The date (1624) is preserved in the raw byline without inferring life dates.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -60296,8 +60296,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60340,8 +60340,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60357,9 +60357,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Complete article on pages 31–32 read visually and manually transcribed, then rechecked at higher resolution through its final sentence. Paragraphs, source spellings, and apparent errors retained, including capital Wary, during those 30 years; guided, speaking driver, the reversed opening quote in —”Fairest Lord Jesus”, and Jesus!’, Then. The sentence crossing pages 31–32 is joined. The square end ornament is omitted as magazine furniture. Two associated images, no printed captions or separate credits; small intrinsic artist lettering in the page-31 illustration should be preserved without inferring a name. Whole-article rights check passed.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -60436,8 +60436,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60480,8 +60480,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60524,8 +60524,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60541,9 +60541,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Complete signed ministry update on pages 33 and 35 visually read and manually transcribed, then rechecked at higher resolution. Continuation sentence tape players in them is joined across nonconsecutive pages. The financial table and adjacent appeal are a sidebar on page 33 and are transcribed semantically after the complete flowing report; every label, amount, bold total, and italic Difference retained. Source fulltime and part-time spellings, --The Tape Ministry italic sign-off, and underlined website text preserved. The URL is printed but has no PDF link annotation, so it is underlined semantic text without an added hyperlink. Three header raster identity graphics are associated with the report. Separately painted publication masthead is general magazine furniture. Whole-article rights check passed.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -60612,8 +60612,8 @@
             "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
           },
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@politimo",
+            "overlay_audit": "@politimo",
             "color_space": "sRGB",
             "complete_decoders": [
               "Pillow",
@@ -60629,9 +60629,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Entire introduction, editorial exchange, both reader letters and final editorial reply on pages 34–35 visually read and manually transcribed, then rechecked at higher resolution in column order. Source paragraph boundaries, bold introduction/labels, italic scripture passages beginning words in the Revelation introduction, and Ephrata, PA / London, England sign-offs retained. Apparent source errors retained, including Editors note, issue A few, teaching diminishing, saved than, easy believeism, husband- whether, lowercase lord, repeated its, the reversed quote after My journey to non resistance, and head covering , its. Decorative floral separator lines between exchanges are represented by semantic rules; the final end ornament is omitted. The report continuation at the bottom of page 35 belongs to the separate report article. Whole-article rights check passed.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
@@ -60670,60 +60670,15 @@
       "html": {
         "repository_path": "content/articles/c5c62fa7-3024-4d4c-9aa9-de190736188c.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/c5c62fa7-3024-4d4c-9aa9-de190736188c-1.jpg",
-          "public_path": "/images/articles/c5c62fa7-3024-4d4c-9aa9-de190736188c-1.jpg",
-          "source_page": 36,
-          "role": "poem background photograph",
-          "alt": "Sunlight shines through dark clouds, with the poem printed over the sky",
-          "caption": null,
-          "credit": null,
-          "rights_note": "Original embedded image object 140 on printed page 36. No separate image credit or image-specific permission requirement is printed. The poem, title and byline are irreversibly baked into the only cloud photograph. They are retained as an explicit unavoidable-overlay exception to preserve the full useful cloud composition; the poem is also transcribed into semantic HTML. The separately painted mailing panel, address, publication masthead and postage box are omitted. Page-edge bleed is cropped to the published page. No concealed pixels were reconstructed. Separately painted page typography, panels, rules, running headers/footers and repeated pull quotes are omitted. Source image dictionaries, resources, paint order and clipping were inspected: no image soft mask, opacity blend or transparency group. Converted from source ICC RGB to baseline sRGB JPEG with embedded sRGB profile and nonzero 300 dpi density; no CMYK inversion. No material retouching or synthetic content. Complete Pillow and FFmpeg decodes, ImageMagick colour/container checks and Skia Canvas rendering passed.",
-          "transformation": {
-            "source_object": 140,
-            "source_dimensions": [
-              1350,
-              1727
-            ],
-            "crop_pixels": [
-              38,
-              38,
-              1313,
-              1688
-            ],
-            "output_dimensions": [
-              1275,
-              1650
-            ],
-            "method": "original embedded image; source-pixel crop",
-            "rotation_degrees": 0,
-            "flip": null,
-            "color_encoding": "sRGB",
-            "jpeg_encoding": "baseline; quality 95; 4:4:4; 300 dpi"
-          },
-          "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
-            "color_space": "sRGB",
-            "complete_decoders": [
-              "Pillow",
-              "FFmpeg"
-            ],
-            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas)",
-            "container": "baseline JPEG; nonzero density; terminal EOI; no trailing data"
-          }
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@politimo",
+        "formatting_against_pdf": "@politimo",
+        "images_against_pdf": "@politimo",
         "inventory_note": "Substantive titled and signed back-cover poem fully transcribed visually from the raster (poem text is absent from the PDF text layer), then rechecked at higher resolution. Two eight-line stanzas, every punctuation mark, and bold italic formatting preserved. Raw byline is ~Augustus M. Toplady. Cloud photograph is sole raster object 140 with irreversibly baked poem; the export preserves the full useful cloud composition with explicit unavoidable-overlay exception and omit the separately painted mailing/publication/postage furniture. Whole-article rights check passed.",
         "image_encoding_note": "Every final JPEG was opened at full useful resolution and compared with the rendered PDF and raw source object, including centre, edges and corners. Image dictionaries, clipping paths and paint order were inspected; images have no soft masks or transparency groups, and GS1 contains no opacity blend. All 29 images passed complete Pillow and independent FFmpeg raster decoding without warnings, ImageMagick baseline sRGB checks, nonzero 300 dpi density and terminal EOI checks. Skia Canvas decoded and painted all 29 images; its rasters agree with Pillow (mean channel difference under 2/255). No CMYK assets or sample inversion were required. The complete 36-page visual census is reconciled with these 29 canonical exports. No per-image source attribution is supplied in the issue; small intrinsic artist inscriptions are retained without guessing names."
       },
