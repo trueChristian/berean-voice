@@ -13753,11 +13753,12 @@
             "printed_page": null,
             "images": [
               {
-                "description": "A mountain, trees and a lake behind the printed poem Authority.",
+                "description": "An evergreen tree beside a lake, with shrubs and a snow-covered mountain slope.",
                 "object": 119,
                 "article_id": "713c3d95-5295-421e-9ca7-3cd2cc1643d9",
                 "disposition": "exported",
-                "repository_path": "public/images/articles/713c3d95-5295-421e-9ca7-3cd2cc1643d9-1.jpg"
+                "repository_path": "public/images/articles/713c3d95-5295-421e-9ca7-3cd2cc1643d9-1.jpg",
+                "crop_note": "User-requested crop on 2026-10-14 from the canonical 1275 × 1650 JPEG at commit 3ddb41130d7b1fc835b13da2af7be1d00c198d3b: half-open pixel rectangle (0, 180, 590, 1360) (left, top, right, bottom), yielding 590 × 1180. The unobstructed left portion retains photographic scenery and excludes the complete poem, title, byline, translucent reading panel and shadow. Encoded as a baseline RGB/sRGB JPEG at quality 98 with nonzero 150 dpi density; no resize, rotation, inpainting, synthesis or tonal inverse. The existing poem transcription remains unchanged in HTML."
               }
             ],
             "layout_exclusions": "Running headers/footers, page number, rules, frames, borders, text panels and other page typography omitted where present. Publication logos/waveform and mailing-panel typography excluded as cover/masthead/mailing furniture.",
@@ -13783,10 +13784,11 @@
           "decoders": "Every final JPEG completely loaded by Pillow/libjpeg and independent ffmpeg native MJPEG decoder with zero warnings/errors. Pixel differences <=3/255 between decoders.",
           "browser_compatible_renderer": "Every final JPEG fully decoded, painted at natural dimensions and read back through Skia Canvas (@napi-rs/canvas).",
           "overlay_exceptions": [
-            "Authority object119 irreversibly includes poem, translucent panel and drop shadow, retained explicitly; no useful crop preserves the mountain/scene.",
             "Ship object24 and mailbox112 contain gray tonal backgrounds in their sole source rasters; no separate original or exact inverse evidence exists, so preserved with uncertainty."
           ],
-          "general_image_credit": "General masthead: “Some images © 2001-2004 www.arttoday.com”. It does not identify individual assets; recorded as uncertainty for every export."
+          "general_image_credit": "General masthead: “Some images © 2001-2004 www.arttoday.com”. It does not identify individual assets; recorded as uncertainty for every export.",
+          "review_scope": "Issue-wide PDF, source-object and renderer checks describe the original ingestion. The page-36 image was subsequently cropped at the user’s request on 2026-10-14; this crop was checked against the committed original JPEG, not rechecked against the PDF.",
+          "crop_review": "Authority: 590 × 1180 crop at the existing canonical path. Two AI visual reviews confirm no poem, title, byline, translucent panel or shadow remains. Pillow and FFmpeg complete raster loads passed without warnings; Skia Canvas decode, natural-size paint and complete raster readback passed. See the image record for coordinates and provenance."
         },
         "independent_review": "An additional reader reviewed all 36 pages and checked article endings, nonconsecutive continuations, unique side matter, credits, the complete readers column and all 20 Authority poem lines against the HTML. Source anomalies and meaningful emphasis were retained; no unresolved text reading or article-specific reuse notice remains."
       }
@@ -22486,10 +22488,11 @@
             "visual_review": "completed",
             "images": [
               {
-                "visible_image": "Snow-covered mountains above dark trees, with the printed poem I’m Standing.",
+                "visible_image": "Snow-covered mountain cliffs above dark evergreen treetops.",
                 "owning_article_id": "cba5e203-d81e-40a3-a3be-690c4de11399",
                 "disposition": "exported",
-                "canonical_export": "public/images/articles/cba5e203-d81e-40a3-a3be-690c4de11399-1.jpg"
+                "canonical_export": "public/images/articles/cba5e203-d81e-40a3-a3be-690c4de11399-1.jpg",
+                "crop_note": "User-requested crop on 2026-10-14 from the canonical 506 × 504 JPEG at commit 3ddb41130d7b1fc835b13da2af7be1d00c198d3b: half-open pixel rectangle (0, 65, 240, 504) (left, top, right, bottom), yielding 240 × 439. The unobstructed left portion retains photographic scenery and excludes the complete poem, title, byline, translucent reading panel and shadow. Encoded as a baseline RGB/sRGB JPEG at quality 98 with nonzero 72 dpi density; no resize, rotation, inpainting, synthesis or tonal inverse. The existing poem transcription remains unchanged in HTML."
               },
               {
                 "visible_image": "Tiled blue/tan outer decorative frame and mailing panel masthead",
@@ -22512,13 +22515,13 @@
             22,
             23
           ],
-          "unavoidable_overlay_pages": [
-            36
-          ],
-          "uncertainty": "No image-specific licence or credit stated; p13 intrinsic artist signatures preserved but not reliably legible at supplied source resolution."
+          "unavoidable_overlay_pages": [],
+          "uncertainty": "No image-specific licence or credit stated; p13 intrinsic artist signatures preserved but not reliably legible at supplied source resolution.",
+          "review_scope": "Issue-wide PDF, source-object and renderer checks describe the original ingestion. The page-36 image was subsequently cropped at the user’s request on 2026-10-14; this crop was checked against the committed original JPEG, not rechecked against the PDF.",
+          "crop_review": "I’m Standing: 240 × 439 crop at the existing canonical path. Two AI visual reviews confirm no poem, title, byline, translucent panel or shadow remains. Pillow and FFmpeg complete raster loads passed without warnings; Skia Canvas decode, natural-size paint and complete raster readback passed. See the image record for coordinates and provenance."
         },
         "source_text_defects": "On page 8, Moody numbered points 3–7 contain visibly truncated first lines ending in stude, prep, t, love o, and po. Both independent renderers and the original PDF content stream confirm the same literal fragments; no hidden remainder exists. All visible source characters and these five line boundaries are retained without conjectural completion, ellipsis, or editorial insertion. Verification describes fidelity to the supplied PDF, not completeness of the intended prose.",
-        "remaining_uncertainty": "The intended words absent from the five defective page-8 lines cannot be recovered from this PDF and have not been invented. The page-36 poem/title and translucent panel are irreversibly baked into its sole mountain-image raster; the exact source appearance is retained under the documented overlay exception. Individual image creators/licences are not inferred from the general masthead credit."
+        "remaining_uncertainty": "The intended words absent from the five defective page-8 lines cannot be recovered from this PDF and have not been invented. Individual image creators/licences are not inferred from the general masthead credit."
       }
     },
     {
