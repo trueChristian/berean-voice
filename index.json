@@ -76520,25 +76520,52 @@
           "public_path": "/images/articles/713c3d95-5295-421e-9ca7-3cd2cc1643d9-1.jpg",
           "source_page": 36,
           "role": "poem_background",
-          "alt": "A mountain, trees and a lake behind the printed poem Authority.",
+          "alt": "An evergreen tree beside a lake, with shrubs and a snow-covered mountain slope.",
           "caption": null,
           "credit": null,
-          "rights_note": "Only source is flattened RGB object 119, cropped to source-pixel rectangle (38, 38, 1313, 1688) to reproduce the printed page. The poem, translucent reading panel and drop shadow are irreversibly baked into this sole raster; no alternate base, pieces, soft mask or transparency group exists. A crop removing the panel would discard the mountain and most of the scene, so the faithful source is retained with this explicit unavoidable-overlay exception. Separate publication/address/postage typography and vector mailing furniture omitted. No inpainting, synthesis or tonal inverse performed. No individual image credit or licence is stated in the PDF. Normalized as a baseline RGB JPEG with embedded sRGB profile and nonzero 150 dpi density; original grayscale appearance preserved where applicable. Final file visually checked against PDF and source asset; complete warning-free loads through Pillow and ffmpeg, then natural-size Skia Canvas decode/paint/readback; encoded colour space confirmed sRGB. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
-          "width": 1275,
-          "height": 1650,
+          "rights_note": "Original PDF page 36 flattened RGB object 119 was previously cropped to source-pixel rectangle (38, 38, 1313, 1688) to reproduce the printed page. The poem, translucent reading panel and drop shadow are baked into that source; the user-requested crop now omits their entire region. Separate publication/address/postage typography and vector mailing furniture were already omitted. No individual image credit or licence is stated in the PDF. The general masthead states “Some images © 2001-2004 www.arttoday.com”; it does not identify which images this covers, so attribution of this individual image is uncertain and no licence is inferred.",
+          "width": 590,
+          "height": 1180,
           "source_object": 119,
           "verification": {
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "source_export_verification": {
+              "scope": "Historical review of the uncropped repository image; not a new PDF review of this crop.",
+              "results": {
+                "visual_against_pdf": "verified_by_ai",
+                "overlay_audit": "verified_by_ai",
+                "color_space": "RGB/sRGB",
+                "complete_decoders": [
+                  "Pillow/libjpeg",
+                  "FFmpeg native MJPEG"
+                ],
+                "complete_decode": "passed_without_warnings",
+                "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
+                "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
+              }
+            },
+            "crop_source_commit": "3ddb41130d7b1fc835b13da2af7be1d00c198d3b",
+            "crop_source_blob": "1feb1f2e697f48e9822c7927dcb0107ca87d9824",
+            "crop_rectangle": [
+              0,
+              180,
+              590,
+              1360
+            ],
+            "crop_rectangle_convention": "Half-open source JPEG pixels: left, top, right, bottom.",
+            "visual_against_repository_source": "verified_by_ai",
+            "visual_against_pdf": "not_rechecked_after_user_requested_crop",
+            "overlay_audit": "Complete final crop opened at full useful resolution: no title, poem, byline, reading panel or shadow remains.",
             "color_space": "RGB/sRGB",
             "complete_decoders": [
               "Pillow/libjpeg",
               "FFmpeg native MJPEG"
             ],
             "complete_decode": "passed_without_warnings",
-            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and raster readback passed.",
-            "independent_image_review": "A second AI reader opened the final asset and compared it with its source page and raw source image; complete subjects, orientation and documented layout/overlay disposition verified."
-          }
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and full raster readback passed.",
+            "encoded_bytes": 610764,
+            "independent_image_review": "A second AI reader opened both the final crop and the committed original at full useful resolution; useful scenery, matching orientation and colours, and absence of text, panels, shadows and corruption confirmed."
+          },
+          "transformations": "User-requested crop on 2026-10-14 from the canonical 1275 × 1650 JPEG at commit 3ddb41130d7b1fc835b13da2af7be1d00c198d3b: half-open pixel rectangle (0, 180, 590, 1360) (left, top, right, bottom), yielding 590 × 1180. The unobstructed left portion retains photographic scenery and excludes the complete poem, title, byline, translucent reading panel and shadow. Encoded as a baseline RGB/sRGB JPEG at quality 98 with nonzero 150 dpi density; no resize, rotation, inpainting, synthesis or tonal inverse. The existing poem transcription remains unchanged in HTML."
         }
       ],
       "rights": {
@@ -76548,9 +76575,11 @@
       "verification": {
         "text_against_pdf": "@malachivdm",
         "formatting_against_pdf": "@malachivdm",
-        "images_against_pdf": "@malachivdm",
+        "images_against_pdf": "not_rechecked_after_user_requested_crop",
         "inventory_note": "The complete signed back-cover poem was found by visual inspection although absent from the PDF text layer. Title, author and five four-line stanzas transcribed from the rendered raster, with a 216 dpi close-up for punctuation verification. Bold italic body and stanza/line boundaries preserved. Source “way.” has a period, “Whate’er”, “Whene’er”, and “Jesus name” retained exactly. Page 36 is unnumbered; source_pages uses PDF page 36. The full-page mountain/lake photograph belongs to the poem; magazine and postal/address elements are mailing furniture. No article-specific restriction appears.",
-        "image_visual_note": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
+        "image_visual_note": "The source image PDF review is preserved as historical provenance. On 2026-10-14, two AI readers visually checked the user-requested crop against the committed original JPEG; no new PDF or article-text review was performed. Final crop fully decoded through Pillow and FFmpeg without warnings and through Skia Canvas with complete paint/readback. Crop details and image-credit uncertainty are recorded with the asset.",
+        "source_images_against_pdf": "@malachivdm",
+        "source_image_review": "Every canonical image visually compared with rendered source pages and raw base objects; image census reconciled. Full Pillow and FFmpeg decoding and Skia Canvas paint/readback passed. Removed separable page typography, borders and layout masks; retained only explicitly documented flattened-source exceptions and intrinsic markings. Individual image provenance and uncertainty are recorded in rights_note."
       }
     },
     {
@@ -85794,22 +85823,48 @@
           "public_path": "/images/articles/cba5e203-d81e-40a3-a3be-690c4de11399-1.jpg",
           "source_page": 36,
           "role": "background",
-          "alt": "Snow-covered mountains above dark trees, with the printed poem I’m Standing.",
+          "alt": "Snow-covered mountain cliffs above dark evergreen treetops.",
           "caption": null,
           "credit": null,
-          "rights_note": "Original PDF page 36 image object 128; no separate image licence or credit is stated. The poem title, complete poem, byline and translucent reading panel are irreversibly baked into the only mountain raster. No clean base or alternative crop retaining the complete mountain composition exists in the PDF. The exact source image content is retained under the unavoidable-overlay exception; it is not claimed to be overlay-free. Separate decorative cover frame and mailing panel are omitted. No inpainting, synthesis, or speculative inverse blend applied. The masthead states “Some images © 2001-2002” and “www.arttoday.com” without identifying particular images; no individual licence is inferred.",
-          "transformations": "Embedded RGB JPEG standards-normalized as a baseline sRGB JPEG with nonzero 72 dpi density at the original 506 × 504 pixel dimensions, because the original source JPEG has 1 trailing bytes after its EOI marker. No cropping, rotation, synthesis, or material retouching.",
-          "width": 506,
-          "height": 504,
+          "rights_note": "Original PDF page 36 image object 128; no separate image licence or credit is stated. The poem title, complete poem, byline and translucent reading panel are baked into the source mountain raster; the user-requested crop now omits their entire region. Separate decorative cover frame and mailing panel were already omitted. The source JPEG was previously standards-normalized to remove one trailing byte after its EOI marker. The masthead states “Some images © 2001-2002” and “www.arttoday.com” without identifying particular images; no individual licence is inferred.",
+          "transformations": "User-requested crop on 2026-10-14 from the canonical 506 × 504 JPEG at commit 3ddb41130d7b1fc835b13da2af7be1d00c198d3b: half-open pixel rectangle (0, 65, 240, 504) (left, top, right, bottom), yielding 240 × 439. The unobstructed left portion retains photographic scenery and excludes the complete poem, title, byline, translucent reading panel and shadow. Encoded as a baseline RGB/sRGB JPEG at quality 98 with nonzero 72 dpi density; no resize, rotation, inpainting, synthesis or tonal inverse. The existing poem transcription remains unchanged in HTML.",
+          "width": 240,
+          "height": 439,
           "source_xref": 128,
           "verification": {
-            "pillow_full_decode": "passed",
-            "imagemagick_full_decode": "passed",
-            "web_colour_metadata": "JPEG 506x504 sRGB TrueColor 72 72",
-            "encoded_bytes": 136248,
-            "webkit_complete_decode_and_canvas_draw": "passed",
-            "visual_source_comparison": "verified_by_ai",
-            "overlay_audit": "unavoidable baked-in title, poem, byline and translucent panel documented"
+            "source_export_verification": {
+              "scope": "Historical review of the uncropped repository image; not a new PDF review of this crop.",
+              "results": {
+                "pillow_full_decode": "passed",
+                "imagemagick_full_decode": "passed",
+                "web_colour_metadata": "JPEG 506x504 sRGB TrueColor 72 72",
+                "encoded_bytes": 136248,
+                "webkit_complete_decode_and_canvas_draw": "passed",
+                "visual_source_comparison": "verified_by_ai",
+                "overlay_audit": "unavoidable baked-in title, poem, byline and translucent panel documented"
+              }
+            },
+            "crop_source_commit": "3ddb41130d7b1fc835b13da2af7be1d00c198d3b",
+            "crop_source_blob": "64aea28588b1ef36443b2ba34e3dcda9fa5ece4f",
+            "crop_rectangle": [
+              0,
+              65,
+              240,
+              504
+            ],
+            "crop_rectangle_convention": "Half-open source JPEG pixels: left, top, right, bottom.",
+            "visual_against_repository_source": "verified_by_ai",
+            "visual_against_pdf": "not_rechecked_after_user_requested_crop",
+            "overlay_audit": "Complete final crop opened at full useful resolution: no title, poem, byline, reading panel or shadow remains.",
+            "color_space": "RGB/sRGB",
+            "complete_decoders": [
+              "Pillow/libjpeg",
+              "FFmpeg native MJPEG"
+            ],
+            "complete_decode": "passed_without_warnings",
+            "browser_compatible_renderer": "Skia Canvas: complete decode, paint at natural dimensions and full raster readback passed.",
+            "encoded_bytes": 63046,
+            "independent_image_review": "A second AI reader opened both the final crop and the committed original at full useful resolution; useful scenery, matching orientation and colours, and absence of text, panels, shadows and corruption confirmed."
           }
         }
       ],
@@ -85820,11 +85875,13 @@
       "verification": {
         "text_against_pdf": "verified_by_ai",
         "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "images_against_pdf": "not_rechecked_after_user_requested_crop",
         "inventory_note": "Substantive titled poem on back cover included; mailing address, postal box, publication logo and outer frame omitted as cover furniture. Four stanza divisions, nineteen lines, bold verse, semicolons after Lord and spaced en dash after beset verified visually at higher magnification. No permission restriction in poem or credits.",
         "text_review": "Every source page visually compared against complete HTML, with print-only column/page breaks and discretionary hyphens joined. Source wording, punctuation, capitalization, paragraph boundaries and meaningful emphasis preserved.",
         "independent_text_review": "A second AI reader independently compared the complete HTML against all source pages and continuations, including wording, punctuation, paragraphs and meaningful emphasis; no discrepancies remain.",
-        "image_review": "Complete page census reconciled; final assets compared with rendered pages and source objects, opened at full useful resolution and fully decoded by Pillow, ImageMagick and WebKit canvas. Image-specific transformations and unavoidable source exceptions are recorded with each asset."
+        "image_review": "The source image PDF review is preserved as historical provenance. On 2026-10-14, two AI readers visually checked the user-requested crop against the committed original JPEG; no new PDF or article-text review was performed. Final crop fully decoded through Pillow and FFmpeg without warnings and through Skia Canvas with complete paint/readback. Crop details and image-credit uncertainty are recorded with the asset.",
+        "source_images_against_pdf": "verified_by_ai",
+        "source_image_review": "Complete page census reconciled; final assets compared with rendered pages and source objects, opened at full useful resolution and fully decoded by Pillow, ImageMagick and WebKit canvas. Image-specific transformations and unavoidable source exceptions are recorded with each asset."
       }
     },
     {
