@@ -87001,10 +87001,10 @@
             ],
             "encoding": "PNG 140x180 Gray None 72x72",
             "browser": "WebKit image.decode() succeeded at 140×180",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         },
         {
@@ -87030,10 +87030,10 @@
             ],
             "encoding": "JPEG 109x194 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 109×194",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87042,9 +87042,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "text_review": "The complete HTML was visually compared with every source page after transcription. Three-column continuation order, paragraph boundaries, Scripture quotation italics, emphasized for/in/cannot/will not/do, quote punctuation, em dashes and the printed ellipsis are retained. The two illustrated crosses on page 3 are represented in top-to-bottom reading order at the opening; their exact captions retain bold italics. Page 4 and 5 pull quotes duplicate body content and are represented only in their original body passages. No wording was silently corrected; source capitalization including God’s Hand is retained.",
         "inventory_note": "All printed pages 3–5 were opened and visually inspected through the final line. No article-specific permission notice; no footnotes. Running headers, folios, rules and terminal square are publication furniture.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87111,10 +87111,10 @@
             ],
             "encoding": "PNG 213x325 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 213×325",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87123,9 +87123,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "text_review": "The complete HTML was visually compared with every source page after transcription. The portrait-wrapped two-column opening and subsequent two-column pages are read in the printed sequence. Five subheadings, four school-training bullets and seven character bullets are retained. The italic prayer and book titles are preserved. Source oddities are retained exactly: Ira Sanky, Piersons’ moved, Piersons’ all along, sanctifying affect, deep lasting affects, Consider of few, after thought, and the opening space in “ Even a child. All small-cap heading letters are retained as uppercase without decorative typography. The portrait is represented once at the opening.",
         "inventory_note": "All printed pages 6–9 were opened and visually inspected through the final line. No article-specific permission notice; no footnotes. Running headers, folios, rules and terminal square are publication furniture.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87187,10 +87187,10 @@
             ],
             "encoding": "PNG 97x130 Gray None 72x72",
             "browser": "WebKit image.decode() succeeded at 97×130",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         },
         {
@@ -87214,10 +87214,10 @@
             ],
             "encoding": "PNG 103x109 Gray None 72x72",
             "browser": "WebKit image.decode() succeeded at 103×109",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87226,9 +87226,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Entire four-page article visually checked before transcription. Denny’s introductory box and exact --Brother Denny attribution retained. All thirteen Objection/Answer pairs retained in reading order; final Remarks has three printed paragraphs, the third spanning columns. Printed wording “to that you have no fellowship”, “inoculates”, “self denial”, “by our conformity”, and “whiffled” preserved. Italic singularity, convenience, economy, plain and bold-italic subheadings retained. End dingbat, running page furniture and shaded heading bars omitted as layout. No footnotes or restrictions.",
         "text_review": "Visually read every source page and compared full article wording, punctuation, paragraph boundaries, heading hierarchy, emphasis and continuation joins with the HTML. No unresolved source wording.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87294,10 +87294,10 @@
             ],
             "encoding": "JPEG 165x242 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 165×242",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87306,9 +87306,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Entire five-page article visually checked before transcription. All nine subsection headings and opening Scripture block retained. Eliza H. Hewitt’s eight-line verse preserves every printed line and the exact --Eliza H. Hewitt attribution. Source spelling “some one”, “As the verses in Proverbs shows”, “guide me refine me” and Helen Lemmel preserved. Complete italicized Scripture excerpts, definitions and in-body Rachel Deatherage / Grangeville, Idaho sign-off retained. Two grey-oval pull quotes (pages15 and17) exactly repeat nearby body text and are represented once in the body. End dingbat and page furniture removed. No footnotes, credits or article-specific restrictions.",
         "text_review": "Visually read every source page and compared full article wording, punctuation, paragraph boundaries, heading hierarchy, emphasis and continuation joins with the HTML. No unresolved source wording.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87370,10 +87370,10 @@
             ],
             "encoding": "PNG 233x212 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 233×212",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87382,9 +87382,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Editorial introduction and four lesson sections form one complete article across pp19–20. The printed --The Editor sign-off remains in the body. All introductory paragraphs are italic; blessing is bold; four Pot labels bold. Source wording “If we chose” preserved. One p19 children drawing; p20 lesson boxes are layout treatments rather than images. No restriction, footnote, continuation or separate image credit.",
         "text_review": "Every source page opened and visually read in full before transcription for the whole-article permission gate, then compared against authored HTML. Exact wording, punctuation, case, paragraph structure and meaningful italics retained. No footnotes. Only running furniture, page/column line wraps, discretionary line-end hyphens and repeated pull quotes omitted.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87445,10 +87445,10 @@
             ],
             "encoding": "JPEG 206x222 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 206×222",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87457,9 +87457,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete article pp21–23. Five-line adapted scripture opening and I Peter reference retain italics and lineation; opening quoted question and in-body italic words/phrases retained. Duplicated pull-quote panels on pp21 and 23 are omitted because they repeat body wording. Source ellipsis-plus-period in “word….” enlarged and visually verified; apparent errors “these type”, “wits end”, and “affect” retained. Star-shaped decorative heading ornaments and terminal box omitted as furniture. One heart-shaped women portrait collage p21; no other image. No restriction, footnote, continuation or separate image credit.",
         "text_review": "Every source page opened and visually read in full before transcription for the whole-article permission gate, then compared against authored HTML. Exact wording, punctuation, case, paragraph structure and meaningful italics retained. No footnotes. Only running furniture, page/column line wraps, discretionary line-end hyphens and repeated pull quotes omitted.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87524,10 +87524,10 @@
             ],
             "encoding": "PNG 223x267 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 223×267",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87536,9 +87536,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete article and all four pages visually checked through final Christine H. Lamicela sign-off. Preserved five subheadings, emphasis, three-item list, Scripture blocks, superscript th in dates, and the editor’s italic boxed update as article content. Source readings “Roman 10:17”, “1 Corinthians 10 :14”, and “--The Editor” retained. No footnotes or restrictive notices. Family photograph p24 is the sole image; image export verification supplied separately.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
         "independent_text_review": "A second AI reader independently compared the complete HTML against every source page, including nonconsecutive continuations, for wording, punctuation, paragraph order and meaningful emphasis. No unresolved discrepancy remains."
@@ -87581,9 +87581,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete seven-stanza poem visually checked, including four lines per stanza, source punctuation and lowercase “his”, plus italic closing signature and date. Gray surrounding frame and title shadow are decorative layout, with no underlying substantive image. No footnotes or restrictive notices.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
         "independent_text_review": "A second AI reader independently compared the complete HTML against every source page, including nonconsecutive continuations, for wording, punctuation, paragraph order and meaningful emphasis. No unresolved discrepancy remains."
@@ -87647,10 +87647,10 @@
             ],
             "encoding": "JPEG 216x280 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 216×280",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87659,9 +87659,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete article visually checked across both pages and all three columns. Seven-line introductory Scripture quotation and its mixed three-period/ellipsis typography preserved, along with three numbered needs, paragraph boundaries and italic closing prayer. Source “1:00pm 3:00pm” retains its missing connector. Page 30 gray pull quote repeats text retained in the final challenge paragraph and is represented once. No footnotes or restrictive notices. Historic illustration p29 is the sole image; image export verification supplied separately.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
         "independent_text_review": "A second AI reader independently compared the complete HTML against every source page, including nonconsecutive continuations, for wording, punctuation, paragraph order and meaningful emphasis. No unresolved discrepancy remains."
@@ -87721,10 +87721,10 @@
             ],
             "encoding": "PNG 202x173 Gray None 72x72",
             "browser": "WebKit image.decode() succeeded at 202×173",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87733,9 +87733,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete review followed from page 31 through nonconsecutive continuation at the bottom of page 35. Reviewed book separately credited “by Arthur Wallis” beneath title; review by Andrew Weaver. No footnotes, article-specific copyright or permission restriction. Headline and reviewer metadata omitted from body; quotations and meaningful italics retained. Printed four-dot blessing…. and concluding italic in the day of Thy power! retained.",
         "text_review": "Every source page opened and compared with the complete HTML. Exact words, punctuation, capitalization, paragraph structure and meaningful emphasis preserved; only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87797,10 +87797,10 @@
             ],
             "encoding": "JPEG 391x256 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 391×256",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         },
         {
@@ -87826,10 +87826,10 @@
             ],
             "encoding": "JPEG 48x31 sRGB None 72x72",
             "browser": "WebKit image.decode() succeeded at 48×31",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         },
         {
@@ -87853,10 +87853,10 @@
             ],
             "encoding": "PNG 162x86 Gray None 72x72",
             "browser": "WebKit image.decode() succeeded at 162×86",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; separable publisher overlays omitted",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; separable publisher overlays omitted",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87865,9 +87865,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete signed ministry report on pages 32–33, including internal New Tapes Sets! heading, accompanying introductory paragraph and --Brother Denny sign-off. Separate tape-set advertisement boxes following the sign-off excluded under the issue-inventory advertisement rule. The publication masthead is excluded as magazine furniture; volunteer photograph, cassette illustration with exact Charity/Gospel/Tape Ministry caption and mission globe logo are included. No footnotes or permission restriction. Printed title error New Tapes Sets! preserved.",
         "text_review": "Every source page opened and compared with the complete HTML. Exact words, punctuation, capitalization, paragraph structure and meaningful emphasis preserved; only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87920,10 +87920,10 @@
             ],
             "encoding": "PNG 98x157 Gray None 72x72",
             "browser": "WebKit image.decode() succeeded at 98×157",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
-            "corruption_orientation_crop_colour": "verified_by_ai"
+            "visual_against_source": "@JoMandalor",
+            "visual_against_raw_object": "@JoMandalor",
+            "overlay_audit": "@JoMandalor; sole-source baked treatments explicitly recorded in rights_note",
+            "corruption_orientation_crop_colour": "@JoMandalor"
           }
         }
       ],
@@ -87932,9 +87932,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Editorial invitation, five-item list and --The Editors sign-off followed by all eight letters plus the editor’s reply included. Letter locations: Bellingham, WA; Middletown, PA; Plainfield, CT; Lake Elsinore, CA; Hamlin, NY; Methuen, MA; final two letters have no printed location or personal sign-off. Column/page continuations joined. Printed J.R. Tolkien, seances, some times and two family retained. Book title The Pilgrim Church and preceding word book remain roman within the italic editor reply. Decorative flower divider rows omitted and letter divisions represented as semantic sections. Lower page 35 belongs to review. No footnotes or permission restriction.",
         "text_review": "Every source page opened and compared with the complete HTML. Exact words, punctuation, capitalization, paragraph structure and meaningful emphasis preserved; only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
@@ -87965,45 +87965,15 @@
       "html": {
         "repository_path": "content/articles/268417aa-9fc3-49d2-973e-d92dac80d8a3.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/268417aa-9fc3-49d2-973e-d92dac80d8a3-1.jpg",
-          "public_path": "/images/articles/268417aa-9fc3-49d2-973e-d92dac80d8a3-1.jpg",
-          "source_page": 36,
-          "role": "devotional illustration",
-          "alt": "A desert landscape and a profile of John the Baptist accompany printed scripture passages.",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No separate image credit or licence is printed. Sole source PDF object 132 is a flattened devotional collage of desert landscape, John silhouette and scripture text. No clean landscape, figure or separately painted text objects exist. Complete substantive standalone graphic retained with intrinsic text, explicit unavoidable baked-typography exception; no pixels synthesized. Separate cover shadow/frame and mailing panel omitted.",
-          "transformations": [
-            "Source RGB JPEG encoded as standard baseline sRGB JPEG, quality 98, 4:4:4, nonzero 72 dpi, unchanged intrinsic dimensions and orientation."
-          ],
-          "source_pdf_object": 132,
-          "width": 504,
-          "height": 503,
-          "verification": {
-            "decoders": [
-              "Pillow complete RGBA raster load, no warnings",
-              "ImageMagick complete RGBA raster decode, no warnings"
-            ],
-            "encoding": "JPEG 504x503 sRGB None 72x72",
-            "browser": "WebKit image.decode() succeeded at 504×503",
-            "visual_against_source": "verified_by_ai",
-            "visual_against_raw_object": "verified_by_ai",
-            "overlay_audit": "verified_by_ai; sole-source baked treatments explicitly recorded in rights_note",
-            "corruption_orientation_crop_colour": "verified_by_ai"
-          }
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Anonymous untitled substantive scripture meditation on the back cover retained. The bold italic first two lines remain body text, not an invented title. Three following stanza groups retain six, two and four lines and italic emphasis. Text is baked into sole source image 132 and was read visually from the original 504×503 raster and enlargement; it is absent from the mechanical text layer. Printed Fathers capitalization, shewing spelling, sentence punctuation and leading four-dot omission marks retained. Mailing panel, magazine logo and outer decorative framing excluded. No footnotes or permission restriction.",
         "text_review": "Every source page opened and compared with the complete HTML. Exact words, punctuation, capitalization, paragraph structure and meaningful emphasis preserved; only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
         "image_review": "All 36 rendered pages visually inspected and reconciled. All 16 final assets opened in a WebKit gallery and compared with their raw objects and source pages. Pillow and ImageMagick completely decoded every raster without warnings. All 7 final JPEG files are baseline RGB/sRGB with 72 dpi. PNG sources or transparency crops preserve lossless data. No CMYK assets. Source rasters are low resolution (roughly 72 ppi); no upscaling or invented pixels.",
