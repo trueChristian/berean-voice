@@ -16654,10 +16654,10 @@
       "slug": "heartbeat-remnant-2003-09",
       "verification": {
         "inventory_complete": true,
-        "included_article_count": 11,
+        "included_article_count": 12,
         "skipped_article_count": 0,
-        "exported_image_count": 13,
-        "inventory_note": "Every PDF page visually inspected. Seven contents entries plus the signed page-16 and page-20 poems, page-29 ministry thank-you update and raster-only page-36 poem. No article-specific reuse restriction detected. Cover, contents/masthead, advertisements, order form and mailing panel excluded. No footnotes. Existing categories/topics reused; no new category, topic or series identity.",
+        "exported_image_count": 14,
+        "inventory_note": "Every PDF page visually inspected. Seven contents entries plus the signed page-16 and page-20 poems, page-29 ministry thank-you update, the explicitly requested page-35 book promotion and raster-only page-36 poem. No article-specific reuse restriction detected. Cover, contents/masthead, page-2 advertisement, order form and mailing panel excluded. No footnotes. Existing categories/topics reused; no new category, topic or series identity.",
         "article_inventory": [
           {
             "sequence": 1,
@@ -16786,6 +16786,18 @@
           },
           {
             "sequence": 11,
+            "article_id": "cb2f1499-9006-46bb-8a54-9dcfc572c832",
+            "title": "An inspiring manual filled with old-fashioned Bible principles of child training and home life “that work.”",
+            "subtitle": null,
+            "source_pages": {
+              "start": 35,
+              "end": 35
+            },
+            "disposition": "included",
+            "article_specific_permission_notices": []
+          },
+          {
+            "sequence": 12,
             "article_id": "0c49a927-0edf-4e8b-aef9-af0c273120ad",
             "title": "Spiritual Leadership",
             "subtitle": null,
@@ -17147,10 +17159,19 @@
             "printed_page": 35,
             "images": [
               {
-                "description": "Blue and white advertising background and The Pursuit of Godly Seed cover",
-                "owner": "Book advertisement",
+                "description": "The Pursuit of Godly Seed book cover with intrinsic title, author name and oval illustration of two people.",
+                "owner": "An inspiring manual filled with old-fashioned Bible principles of child training and home life “that work.”",
+                "disposition": "exported",
+                "repository_path": "public/images/articles/cb2f1499-9006-46bb-8a54-9dcfc572c832-1.jpg",
+                "pdf_object": 121,
+                "notes": "No image-creator credit or separate licence is printed. Clean embedded book-cover object 121 (221 × 321, RGB) extracted at native dimensions and upright orientation. Its book title, author name, photograph and oval frame are intrinsic to the displayed cover and retained. Separate page background/frame object 120, surrounding promotional typography and price panels, and separately painted placement border are omitted. The original JPEG had a trailing newline after its end-of-image marker; normalized to baseline sRGB JPEG with nonzero 72-dpi density, preserving source content, dimensions and orientation. No CMYK inversion or synthesized pixels."
+              },
+              {
+                "description": "Blue and white advertising background with outer glow frame.",
+                "owner": "An inspiring manual filled with old-fashioned Bible principles of child training and home life “that work.”",
                 "disposition": "omitted_under_issue_inventory_exclusion",
-                "exclusion": "Advertisement"
+                "exclusion": "Standalone decorative layout background and framing; no substantive pictorial content.",
+                "pdf_object": 120
               }
             ]
           },
@@ -17180,7 +17201,14 @@
           "Intrinsic gray raster backgrounds on the well, goblet and mailbox remain; mailbox lettering is intrinsic to that source image.",
           "Original low image resolutions are retained; no detail synthesized."
         ],
-        "footnotes": "None present; no footnotes sections required."
+        "footnotes": "None present; no footnotes sections required.",
+        "restored_article_provenance": {
+          "attachment_filename": "2003-09-Remnant(2).pdf",
+          "sha256": "57ae52aece9d3b5c22ead6bd908bad31758e5f69f314b6dc6856bbc086e90068",
+          "matches_existing_issue_source": true,
+          "preserve_existing_source_filename_and_uuid": true
+        },
+        "restored_article_note": "The user explicitly requested this formerly omitted page, overriding its ordinary advertisement inventory exclusion; existing issue text and imagery outside this addition remain unchanged."
       }
     },
     {
@@ -19270,10 +19298,10 @@
       "verification": {
         "page_by_page_visual_review": "completed_all_36_pages",
         "contents_reconciliation": {
-          "candidate_count": 14,
-          "included_count": 12,
+          "candidate_count": 15,
+          "included_count": 13,
           "skipped_count": 2,
-          "note": "All ten contents entries reconciled with actual pages. Worship As It Is in Heaven, Noble Talent or Unrighteous Mammon, One-Eyed Monster, and the financial report are additional substantive pieces absent from the contents. The two separately titled components of the Covetousness feature share its page 24 Used by permission notice and are both excluded. Prayer continues on page 33; The Blessing of Obedience continues on page 35. The review is by Dean Taylor; Norman Grubb is the reviewed book author."
+          "note": "All ten contents entries reconciled with actual pages. Worship As It Is in Heaven, Noble Talent or Unrighteous Mammon, One-Eyed Monster, and the financial report are additional substantive pieces absent from the contents. The two separately titled components of the Covetousness feature share its page 24 Used by permission notice and are both excluded. Prayer continues on page 33; The Blessing of Obedience continues on page 35. The review is by Dean Taylor; Norman Grubb is the reviewed book author. Godly Home Series • 2003 on page 30 is now included at the user’s explicit request, with its full narrative, photograph, availability statement and 30-item list."
         },
         "page_inventory": [
           {
@@ -19419,8 +19447,10 @@
             "pages": [
               30
             ],
-            "disposition": "omitted",
-            "reason": "Godly Home Series · 2003 tape-set advertisement"
+            "sequence": 13,
+            "title": "Godly Home Series • 2003",
+            "disposition": "included",
+            "note": "Previously omitted as a tape-series advertisement; restored in full at the user’s explicit request."
           },
           {
             "pages": [
@@ -19435,7 +19465,7 @@
               32,
               33
             ],
-            "sequence": 13,
+            "sequence": 14,
             "title": "Rees Howells: Intercessor",
             "disposition": "included"
           },
@@ -19444,7 +19474,7 @@
               34,
               35
             ],
-            "sequence": 14,
+            "sequence": 15,
             "title": "Precious Letters from Our Readers",
             "disposition": "included"
           },
@@ -19857,15 +19887,14 @@
             "visual_inspection": "verified_by_ai",
             "images": [
               {
-                "description": "Kenaston family photograph and Godly Home Series 2003 advertising panel",
-                "disposition": "omitted under issue-inventory exclusion",
-                "exclusion": "advertisement",
-                "source_xrefs": [
-                  114
-                ]
+                "description": "Kenaston family photograph beneath a tree",
+                "owning_article_id": "4f76f07b-0e77-457d-b59c-12e67222dfc1",
+                "disposition": "exported",
+                "source_xref": 114,
+                "canonical_path": "public/images/articles/4f76f07b-0e77-457d-b59c-12e67222dfc1-1.jpg"
               }
             ],
-            "note": "Entire page is a tape-series advertisement, including family photograph."
+            "note": "One family photograph belongs to the explicitly requested Godly Home Series • 2003 article. Separate white caption typography preserved in semantic figcaption; gray article panel, border and dividing rule are page layout, not additional images."
           },
           {
             "printed_page": 31,
@@ -19954,13 +19983,13 @@
         ],
         "image_verification": {
           "all_36_pdf_pages_visually_inspected": true,
-          "exported_logical_image_count": 21,
-          "exported_file_count": 21,
-          "jpeg_count": 17,
+          "exported_logical_image_count": 22,
+          "exported_file_count": 22,
+          "jpeg_count": 18,
           "png_count": 4,
           "pillow_full_decode": "passed for every image with no warnings",
           "imagemagick_full_decode": "passed for every image with no warnings",
-          "skia_canvas_full_decode": "passed for every image, getImageData over entire raster",
+          "skia_canvas_full_decode": "Passed for the 21 originally archived images, getImageData over entire raster. The restored page-30 photograph passed full Pillow and ImageMagick decoding plus Chromium image.decode() and visual browser review.",
           "all_final_images_opened_at_native_useful_resolution": true,
           "all_jpegs_baseline_RGB": "verified",
           "overlay_audit": "verified; no removable publisher typography/panels remain",
@@ -19969,7 +19998,8 @@
             13,
             21,
             28,
-            34
+            34,
+            30
           ],
           "unavoidable_source_appearance_notes": [
             "Page 21 television raster is already pale; no exact inverse established, original shading retained.",
@@ -19977,10 +20007,34 @@
             "Page 34 mailbox address and gray background are inherent to only source asset."
           ],
           "separate_image_credits": "No individual exported image has an explicit creator credit. The page-2 masthead credits issue artists and says “Some images © 2001-2003” / “www.arttoday.com”; the specific assets covered by this general credit are not identified.",
-          "canonical_html_integration": "All 21 exports referenced exactly once in owning HTML in index order."
+          "canonical_html_integration": "All 22 exports referenced exactly once in owning HTML in index order.",
+          "restored_page_30_image": {
+            "raw_object": "PDF xref 114, DeviceGray, DCTDecode, 320 × 205; no mask or Decode override",
+            "paint_order": "Page content xref 113 paints background and article text, the clean image via /Im29, then the list and caption. Caption uses separately painted white text; no independent caption panel or opacity wash exists.",
+            "visual_comparison": "Final JPEG and full ImageMagick-decoded PNG visually inspected against raw asset and source page; full scene, all people, orientation, intrinsic shadows and source tones retained; no text, panel, page furniture, corruption or truncation.",
+            "color": "Pillow reports RGB; ImageMagick reports sRGB and JPEG color space 2; baseline/nonprogressive; embedded sRGB ICC profile; JFIF 72×72 dpi.",
+            "complete_decoders": [
+              "Pillow Image.load() plus complete tobytes() (196800 RGB bytes)",
+              "ImageMagick convert -regard-warnings to PNG24; full raster decode completed with no warning"
+            ],
+            "browser_compatible_renderer": "Verified in Chromium at native resolution; complete image.decode() succeeded and rendered gallery visually matched the source and final files.",
+            "bytes": 21014,
+            "git_blob_sha": "c07b0db52d6c3f49c69ab617ab03d22fd924d2c8",
+            "uncertainties": [
+              "No photographer/source credit is printed."
+            ]
+          }
         },
         "footnotes": "Every eligible article inspected; no footnotes are present in this issue’s included content.",
-        "independent_text_review": "All twelve included HTML articles independently compared by a second AI reader with their complete printed pages, including all continuations, poetry, tables, dialogue, sidebars and meaningful emphasis."
+        "independent_text_review": "All thirteen included HTML articles independently compared by a second AI reader with their complete printed pages, including all continuations, poetry, tables, dialogue, sidebars and meaningful emphasis. The newly restored page-30 article received a separate full second-reader check.",
+        "restored_article_provenance": {
+          "source_filename": "2003-03-remnant(2).pdf",
+          "source_sha256": "225e22448249145a7ebbfbf53e6c921af9e125e3a5931c6e5fc666501479806a",
+          "source_comparison": "Byte-identical to the already recorded issue source; original issue UUID, source filename and checksum remain unchanged.",
+          "requested_pages": [
+            30
+          ]
+        }
       }
     },
     {
@@ -24913,12 +24967,11 @@
                 "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
                 "sequence": 8,
                 "title": "Year End Financial Report",
-                "disposition": "included"
+                "disposition": "included",
+                "note": "Includes the New Tape Sets section restored at the project owner’s explicit request."
               }
             ],
-            "exclusions": [
-              "New Tape Sets catalogue advertisement."
-            ]
+            "exclusions": []
           },
           {
             "pdf_page": 29,
@@ -24928,12 +24981,11 @@
                 "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
                 "sequence": 8,
                 "title": "Year End Financial Report",
-                "disposition": "included"
+                "disposition": "included",
+                "note": "Includes the New Tape Sets section restored at the project owner’s explicit request."
               }
             ],
-            "exclusions": [
-              "New Tape Sets catalogue advertisement."
-            ]
+            "exclusions": []
           },
           {
             "pdf_page": 30,
@@ -25469,8 +25521,11 @@
             "images": [
               {
                 "description": "Two repeated tilted cassette illustrations (object 160)",
-                "disposition": "omitted",
-                "reason": "Both belong to excluded New Tape Sets advertisement; the distinct report-header use is exported on page 27"
+                "disposition": "represented once because repeated image",
+                "article_id": "e287ea36-8b9d-4d08-aa35-d9a6b7113981",
+                "canonical_repository_path": "public/images/articles/e287ea36-8b9d-4d08-aa35-d9a6b7113981-2.jpg",
+                "source_pdf_object": 160,
+                "reason": "Both use the same source image and transform as the report-header cassette on page 27; the restored New Tape Sets section requires no duplicate export."
               }
             ],
             "visual_review": "verified_by_ai"
@@ -25603,7 +25658,7 @@
         "image_reconciliation": {
           "exported_count": 17,
           "owning_article_count": 12,
-          "note": "All 36 source pages visually inspected. Seventeen canonical image exports, with thirteen additional repeated uses in pages 3–21 represented by their canonical source images. Contents thumbnails, front cover, New Tape Sets advertisement illustrations, separable layout frames and mailing furniture explicitly excluded. Every export visually compared with raw base/paint evidence and source pages; final native-sized Chromium gallery inspected. Pillow and ImageMagick completely decoded all final rasters without warnings; all eleven JPEGs are baseline RGB/sRGB with nonzero density; six PNGs preserve source clips/stencil. No CMYK images or synthesized image content. Original low-resolution artwork retained without upscaling.",
+          "note": "All 36 source pages visually inspected. Seventeen canonical image exports, with thirteen additional repeated uses in pages 3–21 and two cassette repeats in the restored New Tape Sets section on page 28 represented by their canonical source images. Contents thumbnails, front cover, separable layout frames and mailing furniture explicitly excluded. Every export visually compared with raw base/paint evidence and source pages; final native-sized Chromium gallery inspected. Pillow and ImageMagick completely decoded all final rasters without warnings; all eleven JPEGs are baseline RGB/sRGB with nonzero density; six PNGs preserve source clips/stencil. No CMYK images or synthesized image content. Original low-resolution artwork retained without upscaling.",
           "overlay_exceptions": "Intrinsic thorn question; children’s baked circular frame; Konkomba village labels; family photo rounded/softened edges; complete baked poem and back-cover prayer typography/composition. All exceptions documented per asset. Separable overlays omitted."
         },
         "remaining_uncertainty": "No unresolved wording, article boundaries, or article-eligibility decisions. No individual image credits or licences are printed; none inferred. Original low image resolution and unavoidable baked layout treatments retained and documented."
