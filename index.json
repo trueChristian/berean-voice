@@ -76575,7 +76575,7 @@
       "verification": {
         "text_against_pdf": "@malachivdm",
         "formatting_against_pdf": "@malachivdm",
-        "images_against_pdf": "not_rechecked_after_user_requested_crop",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "The complete signed back-cover poem was found by visual inspection although absent from the PDF text layer. Title, author and five four-line stanzas transcribed from the rendered raster, with a 216 dpi close-up for punctuation verification. Bold italic body and stanza/line boundaries preserved. Source “way.” has a period, “Whate’er”, “Whene’er”, and “Jesus name” retained exactly. Page 36 is unnumbered; source_pages uses PDF page 36. The full-page mountain/lake photograph belongs to the poem; magazine and postal/address elements are mailing furniture. No article-specific restriction appears.",
         "image_visual_note": "The source image PDF review is preserved as historical provenance. On 2026-10-14, two AI readers visually checked the user-requested crop against the committed original JPEG; no new PDF or article-text review was performed. Final crop fully decoded through Pillow and FFmpeg without warnings and through Skia Canvas with complete paint/readback. Crop details and image-credit uncertainty are recorded with the asset.",
         "source_images_against_pdf": "@malachivdm",
@@ -81409,9 +81409,9 @@
         "Logical PDF page 35 is unnumbered. The preceding page is a separate order form and the following page is the separately indexed Spiritual Leadership poem."
       ],
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Previously omitted book promotion restored at the user’s explicit request. Full heading, descriptive paragraph, all seven bullet points, two ISBN/price rows, ministry-discount terms and shipping line retained. Single-page item; no continuation, footnotes, byline, caption or article-specific reuse restriction. Book title/author lettering intrinsic to its published cover image remains.",
         "text_review": "Visually compared every word, punctuation mark, meaningful emphasis and pricing/ISBN value with a 144-dpi source render. Confirmed the single continuous opening paragraph, seven-item list, bold Denny Kenaston and retail prices, underlined Ministry Only within bold discount heading, and bold final shipping line. Source strong willed and long life remain unhyphenated. Only discretionary line-end hyphens and print wraps normalized.",
         "independent_text_review": "A second AI reader independently compared the complete page35 render with the heading metadata and HTML, including the full paragraph, all seven bullet points, ISBNs, prices, discount/shipping terms, emphasis and punctuation. No discrepancies found.",
@@ -83430,9 +83430,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Complete standalone article on printed page 30 restored at the user’s explicit request. The previous advertisement inventory exclusion does not apply to this requested article. Adjacent pages 29 and 31 were visually inspected to confirm boundaries. No byline, footnote, continuation or article-specific reuse restriction is printed. All three prose paragraphs, the bold italic availability statement, the family photograph caption and all 30 numbered entries retained. Source statements of 28 sermons and 29 messages are preserved alongside the 30-item list.",
         "text_review": "Full page visually read for eligibility, then authored HTML compared against the rendered page for wording, punctuation, capitalization, paragraph order, emphasis and list order. Only drop-cap separation, column/line wrapping, discretionary line-end hyphens, decorative letter spacing and running page furniture normalized.",
         "independent_text_review": "A second AI reader independently compared the complete page-30 source rendering with all three prose paragraphs, the availability statement, photograph caption and numbered items 1–30. No textual or formatting discrepancy remains."
@@ -88122,9 +88122,9 @@
         "Excerpts taken from William Law on Christian Perfection, edited and abridged by Erwin Rudolph."
       ],
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Complete editorial introduction and six numbered sections form one article across pp3–8. The Editor sign-off and final excerpt attribution retained. All pp3–8 visually read for permission gate; no restrictions. No footnotes. Scripture stanza lineation, italic quotation, book-title emphasis, three scripture underlines and the p7 soul underline retained. Source wording “face of and nature”, “can not”, “fill our souls ... empty it”, “in the which” and “Judging ... becomes a new creature” preserved. Two repeated body pull quotes on pp4 and 8 omitted. Four dots after “plausible name....” retained. Headings use source small-cap initial capitalization without decorative font.",
         "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
       },
@@ -88257,9 +88257,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Editorial introduction and four lesson sections form one article pp9–10. All source pages visually read for permission gate; no restrictions. Entire introduction italic; final blessing bold italic. Two five-item numbered lists preserved. Printed “childrens ear”, “The present, is”, “one the children”, and “Boom!” punctuation retained. No footnotes. Lesson gray boxes, title strips and dotted perimeter are layout treatments, not illustrations.",
         "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
       },
@@ -88395,9 +88395,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Complete six-page article including eight section headings, four italic block quotations, four italic bullet items, final italic prayer and final book/reference sidebar. Source spellings and constructions including “powerful affect”, “Wheras”, “grace has flown” and “and known to be true” retained. Hidden text-layer A HOUSE ON FIRE heading is not visibly printed and is omitted. Repeated small martyr illustration crops accompanying the section headings have no unique content and are represented once by the full page-11 illustration. No footnotes or restrictive notice.",
         "text_review": "Read and visually compared every article page, including the complete final line. Words, punctuation, paragraph order, emphasis, quotations and lists checked against rendered PDF. Only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
         "image_review": "Page-by-page census reconciled to five canonical exports plus eight repeated martyr-heading icon uses. Every final image opened and compared with the rendered article pages; alpha, source-object and two-decoder verification recorded separately by image-export reviewer. Browser rendering remains for the whole-issue final gate.",
@@ -88468,9 +88468,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Complete article ends in upper portion of page 18 before the Konkomba continuation. Italic dialogue and italic sample greeting preserved. Page-18 decorative pull quote duplicates the final paragraph and is represented once in the body. No printed byline, footnotes or restrictive notice.",
         "text_review": "Read and visually compared every article page, including the complete final line. Words, punctuation, paragraph order, emphasis, quotations and lists checked against rendered PDF. Only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
         "image_review": "Page-by-page census reconciled to five canonical exports plus eight repeated martyr-heading icon uses. Every final image opened and compared with the rendered article pages; alpha, source-object and two-decoder verification recorded separately by image-export reviewer. Browser rendering remains for the whole-issue final gate.",
@@ -88546,9 +88546,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Title follows the article heading including the comma and lowercase final lord; contents-page uppercase variation does not override the article heading. Source “Many woman” retained. Paragraphs continue across page/column breaks; elliptical page-20 pull quote duplicates body text and is not repeated. Final italic two-line sign-off preserved. No footnotes or restrictive notice.",
         "text_review": "Read and visually compared every article page, including the complete final line. Words, punctuation, paragraph order, emphasis, quotations and lists checked against rendered PDF. Only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
         "image_review": "Page-by-page census reconciled to five canonical exports plus eight repeated martyr-heading icon uses. Every final image opened and compared with the rendered article pages; alpha, source-object and two-decoder verification recorded separately by image-export reviewer. Browser rendering remains for the whole-issue final gate.",
@@ -88627,9 +88627,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Article continues in the bottom section of page 33. Opening seven-line italic scripture quotation and bold italic reference retain source lineation. Source “cancelation” retained. Final italic -Brother Denny sign-off included, without expanding the printed name. No footnotes or restrictive notice.",
         "text_review": "Read and visually compared every article page, including the complete final line. Words, punctuation, paragraph order, emphasis, quotations and lists checked against rendered PDF. Only nonsemantic line/column/page wraps joined and discretionary line-end hyphens removed.",
         "image_review": "Page-by-page census reconciled to five canonical exports plus eight repeated martyr-heading icon uses. Every final image opened and compared with the rendered article pages; alpha, source-object and two-decoder verification recorded separately by image-export reviewer. Browser rendering remains for the whole-issue final gate.",
@@ -88678,9 +88678,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "notes": [
           "All source pages visually read, including nonconsecutive continuation on printed page 18. The continuation header incorrectly prints page ??; this running continuation furniture is omitted.",
           "Repeated article pull quotes and repeated running header omitted; the distinctive concluding Remember paragraph on page 18 is preserved. Scripture quotations retain bold italics. The long village quotation and concluding prayer/sign-off retain italics.",
@@ -88746,9 +88746,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "notes": [
           "Complete report narrative and New Tape Sets section transcribed from pages 27–29, with all seven descriptions (Sets 110–116), speaker names, and the exact financial table retained. The previously omitted tape catalogue is restored at the project owner’s explicit request.",
           "New Family Joins Charity Ministries remains the opening body subheading. Both six-item lists retain italic emphasis. No author is printed. No footnotes.",
@@ -88848,9 +88848,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Full book review and the associated publisher-availability box retained. The decorative large extract beginning “Humility does not rest” duplicates the complete body quotation and is represented once in that paragraph. The book-author line is retained as printed subtitle; Andrew Weaver is the review author. Source “advertisment” and “God wants-” are preserved. No footnotes, image, or permission restriction.",
         "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
         "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
@@ -88884,34 +88884,15 @@
       "html": {
         "repository_path": "content/articles/494ad7cd-d4b9-41d4-b393-52c277f86298.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/494ad7cd-d4b9-41d4-b393-52c277f86298-1.jpg",
-          "public_path": "/images/articles/494ad7cd-d4b9-41d4-b393-52c277f86298-1.jpg",
-          "source_page": 31,
-          "role": "poem illustration",
-          "alt": "Mountain road and buildings with the printed poem over the landscape",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No image credit or separate licence is printed. Extracted the only image object 122 (504 × 321), preserving the complete landscape and orientation. The title, full poem, and author name are irreversibly baked into this single source raster; no clean background, separate mask, or text overlay exists. Removing them by crop would discard most of the composed illustration, so the exact source composition is retained under the documented unavoidable-overlay exception. The thin separately painted page rule/frame is omitted. The poem is also transcribed as semantic HTML. Grayscale source converted to baseline sRGB JPEG with native dimensions and nonzero 72-dpi density; no CMYK inversion or synthesized pixels.",
-          "width": 504,
-          "height": 321,
-          "verification": {
-            "browser_render": "verified_by_ai_in_Chromium",
-            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
-            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
-          }
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Three four-line stanzas and bottom author sign-off retained with bold emphasis. Text is baked into sole native grayscale JPEG object122 and absent from the PDF text layer; visually read from the original raster and enlarged rendered region. No footnotes or permission restriction. Source full landscape and poem graphic retained under sole-raster baked-typography exception.",
         "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
         "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
@@ -88972,9 +88953,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Complete pp32–33 article with six-item main list and six-item concluding list. Emphasis in the quoted counsel and the underlined “can” retained. Printed “God gave enough of food”, “so full of Him others”, and punctuation preserved. Lower p33 continues A Solemn Assembly and belongs to that separate article. No footnotes or permission restriction.",
         "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
         "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
@@ -89029,9 +89010,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Editorial introduction, five-item list, Waiting to hear… and -The Editors sign-off retained, followed by all six letters in column reading order. Source sign-offs/locations: Corozal, Puerto Rica; Minnesota; Pascagoula, MS; Warminster, PA; Troy, WV; Italy. Printed Puerto Rica, judgement, Thank-you, Papas, and lower-case word are preserved. First letter continues from p34 to p35; Workers and Remnant Staff letters continue across columns. Decorative snowflake divider rows omitted as standalone decorative matter; semantic sections preserve letter divisions. No footnotes or permission restriction.",
         "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
         "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
@@ -89065,34 +89046,15 @@
       "html": {
         "repository_path": "content/articles/96a4b941-e99e-4705-89c4-3d1c505f9c27.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/96a4b941-e99e-4705-89c4-3d1c505f9c27-1.jpg",
-          "public_path": "/images/articles/96a4b941-e99e-4705-89c4-3d1c505f9c27-1.jpg",
-          "source_page": 36,
-          "role": "devotional illustration",
-          "alt": "Prayer text over a mountain landscape beside a robed man",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No image credit or separate licence is printed. Extracted sole devotional-composition object 140 (504 × 503). The prayer title, text, attribution, mountain photograph, and robed-figure artwork are flattened into this only source raster; no clean photograph or separate figure base exists. Cropping away the text would remove most of the composed devotional image, so the complete source composition is retained under the documented unavoidable-overlay exception. The separately painted outer green/pink frame, raster shadow tiles (objects 231–242), and mailing panel are omitted. The prayer is also transcribed as semantic HTML. Original RGB JPEG had an extra trailing newline after its EOI marker; re-encoded as a standards-normalized baseline sRGB JPEG with nonzero 72-dpi density, unchanged dimensions and orientation, without CMYK inversion or synthesized content.",
-          "width": 504,
-          "height": 503,
-          "verification": {
-            "browser_render": "verified_by_ai_in_Chromium",
-            "full_raster_decoding": "Pillow and ImageMagick passed without warnings",
-            "overlay_audit": "verified_by_ai; any unavoidable baked treatments documented in rights_note"
-          }
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@malachivdm",
+        "formatting_against_pdf": "@malachivdm",
+        "images_against_pdf": "@malachivdm",
         "inventory_note": "Substantive titled and signed back-cover prayer included. Two seven-line stanzas retain plain lead lines and italic responses; bottom author sign-off retained. Printed “dispair” and lowercase “thy” preserved. Text is baked into sole full source image object140 and absent from the text layer, visually read from the original raster and enlarged region. Source image collage has inherent prayer text and is retained under the explicit baked-typography exception; outer cover framing/shadow and mailing panel excluded. No footnotes or permission restriction.",
         "text_review": "Every assigned source page visually compared with complete HTML; wording, punctuation, capitalization, paragraph structure, list order, and meaningful emphasis preserved. Column/page wraps and discretionary line-end hyphens normalized. Poems additionally checked against native image objects and enlarged PDF renders.",
         "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
