@@ -81344,6 +81344,81 @@
       ]
     },
     {
+      "id": "cb2f1499-9006-46bb-8a54-9dcfc572c832",
+      "language": "en",
+      "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
+      "sequence": 11,
+      "title": "An inspiring manual filled with old-fashioned Bible principles of child training and home life “that work.”",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 35,
+        "end": 35
+      },
+      "categories": {
+        "primary": "58468dbc-a7ad-56bc-aa5f-12bdbbed4e61",
+        "additional": [
+          "ef4f5581-8e5a-5cf6-933e-ac68e8b55839"
+        ]
+      },
+      "topics": [
+        "b834013d-7b5e-59cd-9cf6-3cedee692313",
+        "76b8f216-8c11-5378-90f6-37fe3f41d329"
+      ],
+      "html": {
+        "repository_path": "content/articles/cb2f1499-9006-46bb-8a54-9dcfc572c832.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/cb2f1499-9006-46bb-8a54-9dcfc572c832-1.jpg",
+          "public_path": "/images/articles/cb2f1499-9006-46bb-8a54-9dcfc572c832-1.jpg",
+          "source_page": 35,
+          "role": "book cover",
+          "alt": "Cover of The Pursuit of Godly Seed by Denny Kenaston.",
+          "caption": null,
+          "credit": null,
+          "rights_note": "No image-creator credit or separate licence is printed. Clean embedded book-cover object 121 (221 × 321, RGB) extracted at native dimensions and upright orientation. Its book title, author name, photograph and oval frame are intrinsic to the displayed cover and retained. Separate page background/frame object 120, surrounding promotional typography and price panels, and separately painted placement border are omitted. The original JPEG had a trailing newline after its end-of-image marker; normalized to baseline sRGB JPEG with nonzero 72-dpi density, preserving source content, dimensions and orientation. No CMYK inversion or synthesized pixels.",
+          "verification": {
+            "dimensions": [
+              221,
+              321
+            ],
+            "encoded_colour": "sRGB 221x321",
+            "bytes": 27902,
+            "pillow_complete_raster_load": "passed",
+            "imagemagick_complete_raster_decode": "passed without warnings",
+            "visual_against_pdf": "verified",
+            "browser_render": "Verified in Chromium at native resolution; complete image.decode() succeeded and rendered gallery visually matched the source and final files."
+          },
+          "source_pdf_object": 121,
+          "width": 221,
+          "height": 321
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "publication_notes": [
+        "Unsigned promotion of The Pursuit of Godly Seed. Denny Kenaston is identified as the book author in the body and on its cover, not as the author of the promotional text.",
+        "Logical PDF page 35 is unnumbered. The preceding page is a separate order form and the following page is the separately indexed Spiritual Leadership poem."
+      ],
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Previously omitted book promotion restored at the user’s explicit request. Full heading, descriptive paragraph, all seven bullet points, two ISBN/price rows, ministry-discount terms and shipping line retained. Single-page item; no continuation, footnotes, byline, caption or article-specific reuse restriction. Book title/author lettering intrinsic to its published cover image remains.",
+        "text_review": "Visually compared every word, punctuation mark, meaningful emphasis and pricing/ISBN value with a 144-dpi source render. Confirmed the single continuous opening paragraph, seven-item list, bold Denny Kenaston and retail prices, underlined Ministry Only within bold discount heading, and bold final shipping line. Source strong willed and long life remain unhyphenated. Only discretionary line-end hyphens and print wraps normalized.",
+        "independent_text_review": "A second AI reader independently compared the complete page35 render with the heading metadata and HTML, including the full paragraph, all seven bullet points, ISBNs, prices, discount/shipping terms, emphasis and punctuation. No discrepancies found.",
+        "image_review": "Final cover image independently opened by the text agent and compared with the full published cover. Book-cover lettering, oval framing, native crop and upright orientation match. Image agent additionally compared the raw base object and confirmed complete Pillow and ImageMagick raster decoding without warnings. Verified in Chromium at native resolution; complete image.decode() succeeded and rendered gallery visually matched the source and final files."
+      }
+    },
+    {
       "id": "0c49a927-0edf-4e8b-aef9-af0c273120ad",
       "language": "en",
       "title": "Spiritual Leadership",
@@ -81381,7 +81456,7 @@
         "text_review": "Compared all content pages visually with the authored HTML; text-layer character comparison used only as a verification aid. Meaningful formatting rechecked against rendered pages and source font spans. No footnotes occur.",
         "image_census_note": "All 36 pages reconciled in issue verification; exported images opened and compared with source pages and base objects, including edges and corners."
       },
-      "sequence": 11,
+      "sequence": 12,
       "issue_id": "65297f9a-52a1-46e4-8cab-58218234c8f1",
       "images": [
         {
@@ -83294,6 +83369,76 @@
       "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
     },
     {
+      "id": "4f76f07b-0e77-457d-b59c-12e67222dfc1",
+      "language": "en",
+      "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f",
+      "sequence": 13,
+      "title": "Godly Home Series • 2003",
+      "subtitle": null,
+      "section": null,
+      "byline": {
+        "raw": null,
+        "authors": []
+      },
+      "source_pages": {
+        "start": 30,
+        "end": 30
+      },
+      "categories": {
+        "primary": "ef4f5581-8e5a-5cf6-933e-ac68e8b55839",
+        "additional": [
+          "2929e2be-19ce-58e2-97aa-0ab40108e60a"
+        ]
+      },
+      "topics": [],
+      "html": {
+        "repository_path": "content/articles/4f76f07b-0e77-457d-b59c-12e67222dfc1.html"
+      },
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/4f76f07b-0e77-457d-b59c-12e67222dfc1-1.jpg",
+          "public_path": "/images/articles/4f76f07b-0e77-457d-b59c-12e67222dfc1-1.jpg",
+          "source_page": 30,
+          "role": "family photograph",
+          "alt": "The Kenaston family gathered outdoors beneath a tree.",
+          "caption": "The Kenaston family",
+          "credit": null,
+          "rights_note": "No image credit or separate permission notice is stated. Clean embedded DeviceGray JPEG object 114 (320 × 205 pixels) was extracted and normalized as a baseline sRGB JPEG with a nonzero 72 dpi JFIF density, preserving the complete native photograph without retouching. The separately painted white caption typography was omitted from the raster and retained in semantic HTML. The dark lower edge is intrinsic grass and shadow in the original photograph, not a separate panel. Page graphics object 113 paints the image using matrix [321.0123, 0, 0, 204.1232, 228.27, 292.9068] inside clip [228.24, 293.75, 547.74, 497.03] in PDF bottom-left coordinates; this trims approximately 1.54 native pixels at the right and 0.85 at the bottom. The complete native asset is retained because this fractional-edge clipping is negligible and preserves all source image content.",
+          "verification": {
+            "raw_object": "PDF xref 114, DeviceGray, DCTDecode, 320 × 205; no mask or Decode override",
+            "paint_order": "Page content xref 113 paints background and article text, the clean image via /Im29, then the list and caption. Caption uses separately painted white text; no independent caption panel or opacity wash exists.",
+            "visual_comparison": "Final JPEG and full ImageMagick-decoded PNG visually inspected against raw asset and source page; full scene, all people, orientation, intrinsic shadows and source tones retained; no text, panel, page furniture, corruption or truncation.",
+            "color": "Pillow reports RGB; ImageMagick reports sRGB and JPEG color space 2; baseline/nonprogressive; embedded sRGB ICC profile; JFIF 72×72 dpi.",
+            "complete_decoders": [
+              "Pillow Image.load() plus complete tobytes() (196800 RGB bytes)",
+              "ImageMagick convert -regard-warnings to PNG24; full raster decode completed with no warning"
+            ],
+            "browser_compatible_renderer": "Verified in Chromium at native resolution; complete image.decode() succeeded and rendered gallery visually matched the source and final files.",
+            "bytes": 21014,
+            "git_blob_sha": "c07b0db52d6c3f49c69ab617ab03d22fd924d2c8",
+            "uncertainties": [
+              "No photographer/source credit is printed."
+            ]
+          },
+          "width": 320,
+          "height": 205
+        }
+      ],
+      "rights": {
+        "status": "eligible",
+        "article_specific_permission_notice_detected": false
+      },
+      "verification": {
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "verified_by_ai",
+        "inventory_note": "Complete standalone article on printed page 30 restored at the user’s explicit request. The previous advertisement inventory exclusion does not apply to this requested article. Adjacent pages 29 and 31 were visually inspected to confirm boundaries. No byline, footnote, continuation or article-specific reuse restriction is printed. All three prose paragraphs, the bold italic availability statement, the family photograph caption and all 30 numbered entries retained. Source statements of 28 sermons and 29 messages are preserved alongside the 30-item list.",
+        "text_review": "Full page visually read for eligibility, then authored HTML compared against the rendered page for wording, punctuation, capitalization, paragraph order, emphasis and list order. Only drop-cap separation, column/line wrapping, discretionary line-end hyphens, decorative letter spacing and running page furniture normalized.",
+        "independent_text_review": "A second AI reader independently compared the complete page-30 source rendering with all three prose paragraphs, the availability statement, photograph caption and numbered items 1–30. No textual or formatting discrepancy remains."
+      }
+    },
+    {
       "id": "dd3379b6-7f59-4c94-baee-65374d62a955",
       "language": "en",
       "title": "Rees Howells: Intercessor",
@@ -83370,7 +83515,7 @@
       "publication_notes": [
         "The review byline is “by Dean Taylor”. The separate heading “by Norman Grubb” identifies the author of the reviewed book, not the review author."
       ],
-      "sequence": 13,
+      "sequence": 14,
       "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
     },
     {
@@ -83423,7 +83568,7 @@
         "independent_text_review": "A second AI reader independently compared all source pages and continuations with the complete HTML, including punctuation, paragraph boundaries, meaningful emphasis, and all numerical tables where present; no discrepancies remain.",
         "image_census_note": "All owned source images reconciled against the 36-page visual image census; each logical image is exported and referenced once in the recorded reading order. Final assets visually compared with the source pages and original PDF objects; full Pillow, ImageMagick and Skia Canvas decodes passed. Source appearance exceptions and general masthead credit uncertainty are recorded in image rights notes."
       },
-      "sequence": 14,
+      "sequence": 15,
       "issue_id": "1a66dae0-06e5-495c-a0cc-d9e3aa18c51f"
     },
     {
@@ -88605,9 +88750,10 @@
         "formatting_against_pdf": "verified_by_ai",
         "images_against_pdf": "verified_by_ai",
         "notes": [
-          "Complete substantive report narrative transcribed from pages 27–28, with exact financial table from page 29 retained after report prose. The separately titled New Tape Sets catalogue on pages 28–29 is excluded as an advertisement.",
+          "Complete report narrative and New Tape Sets section transcribed from pages 27–29, with all seven descriptions (Sets 110–116), speaker names, and the exact financial table retained. The previously omitted tape catalogue is restored at the project owner’s explicit request.",
           "New Family Joins Charity Ministries remains the opening body subheading. Both six-item lists retain italic emphasis. No author is printed. No footnotes.",
-          "All final image assets visually compared with source pages by article agent as well as image exporter; exact exported images and unavoidable raster overlays recorded in image metadata. Browser-render QA remains root responsibility."
+          "All final image assets visually compared with source pages by article agent as well as image exporter; exact exported images and unavoidable raster overlays recorded in image metadata. Browser-render QA remains root responsibility.",
+          "New Tape Sets visually rechecked against pages 28–29 on 2026-10-15. Source wording including “Brother. Denny”, “twenty-two chapters”, and “motives” is preserved. Tape-set titles retain capitals and speaker names retain italic emphasis. The two page-28 cassettes repeat object 160 and are represented by the existing canonical page-27 export."
         ],
         "independent_second_reader": "Complete text and meaningful formatting compared visually with all source pages; corrections applied and rechecked."
       },
@@ -88639,7 +88785,7 @@
           "alt": "Audio cassette tilted counterclockwise",
           "caption": null,
           "credit": null,
-          "rights_note": "No image credit or separate licence is printed. Extracted cassette base object 160 (58 × 37) and rendered only that object with its published transform [55.9431, 14.9884, -9.4089, 35.1179] at native effective resolution, producing 66 × 51 pixels and retaining the approximately 15-degree counterclockwise orientation. White canvas accommodates the rotation; no content was synthesized. The same cassette is used twice in the excluded New Tape Sets advertisement on page 28; those ad instances are not additional article exports. Baseline sRGB JPEG with nonzero 72-dpi density.",
+          "rights_note": "No image credit or separate licence is printed. Extracted cassette base object 160 (58 × 37) and rendered only that object with its published transform [55.9431, 14.9884, -9.4089, 35.1179] at native effective resolution, producing 66 × 51 pixels and retaining the approximately 15-degree counterclockwise orientation. White canvas accommodates the rotation; no content was synthesized. The same cassette is used twice in the restored New Tape Sets section on page 28; both repeat object 160 with the same published rotation and are represented once by this canonical export. Baseline sRGB JPEG with nonzero 72-dpi density.",
           "width": 66,
           "height": 51,
           "verification": {
