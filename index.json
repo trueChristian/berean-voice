@@ -67368,24 +67368,24 @@
           "alt": "Bare trees beside a snow-covered field.",
           "caption": null,
           "credit": "© Photography by Laurel",
-          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 48 exists on PDF page 10, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Native-pixel crop [0, 750, 1568, 2067] (left, top, right, bottom) without resizing, rotation or pixel repair. Pages 10–11 visibly form a continuous panorama. This distinct left-hand source region preserves the full tree landscape; empty upper sky is cropped to reduce severe reverse-page show-through. Remaining show-through is baked into the source and is retained. The masthead explicitly credits page 10. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
+          "rights_note": "The page-2 masthead states this source credit; no separate licence or reuse terms are stated. Only full-page scanned RGB object 48 exists on PDF page 10, followed by invisible OCR; no clean underlying photograph, separable overlay, mask or vector image exists. Effective native-pixel crop [32, 750, 1568, 2067] (left, top, right, bottom) without resizing, rotation or pixel repair. Pages 10–11 visibly form a continuous panorama. This distinct left-hand source region preserves the full tree landscape; empty upper sky is cropped to reduce severe reverse-page show-through. A subsequent 32-pixel trim from the canonical JPEG’s left edge removes the skew scanned-paper border, producing a straight edge while retaining the tree landscape. The JPEG was re-encoded using its existing quantization tables and 4:4:4 sampling. Remaining show-through is baked into the source and is retained. The masthead explicitly credits page 10. Baseline RGB JPEG uses the original sRGB IEC61966-2.1 profile (PDF object 11) and nonzero 72-dpi density; no CMYK conversion was needed.",
           "transformation": {
-            "method": "native source-pixel crop of the sole scanned page raster; no synthesized pixels",
+            "method": "native source-pixel crop of the sole scanned page raster, followed by a 32-pixel left-edge trim of the canonical JPEG; no synthesized pixels",
             "source_object": 48,
             "crop_pixels": [
-              0,
+              32,
               750,
               1568,
               2067
             ],
             "output_dimensions": [
-              1568,
+              1536,
               1317
             ],
             "rotation_degrees": 0,
             "flip": null,
             "color_encoding": "sRGB",
-            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi"
+            "jpeg_encoding": "baseline RGB JPEG, original source sRGB ICC profile, nonzero 72 dpi; re-encoded with existing quantization tables and 4:4:4 sampling"
           },
           "verification": {
             "complete_decoders": [
@@ -67397,7 +67397,8 @@
             "container": "baseline JPEG; nonzero density; EOI at EOF; no trailing bytes",
             "visual_against_pdf": "verified_by_ai",
             "overlay_audit": "verified_by_ai",
-            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly"
+            "browser_compatible_renderer": "Skia Canvas (@napi-rs/canvas); complete decoded pixels matched Pillow exactly",
+            "crop_correction": "Visually compared the final 1536×1317 image with the existing 1568×1317 canonical JPEG, including centre, edges and corners. Removed only the leftmost 32 pixels; no resizing, rotation or pixel repair. The skew scan border is absent, and the trees and snowy landscape are retained. Original PDF comparison and source-object audit are retained from ingestion; this correction was checked against the canonical JPEG."
           }
         },
         {
