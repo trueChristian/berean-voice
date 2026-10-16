@@ -25871,7 +25871,7 @@
         "inventory_exclusions": [
           "Front cover and cover composition, contents/masthead and contents thumbnails.",
           "Running heads/footers, page numbers, terminal dingbats, divider rules, decorative frames, shadows, heading panels and other separable print-layout furniture.",
-          "Back-cover mailing/postage panel and publication logo. The substantive poem and its full source illustration are included.",
+          "Back-cover mailing/postage panel and publication logo. The substantive poem is included in HTML; its source illustration uses the owner-requested text-free crop.",
           "The image associated with skipped sequence 11 is not exported."
         ],
         "page_by_page_image_census": [
@@ -26369,12 +26369,12 @@
             "visually_inspected": true,
             "images": [
               {
-                "description": "Whole sunset/tree/crucifixion composite containing baked poem typography.",
+                "description": "Text-free sunset/tree/crucifixion crop from the back-cover composite.",
                 "disposition": "exported",
                 "owner": "They Crucified God",
                 "article_id": "7a66963a-8f7e-4083-bed3-227b354fae1b",
                 "repository_path": "public/images/articles/7a66963a-8f7e-4083-bed3-227b354fae1b-1.jpg",
-                "note": "Full source retained because crop would remove useful composition. Title/poem/toning irreversibly baked; explicit exception. Separate publication logo, mailing panel, outer tiled border omitted.",
+                "note": "Owner-requested crop [0,256,505,512) of the archived 505×685 source export, yielding 505×256. Baked title/poem and excess dark lower margin cropped away; original toning and faint central figure retained. Title and complete poem remain in article metadata/HTML. Separate publication logo, mailing panel and outer tiled border remain omitted.",
                 "source_object": 153
               },
               {
@@ -26389,8 +26389,8 @@
         "image_reconciliation": {
           "exported_count": 15,
           "owning_article_count": 12,
-          "note": "Every visible image on all 36 pages reconciled to an eligible export, repeated representation, skipped article or named inventory exclusion. All 15 exports and corresponding raw PDF objects were independently visually compared with source pages. Pillow and ImageMagick fully decoded every raster without warnings; browser-compatible Skia Canvas 2D decoded, painted and read back every asset. Seven JPEGs are normalized baseline RGB/sRGB with nonzero 72-dpi density; eight PNGs preserve source clipping, stencil or exact frame crop. No pixels synthesized.",
-          "overlay_exceptions": "The apples and saxophone source rasters have irreversibly baked pale washes; the children illustration has a baked oval ring/shadow; the back-cover illustration contains baked title, poem and toning. These are explicitly documented per asset. The full back-cover composition is retained because a text-removal crop would amputate the central figure. The report cover miniature retains tiny intrinsic source wording. All separable overlays omitted."
+          "note": "Original ingestion audit: Every visible image on all 36 pages reconciled to an eligible export, repeated representation, skipped article or named inventory exclusion. All 15 exports and corresponding raw PDF objects were independently visually compared with source pages. Pillow and ImageMagick fully decoded every raster without warnings; browser-compatible Skia Canvas 2D decoded, painted and read back every asset. Seven JPEGs are normalized baseline RGB/sRGB with nonzero 72-dpi density; eight PNGs preserve source clipping, stencil or exact frame crop. No pixels synthesized. The owner-requested back-cover crop was subsequently checked against the archived JPEG by two AI readers and passed full Pillow/ImageMagick decoding and native-resolution Skia rendering; this narrow correction did not repeat the PDF audit.",
+          "overlay_exceptions": "The apples and saxophone source rasters have irreversibly baked pale washes; the children illustration has a baked oval ring/shadow; the cropped back-cover illustration retains its original colour toning. The back-cover title and poem are removed from the image by the owner-requested crop and retained in article metadata/HTML. The report cover miniature retains tiny intrinsic source wording. All separable overlays omitted; no hidden pixels reconstructed."
         },
         "text_and_formatting_review": "All twelve included articles received complete visual transcription review and an independent second reading against source pages. Exact source spelling, capitalization, punctuation, apparent errors, meaningful emphasis, lists, verse lines, captions and sign-offs preserved. No article contains footnotes.",
         "remaining_uncertainty": "No unresolved wording, article boundary or eligibility decision. Individual image credits and licences are not identified in the source; none inferred. Original low-resolution artwork and unavoidable baked image treatments are preserved and documented."
