@@ -70690,8 +70690,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -70735,8 +70735,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -70780,8 +70780,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -70793,9 +70793,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Printed source spelling, case and punctuation retained, including lowercase “wilt” after the first question, en dashes in date and scripture ranges, “An Inconvenient Revival” in the body, italic publication names, and the author sign-off. One paragraph crossing the columns is joined. Quill, handwritten signature and church photograph each exported once.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
@@ -70873,8 +70873,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -70918,8 +70918,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71009,8 +71009,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "container": "baseline RGB JPEG, embedded sRGB profile, nonzero 96 dpi density",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71022,9 +71022,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "All eight four-line stanzas visually verified against page 7, preserving punctuation, source apostrophe direction in “suff’ring” and “‘twould”, capitalisation of “hell”/“Hell” and “Oh”, and printed “Saviour”. One useful unobstructed lower-flames crop represents the source background image once. “Poem” is the contents-page section descriptor.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
@@ -71110,8 +71110,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "container": "baseline RGB JPEG with embedded source sRGB profile, nonzero density and EOI at EOF",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71157,8 +71157,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "container": "baseline RGB JPEG with embedded source sRGB profile, nonzero density and EOI at EOF",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71166,9 +71166,9 @@
         }
       ],
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "All text, headings, list items, punctuation and paragraph boundaries on pages 8–11 visually verified. Sentences spanning columns and pages are joined, and only discretionary print hyphenation is removed. Preserved two spaced . . . ellipses in the concluding quotation. No italics or bold emphasis appears in the body outside headings; the italic subtitle is retained as subtitle metadata. Two photographs exported once. The pale reversed lettering visible on page 11 is show-through from page 12, not an additional image.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
@@ -71258,8 +71258,8 @@
           },
           "verification": {
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "source_fidelity_note": "User-authorized AI composite checked against the original page and prior full-board edit; reconstructed pixels disclosed, no exact-source-pixel claim.",
             "complete_decoders": [
               "Pillow",
@@ -71274,9 +71274,9 @@
         }
       ],
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete story, title/byline/section metadata and printed Warsaw. Ohio punctuation are unchanged. Page 12 now has one combined full-chalkboard illustration with the seated child, tree trunk and full visible canopy restored in the upper-left corner. Publisher title/byline/section lettering remains removed under the user-authorized AI-edit exception. The separate icon crop is replaced by this combined sequence-1 image; the superseded sequence-2 export is deleted. Each visual element is represented once.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "image_encoding_note": "The combined full-frame image received renewed visual, colour/container and decoder checks before publication; the prior approved title removal and the newly requested child/tree restoration are separately documented."
@@ -71358,8 +71358,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71371,9 +71371,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete pages 14–16 visually transcribed and compared, including paragraph continuations, four subheadings, italic en masse, printed scripture references and apparent source wording such as two centuries and selfiship. One bread photograph on page 14 is exported; pages 15–16 have no images.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
@@ -71458,8 +71458,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71507,8 +71507,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71556,8 +71556,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71569,9 +71569,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "Complete pages 17–19 visually transcribed and compared, including seven numbered subheadings, italic block quotation with its printed unmatched inner opening double quote, superscript footnote, italic book titles, paragraph continuations, and source wording welcoming your children. Three distinct photographs on pages 17–19 are exported once each. Footnote is a source citation, with no permission restriction.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
@@ -71652,8 +71652,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71698,8 +71698,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71744,8 +71744,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71790,8 +71790,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71836,8 +71836,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71849,9 +71849,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "inventory_note": "Opening full-page photograph on page 20 belongs to this article; title/byline begin on page 21. Five photographs on pages 20, 22 (three) and 24 are exported once each. No separately printed image occurs on pages 21 or 23: faint reverse-page show-through is a scan artifact. Page 22 footnote is kept after its page-spanning paragraph. All final words, punctuation, captions and emphasis were visually checked, including BellerBrand/Brandt, Kelpious, bazaar doctrines and Beisel’s as printed. The caption’s lack of a space in and“Saal” is preserved.",
         "independent_metadata_review": "Second AI reader independently confirmed exact title, subtitle, section, byline and location, inclusive source pages, captions, page-2 photo credits, canonical references and the printed fifth-of-five Courtship series claim; passed.",
@@ -71933,8 +71933,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -71979,8 +71979,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -72025,8 +72025,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -72071,8 +72071,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile, nonzero 96 dpi density and EOI at EOF",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed.",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow"
@@ -72084,9 +72084,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "inventory_note": "Every source paragraph, numbered goal, heading and italic term on pages 25–29 visually checked. Four distinct photographs on pages 26–29 exported once each; none on page 25. Preserved the printed fifth-of-five series claim, spaced . . . ellipsis, straight apostrophe in who isn't, Dad get distracted, soul money and missing terminal period after practically apply it in your life. Column/page continuations joined without changing wording.",
         "independent_metadata_review": "Second AI reader independently confirmed exact title, subtitle, section, byline and location, inclusive source pages, captions, page-2 photo credits, canonical references and the printed fifth-of-five Courtship series claim; passed.",
@@ -72170,8 +72170,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density; EOI at EOF with no trailing bytes",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed."
@@ -72183,9 +72183,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "All wording and punctuation on printed pages 30–32 visually compared with the final HTML. Column/page continuations are joined without changing words; all subheadings and superscript footnote markers are preserved, and the two exact printed URLs are collected as article footnotes. The full-height page 31 photograph is exported once. No photograph occurs on pages 30 or 32. Retained photographic paper show-through is documented in image metadata.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
@@ -72263,8 +72263,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "baseline RGB JPEG with embedded sRGB profile and nonzero 96 dpi density; EOI at EOF with no trailing bytes",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed."
@@ -72308,8 +72308,8 @@
             ],
             "complete_decode": "passed_without_warnings",
             "color_space": "RGB/sRGB",
-            "visual_against_pdf": "verified_by_ai",
-            "overlay_audit": "verified_by_ai",
+            "visual_against_pdf": "@JoMandalor",
+            "overlay_audit": "@JoMandalor",
             "container": "lossless RGB PNG with embedded sRGB profile and nonzero 200.94 dpi density",
             "browser_compatible_renderer": "full decode, paint and RGBA readback exactly match Pillow",
             "independent_image_review": "Independent AI reader compared final full-resolution export with native source raster and rendered page; source content, meaningful subjects, ownership, crop, colour, orientation, placement aspect and documented unavoidable overlays passed."
@@ -72321,9 +72321,9 @@
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "verified_by_ai",
-        "formatting_against_pdf": "verified_by_ai",
-        "images_against_pdf": "verified_by_ai",
+        "text_against_pdf": "@JoMandalor",
+        "formatting_against_pdf": "@JoMandalor",
+        "images_against_pdf": "@JoMandalor",
         "inventory_note": "All wording, punctuation, paragraph boundaries, and italics on printed pages 33–34 visually compared with the final HTML, preserving printed punctuation such as Elijah!? and the comma outside the quotation in “I’m not an optimist”,. The paragraph continued from page 33 to 34 is joined. The unique photo quotation is preserved as a semantic figcaption and within the irreversibly flattened source image, with the exception documented explicitly. Complete page 35 music, lyrics, title and credits remain in a legible native-resolution score crop and were visually checked against the source. No image occurs on page 33. Both articles were inspected through their final source lines for permission notices.",
         "independent_text_review": "A second AI reader compared the entire completed HTML, source wording, meaningful formatting, captions, notes and article metadata with every relevant source page. Findings were corrected and rechecked before publication.",
         "image_encoding_note": "All final images completely decoded by Pillow and strict FFmpeg without warnings; Skia Canvas full decode, paint and RGBA readback matched Pillow exactly. Independent final-resolution source/crop/overlay review passed and the full visual census reconciles."
