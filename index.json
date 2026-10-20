@@ -46387,28 +46387,16 @@
       "html": {
         "repository_path": "content/articles/bddf62b1-cf16-40ec-b5e9-6bd42a5127b7.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/bddf62b1-cf16-40ec-b5e9-6bd42a5127b7-1.jpg",
-          "public_path": "/images/articles/bddf62b1-cf16-40ec-b5e9-6bd42a5127b7-1.jpg",
-          "source_page": 36,
-          "role": "poem illustration",
-          "alt": "A cow beside stones and wood beneath three columns of printed verse",
-          "caption": null,
-          "credit": "Picture by Dorothy Calhoun",
-          "rights_note": "Source embedded RGB/sRGB image xref 201 was fully decoded and encoded as a standards-normalized baseline RGB/sRGB JPEG with nonzero JFIF density because its original container lacked JFIF density. The published pixels, dimensions, crop and orientation were retained. Mailing masthead, address and postage markings are separate PDF furniture absent from this image. All three poem columns, attribution and handwritten “...Ready for either or both!” are inseparably baked into the only colour raster; the full source image is retained rather than synthesizing pixels. This credit is a creator credit, with no separate permission wording."
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
       },
       "verification": {
-        "text_against_pdf": "@JoMandalor",
-        "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor",
-        "source_note": "The unnumbered back page contains the illustrated poem beneath separate mailing furniture. The source raster irreversibly includes the poem lettering, credits, and handwritten closing title; semantic HTML transcribes the same text. At source resolution line four appears as the joined spelling e’ensated."
+        "text_against_pdf": "verified_by_ai",
+        "formatting_against_pdf": "verified_by_ai",
+        "images_against_pdf": "not_applicable",
+        "source_note": "The unnumbered back page contains the illustrated poem beneath separate mailing furniture. Its fifteen stanzas are transcribed in reading order from the left, middle, and right columns, preserving the printed wording and line breaks. At source resolution line four appears as the joined spelling e’ensated. The illustration credited to Dorothy Calhoun was removed at the project owner's request; this article retains no image."
       },
       "language": "en",
       "topics": [
