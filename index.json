@@ -15554,19 +15554,7 @@
       "html": {
         "repository_path": "content/articles/095ed998-d5e3-49fb-a63f-a2e4c434c1aa.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/095ed998-d5e3-49fb-a63f-a2e4c434c1aa-1.jpg",
-          "public_path": "/images/articles/095ed998-d5e3-49fb-a63f-a2e4c434c1aa-1.jpg",
-          "source_page": 27,
-          "role": "poem background photograph",
-          "alt": "Pink bleeding heart flowers against a softly blurred green background",
-          "caption": null,
-          "credit": "unsplash.com",
-          "rights_note": "The page-2 photo credits attribute printed page 27 to unsplash.com; no license terms or separate permission notice are stated. The former incomplete upper strip was replaced by an exact 300 dpi reconstruction from all 21 ordinary page-image XObjects in the published PDF, preserving their original crop, placement, clipping, draw order, and CMYK-to-sRGB rendering. The vector title and poem/byline text were omitted. The publisher's poem-panel rectangles, shadows, and guide lines remain because they are flattened into the only surviving raster pieces. No external, generated, inpainted, or inverse-estimated pixels were used."
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -15574,7 +15562,8 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor"
+        "images_against_pdf": "not_applicable",
+        "source_note": "The background photograph was removed from the article and image archive at the project owner's request; this article retains no image. The poem text and line breaks are unchanged."
       },
       "topics": [
         "2d0907d9-f4ce-5ab1-9ff4-8795d1bfaf9e",
