@@ -19041,19 +19041,7 @@
       "html": {
         "repository_path": "content/articles/75096264-e3eb-4ef7-8197-2443fe3df539.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/75096264-e3eb-4ef7-8197-2443fe3df539-1.jpg",
-          "public_path": "/images/articles/75096264-e3eb-4ef7-8197-2443fe3df539-1.jpg",
-          "source_page": 16,
-          "role": "two-page poem background landscape",
-          "alt": "An autumn landscape reflected in a pond across a two-page spread",
-          "caption": null,
-          "credit": "Andrew Schwartz",
-          "rights_note": "The page-2 masthead credits Andrew Schwartz for printed page 16; no separate permission notice or licence terms are stated. Pages 16 and 17 were rendered at 300 dpi with PDF text filtered out and joined at the spread boundary, preserving the published background design and its two white poem panels without poem, title, or byline text; the result was baseline-encoded as a 5100-by-3300 sRGB JPEG."
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -19061,8 +19049,8 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor",
-        "image_credit_note": "The masthead explicitly credits printed page 16; the same landscape design continues across printed page 17, which has no separate credit."
+        "images_against_pdf": "omitted_at_owner_request",
+        "image_omission_note": "The owner requested removal if a faithful central crop without the white panels and faded overlay could not be recovered. The matching source PDF was inspected on pages 16-17: the central landscape tiles (objects 303, 316, 330, and 333) already contain the faded treatment, and no clean underlying central image or exact inverse-blend evidence was found. The rendered spread, its HTML figure, and its image catalogue entry were removed; no replacement pixels were synthesized. Historical source credit: the masthead credits Andrew Schwartz for printed page 16; the landscape continues across page 17 without a separate credit."
       },
       "source_labels": {
         "categories": {
