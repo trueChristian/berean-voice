@@ -21116,19 +21116,8 @@
       "images": [
         {
           "sequence": 1,
-          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-1.png",
-          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-1.png",
-          "source_page": 24,
-          "role": "article opener illustration",
-          "alt": "Line drawing of a doctor writing on a clipboard",
-          "caption": null,
-          "credit": null,
-          "rights_note": "No image credit, licence, or separate permission notice is printed for this illustration. The published artwork was rendered with text suppressed at 300 dpi, closely cropped without the section banner, and converted to sRGB PNG."
-        },
-        {
-          "sequence": 2,
-          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-2.jpg",
-          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-2.jpg",
+          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-1.jpg",
+          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-1.jpg",
           "source_page": 24,
           "role": "article opener photograph",
           "alt": "A weathered stone wall in a green rural landscape",
@@ -21137,9 +21126,9 @@
           "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. The clean embedded inverted-Adobe CMYK asset was sample-inverted, converted to sRGB, and normalized as a baseline 2559-by-619-pixel JPEG while preserving the published crop and orientation."
         },
         {
-          "sequence": 3,
-          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-3.jpg",
-          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-3.jpg",
+          "sequence": 2,
+          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-2.jpg",
+          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-2.jpg",
           "source_page": 27,
           "role": "vaccine complications table",
           "alt": "Table 1: Average Annual Vaccine Complications, 2008–2017 VAERS Cases Reported",
@@ -21148,9 +21137,9 @@
           "rights_note": "The source URL printed below this table is preserved as its credit. The complete source-content region was rendered and tightly cropped at 300 dpi, preserving the table’s printed 2008-2017 heading, labels, values, colours, and orientation, then baseline-encoded as an sRGB JPEG without surrounding article text."
         },
         {
-          "sequence": 4,
-          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-4.jpg",
-          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-4.jpg",
+          "sequence": 3,
+          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-3.jpg",
+          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-3.jpg",
           "source_page": 28,
           "role": "immunization benefits table",
           "alt": "Table 2: Estimated illnesses, hospitalizations, and deaths prevented by routine childhood immunization",
@@ -21159,9 +21148,9 @@
           "rights_note": "The printed MMWR source line is preserved as the credit. The complete source-content region was rendered and tightly cropped at 300 dpi, preserving all headings, notes, labels, values, and orientation, then baseline-encoded as an sRGB JPEG without surrounding article text."
         },
         {
-          "sequence": 5,
-          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-5.png",
-          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-5.png",
+          "sequence": 4,
+          "repository_path": "public/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-4.png",
+          "public_path": "/images/articles/42605c52-4ee9-4342-bf2b-9dc35b62c5ac-4.png",
           "source_page": 30,
           "role": "decorative syringe illustration",
           "alt": "",
@@ -21179,7 +21168,8 @@
         "formatting_against_pdf": "@malachivdm",
         "images_against_pdf": "@malachivdm",
         "decorative_pull_quote_duplicated_in_pdf": true,
-        "decorative_pull_quote_duplicated_in_html": false
+        "decorative_pull_quote_duplicated_in_html": false,
+        "image_omission_note": "The owner requested removal of the doctor-with-clipboard opener illustration from printed page 24 because of its appearance. Its image file, HTML figure, and image catalogue entry were removed. The remaining photograph, two tables, and syringe illustration are retained byte-for-byte and renumbered consecutively in their original reading order; article text and existing image credits are unchanged."
       },
       "source_labels": {
         "categories": {
