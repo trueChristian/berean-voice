@@ -21234,11 +21234,11 @@
           "repository_path": "public/images/articles/e96c680d-c989-469f-abfb-0adc9d2c38e9-1.jpg",
           "public_path": "/images/articles/e96c680d-c989-469f-abfb-0adc9d2c38e9-1.jpg",
           "source_page": 34,
-          "role": "closing-page article background photograph",
+          "role": "cropped closing-page article photograph",
           "alt": "Two heart-shaped soaps among purple flowers",
           "caption": null,
           "credit": null,
-          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. The integrated page artwork was rendered at 300 dpi with text suppressed and converted to sRGB, preserving the complete 2550-by-3300-pixel published floral and heart-soap composition without article text, pull quotes, or page furniture."
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this photograph. At the owner's request, the archived 2550-by-3300 text-free page reconstruction was cropped to the lower inset photograph: left 128, top 1928, width 2256, height 888 pixels, measured from the top-left corner. The crop excludes the large faded background and translucent reading panels above and below the photograph, preserves both heart-shaped soaps, and intentionally retains the photograph's soft outer-edge fade as requested. Saved at the original canonical path as a baseline sRGB JPEG at quality 94 and 300 dpi, without resizing, colour adjustment, inpainting, or generated image content."
         }
       ],
       "rights": {
@@ -21248,9 +21248,10 @@
       "verification": {
         "text_against_pdf": "@malachivdm",
         "formatting_against_pdf": "@malachivdm",
-        "images_against_pdf": "@malachivdm",
+        "images_against_pdf": "verified_by_ai",
         "decorative_pull_quote_duplicated_in_pdf": true,
-        "decorative_pull_quote_duplicated_in_html": false
+        "decorative_pull_quote_duplicated_in_html": false,
+        "image_crop_note": "Visually checked against printed page 34, the PDF image tiles, and the original archive reconstruction. The lower inset photograph fills the frame; the surrounding upper and lower faded panels are excluded, while the permitted feathered side edges remain. Article text, image placement, and source credit metadata are unchanged."
       },
       "source_labels": {
         "categories": {
