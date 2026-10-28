@@ -21315,11 +21315,11 @@
           "repository_path": "public/images/articles/540be2d2-b67d-4b83-a1ba-6eabbdd06c8f-1.jpg",
           "public_path": "/images/articles/540be2d2-b67d-4b83-a1ba-6eabbdd06c8f-1.jpg",
           "source_page": 35,
-          "role": "full-page poem background",
+          "role": "clean background photograph for poem",
           "alt": "An autumn forest path framed by vivid red and orange trees",
           "caption": null,
           "credit": null,
-          "rights_note": "No image credit, licence, or separate permission notice is printed for this background. The integrated page artwork was rendered at 300 dpi with text suppressed and converted to sRGB, preserving the complete 2550-by-3300-pixel published autumn scene without the poem, title, byline, or page furniture, then baseline-encoded as a JPEG."
+          "rights_note": "No image credit, licence, or separate permission notice is printed for this background. Recovered the complete clean autumn photograph from PDF page 35, image object 110 (Im0), at its native 1738-by-2249-pixel resolution. The full photograph survives in this base object even though the published layout clips its display to the sides and uses faded image tiles 111-113 across the centre. Those faded reading-panel tiles and all separately painted poem text and page furniture are omitted. Converted the original CMYK asset to a baseline sRGB JPEG at quality 92 and 204 dpi; no sample inversion was needed. Preserved the complete source composition without resizing, inpainting, generated content, or other retouching. The canonical image path is unchanged."
         }
       ],
       "rights": {
@@ -21329,9 +21329,10 @@
       "verification": {
         "text_against_pdf": "@malachivdm",
         "formatting_against_pdf": "@malachivdm",
-        "images_against_pdf": "@malachivdm",
+        "images_against_pdf": "verified_by_ai",
         "decorative_pull_quote_duplicated_in_pdf": false,
-        "decorative_pull_quote_duplicated_in_html": false
+        "decorative_pull_quote_duplicated_in_html": false,
+        "image_overlay_removal_note": "Inspected page 35, the image objects, clipping paths, paint order, and graphics states. The single logical photograph is represented once by clean base object 110; objects 111-113 are faded layout derivatives of its centre, not additional photographs. Visually checked the clean export across the centre, edges, and corners against the base object and the unobscured areas of the printed page. The full forest scene is retained with no reading panel. Article HTML, wording, placement, and caption/credit metadata are unchanged."
       },
       "source_labels": {
         "categories": {
