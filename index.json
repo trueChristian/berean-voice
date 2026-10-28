@@ -15145,19 +15145,7 @@
       "html": {
         "repository_path": "content/articles/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd.html"
       },
-      "images": [
-        {
-          "sequence": 1,
-          "repository_path": "public/images/articles/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd-1.jpg",
-          "public_path": "/images/articles/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd-1.jpg",
-          "source_page": 15,
-          "role": "full-page decorative background photograph",
-          "alt": "",
-          "caption": null,
-          "credit": "Andrew Schwartz ©",
-          "rights_note": "The page-2 photo credits attribute printed page 15 to Andrew Schwartz ©; no license terms or separate permission requirement are stated. The exact 300 dpi text-free page-image reconstruction from the published PDF is retained. Its opaque CMYK tiles already contain the publisher's spatially varying white/lavender reading-panel wash, with no mask, alpha channel, clean base object, or meaningful unobstructed crop available in the PDF; the vector title, poem, and byline are omitted. No generated, inpainted, or inverse-estimated pixels were used."
-        }
-      ],
+      "images": [],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -15165,7 +15153,8 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor"
+        "images_against_pdf": "omitted_at_owner_request",
+        "image_omission_note": "The owner requested removal if the faded overlay could not be removed faithfully. Inspection of printed page 15 in the matching source PDF confirmed that the white/lavender reading-panel wash is already baked into the opaque image tiles, including landscape objects 459 and 460; no clean underlying photograph, transparency mask, or exact inverse-blend evidence was found. The JPEG, its HTML figure, and its image catalogue entry were removed; no replacement pixels were synthesized. Historical source credit: the page-2 photo credits attribute printed page 15 to Andrew Schwartz ©, without stated license terms or a separate permission requirement."
       },
       "topics": [
         "280f7e50-0dcd-51d6-a13f-3b69f197f4b7",
