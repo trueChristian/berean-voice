@@ -15145,7 +15145,19 @@
       "html": {
         "repository_path": "content/articles/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd.html"
       },
-      "images": [],
+      "images": [
+        {
+          "sequence": 1,
+          "repository_path": "public/images/articles/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd-1.jpg",
+          "public_path": "/images/articles/b8c0cd82-3d1a-4287-b2f5-391e08dd8efd-1.jpg",
+          "source_page": 15,
+          "role": "cropped decorative background photograph",
+          "alt": "",
+          "caption": null,
+          "credit": "Andrew Schwartz ©",
+          "rights_note": "The page-2 photo credits attribute printed page 15 to Andrew Schwartz ©; no license terms or separate permission requirement are stated. At the owner's request, the previously removed image was restored as a crop wholly inside the faded reading-panel area of the archived 2550-by-3300 text-free PDF reconstruction: left 544, top 512, width 1536, height 2304 pixels, measured from the top-left corner. The crop removes the surrounding darker border and panel transition; the source's baked-in white/lavender wash is intentionally retained across the entire frame. Saved at the original canonical path as a baseline sRGB JPEG at quality 94 and 300 dpi, without resizing, colour adjustment, inpainting, or generated image content."
+        }
+      ],
       "rights": {
         "status": "eligible",
         "article_specific_permission_notice_detected": false
@@ -15153,8 +15165,8 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "omitted_at_owner_request",
-        "image_omission_note": "The owner requested removal if the faded overlay could not be removed faithfully. Inspection of printed page 15 in the matching source PDF confirmed that the white/lavender reading-panel wash is already baked into the opaque image tiles, including landscape objects 459 and 460; no clean underlying photograph, transparency mask, or exact inverse-blend evidence was found. The JPEG, its HTML figure, and its image catalogue entry were removed; no replacement pixels were synthesized. Historical source credit: the page-2 photo credits attribute printed page 15 to Andrew Schwartz ©, without stated license terms or a separate permission requirement."
+        "images_against_pdf": "verified_by_ai",
+        "image_crop_note": "Restored at the owner's request and visually checked against printed page 15 and the pre-removal archive image. The accepted faded area fills the cropped frame; the poem, signature, and original figure placement are unchanged."
       },
       "topics": [
         "280f7e50-0dcd-51d6-a13f-3b69f197f4b7",
@@ -15691,11 +15703,11 @@
           "repository_path": "public/images/articles/a7adeb39-f34f-4cfd-a72d-e5842a0a71c4-1.jpg",
           "public_path": "/images/articles/a7adeb39-f34f-4cfd-a72d-e5842a0a71c4-1.jpg",
           "source_page": 35,
-          "role": "poem background photograph",
+          "role": "cropped poem background photograph",
           "alt": "Layered blue mountains beneath a warm peach-colored sky",
           "caption": null,
           "credit": "pixabay.com",
-          "rights_note": "The page-2 photo credits attribute printed page 35 to pixabay.com; no license terms or separate permission notice are stated. The former incomplete central-panel fragment was replaced by an exact 300 dpi reconstruction from the published PDF's ordinary page-image XObjects, preserving their original crop, placement, clipping, draw order, and CMYK-to-sRGB rendering. The vector poem and byline and the two text-clipped raster fills forming “JOY” were omitted. The pale center wash remains because it is flattened into the only surviving raster pieces. No external, generated, inpainted, or inverse-estimated pixels were used."
+          "rights_note": "The page-2 photo credits attribute printed page 35 to pixabay.com; no license terms or separate permission notice are stated. At the owner's request, the archived 2550-by-3300 text-free PDF reconstruction was cropped wholly inside the pale center panel: left 512, top 992, width 1536, height 2304 pixels, measured from the top-left corner. The crop excludes the darker side strips and upper title/frame area; the source's baked-in fade is intentionally retained across the entire frame. Saved at the original canonical path as a baseline sRGB JPEG at quality 94 and 300 dpi, without resizing, colour adjustment, inpainting, or generated image content."
         }
       ],
       "rights": {
@@ -15705,8 +15717,9 @@
       "verification": {
         "text_against_pdf": "@JoMandalor",
         "formatting_against_pdf": "@JoMandalor",
-        "images_against_pdf": "@JoMandalor",
-        "title_authority_note": "The content page prints JOY; the table of contents prints Joy. The content-page form is retained."
+        "images_against_pdf": "verified_by_ai",
+        "title_authority_note": "The content page prints JOY; the table of contents prints Joy. The content-page form is retained.",
+        "image_crop_note": "Cropped at the owner's request and visually checked against printed page 35 and the full archived reconstruction. The accepted faded area fills the frame without the surrounding panel boundaries; the poem, signature, and figure placement are unchanged."
       },
       "topics": [
         "565f773d-5aae-54fd-ad75-4a0f1c196a01",
